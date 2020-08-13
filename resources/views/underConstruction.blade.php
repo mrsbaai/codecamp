@@ -174,9 +174,9 @@
                 <div class="validate"></div>
               </div>
               <div class="mb-3">
-                <div class="loading">loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">thanks</div>
+                <div class="loading">Loading...</div>
+                <div class="error-message">An error has occurred :(</div>
+                <div class="sent-message">Message Received :)</div>
               </div>
               <div class="text-center"><button type="submit">Send Message</button></div>
             {{ Form::close() }}
