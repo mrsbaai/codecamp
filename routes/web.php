@@ -14,3 +14,4 @@ use Illuminate\Support\Facades\Route;
 */
 
 Route::get('/', 'pagesController@home');
+Route::post('/', 'pagesController@saveForm');

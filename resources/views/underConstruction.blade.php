@@ -5,9 +5,9 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>coming soon</title>
-  <meta content="" name="descriptison">
-  <meta content="" name="keywords">
+  <title>Coming Soon</title>
+  <meta content="A social network, market place, learning camp, for independent internet builders." name="descriptison">
+
 
   <!-- Favicons -->
 
@@ -57,7 +57,7 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
       <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Place"></span><br/>For Independent Internet Builders.</p>
+      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Independent Internet Builders.</p>
 	
       <div class="social-links">
         <a href="#" class="youtube"><i class="bx bxl-youtube"></i></a>
@@ -132,7 +132,7 @@
             <div class="info">
               <div class="address">
                 <h4>Location:</h4>
-                <p>Wilaya Center Tetouan, Morocco</p>
+                <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
               </div>
 
               <div class="email">
@@ -153,11 +153,15 @@
 
             <form action="forms/contact.php" method="post" role="form" class="php-email-form">
               <div class="form-row">
-                <div class="col-md-6 form-group">
+                <div class="col-md-4 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                   <div class="validate"></div>
                 </div>
-                <div class="col-md-6 form-group">
+                <div class="col-md-4 form-group">
+                  <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone Number" data-rule="minlen:8" data-msg="Please enter your realphone number" />
+                  <div class="validate"></div>
+                </div>
+                <div class="col-md-4 form-group">
                   <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                   <div class="validate"></div>
                 </div>
