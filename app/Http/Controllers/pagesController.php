@@ -22,6 +22,7 @@ class pagesController extends Controller
         $contact->subject = $request->get('subject');
         $contact->message = $request->get('message');
         $contact->save();
+        return view('underConstruction');
 
     } 
 }
