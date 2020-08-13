@@ -10,22 +10,22 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{ asset('/construction/img/favicon.png') }}" rel="icon">
-  <link href="{{ asset('/construction/img/apple-touch-icon.png') }}" rel="apple-touch-icon">
+  <link href="/construction/img/favicon.png" rel="icon">
+  <link href="/construction/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
 
   <!-- Vendor CSS Files -->
-  <link href="{{ asset('/construction/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('/construction/vendor/icofont/icofont.min.css" rel="stylesheet') }}">
-  <link href="{{ asset('/construction/vendor/boxicons/css/boxicons.min.css" rel="stylesheet') }}">
-  <link href="{{ asset('/construction/vendor/venobox/venobox.css" rel="stylesheet') }}">
-  <link href="{{ asset('/construction/vendor/owl.carousel//construction/owl.carousel.min.css') }}" rel="stylesheet">
-  <link href="{{ asset('/construction/vendor/aos/aos.css" rel="stylesheet') }}">
+  <link href="/construction/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/construction/vendor/icofont/icofont.min.css" rel="stylesheet">
+  <link href="/construction/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="/construction/vendor/venobox/venobox.css" rel="stylesheet">
+  <link href="/construction/vendor/owl.carousel//construction/owl.carousel.min.css" rel="stylesheet">
+  <link href="/construction/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="{{ asset('/construction/css/style.css') }}" rel="stylesheet">
+  <link href="/construction/css/style.css" rel="stylesheet">
 
 </head>
 
@@ -39,7 +39,7 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
-      <img src="{{ asset('/construction/img/logo-big.png') }}" alt="Code Camp">
+      <img src="/construction/img/logo-big.png" alt="Code Camp">
       <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Place"></span><br/>For Independent Internet Builders.</p>
 	
       <div class="social-links">
@@ -190,20 +190,20 @@
   <div id="preloader"></div>
 
   <!-- Vendor JS Files -->
-  <script src="{{ asset('/construction/vendor/jquery/jquery.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/jquery.easing/jquery.easing.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/php-email-form/validate.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/waypoints/jquery.waypoints.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/counterup/counterup.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/venobox/venobox.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/owl.carousel/owl.carousel.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/typed.js/typed.min.js') }}"></script>
-  <script src="{{ asset('/construction/vendor/aos/aos.js') }}"></script>
+  <script src="/construction/vendor/jquery/jquery.min.js"></script>
+  <script src="/construction/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/construction/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="/construction/vendor/php-email-form/validate.js"></script>
+  <script src="/construction/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/construction/vendor/counterup/counterup.min.js"></script>
+  <script src="/construction/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/construction/vendor/venobox/venobox.min.js"></script>
+  <script src="/construction/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/construction/vendor/typed.js/typed.min.js"></script>
+  <script src="/construction/vendor/aos/aos.js"></script>
 
   <!-- Template Main JS File -->
-  <script src="{{ asset('/construction/js/main.js') }}"></script>
+  <script src="/construction/js/main.js"></script>
 
 </body>
 
