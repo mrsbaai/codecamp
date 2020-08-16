@@ -122,7 +122,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>The website is under construction but in the meanwhile we offer:</h2>
+          <h2>The website is under construction<br/>But in the meanwhile we offer:</h2>
           
         </div>
         
@@ -132,7 +132,9 @@
             <div class="icon-box">
               <h2>Coworking Space</h2>
               <p>Afortable coworking space at 590Dh/Month</p>
+              <p>
               <a href="/coworking" class="btn btn-primary btn-sm" aria-disabled="true">More Info</a>
+              </p>
             </div>
           </div>
 
@@ -141,7 +143,9 @@
             <div class="icon-box">
               <h2>Development Services</h2>
               <p>Need something built? We're here to help.</p>
-              <a href="#" class="btn btn-primary btn-sm" aria-disabled="true">Contact Us</a>
+              <p>
+              <a href="#contact" class="btn btn-primary btn-sm" aria-disabled="true">Contact Us</a>
+              </p>
             </div>
           </div>
 	
