@@ -77,7 +77,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>We are:</h2>
+          <h2>Comming Soon:</h2>
           
         </div>
 
@@ -101,7 +101,7 @@
 
           <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h2>A Learning Place</h2>
+              <h2>A Learning Camp</h2>
               <p>Exlusive content. Improve your knowlege and skills as an independent internet warrior.</p>
             </div>
           </div>
@@ -115,6 +115,42 @@
 
       </div>
     </section><!-- End Services Section -->
+
+
+    <!-- ======= Other Section ======= -->
+    <section id="services" class="services">
+      <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+          <h2>The website is under construction but in the meanwhile we offer:</h2>
+          
+        </div>
+        
+        <div class="row">
+
+          <div class="col-lg-6 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h2>Coworking Space</h2>
+              <p>Afortable coworking space at 590Dh/Month</p>
+              <a href="/coworking" class="btn btn-primary btn-sm" aria-disabled="true">More Info</a>
+            </div>
+          </div>
+
+          
+          <div class="col-lg-6 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <h2>Development Services</h2>
+              <p>Need something built? We're here to help.</p>
+              <a href="#" class="btn btn-primary btn-sm" aria-disabled="true">Contact Us</a>
+            </div>
+          </div>
+	
+  
+
+        </div>
+
+      </div>
+    </section><!-- End Other Section -->
 
    
 
