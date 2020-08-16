@@ -131,8 +131,9 @@
           <div class="col-lg-6 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h2>Coworking Space</h2>
-              <p>Afortable coworking space at 590Dh/Month</p>
               <p>
+                Afortable coworking space at <b>590Dh/Month</b>.
+                <br/>
               <a href="/coworking" class="btn btn-primary btn-sm" aria-disabled="true">More Info</a>
               </p>
             </div>
@@ -142,8 +143,9 @@
           <div class="col-lg-6 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h2>Development Services</h2>
-              <p>Need something built? We're here to help.</p>
               <p>
+                Need something built? We're here to help.<p>
+                <br/>
               <a href="#contact" class="btn btn-primary btn-sm" aria-disabled="true">Contact Us</a>
               </p>
             </div>
