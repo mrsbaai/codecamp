@@ -133,6 +133,8 @@
               <h2>Coworking Space</h2>
               <p>
                 Afortable coworking space at <b>590Dh/Month</b>.
+              </p>
+              <p>
                 <br/>
               <a href="/coworking" class="btn btn-primary btn-sm" aria-disabled="true">More Info</a>
               </p>
@@ -144,7 +146,8 @@
             <div class="icon-box">
               <h2>Development Services</h2>
               <p>
-                Need something built? We're here to help.<p>
+                Need something built? We're here to help.</p>
+              <p>
                 <br/>
               <a href="#contact" class="btn btn-primary btn-sm" aria-disabled="true">Contact Us</a>
               </p>
