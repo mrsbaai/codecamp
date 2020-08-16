@@ -14,6 +14,14 @@ class pagesController extends Controller
         return view('underConstruction');
     }
 
+    public function dev(){
+        return view('dev');
+    }
+
+    public function coworking(){
+        return view('coworking');
+    }
+
     public function saveForm(Request $request){
         $contact = new contact();
         $contact->name = $request->get('name');
