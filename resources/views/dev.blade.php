@@ -43,6 +43,11 @@
 
   <!-- Template Main CSS File -->
   <link href="/construction/css/style.css" rel="stylesheet">
+  <style>
+    #preloader {
+    background: black;
+  }
+  </style>
 
 </head>
 
@@ -52,10 +57,6 @@
 
   <main id="main">
 
-
-
-
-   
 
     <!-- ======= Contact Section ======= -->
     <section id="contact" class="contact">
