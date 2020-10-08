@@ -117,7 +117,7 @@
     </section><!-- End Services Section -->
 
 
-    <!-- ======= Other Section ======= -->
+    <!-- ======= Other Section
     <section id="services" class="services">
       <div class="container" data-aos="fade-up">
 
@@ -159,7 +159,8 @@
         </div>
 
       </div>
-    </section><!-- End Other Section -->
+    </section>
+  -->
 
    
 
