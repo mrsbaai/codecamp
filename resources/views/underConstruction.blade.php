@@ -66,7 +66,7 @@
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <br/>
-      <a href="/#services"><i class="bx bxl-down-arrow-circle"></i></a>
+      <a href="/#services" class="linkedin"><i class="bx bxl-down-arrow-circle"></i></a>
 
     </div>
   </section><!-- End Hero -->
