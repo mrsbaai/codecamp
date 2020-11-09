@@ -66,6 +66,11 @@
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <br/>
+      <style type="text/css">
+  
+        a:hover {color:white; text-decoration: none; }
+ 
+        </style>
       <a href="/#services" style="font-size: 400%"><i class="bx bx-down-arrow-circle"></i></a>
 
     </div>
