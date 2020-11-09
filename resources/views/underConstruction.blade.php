@@ -65,13 +65,13 @@
         <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      <br/><br/>
+      <br/><br/><br/>
       <style type="text/css">
   
         a:hover {color:white; text-decoration: none; }
  
         </style>
-      <a href="/#services" style="font-size: 350%;"><i class="bx bx-down-arrow-circle"></i></a>
+      <a href="/#services" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
 
     </div>
   </section><!-- End Hero -->
