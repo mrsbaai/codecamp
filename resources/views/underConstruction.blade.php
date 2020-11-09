@@ -101,7 +101,7 @@
 		  <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h2>A Market Place</h2>
-              <p>Sell your stuff in our market place (It's free forever).</p>
+              <p>Buy & Sell services in our market place.</p>
             </div>
           </div>
 
