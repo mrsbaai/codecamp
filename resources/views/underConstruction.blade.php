@@ -248,7 +248,7 @@
   <footer id="footer">
 
     <div class="container" data-aos="fade-up">
-      <h1> Ffollow us on social media for updates</h1>
+      <h1>Follow us on social media for updates</h1>
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
         <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
