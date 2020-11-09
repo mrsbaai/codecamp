@@ -71,7 +71,7 @@
         a:hover {color:white; text-decoration: none; }
  
         </style>
-      <a href="/#services" style="font-size: 400%"><i class="bx bx-down-arrow-circle"></i></a>
+      <a href="/#services" style="font-size: 400%; color:lightgray;"><i class="bx bx-down-arrow-circle"></i></a>
 
     </div>
   </section><!-- End Hero -->
