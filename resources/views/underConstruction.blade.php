@@ -246,7 +246,7 @@
 
   <!-- ======= Footer ======= -->
   <footer id="footer">
-
+    <section id="followus">
     <div class="container" data-aos="fade-up">
       <h1>Follow us on social media for updates</h1>
       <div class="social-links">
@@ -260,6 +260,8 @@
       </div>
  
     </div>
+  </section>
+
   </footer><!-- End Footer -->
 
   <div id="preloader"></div>

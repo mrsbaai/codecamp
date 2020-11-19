@@ -22,6 +22,9 @@ class pagesController extends Controller
         return view('coworking');
     }
 
+
+
+
     public function saveForm(Request $request){
         $contact = new contact();
         $contact->name = $request->get('name');
