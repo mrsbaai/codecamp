@@ -52,7 +52,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
   <div class="container">
-    <a class="navbar-brand" href="#">
+    <a class="navbar-brand" href="https://codecamp.ma">
           <img src="https://codecamp.ma/construction/img/logo-very-small.png" alt="">
         </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
@@ -61,18 +61,15 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="#">Home
+          <a class="nav-link" href="https://codecamp.ma">Home
                 <span class="sr-only">(current)</span>
               </a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#footer">Media</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Services</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="https://codecamp.ma/#contact">Contact</a>
         </li>
       </ul>
     </div>
@@ -101,22 +98,25 @@
 
 
 
-  <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="container" data-aos="fade-up">
-      
-      <div class="social-links">
-        <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
-        <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-      </div>
-      <div class="copyright">
-        &copy; Copyright <strong><span>Code Camp</span></strong>. All Rights Reserved
-      </div>
- 
+<!-- ======= Footer ======= -->
+<footer id="footer">
+  <section id="followus">
+  <div class="container" data-aos="fade-up">
+    <h1>Follow us on social media for updates</h1>
+    <div class="social-links">
+      <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
+      <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
+      <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
+      <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
-  </footer><!-- End Footer -->
+    <div class="copyright">
+      &copy; Copyright <strong><span>Code Camp</span></strong>. All Rights Reserved
+    </div>
+
+  </div>
+</section>
+
+</footer><!-- End Footer -->
 
   <div id="preloader"></div>
 
