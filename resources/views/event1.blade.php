@@ -137,7 +137,7 @@
 <br>
 - Charm, power, and influence<br>
 - Browsers for social engineering<br>
-- Mobile- based attacks<br>
+- Mobile-based attacks<br>
 - Manipulate with social media<br>
 <br>
 <br>
