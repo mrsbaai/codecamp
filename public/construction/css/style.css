@@ -12,7 +12,7 @@
 
 body {
     font-family: "Open Sans", sans-serif;
-    background-color: black;
+    background-color: #343A40;
 }
 
 a {
@@ -357,7 +357,7 @@ section {
     margin-bottom: 20px;
     padding-bottom: 20px;
     position: relative;
-    color: black;
+    color: #343A40;
 }
 
 .section-title p {
@@ -773,7 +773,7 @@ section {
 
 .services .icon-box {
     color: white;
-    background-color: black;
+    background-color: #343A40;
     margin-top: -2px;
 }
 
@@ -970,7 +970,7 @@ section {
     font-size: 24px;
     font-weight: 600;
     margin-bottom: 5px;
-    color: black;
+    color: #343A40;
 }
 
 .contact .info p {
@@ -1067,7 +1067,7 @@ section {
 }
 
 .contact .php-email-form button[type="submit"] {
-    background: black;
+    background: #343A40;
     border: 0;
     padding: 10px 35px;
     color: #fff;
