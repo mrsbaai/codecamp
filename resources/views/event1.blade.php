@@ -82,7 +82,17 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
       <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Independent Internet Builders.</p>
+      <p><span class="typed" data-typed-items="Code Camp Events: Social Engineering [Ethical Hacking]"></span>
+        <br/>
+        <blockquote class="blockquote">
+          <p class="mb-0">
+            Human Stupidity, that’s why Hackers always win.
+          </p>
+          <footer class="blockquote-footer">
+            Med Amine Khelifi
+          </footer>
+        </blockquote>
+      </p>
 	
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
@@ -93,23 +103,13 @@
     </div>
   </section><!-- End Hero -->
 
-  <main id="main">
-    <div  class="container-fluid">
+  <section id="contact" class="contact">
+    <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
           <div class="page-header">
-            <h1>
-              Code Camp Events: Social Engineering [Ethical Hacking]
-            </h1>
+
           </div>
-          <blockquote class="blockquote">
-            <p class="mb-0">
-              Human Stupidity, that’s why Hackers always win.
-            </p>
-            <footer class="blockquote-footer">
-              Med Amine Khelifi
-            </footer>
-          </blockquote>
           <p class="lead">
             Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
           </p>
@@ -125,6 +125,7 @@
         </div>
       </div>
     </div>
+  </section>
 
 
 
