@@ -81,14 +81,13 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
-      <img src="/construction/img/logo-big.png" alt="Code Camp">
       <p><span class="typed" data-typed-items="Code Camp Events: Social Engineering [Ethical Hacking]"></span>
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
             Human Stupidity, that’s why Hackers always win.
           </p>
-          <footer class="blockquote-footer">
+          <footer class="blockquote-footer" style="colore:white;">
             Med Amine Khelifi
           </footer>
         </blockquote>
@@ -116,12 +115,15 @@
           <p class="lead">
             In this course, cybersecurity expert Lisa Bock discusses the methods a hacker might use, including embedding malicious links and attachments in emails and using mobile devices and social media to deploy an attack. She discusses the concept of "misuse of trust"—how hackers use charm, power, and influence to penetrate an organization—and why you need to be extra cautious with the disgruntled employee. Finally, Lisa discusses countermeasures security professionals can take to address these attacks.<br>
           </p>
-          <h3>
-            Content:
-          </h3>
+          
           <p class="lead text-center">
+            <h3>
+              Course Content:<br>
+            
             Introduction<br><br> Defining social engineering<br> What you should know<br> Hacking ethically<br><br><br>1. Social Engineering Overview<br><br> Social engineering overview<br> Visualize the victim<br> Skills of a social engineer<br> Recognize an attack<br><br><br>2. Social Engineering Mechanisms<br><br> Charm, power, and influence<br> Browsers for social engineering<br> Mobile-based attacks<br> Manipulate with social media<br><br><br>3. Misuse of Trust<br><br> Disgruntled employees<br> Prevent insider attacks<br> Steal an identity<br><br><br>4. Penetration Testing with Social Engineering<br><br> Email and websites<br> In person and on the phone<br> Social-Engineer Toolkit<br> SET in Kali Linux<br><br><br>5. Social Engineering Countermeasures<br><br> Impacts and countermeasures<br> Understanding spam<br> Preventing phishing attacks<br><br><br>Conclusion<br><br> Next steps<br><br>
+          </h3>
           </p>
+        
         </div>
       </div>
     </div>
