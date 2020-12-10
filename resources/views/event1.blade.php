@@ -98,7 +98,7 @@
     </div>
   </section><!-- End Hero -->
 
-  <section id="contact" class="contact" style="color:white;background-color:#ff1616;">
+  <section id="contact" class="contact" style="color:white;background-color:#343A40;">
     <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
