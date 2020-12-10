@@ -106,13 +106,14 @@
           </div>
 
           
-          <p class="lead text-center">
+          <center>
             <h3>
               Course Content:<br>
             
             Introduction<br><br> Defining social engineering<br> What you should know<br> Hacking ethically<br><br><br>1. Social Engineering Overview<br><br> Social engineering overview<br> Visualize the victim<br> Skills of a social engineer<br> Recognize an attack<br><br><br>2. Social Engineering Mechanisms<br><br> Charm, power, and influence<br> Browsers for social engineering<br> Mobile-based attacks<br> Manipulate with social media<br><br><br>3. Misuse of Trust<br><br> Disgruntled employees<br> Prevent insider attacks<br> Steal an identity<br><br><br>4. Penetration Testing with Social Engineering<br><br> Email and websites<br> In person and on the phone<br> Social-Engineer Toolkit<br> SET in Kali Linux<br><br><br>5. Social Engineering Countermeasures<br><br> Impacts and countermeasures<br> Understanding spam<br> Preventing phishing attacks<br><br><br>Conclusion<br><br> Next steps<br><br>
           </h3>
-          </p>
+          </center>
+          
 
           <p class="lead">
             Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
