@@ -81,9 +81,6 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
   
-      <p class="mb-0">
-        Friday, December 11, 2020
-      </p>
       <p><span class="typed" data-typed-items="Social Engineering [Ethical Hacking] [Code Camp Events]"></span>
         <br/>
         <blockquote class="blockquote">
