@@ -22,6 +22,11 @@ class pagesController extends Controller
         return view('coworking');
     }
 
+    public function event1(){
+        return view('event1');
+    }
+
+
 
 
 
