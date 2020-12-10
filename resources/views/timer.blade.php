@@ -120,12 +120,12 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    background: white;
+    background: #FF5722;
     opacity: 1;
   }
   .countdown__digit {
     width: 100%;
-    color: white;
+    color: #FF5722;
     text-align: center;
     mix-blend-mode: difference;
     pointer-events: none;
@@ -191,7 +191,7 @@
     z-index: 2147483646 !important; }
   
   .ov-theater-mode {
-    background:#ff1616 !important;
+    background: rgba(0, 0, 0, 0.95) !important;
     pointer-events: none;
     transition: opacity 0.3s;
     opacity: 0;
