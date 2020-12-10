@@ -120,12 +120,12 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    background: #FF5722;
+    background: white;
     opacity: 1;
   }
   .countdown__digit {
     width: 100%;
-    color: #FF5722;
+    color: white;
     text-align: center;
     mix-blend-mode: difference;
     pointer-events: none;
@@ -191,7 +191,7 @@
     z-index: 2147483646 !important; }
   
   .ov-theater-mode {
-    background: rgba(0, 0, 0, 0.95) !important;
+    background:#ff1616 !important;
     pointer-events: none;
     transition: opacity 0.3s;
     opacity: 0;
@@ -313,7 +313,7 @@
     this.els.seconds.textContent = this.duration / 1000;
   };
   
-  var timer = new Timer(10000, document.getElementById('countdown'));
+  var timer = new Timer(300000, document.getElementById('countdown'));
   timer.start();
   //# sourceURL=pen.js
       </script>
