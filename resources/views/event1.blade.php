@@ -77,9 +77,8 @@
 </nav>
 
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center">
 
-    <div class="container-fluid">
+    <div id="hero" class="container-fluid">
       <div class="row">
         <div class="col-md-12">
           <div class="page-header">
@@ -112,7 +111,7 @@
     </div>
 
     
-  </section><!-- End Hero -->
+
 
   <main id="main">
   </main>
