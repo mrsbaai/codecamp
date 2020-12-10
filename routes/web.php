@@ -22,7 +22,7 @@ Route::get('/coworking', 'pagesController@coworking');
 Route::post('/coworking', 'pagesController@saveForm');
 
 
-Route::post('/event/1', 'pagesController@event1');
+Route::get('/events/1', 'pagesController@event1');
 
 
 
