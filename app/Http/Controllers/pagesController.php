@@ -27,6 +27,12 @@ class pagesController extends Controller
     }
 
 
+    public function timer(){
+        return view('timer');
+    }
+
+
+
 
 
 
