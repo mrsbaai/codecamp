@@ -92,6 +92,10 @@
           </footer>
         </blockquote>
       </p>
+
+      <p class="lead">
+        Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
+      </p>
 	
 
     </div>
@@ -104,7 +108,9 @@
           <div class="page-header">
 
           </div>
-
+          <p class="lead">
+            In this course, cybersecurity expert Lisa Bock discusses the methods a hacker might use, including embedding malicious links and attachments in emails and using mobile devices and social media to deploy an attack. She discusses the concept of "misuse of trust"—how hackers use charm, power, and influence to penetrate an organization—and why you need to be extra cautious with the disgruntled employee. Finally, Lisa discusses countermeasures security professionals can take to address these attacks.<br>
+          </p>
           
           <center>
             
@@ -115,12 +121,8 @@
           </center>
           
 
-          <p class="lead">
-            Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
-          </p>
-          <p class="lead">
-            In this course, cybersecurity expert Lisa Bock discusses the methods a hacker might use, including embedding malicious links and attachments in emails and using mobile devices and social media to deploy an attack. She discusses the concept of "misuse of trust"—how hackers use charm, power, and influence to penetrate an organization—and why you need to be extra cautious with the disgruntled employee. Finally, Lisa discusses countermeasures security professionals can take to address these attacks.<br>
-          </p>
+
+
         
         </div>
       </div>
