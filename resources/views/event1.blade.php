@@ -81,7 +81,7 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
-      <p><span class="typed" data-typed-items="Code Camp Events: Social Engineering [Ethical Hacking]"></span>
+      <p><span class="typed" data-typed-items="Social Engineering [Ethical Hacking] [Code Camp Events]"></span>
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
