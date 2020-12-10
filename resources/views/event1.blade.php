@@ -88,7 +88,7 @@
             Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker.
           </p>
           <footer class="blockquote-footer" style="color:white;">
-            Med Amine Khelifi
+            Emmanuel Goldstein, Dear Hacker: Letters to the Editor of 2600
           </footer>
         </blockquote>
       </p>
