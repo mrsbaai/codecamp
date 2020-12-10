@@ -77,6 +77,21 @@
 </nav>
 
   <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center">
+
+    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+	
+      <img src="/construction/img/logo-big.png" alt="Code Camp">
+      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Independent Internet Builders.</p>
+	
+      <div class="social-links">
+        <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
+        <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
+        <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
+        <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+      </div>
+    </div>
+  </section><!-- End Hero -->
 
   <main id="main">
     <div  class="container-fluid">
@@ -111,11 +126,6 @@
       </div>
     </div>
 
-    
-
-
-  </main>
-
 
 
 
@@ -139,7 +149,23 @@
 
 </footer><!-- End Footer -->
 
+  <div id="preloader"></div>
 
+  <!-- Vendor JS Files -->
+  <script src="/construction/vendor/jquery/jquery.min.js"></script>
+  <script src="/construction/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="/construction/vendor/jquery.easing/jquery.easing.min.js"></script>
+  <script src="/construction/vendor/php-email-form/validate.js"></script>
+  <script src="/construction/vendor/waypoints/jquery.waypoints.min.js"></script>
+  <script src="/construction/vendor/counterup/counterup.min.js"></script>
+  <script src="/construction/vendor/isotope-layout/isotope.pkgd.min.js"></script>
+  <script src="/construction/vendor/venobox/venobox.min.js"></script>
+  <script src="/construction/vendor/owl.carousel/owl.carousel.min.js"></script>
+  <script src="/construction/vendor/typed.js/typed.min.js"></script>
+  <script src="/construction/vendor/aos/aos.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="/construction/js/main.js"></script>
 
 </body>
 
