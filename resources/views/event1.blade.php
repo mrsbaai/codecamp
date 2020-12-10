@@ -79,21 +79,43 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
 
-    <div class="container" data-aos="zoom-in" data-aos-delay="100">
-	
-      <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Independent Internet Builders.</p>
-	
-      <div class="social-links">
-        <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
-        <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
-        <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
-        <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="page-header">
+            <h1>
+              Code Camp Events: Social Engineering [Ethical Hacking]
+            </h1>
+          </div>
+          <blockquote class="blockquote">
+            <p class="mb-0">
+              Human Stupidity, that’s why Hackers always win.
+            </p>
+            <footer class="blockquote-footer">
+              Med Amine Khelifi
+            </footer>
+          </blockquote>
+          <p class="lead">
+            Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
+          </p>
+          <p class="lead">
+            In this course, cybersecurity expert Lisa Bock discusses the methods a hacker might use, including embedding malicious links and attachments in emails and using mobile devices and social media to deploy an attack. She discusses the concept of "misuse of trust"—how hackers use charm, power, and influence to penetrate an organization—and why you need to be extra cautious with the disgruntled employee. Finally, Lisa discusses countermeasures security professionals can take to address these attacks.<br>
+          </p>
+          <h3>
+            Content:
+          </h3>
+          <p class="lead text-center">
+            Introduction<br><br> Defining social engineering<br> What you should know<br> Hacking ethically<br><br><br>1. Social Engineering Overview<br><br> Social engineering overview<br> Visualize the victim<br> Skills of a social engineer<br> Recognize an attack<br><br><br>2. Social Engineering Mechanisms<br><br> Charm, power, and influence<br> Browsers for social engineering<br> Mobile-based attacks<br> Manipulate with social media<br><br><br>3. Misuse of Trust<br><br> Disgruntled employees<br> Prevent insider attacks<br> Steal an identity<br><br><br>4. Penetration Testing with Social Engineering<br><br> Email and websites<br> In person and on the phone<br> Social-Engineer Toolkit<br> SET in Kali Linux<br><br><br>5. Social Engineering Countermeasures<br><br> Impacts and countermeasures<br> Understanding spam<br> Preventing phishing attacks<br><br><br>Conclusion<br><br> Next steps<br><br>
+          </p>
+        </div>
       </div>
     </div>
+
+    
   </section><!-- End Hero -->
 
   <main id="main">
+  </main>
 
 
 
