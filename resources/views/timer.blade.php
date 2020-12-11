@@ -120,12 +120,12 @@
     position: absolute;
     left: 0;
     bottom: 0;
-    background: #FF5722;
+    background: #FF1616;
     opacity: 1;
   }
   .countdown__digit {
     width: 100%;
-    color: #FF5722;
+    color: #FF1616;
     text-align: center;
     mix-blend-mode: difference;
     pointer-events: none;
