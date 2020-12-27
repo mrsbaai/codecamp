@@ -88,7 +88,7 @@
     <div class="container 300-px-wide text-center data-aos="fade-up" >
 
 
-        <h2>
+        <h1>
         The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀
         <h2>
           <br/>
@@ -128,7 +128,7 @@
       
     </div>
     <br/><br/>
-    <center><h1>For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h1></center>
+    <center><h3>For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h3></center>
   </section>
 
 
