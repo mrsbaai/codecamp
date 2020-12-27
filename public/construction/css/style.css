@@ -1080,7 +1080,7 @@ section {
 }
 
 .application-form {
-    background: #080808;
+    background-color: #343A40 !important;
 }
 
 @-webkit-keyframes animate-loading {
