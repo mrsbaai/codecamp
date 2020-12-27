@@ -113,9 +113,24 @@
           </div>
 
           <p class="lead">
-            <h1>Event: 2021 New Year Online Business Resolution </h1>
+            <h1>Event Title: 2021 New Year Online Business Resolution </h1>
             <br/>
             The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated into efficient actions.<br>
+          </p>
+      
+          <p class="lead">
+            <h1>Schedule:</h1>
+            <br/>
+            17:00 A word of welcome<br/>
+            17:10 Attendants will have the chance to talk about 3 points for 5 minutes<br/><br/>
+              1. Introduce your online business <br/>
+              2. Your new year resolution to improve your business<br/>
+              3. What advice would you give based on your own experience <br/>
+            18:30 Coffee break <br/>
+            19:00 Open Forum<br/>
+            20:00 A closing word 
+
+            
           </p>
       
           <p class="lead">
