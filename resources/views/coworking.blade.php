@@ -88,7 +88,7 @@
     <div class="container 300-px-wide text-center data-aos="fade-up" >
 
         <h2>
-        Our 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳
+        Our 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 - 𝗧𝗘𝗧𝗢𝗨𝗔𝗡
         <h2>
           <br/>
 
