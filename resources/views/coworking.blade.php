@@ -85,15 +85,14 @@
 
   <section id="main" class="contact" style="color:white;background-color:#343A40;">
 
-    <div class="container 300-px-wide" data-aos="fade-up" >
+    <div class="container 300-px-wide text-center data-aos="fade-up" >
 
-      <p class="text-center">
+
         <h2>
-        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀<br/><br/>
-        For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮<br/>
-        CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡<br/><br/>
+        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀>
         <h2>
-      </p>
+          <br/>
+
 
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
@@ -128,6 +127,7 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
+    <h1>For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h1>
 
     <h1>Follow us on social media for updates</h1>
     <div class="social-links">
@@ -136,6 +136,7 @@
       <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
       <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
+    <h1> CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡</h1>
     <div class="copyright">
       &copy; Copyright <strong><span>Code Camp</span></strong>. All Rights Reserved
     </div>
