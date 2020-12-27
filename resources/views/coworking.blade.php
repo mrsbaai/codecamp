@@ -88,7 +88,7 @@
     <div class="container 300-px-wide text-center data-aos="fade-up" >
 
 
-        <h1>
+        <h2>
         The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀
         <h2>
           <br/>
@@ -136,7 +136,7 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-    <h1>Follow us on social media for updates</h1>
+    <h3>Follow us on social media for updates</h3>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
       <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>

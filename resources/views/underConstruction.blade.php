@@ -254,7 +254,7 @@
       <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
       <br/>
-      <h1>Follow us on social media for updates</h1>
+      <h3>Follow us on social media for updates</h3>
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
         <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -262,7 +262,7 @@
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <div class="copyright">
-        &copy; Copyright <strong><span>CodeCamp.ma</span></strong> Wilaya Center ET5 N°55<strong><span>TETOUAN</span></strong>. All Rights Reserved
+        &copy; Copyright <strong><span>CodeCamp.ma</span></strong> Wilaya Center ET5 N°55 <strong><span>TETOUAN</span></strong>. All Rights Reserved
       </div>
     </div>
   </section>
