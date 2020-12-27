@@ -87,6 +87,7 @@
         <blockquote class="blockquote">
           <p class="mb-0">
             As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
+           <br/><br/>[Wednesday 30 December 2020]
           </p>
 
         </blockquote>
@@ -113,7 +114,7 @@
 
           <p class="lead">
             <h1>2021 New Year Online Business Resolution </h1>
-            <h1>[Wednesday 30 December 2020]</h1>
+    
             <br/>
             The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated into efficient actions.<br>
           </p>
