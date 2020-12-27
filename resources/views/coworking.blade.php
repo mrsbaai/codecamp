@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: Social Engineering [Ethical Hacking]</title>
+  <title>CodeCamp.ma: Co-Working Space</title>
   <meta content="CodeCamp Event About Social Engineering [Ethical Hacking]" name="descriptison">
 
 
@@ -87,9 +87,8 @@
 
     <div class="container 300-px-wide text-center data-aos="fade-up" >
 
-
         <h2>
-        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵
+        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳
         <h2>
           <br/>
 
@@ -100,6 +99,9 @@
     <div class="col-md-8">
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/06.jpg">
+          </div>
           <div class="carousel-item active">
             <img class="d-block w-100" src="/construction/img/00.jpg">
           </div>
@@ -123,9 +125,6 @@
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="/construction/img/08.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/09.jpg">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
