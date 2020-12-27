@@ -100,7 +100,7 @@
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/06.jpg">
+            <img class="d-block w-100" src="/construction/img/06.png">
           </div>
           <div class="carousel-item active">
             <img class="d-block w-100" src="/construction/img/00.jpg">
