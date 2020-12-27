@@ -50,6 +50,8 @@
 
 </head>
 
+
+
 <body>
 
 
@@ -80,9 +82,8 @@
   </div>
 </nav>
 
-
-
-  <section id="contact" class="contact" style="color:white;background-color:#343A40;">
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="d-flex flex-column justify-content-center">
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
   
@@ -99,6 +100,9 @@
 
 
     </div>
+  </section><!-- End Hero -->
+
+  <section id="contact" class="contact" style="color:white;background-color:#ff1616;">
     <div class="container" data-aos="fade-up">
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
