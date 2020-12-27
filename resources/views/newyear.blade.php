@@ -484,27 +484,27 @@
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Registration</p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:30</span> - Registration</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - A word of welcome
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:00</span> - A word of welcome
                   </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">10:00 - 12:00</span> - Attendants will have the chance to talk about 3 points for 5 minutes
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Attendants will have the chance to talk about 3 points for 5 minutes
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;1. Introduce your online business </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;2. Your new year resolution to improve your business </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;3. What advice would you give based on your own experience </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Coffee break </p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:30</span> - Coffee break </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Open Forum</p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">19:00</span> - Open Forum</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> -  A closing word 
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">19:30</span> -  A closing word 
                   </p>
                 </li>
                 
