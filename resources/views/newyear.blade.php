@@ -81,11 +81,12 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
   
-      <p><span class="typed" data-typed-items="2021 New Year Online Business Resolution"></span>
+      <p>
+        <b><span class="typed" data-typed-items="2021 New Year Online Business Resolution"></span></b>
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            As part of a first initiative in <b>Tetouan</b>, CODECAMP.MA, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we get our <b>online businesses more profitable</b> and resilient by the new year <b>2021</b>.
+            As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> by the new year <b>2021</b>.
           </p>
 
         </blockquote>
@@ -105,72 +106,14 @@
           </div>
 
           <p class="lead">
-            Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
+            The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated in efficient actions.  <br>
           </p>
       
           <p class="lead">
-            In this course, cybersecurity expert Lisa Bock discusses the methods a hacker might use, including embedding malicious links and attachments in emails and using mobile devices and social media to deploy an attack. She discusses the concept of "misuse of trust"—how hackers use charm, power, and influence to penetrate an organization—and why you need to be extra cautious with the disgruntled employee. Finally, Lisa discusses countermeasures security professionals can take to address these attacks.<br>
-          </p>
+            <h1>Application:</h1>
+            To apply to the 2021 New Year Online Business Resolution event, kindly fill this following application. We would like to inform you that seats are limited and the subscription will expire by December the 30th 2020 at Midnight, we will send you an invitation by E-mail.</p>
           <br/><br/>
-          <center>
-            
-              <h1>Course Content:</h1><br/><br/>
-          <h3>
-            Introduction<br>
-<br>
-- Defining social engineering<br>
-- What you should know<br>
-- Hacking ethically<br>
-<br>
-<br>
-1. Social Engineering Overview<br>
-<br>
-- Social engineering overview<br>
-- Visualize the victim<br>
-- Skills of a social engineer<br>
-- Recognize an attack<br>
-<br>
-<br>
-2. Social Engineering Mechanisms<br>
-<br>
-- Charm, power, and influence<br>
-- Browsers for social engineering<br>
-- Mobile-based attacks<br>
-- Manipulate with social media<br>
-<br>
-<br>
-3. Misuse of Trust<br>
-<br>
-- Disgruntled employees<br>
-- Prevent insider attacks<br>
-- Steal an identity<br>
-<br>
-<br>
-4. Penetration Testing with Social Engineering<br>
-<br>
-- Email and websites<br>
-- In person and on the phone<br>
-- Social-Engineer Toolkit<br>
-- SET in Kali Linux<br>
-<br>
-<br>
-5. Social Engineering Countermeasures<br>
-<br>
-- Impacts and countermeasures<br>
-- Understanding spam<br>
-- Preventing phishing attacks<br>
-<br>
-<br>
-Conclusion<br>
-<br>
-- Next steps<br>
-<br>
-
-          
-            
-          </h3>
-          </center>
-          
+         
 
 
 
