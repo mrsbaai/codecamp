@@ -86,15 +86,11 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-  
       <p>
-
             The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀<br/><br/>
             For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮<br/>
             CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡<br/><br/>
-            <span class="typed" data-typed-items="CodeCamp.ma: Young Web Experts Community."></span>
-       
-
+            <span class="typed" data-typed-items="CodeCamp.ma: Young Web Experts Community."></span>    
       </p>
 
 
