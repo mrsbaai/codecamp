@@ -478,7 +478,7 @@
       
           <p class="lead">
             <h1>Schedule:</h1>
-            <div class="col-lg-4 mb-3" id="Saturday, Nov 14th">
+            <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
                 Wednesday, Dec 30th
               </h4>
