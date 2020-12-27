@@ -445,7 +445,7 @@
         <blockquote class="blockquote">
           <p class="mb-0">
             As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
-           <br/><br/>[Wednesday 30 December 2020]
+           <br/><br/>[Wednesday, Dec 30th]
           </p>
 
         </blockquote>
@@ -479,34 +479,18 @@
           <p class="lead">
             <h1>Schedule:</h1>
             <div class="col-lg-4 mb-3" id="Saturday, Nov 14th">
-              <h4 class="mt-0 mb-3 text-dark op-8 font-weight-bold">
-                Saturday, Nov 14th
+              <h4 class="mt-0 mb-3 op-8 font-weight-bold">
+                Wednesday, Dec 30th
               </h4>
               <ul class="list-timeline list-timeline-primary">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Registration</p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Registration</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">10:00 - 12:00</span> - Vitaly Friedmann</p>
-                  <p class="my-0 collapse flex-fw text-uppercase text-xs text-dark op-8" id="day-2-item-2"> Talk: Wireframing / <span class="text-primary">Room 19</span> </p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">10:00 - 12:00</span> - Vitaly Friedmann</p>
+                  <p class="my-0 collapse flex-fw text-uppercase text-xs  op-8" id="day-2-item-2"> Talk: Wireframing / <span class="text-primary">Room 19</span> </p>
                 </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">12:00 - 13:00</span> - Lunch Break</p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-4">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">13:00 - 15:00</span> - Bruce Lawson</p>
-                  <p class="my-0 collapse flex-fw text-uppercase text-xs text-dark op-8" id="day-2-item-4"> Talk: Big Data / <span class="text-primary">Room 19</span> </p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00 - 16:00</span> - Coffee Break</p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-6">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:00 - 18:00</span> - Anthony Jonas</p>
-                  <p class="my-0 collapse flex-fw text-uppercase text-xs text-dark op-8" id="day-2-item-6"> Talk: OpenData / <span class="text-primary">Room 31</span> </p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 d-flex flex-wrap flex-column">
-                  <p class="my-0 text-dark flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:00 - 23:00</span> - After conference</p>
-                </li>
+                
               </ul>
             </div>
 
