@@ -493,7 +493,9 @@
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">10:00 - 12:00</span> - Attendants will have the chance to talk about 3 points for 5 minutes
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2"> Talk: Wireframing / <span class="text-primary">Room 19</span> </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">  1. Introduce your online business </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">  2. Your new year resolution to improve your business </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">  3. What advice would you give based on your own experience </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Coffee break </p>
