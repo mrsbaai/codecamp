@@ -197,7 +197,7 @@ Conclusion<br>
       <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
     <div class="copyright">
-      &copy; Copyright <strong><span>Code Camp</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>CodeCamp.ma</span></strong> Wilaya Center ET5 N°55 <strong><span>TETOUAN</span></strong>. All Rights Reserved
     </div>
 
   </div>

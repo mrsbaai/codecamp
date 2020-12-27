@@ -83,7 +83,7 @@
 </nav>
 
 
-  <section id="main" class="contact" style="color:white;background-color:#343A40;">
+  <section id="main" class="contact" style="color:white;background-color:#ff1616;">
 
     <div class="container 300-px-wide text-center data-aos="fade-up" >
 
@@ -118,18 +118,15 @@
       </div>
       
     </div>
-    <br/>
+    <br/><br/>
     <center><h1>For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h1></center>
   </section>
-
-
 
 
 <!-- ======= Footer ======= -->
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-
     <h1>Follow us on social media for updates</h1>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
@@ -139,7 +136,7 @@
     </div>
 
     <div class="copyright">
-      &copy; Copyright <strong><span>CodeCamp.ma</span></strong> Wilaya Center ET5 N°55<strong><span>TETOUAN</span></strong>. All Rights Reserved
+      &copy; Copyright <strong><span>CodeCamp.ma</span></strong> Wilaya Center ET5 N°55 <strong><span>TETOUAN</span></strong>. All Rights Reserved
     </div>
 
   </div>
