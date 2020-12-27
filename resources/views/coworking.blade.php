@@ -85,7 +85,16 @@
 
   <section id="main" class="contact" style="color:white;background-color:#343A40;">
 
-    <div class="container 300-px-wide" data-aos="fade-up" style="max-">
+    <div class="container 300-px-wide" data-aos="fade-up" >
+
+      <p class="text-center">
+        <h2>
+        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀<br/><br/>
+        For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮<br/>
+        CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡<br/><br/>
+        <h2>
+      </p>
+
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -119,11 +128,6 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-    <p class="text-center" style= "font-size=200%">
-      The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀<br/><br/>
-      For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮<br/>
-      CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡<br/><br/>
-</p>
 
     <h1>Follow us on social media for updates</h1>
     <div class="social-links">
