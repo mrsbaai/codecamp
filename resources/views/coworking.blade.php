@@ -89,7 +89,7 @@
 
 
         <h2>
-        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀>
+        The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀
         <h2>
           <br/>
 
@@ -136,7 +136,7 @@
       <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
       <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
-    <h1> CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡</h1>
+    <h3> CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡</h3>
     <div class="copyright">
       &copy; Copyright <strong><span>Code Camp</span></strong>. All Rights Reserved
     </div>
@@ -147,7 +147,7 @@
 </footer><!-- End Footer -->
 
   <div id="preloader"></div>
-
+  
   <!-- Vendor JS Files -->
   <script src="/construction/vendor/jquery/jquery.min.js"></script>
   <script src="/construction/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
