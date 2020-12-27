@@ -57,7 +57,7 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
       <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Web Experts.</p>
+      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Young Web Experts.</p>
 	
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
@@ -65,7 +65,9 @@
         <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      <br/><br/><br/>
+      <br/><br/>
+      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
+      <br/>
       <style type="text/css">
   
         a:hover {color:white; text-decoration: none; }
@@ -249,7 +251,7 @@
     <section id="followus">
     <div class="container" data-aos="fade-up">
 
-      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In A <b>CO-WORKING</b> Space?</a></div>
+      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
       <br/>
       <h1>Follow us on social media for updates</h1>
