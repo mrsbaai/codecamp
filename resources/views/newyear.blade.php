@@ -112,6 +112,8 @@
           </div>
 
           <p class="lead">
+            <h1>2021 New Year Online Business Resolution [Wednesday 30 December 2020]</h1>
+            <br/>
             The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated into efficient actions.<br>
           </p>
       
