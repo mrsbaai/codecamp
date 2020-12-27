@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 
 
 use App\contact;
+use App\app;
 
 
 class pagesController extends Controller
@@ -53,12 +54,12 @@ class pagesController extends Controller
     } 
 
     public function saveApp(Request $request){
-        $contact = new contact();
-        $contact->name = $request->get('name');
-        $contact->email = $request->get('email');
-        $contact->phone = $request->get('phone');
-        $contact->business = $request->get('business');
-        $contact->save();
+        $app = new app();
+        $app->name = $request->get('name');
+        $app->email = $request->get('email');
+        $app->phone = $request->get('phone');
+        $app->business = $request->get('business');
+        $app->save();
         return "OK";
 
     } 

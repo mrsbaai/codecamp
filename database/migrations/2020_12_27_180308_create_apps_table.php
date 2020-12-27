@@ -18,7 +18,6 @@ class CreateAppsTable extends Migration
             $table->string('name');
             $table->string('phone');
             $table->string('email');
-            $table->string('subject');
             $table->string('business');
             $table->timestamps();
         });
