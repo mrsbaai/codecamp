@@ -93,7 +93,10 @@
         <h2>
           <br/>
 
-<div style="max-width: 300px;" class="text-center">
+<div class="text-center">
+
+  <div class="row">
+    <div class="col-md-4">
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
@@ -116,6 +119,9 @@
           <span class="sr-only">Next</span>
         </a>
       </div>
+    </div>
+</div>
+      
 </div>
       
     </div>
