@@ -44,7 +44,60 @@
   <!-- Template Main CSS File -->
   <link href="/construction/css/style.css" rel="stylesheet">
 
+  
+
 </head>
+
+<style>
+  ul {         
+      padding:0 0 0 0;
+      margin:0 0 0 0;
+  }
+  ul li {     
+      list-style:none;
+      margin-bottom:25px;           
+  }
+  ul li img {
+      cursor: pointer;
+  }
+  .modal-body {
+      padding:5px !important;
+  }
+  .modal-content {
+      border-radius:0;
+  }
+  .modal-dialog img {
+      text-align:center;
+      margin:0 auto;
+  }
+.controls{          
+    width:50px;
+    display:block;
+    font-size:11px;
+    padding-top:8px;
+    font-weight:bold;          
+}
+.next {
+    float:right;
+    text-align:right;
+}
+  /*override modal for demo only*/
+  .modal-dialog {
+      max-width:500px;
+      padding-top: 90px;
+  }
+  @media screen and (min-width: 768px){
+      .modal-dialog {
+          width:500px;
+          padding-top: 90px;
+      }          
+  }
+  @media screen and (max-width:1500px){
+      #ads {
+          display:none;
+      }
+  }
+</style>
 
 <body>
 
@@ -100,29 +153,126 @@
 
   <section id="contact" class="contact" style="color:white;background-color:#343A40;">
     <div class="container" data-aos="fade-up">
-      <div class="row">
-        <div class="col-md-12">
-          <div class="page-header">
+      <div class="row" style="text-align:center; border-bottom:1px dashed #ccc;  padding:0 0 20px 0; margin-bottom:40px;">
+        <h3 style="font-family:arial; font-weight:bold; font-size:30px;">
+            Bootstrap Photo Gallery jQuery Plugin Example
+    </h3>
+    <div class="jquery-script-ads" align="center"><script type="text/javascript"><!--
+google_ad_client = "ca-pub-2783044520727903";
+/* jQuery_demo */
+google_ad_slot = "2780937993";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></div>
+    </div>
+    
+    <ul class="row">
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-174908-rocking-the-night-away-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-287182-blah-blah-blah-yellow-road-sign-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-460760-colors-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-461673-retro-party-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-514834-touchscreen-technology-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-916206-legal-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-1062948-nature-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-1471528-insant-camera-kid-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-2255072-relaxed-man-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-2360379-colors-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-2360571-jump-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-2361384-culture-for-business-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-2441670-spaghetti-with-tuna-fish-and-parsley-s.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-2943363-budget-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-3444921-street-art-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-3552322-insurance-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-3807845-food-s.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-3835655-down-office-worker-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-4619216-ui-control-knob-regulators-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-5771958-health-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-268693-businesswoman-using-laptop-outdoors-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-352207-search-of-code-s.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-247190-secret-email-xs.jpg">
+        </li>
+        <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
+            <img class="img-responsive" src="images/photodune-682990-online-search-xs.jpg">
+        </li>
+      </ul>             
+</div> <!-- /container -->
 
-          </div>
-
-          <p class="lead">
-            Social engineering is a technique hackers use to manipulate end users and obtain information about an organization or computer systems. In order to protect their networks, IT security professionals need to understand social engineering, who is targeted, and how social engineering attacks are orchestrated.<br>
-          </p>
-      
-          <p class="lead">
-            In this course, cybersecurity expert Lisa Bock discusses the methods a hacker might use, including embedding malicious links and attachments in emails and using mobile devices and social media to deploy an attack. She discusses the concept of "misuse of trust"—how hackers use charm, power, and influence to penetrate an organization—and why you need to be extra cautious with the disgruntled employee. Finally, Lisa discusses countermeasures security professionals can take to address these attacks.<br>
-          </p>
-          <br/><br/>
-          BLA BLA..
-          
-          
-
-
-
-        
-        </div>
+ 
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">         
+      <div class="modal-body">                
       </div>
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
+</body>
+<script type="text/javascript">
+
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-36251023-1']);
+_gaq.push(['_setDomainName', 'jqueryscript.net']);
+_gaq.push(['_trackPageview']);
+
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+
+</script>
+
+      
     </div>
   </section>
 
