@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Coming Soon</title>
-  <meta content="A social network, market place, learning camp, for independent internet builders." name="descriptison">
+  <meta content="A social network, market place, learning camp, for young web experts." name="descriptison">
 
 
   <!-- Favicons -->
@@ -57,7 +57,7 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
       <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Independent Internet Builders.</p>
+      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Young Web Experts.</p>
 	
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
@@ -94,7 +94,7 @@
           <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h2>A Social Network</h2>
-              <p>Get Connected with other Independent Internet Builders.</p>
+              <p>Get Connected with other web experts.</p>
             </div>
           </div>
 		  
@@ -110,7 +110,7 @@
           <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
               <h2>A Learning Camp</h2>
-              <p>Exlusive content. Improve your knowlege and skills as an independent internet warrior.</p>
+              <p>Exlusive content. Improve your knowlege and skills as a web expert.</p>
             </div>
           </div>
 
@@ -248,6 +248,7 @@
   <footer id="footer">
     <section id="followus">
     <div class="container" data-aos="fade-up">
+      <div class="text-center"><a href="/coworking">Interested In A Co-Working Space?</a></div>
       <h1>Follow us on social media for updates</h1>
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
