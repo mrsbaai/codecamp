@@ -118,6 +118,7 @@
       </div>
       
     </div>
+    <center><h1>For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h1></center>
   </section>
 
 
@@ -136,7 +137,7 @@
       <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
       <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
     </div>
-    <h3> CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡</h3>
+    <p> CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡</p>
     <div class="copyright">
       &copy; Copyright <strong><span>Code Camp</span></strong>. All Rights Reserved
     </div>
@@ -147,7 +148,7 @@
 </footer><!-- End Footer -->
 
   <div id="preloader"></div>
-  
+
   <!-- Vendor JS Files -->
   <script src="/construction/vendor/jquery/jquery.min.js"></script>
   <script src="/construction/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
