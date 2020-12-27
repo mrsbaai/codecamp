@@ -108,7 +108,30 @@
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="/construction/img/02.jpg">
-
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/03.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/04.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/05.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/06.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/07.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/08.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/09.jpg">
+          </div>
+          <div class="carousel-item">
+            <img class="d-block w-100" src="/construction/img/10.jpg">
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
