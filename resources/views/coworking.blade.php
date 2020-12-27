@@ -43,7 +43,7 @@
 
   <!-- Template Main CSS File -->
   <link href="/construction/css/style.css" rel="stylesheet">
-  <script src="/construction/js/photo-gallery.js"></script>
+
 
 
   
@@ -155,125 +155,7 @@
 
   <section id="contact" class="contact" style="color:white;background-color:#343A40;">
     <div class="container" data-aos="fade-up">
-      <div class="row" style="text-align:center; border-bottom:1px dashed #ccc;  padding:0 0 20px 0; margin-bottom:40px;">
-        <h3 style="font-family:arial; font-weight:bold; font-size:30px;">
-            Bootstrap Photo Gallery jQuery Plugin Example
-    </h3>
-    <div class="jquery-script-ads" align="center"><script type="text/javascript"><!--
-google_ad_client = "ca-pub-2783044520727903";
-/* jQuery_demo */
-google_ad_slot = "2780937993";
-google_ad_width = 728;
-google_ad_height = 90;
-//-->
-</script>
-<script type="text/javascript"
-src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
-    </div>
-    
-    <ul class="row">
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-174908-rocking-the-night-away-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-287182-blah-blah-blah-yellow-road-sign-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-460760-colors-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-461673-retro-party-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-514834-touchscreen-technology-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-916206-legal-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-1062948-nature-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-1471528-insant-camera-kid-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-2255072-relaxed-man-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-2360379-colors-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-2360571-jump-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-2361384-culture-for-business-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-2441670-spaghetti-with-tuna-fish-and-parsley-s.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-2943363-budget-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-3444921-street-art-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-3552322-insurance-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-3807845-food-s.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-3835655-down-office-worker-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-4619216-ui-control-knob-regulators-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-5771958-health-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-268693-businesswoman-using-laptop-outdoors-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-352207-search-of-code-s.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-247190-secret-email-xs.jpg">
-      </li>
-      <li class="col-lg-2 col-md-2 col-sm-3 col-xs-4">
-          <img class="img-responsive" src="/construction/img/photodune-682990-online-search-xs.jpg">
-      </li>
-    </ul>             
-</div> <!-- /container -->
-
- 
-<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-  <div class="modal-dialog">
-    <div class="modal-content">         
-      <div class="modal-body">                
-      </div>
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-</body>
-<script type="text/javascript">
-
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-36251023-1']);
-_gaq.push(['_setDomainName', 'jqueryscript.net']);
-_gaq.push(['_trackPageview']);
-
-(function() {
-var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
-
-</script>
-
+      bla bla
       
     </div>
   </section>

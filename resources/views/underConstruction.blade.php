@@ -66,7 +66,7 @@
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
       <br/><br/>
-      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
+      <div class="text-center"><a class="btn btn-secondary btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
       <style type="text/css">
   
