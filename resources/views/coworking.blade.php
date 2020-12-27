@@ -85,6 +85,30 @@
 
   <section id="main" class="contact" style="color:white;background-color:#ff1616;">
 
+     
+    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src="/construction/img/00.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/construction/img/01.jpg">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src="/construction/img/02.jpg">
+
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div>
+
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
       <p class="text-center" style= "font-size=200%">
             The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀<br/><br/>
@@ -96,31 +120,9 @@
 
     </div>
 
-    <div class="container" data-aos="fade-up">
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-          <div class="carousel-item active">
-            <img class="d-block w-100" src="/construction/img/00.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/01.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/02.jpg">
 
-          </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
       
-    </div>
+
   </section>
 
 
