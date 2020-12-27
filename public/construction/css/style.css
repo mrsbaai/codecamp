@@ -1081,9 +1081,7 @@ section {
 
 .contact .php-application-form {
     width: 100%;
-    border-width: 5px;
-    border-color: black;
-    background-color: #FF1616;
+    background-color: #343A40;
 }
 
 .contact .php-application-form .form-group {
@@ -1156,7 +1154,7 @@ section {
 }
 
 .contact .php-application-form button[type="submit"] {
-    background: #343A40;
+    background: #DC3545;
     border: 0;
     padding: 10px 35px;
     color: #fff;
