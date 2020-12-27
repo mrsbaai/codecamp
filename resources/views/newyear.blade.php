@@ -124,7 +124,7 @@
           </p>
           <br/><br/>
 
-          {{ Form::open(array('action' => 'pagesController@saveForm', 'class' => 'php-email-form'))}}
+          {{ Form::open(array('action' => 'pagesController@saveForm', 'class' => 'php-application-form'))}}
           <div class="form-row">
             <div class="col-md-4 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -140,7 +140,7 @@
             </div>
           </div>
           <div class="form-group">
-            <textarea class="form-control" name="business" rows="5" data-rule="required" data-msg="A short description of your business:" placeholder="A short description of your business"></textarea>
+            <textarea class="form-control" name="business" rows="5" data-rule="required" data-msg="A short description of your online business:" placeholder="A short description of your online business"></textarea>
             <div class="validate"></div>
           </div>
           <div class="mb-3">
