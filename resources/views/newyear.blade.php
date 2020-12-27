@@ -445,7 +445,7 @@
         <blockquote class="blockquote">
           <p class="mb-0">
             As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
-           <br/><br/>[Wednesday, Dec 30th] - <b>Tetouan</b>
+           <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
           </p>
 
         </blockquote>
@@ -482,7 +482,7 @@
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
                 Wednesday, Dec 30th
               </h4>
-              <ul class="list-timeline list-timeline-primary">
+              <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">09:00 - 10:00</span> - Registration</p>
                 </li>
