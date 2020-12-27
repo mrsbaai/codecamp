@@ -82,23 +82,20 @@
   </div>
 </nav>
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="d-flex flex-column justify-content-center">
 
-    <div class="container" data-aos="zoom-in" data-aos-delay="100">
+  <section id="main" class="contact" style="color:white;background-color:#ff1616;">
+
+    <div class="container justify-content-center" data-aos="zoom-in" data-aos-delay="100">
       <p>
             The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵 🚀<br/><br/>
             For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮<br/>
             CodeCamp.ma Wilaya Center ET5 N°55 𝗧𝗘𝗧𝗢𝗨𝗔𝗡<br/><br/>
-            <span class="typed" data-typed-items="CodeCamp.ma: Young Web Experts Community."></span>    
       </p>
 
 
 
     </div>
-  </section><!-- End Hero -->
 
-  <section id="contact" class="contact" style="color:white;background-color:#ff1616;">
     <div class="container" data-aos="fade-up">
       <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
         <div class="carousel-inner">
