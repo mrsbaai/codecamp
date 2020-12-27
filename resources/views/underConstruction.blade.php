@@ -248,7 +248,9 @@
   <footer id="footer">
     <section id="followus">
     <div class="container" data-aos="fade-up">
-      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In A Co-Working Space?</a></div>
+
+      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In A <b>CO-WORKING</b> Space?</a></div>
+      <br/>
       <br/>
       <h1>Follow us on social media for updates</h1>
       <div class="social-links">
