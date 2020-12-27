@@ -254,7 +254,7 @@
       <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
       <br/>
-      <h3>Follow us on social media for updates</h3>
+      <h4>Follow us on social media for updates:</h4>
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
         <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>

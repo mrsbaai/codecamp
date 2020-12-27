@@ -136,7 +136,7 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-    <h4>Follow us on social media for updates</h4>
+    <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
       <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
