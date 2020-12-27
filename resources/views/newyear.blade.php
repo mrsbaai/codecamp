@@ -394,11 +394,11 @@
 .list-timeline.list-timeline-green-bright .list-timeline-item.active:before,
 .list-timeline.list-timeline-green-bright .list-timeline-item.show:before,
 .list-timeline.list-timeline-green-bright:before {
-  background: #2ECC71
+  background: #ff1616
 }
 
 .list-timeline.list-timeline-green-bright .list-timeline-item:before {
-  border-color: #2ECC71
+  border-color: #ff1616
 }
 
 
