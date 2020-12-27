@@ -82,11 +82,11 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
   
       <p>
-        <b><span class="typed" data-typed-items="2021 New Year Online Business Resolution"></span></b>
+        <b><span class="typed" data-typed-items="2021 New Year Online Business Resolution"></span></b><br/>
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> by the new year <b>2021</b>.
+            As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
           </p>
 
         </blockquote>
