@@ -85,7 +85,7 @@
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            As part of a first initiative in Tetouan, CODECAMP.MA, the young web experts community is organizing a professional gathering to discuss and exchange ideas about how can we get our online business more profitable and resilient by the new year 2021.
+            As part of a first initiative in <b>Tetouan</b>, CODECAMP.MA, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we get our <b>online businesses more profitable</b> and resilient by the new year <b>2021</b>.
           </p>
 
         </blockquote>
