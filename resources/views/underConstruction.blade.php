@@ -6,7 +6,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>Coming Soon</title>
-  <meta content="A social network, market place, learning camp, for young web experts." name="descriptison">
+  <meta content="A social network, market place, learning camp, for web experts." name="descriptison">
 
 
   <!-- Favicons -->
@@ -57,7 +57,7 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
       <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Young Web Experts.</p>
+      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Web Experts.</p>
 	
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
@@ -248,7 +248,8 @@
   <footer id="footer">
     <section id="followus">
     <div class="container" data-aos="fade-up">
-      <div class="text-center"><a class="btn btn-danger" href="/coworking">Interested In A Co-Working Space?</a></div>
+      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In A Co-Working Space?</a></div>
+      <br/>
       <h1>Follow us on social media for updates</h1>
       <div class="social-links">
         <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
