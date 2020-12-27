@@ -144,7 +144,7 @@
             The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵<br/>
             For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮<br/>
             CodeCamp.ma Wilaya Center ET5 N°55 TETOUAN<br/>
-            <span class="typed" data-typed-items="𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 in Tetouan - Morocco"></span>
+            <span class="typed" data-typed-items="CodeCamp.ma: Young Web Experts Community"></span>
        
 
       </p>
