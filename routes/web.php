@@ -26,6 +26,8 @@ Route::get('/events/1', 'pagesController@event1');
 Route::get('/events/newyear', 'pagesController@newyear');
 Route::post('/events/newyear', 'pagesController@saveApp');
 
+Route::post('/events/newyear/data', 'pagesController@newyearData');
+
 Route::get('/timer', 'pagesController@timer');
 
 

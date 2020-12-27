@@ -95,7 +95,7 @@
           a:hover {color:white; text-decoration: none; }
    
           </style>
-        <a href="/#application" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
+        <a href="/events/newyear/#application" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
       </p>
 
 
@@ -122,7 +122,7 @@
             <br/>
             <h1>Application:</h1>
             <br/>
-            We would like to inform you that seats are limited and the subscription will expire by December the 30th 2020 at Midnight. We will send you an invitation by E-mail.
+            We would like to inform you that seats are limited and the subscription will expire by December the 29th 2020 at Midnight. We will send you an invitation by E-mail.
             <br/><br/>
             To apply to the 2021 New Year Online Business Resolution event, kindly fill this following application:
           </p>

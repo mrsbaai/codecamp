@@ -37,6 +37,10 @@ class pagesController extends Controller
     }
 
 
+    public function newyearData(){
+        return view('data');
+    }
+
 
 
 
