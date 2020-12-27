@@ -51,4 +51,15 @@ class pagesController extends Controller
         return "OK";
 
     } 
+
+    public function saveApp(Request $request){
+        $contact = new contact();
+        $contact->name = $request->get('name');
+        $contact->email = $request->get('email');
+        $contact->phone = $request->get('phone');
+        $contact->business = $request->get('business');
+        $contact->save();
+        return "OK";
+
+    } 
 }

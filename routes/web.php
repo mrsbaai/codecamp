@@ -24,6 +24,7 @@ Route::post('/coworking', 'pagesController@saveForm');
 
 Route::get('/events/1', 'pagesController@event1');
 Route::get('/events/newyear', 'pagesController@newyear');
+Route::post('/events/newyear', 'pagesController@saveApp');
 
 Route::get('/timer', 'pagesController@timer');
 
