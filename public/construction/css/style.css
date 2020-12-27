@@ -1083,8 +1083,8 @@ section {
     background-color: #343A40 !important;
 }
 
-.php-application-form button[type="submit"] {
-    background: #DC3545;
+.application-form button[type="submit"] {
+    background: #DC3545 !important;
 }
 
 @-webkit-keyframes animate-loading {
