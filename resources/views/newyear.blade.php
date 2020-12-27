@@ -128,7 +128,7 @@
           </p>
           <br/><br/>
 
-          {{ Form::open(array('action' => 'pagesController@saveApp', 'class' => 'php-email-form'))}}
+          {{ Form::open(array('action' => 'pagesController@saveApp', 'class' => 'php-email-form application-form'))}}
           <div class="form-row">
             <div class="col-md-4 form-group">
               <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
