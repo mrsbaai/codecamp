@@ -136,15 +136,15 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
   
-      <p><span class="typed" data-typed-items="Social Engineering [Ethical Hacking] [Code Camp Events]"></span>
+      <p><span class="typed" data-typed-items="𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 in Tetouan - Morocco"></span>
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            Most hackers are young because young people tend to be adaptable. As long as you remain adaptable, you can always be a good hacker.
+            Meet 𝗪𝗘𝗕 𝗘𝗫𝗣𝗘𝗥𝗧𝗦, designers, programmers, online marketers… in 𝗧𝗘𝗧𝗢𝗨𝗔𝗡 🚀
+            The 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 for 𝟲𝟬𝟬𝗱𝗵/𝗠𝗼𝗻𝘁𝗵
+            For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮
+            CodeCamp.ma Wilaya Center ET5 N°55 TETOUAN
           </p>
-          <footer class="blockquote-footer" style="color:white;">
-            Emmanuel Goldstein, Dear Hacker: Letters to the Editor of 2600
-          </footer>
         </blockquote>
       </p>
 
@@ -165,7 +165,7 @@
           </div>
           <div class="carousel-item">
             <img class="d-block w-100" src="/construction/img/02.jpg">
-            
+
           </div>
         </div>
         <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
