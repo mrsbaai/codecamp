@@ -86,7 +86,7 @@
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            As part of a first initiative in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
+            As part of a first  in <b>Tetouan</b>, CodeCamp.ma, the <b>young web experts community</b> is organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
           </p>
 
         </blockquote>
@@ -112,16 +112,48 @@
           </div>
 
           <p class="lead">
-            The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated in efficient actions.  <br>
+            The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated into efficient actions.<br>
           </p>
       
           <p class="lead">
+            <br/>
             <h1>Application:</h1>
             We would like to inform you that seats are limited and the subscription will expire by December the 30th 2020 at Midnight. We will send you an invitation by E-mail.
-            <br/>
-            To apply to the 2021 New Year Online Business Resolution event, kindly fill this following application.
+            <br/><br/>
+            To apply to the 2021 New Year Online Business Resolution event, kindly fill this following application:
           </p>
           <br/><br/>
+
+          {{ Form::open(array('action' => 'pagesController@saveForm', 'class' => 'php-email-form'))}}
+          <div class="form-row">
+            <div class="col-md-4 form-group">
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <div class="validate"></div>
+            </div>
+            <div class="col-md-4 form-group">
+              <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone Number" data-rule="minlen:8" data-msg="Please enter your realphone number" />
+              <div class="validate"></div>
+            </div>
+            <div class="col-md-4 form-group">
+              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+              <div class="validate"></div>
+            </div>
+          </div>
+          <div class="form-group">
+            <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
+            <div class="validate"></div>
+          </div>
+          <div class="form-group">
+            <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+            <div class="validate"></div>
+          </div>
+          <div class="mb-3">
+            <div class="loading">Loading...</div>
+            <div class="error-message">An error has occurred :(</div>
+            <div class="sent-message">Application Received :)</div>
+          </div>
+          <div class="text-center"><button type="submit">Send Application</button></div>
+          {{ Form::close() }}
          
 
 
