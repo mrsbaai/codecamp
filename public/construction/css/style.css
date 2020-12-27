@@ -1083,6 +1083,10 @@ section {
     background-color: #343A40 !important;
 }
 
+.php-application-form button[type="submit"] {
+    background: #DC3545;
+}
+
 @-webkit-keyframes animate-loading {
     0% {
         transform: rotate(0deg);
