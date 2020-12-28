@@ -67,8 +67,11 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="https://codecamp.ma">Home
-                <span class="sr-only">(current)</span>
+          <a class="nav-link" href="https://codecamp.ma">Home       
+              </a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="https://codecamp.ma/coworking">Co-working
               </a>
         </li>
         <li class="nav-item">
