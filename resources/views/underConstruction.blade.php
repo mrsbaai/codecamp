@@ -68,6 +68,8 @@
       <br/><br/>
       <div class="text-center"><a class="btn btn-secondary btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
+      <div class="text-center"><a class="btn btn-secondary btn-lg" href="/events/newyear">Event: 2021 New Year Online Business Resolution</div>
+      <br/>
       <style type="text/css">
   
         a:hover {color:white; text-decoration: none; }
