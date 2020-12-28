@@ -65,8 +65,6 @@
         <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      <br/><br/>
-      <div class="text-center"><a class="btn btn-secondary btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
       <div class="text-center"><a href="/events/newyear">Latest event: 2021 New Year Online Business Resolution</a></div>
       <br/>
