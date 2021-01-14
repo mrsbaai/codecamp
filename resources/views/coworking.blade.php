@@ -162,11 +162,11 @@
     <div class="row">
     <div class="col-md-2"></div>
     <div class="col-md-8">
-    <iframe  width="640" height="360" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    <iframe  width="700" height="393" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
     </div>
     <div class="col-md-2"></div>
   </div>
-    <br/><br/>
+    <br/><br/><br/>
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
