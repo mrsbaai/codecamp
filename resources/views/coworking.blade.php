@@ -95,7 +95,7 @@
         <h2>
           <br/>
 
-          <iframe  width="100%"  src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <iframe  width="100%" height="100%" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           <br/>
 
       
@@ -111,7 +111,7 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-
+    <h4>Photos:</h4>
     <div class="text-center">
 
       <div class="row">
