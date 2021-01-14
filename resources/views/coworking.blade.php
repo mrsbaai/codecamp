@@ -159,10 +159,30 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
+
+    <style>
+      .video_wrapper {
+position: relative;
+padding-bottom: 56.25%; /* 16:9, for an aspect ratio of 1:1 change to this value to 100% */ 
+}
+iframe{
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+</style>
+
     <div class="row">
-<center>
-    <iframe  width="730" height="410.625" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-</center>
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
+      <div class="video_wrapper">
+        <iframe  width="100%" height="100%" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    
+      </div>
+    </div>
+    <div class="col-md-2"></div>
   </div>
     <br/><br/><br/>
     <h4>Follow us on social media for updates:</h4>
