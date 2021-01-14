@@ -95,7 +95,7 @@
         <h2>
           <br/>
 
-          <iframe  src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <iframe  width="100%"  src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           <br/>
 
       
@@ -163,7 +163,7 @@
         </div>
         <div class="col-md-2"></div>
     </div>
-    
+
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
