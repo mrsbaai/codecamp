@@ -88,13 +88,15 @@
 
   <section id="main" class="contact" style="color:white;background-color:#ff1616;">
 
-    <div class="container 300-px-wide text-center data-aos="fade-up" >
+    <div class="container 300-px-wide text-center" data-aos="fade-up" >
 
         <h2>
         Our 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 - 𝗧𝗘𝗧𝗢𝗨𝗔𝗡
         <h2>
           <br/>
 
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/e8fkmpQRHDI?controls=0&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <br/>
 <div class="text-center">
 
   <div class="row">
@@ -115,9 +117,9 @@
           <div class="carousel-item">
             <img class="d-block w-100" src="/construction/img/03.jpg">
           </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/05.jpg">
-          </div>
+ 
+          
+
           <div class="carousel-item">
             <img class="d-block w-100" src="/construction/img/07.jpg">
           </div>
