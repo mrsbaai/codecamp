@@ -160,11 +160,9 @@
   <section id="followus">
   <div class="container" >
     <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
-    <iframe  width="730" height="410.6" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-    </div>
-    <div class="col-md-2"></div>
+
+    <iframe  width="730" height="410.625" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+
   </div>
     <br/><br/><br/>
     <h4>Follow us on social media for updates:</h4>
