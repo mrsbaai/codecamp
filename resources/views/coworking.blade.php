@@ -162,7 +162,7 @@
     <div class="row">
     <div class="col-md-2"></div>
     <div class="col-md-8">
-    <iframe  width="100%" height="200%" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+    <iframe  width="100%" height="300%" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
     </div>
     <div class="col-md-2"></div>
   </div>
