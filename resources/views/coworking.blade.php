@@ -159,12 +159,13 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-    <br/>
+    <div class="row">
     <div class="col-md-2"></div>
     <div class="col-md-8">
     <iframe  width="100%" height="100%" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
     </div>
     <div class="col-md-2"></div>
+  </div>
     <br/><br/>
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
