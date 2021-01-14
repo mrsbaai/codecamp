@@ -95,59 +95,9 @@
         <h2>
           <br/>
 
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/e8fkmpQRHDI?controls=0&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+          <iframe  src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
           <br/>
-<div class="text-center">
 
-  <div class="row">
-    <div class="col-md-2"></div>
-    <div class="col-md-8">
-      <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner">
-
-          <div class="carousel-item active">
-            <img class="d-block w-100" src="/construction/img/00.png">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/01.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/02.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/03.jpg">
-          </div>
- 
-          
-
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/07.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/08.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/09.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/10.jpg">
-          </div>
-          <div class="carousel-item">
-            <img class="d-block w-100" src="/construction/img/11.jpg">
-          </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-          <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-          <span class="carousel-control-next-icon" aria-hidden="true"></span>
-          <span class="sr-only">Next</span>
-        </a>
-      </div>
-    </div>
-    <div class="col-md-2"></div>
-</div>
       
 </div>
       
@@ -161,6 +111,59 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
+
+    <div class="text-center">
+
+      <div class="row">
+        <div class="col-md-2"></div>
+        <div class="col-md-8">
+          <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+            <div class="carousel-inner">
+    
+              <div class="carousel-item active">
+                <img class="d-block w-100" src="/construction/img/00.png">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/01.jpg">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/02.jpg">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/03.jpg">
+              </div>
+     
+              
+    
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/07.jpg">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/08.jpg">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/09.jpg">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/10.jpg">
+              </div>
+              <div class="carousel-item">
+                <img class="d-block w-100" src="/construction/img/11.jpg">
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+        </div>
+        <div class="col-md-2"></div>
+    </div>
+    
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
