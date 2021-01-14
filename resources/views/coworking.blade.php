@@ -160,8 +160,12 @@
   <section id="followus">
   <div class="container" >
     <br/>
+    <div class="col-md-2"></div>
+    <div class="col-md-8">
     <iframe  width="100%" height="100%" src="https://www.youtube.com/embed/e8fkmpQRHDI?autoplay=1?&loop=1" frameborder="0" allow="accelerometer; autoplay; loop; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-    <br/>
+    <div class="col-md-8">
+    <div class="col-md-2"></div>
+    <br/><br/>
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
       <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
