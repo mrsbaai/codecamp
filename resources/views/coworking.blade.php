@@ -151,7 +151,7 @@
       
     </div>
     <br/><br/>
-    <center><h3>For more information please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h3></center>
+    <center><h3>For more information or special pricing please call 𝟬𝟳 𝟬𝟳 𝟳𝟯 𝟬𝟳 𝟳𝟮</h3></center>
   </section>
 
 
