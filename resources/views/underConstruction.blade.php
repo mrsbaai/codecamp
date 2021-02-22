@@ -87,7 +87,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>COMMING SOON:</h2>
+          <h2>Comming Soon:</h2>
           
         </div>
 
