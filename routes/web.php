@@ -18,6 +18,7 @@ Route::post('/', 'pagesController@saveForm');
 
 Route::get('/coworking', 'pagesController@coworking');
 
+Route::get('/home', 'pagesController@homeTest');
 
 Route::post('/coworking', 'pagesController@saveForm');
 
