@@ -87,7 +87,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="section-title">
-          <h2>Comming Soon:</h2>
+          <h2>Comming SOON:</h2>
           
         </div>
 
@@ -95,7 +95,7 @@
 
           <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h2>A Social Network</h2>
+              <h2>A Social </h2>
               <p>Get Connected with other web experts.</p>
             </div>
           </div>
