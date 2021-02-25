@@ -95,7 +95,7 @@
 
           <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h2>A Social </h2>
+              <h2></h2>
               <p>Get Connected with other web experts.</p>
             </div>
           </div>
