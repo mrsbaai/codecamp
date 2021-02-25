@@ -14,9 +14,6 @@ class pagesController extends Controller
     public function Home(){
         return view('underConstruction');
     }
-    public function HomeTest(){
-        return view('home');
-    }
 
     public function dev(){
         return view('dev');
