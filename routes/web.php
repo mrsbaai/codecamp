@@ -38,7 +38,7 @@ Route::get('/timer', 'pagesController@timer');
 
 Auth::routes();
 
-Route::get('/account', 'AccountController@index')->name('account');
+Route::get('/home', 'HomeController@index')->name('home');
 
 
 Route::get('/test', 'pagesController@test')->name('home');
