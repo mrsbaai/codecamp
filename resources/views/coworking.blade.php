@@ -91,7 +91,7 @@
     <div class="container 300-px-wide text-center" data-aos="fade-up" >
 
         <h2>
-        CodeCamp.ma: The Young Web Experts Community <br/><br/>
+        CodeCamp.ma: ThenYoung Web Experts Community <br/><br/>
         Our 𝗖𝗢-𝗪𝗢𝗥𝗞𝗜𝗡𝗚 space is open 𝟮𝟰/𝟳 - 𝗧𝗘𝗧𝗢𝗨𝗔𝗡
         
 
