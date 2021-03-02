@@ -66,9 +66,7 @@
     <main>
         
             <div class="row vh-100">
-                <div class="col-12 my-auto">
                     @yield('content')
-                </div>
             </div>
         
     </main>
