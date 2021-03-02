@@ -5,7 +5,7 @@
     <div class="row vh-100">
         <div class="col-12 my-auto">
             <h1>Hello</h1>
-</div>
-</div>
+        </div>
+    </div>
 </section>
 @endsection
