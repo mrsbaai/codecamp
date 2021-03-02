@@ -70,7 +70,7 @@
 
 
     
-    <main>
+    <main role="main" >
 
        @yield('content')
  
