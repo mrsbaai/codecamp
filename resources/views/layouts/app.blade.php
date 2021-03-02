@@ -71,10 +71,7 @@
 
     
     <main role="main" >
-
        @yield('content')
- 
-  
     </main>
         <footer id="footer" class="bg-dark text-light py-5">
         <div class="container py-5">
