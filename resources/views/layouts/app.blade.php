@@ -109,41 +109,8 @@
     </nav> 
     <main>
         <section class="container">
-            <div class="row py-5">
-                <div class="col-12 my-auto">
-                    <div class="row text-center">
-                        <div class="col-lg-4 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                    <h1 class="display-2 text-primary"><span class="ion ion-ios-snow-outline"></span></h1>
-                                    <h4 class="card-title text-primary">Unique</h4>
-                                    <p class="card-text">Don't like that typical Bootstrap look? Each theme has a <strong>custom look-and-feel</strong>, while maximizing use of Bootstrap without extensive additional CSS & JS.</p>
-                                    <a href="#" class="btn btn-primary mt-auto">Button</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                    <h1 class="display-2 text-primary"><span class="ion ion-ios-tablet-portrait-outline"></span></h1>
-                                    <h4 class="card-title text-primary">Responsive</h4>
-                                    <p class="card-text">Based on <strong>mobile-first</strong> Bootstrap 4, all themes are 100% responsive and designed to look great on everything from smartphones to tablets to desktops..</p>
-                                    <a href="#" class="btn btn-primary mt-auto">Button</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mb-4">
-                            <div class="card h-100">
-                                <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                                    <h1 class="display-2 text-primary"><span class="ion ion-ios-construct-outline"></span></h1>
-                                    <h4 class="card-title text-primary">Consistent</h4>
-                                    <p class="card-text">Themes are crafted with care for design and performance. Like Bootstrap, the themes are built on modern HTML5 & CSS3 standards to ensure consistency and <strong>cross-browser</strong> support.</p>
-                                    <a href="#" class="btn btn-primary mt-auto">Button</a>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+            <div class="row vh-100">
+                @yield('content')
             </div>
         </section>
         
