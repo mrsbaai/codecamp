@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="{{ asset('css/codecamp_theme.css') }}" />
 
   </head>
-  <body data-spy="scroll" data-target="#navbar1" data-offset="60">
+  <body data-spy="scroll" data-target="#navbar1" data-offset="200">
   
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary" id="navbar1">
         <div class="container">
