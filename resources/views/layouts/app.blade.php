@@ -64,7 +64,13 @@
         </div>
     </nav>
     <main>
-         @yield('content')
+        <section class="container">
+            <div class="row vh-100">
+                <div class="col-12 my-auto">
+                    @yield('content')
+                </div>
+            </div>
+        </section>
     </main>
         <footer id="footer" class="bg-dark text-light py-5">
         <div class="container py-5">
