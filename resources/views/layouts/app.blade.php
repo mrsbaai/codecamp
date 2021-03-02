@@ -65,9 +65,11 @@
     </nav>
     <main>
         
-            <div class="row vh-100">
+          
+                <div class="col-12 my-auto">
                     @yield('content')
-            </div>
+                </div>
+         
         
     </main>
         <footer id="footer" class="bg-dark text-light py-5">
