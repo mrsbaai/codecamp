@@ -12,7 +12,8 @@
   </head>
   <body data-spy="scroll" data-target="#navbar1" data-offset="200">
   
-    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary" id="navbar1">
+    
+        <nav class="navbar navbar-dark fixed-top bg-dark flex-md-nowrap p-0 shadow">
 
         <div class="container">
             <a class="navbar-brand" href="{{ url('/') }}">
