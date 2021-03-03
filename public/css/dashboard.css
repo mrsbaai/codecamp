@@ -87,6 +87,12 @@ a[aria-expanded="true"] {
     background: #fff;
 }
 
+#sidebar ul li.active>a,
+a:hover[aria-expanded="true"] {
+    color: #222222;
+    background: #fff;
+}
+
 a[data-toggle="collapse"] {
     position: relative;
 }
