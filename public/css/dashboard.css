@@ -87,10 +87,9 @@ a[aria-expanded="true"] {
     background: #fff;
 }
 
-#sidebar ul li.active>a:hover,
-a[aria-expanded="true"] {
-    color: #222222;
-    background: #fff;
+#sidebar ul li.active>a:hover {
+    color: #fff;
+    background: #222;
 }
 
 a[data-toggle="collapse"] {
