@@ -48,7 +48,7 @@ a:focus {
     min-width: 250px;
     max-width: 250px;
     background: #CACACA;
-    color: #fff;
+    color: #222222;
     transition: all 0.3s;
 }
 
@@ -63,7 +63,7 @@ a:focus {
 
 #sidebar ul.components {
     padding: 20px 0;
-    border-bottom: 1px solid #47748b;
+    border-bottom: 1px solid white;
 }
 
 #sidebar ul p {
@@ -78,7 +78,7 @@ a:focus {
 }
 
 #sidebar ul li a:hover {
-    color: #CACACA;
+    color: #222222;
     background: #fff;
 }
 
