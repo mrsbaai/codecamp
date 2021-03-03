@@ -45,6 +45,10 @@ class pagesController extends Controller
         return view('data');
     }
 
+    public function test(){
+        return view('test');
+    }
+
 
 
 
