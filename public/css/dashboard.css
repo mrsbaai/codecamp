@@ -77,8 +77,8 @@ a:focus {
 }
 
 #sidebar ul li a:hover {
-    color: #fff;
-    background: #222222;
+    color: #222;
+    background: #fff;
 }
 
 #sidebar ul li.active>a,
@@ -109,11 +109,6 @@ ul ul a {
     padding-left: 30px !important;
     background: #222;
     color: #fff;
-}
-
-ul ul a:hover {
-    background: #fff;
-    color: #222;
 }
 
 ul.CTAs {
