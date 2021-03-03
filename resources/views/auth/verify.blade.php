@@ -3,7 +3,7 @@
 @section('content')
 
 <div class="container vh-100">
-    <div class="row justify-content-center align-self-center">
+    <div class="row h-100 justify-content-center align-items-center">
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">{{ __('Verify Your Email Address') }}</div>
@@ -25,6 +25,4 @@
             </div>
         </div>
     </div>
-
-
 @endsection
