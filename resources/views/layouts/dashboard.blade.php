@@ -23,7 +23,7 @@
         <!-- Sidebar  -->
         <nav id="sidebar">
             <div class="sidebar-header">
-                <img src="{{ asset('img/logo_transparent.png') }}" height="auto" width="auto" alt="">
+                <img src="{{ asset('img/name.png') }}" height="auto" width="210" alt="">
             </div>
 
             <ul class="list-unstyled components">
