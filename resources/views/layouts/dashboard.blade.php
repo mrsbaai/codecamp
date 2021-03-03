@@ -22,8 +22,8 @@
     <div class="wrapper">
         <!-- Sidebar  -->
         <nav id="sidebar">
-            <div class="sidebar-header">
-                <img src="{{ asset('img/name.png') }}" height="auto" width="210" alt="">
+            <div class="sidebar-header text-center">
+                <img src="{{ asset('img/dash.png') }}" height="auto" width="210" alt="">
             </div>
 
             <ul class="list-unstyled components">
