@@ -57,6 +57,7 @@ a:focus {
 
 #sidebar .sidebar-header {
     padding: 20px;
+    padding-top: 10px;
     background: #FF304F;
 }
 
