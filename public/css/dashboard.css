@@ -111,6 +111,11 @@ ul ul a {
     color: #fff;
 }
 
+ul ul a:hover {
+    background: #fff;
+    color: #222;
+}
+
 ul.CTAs {
     padding: 20px;
 }
