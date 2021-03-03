@@ -78,14 +78,14 @@ a:focus {
 }
 
 #sidebar ul li a:hover {
-    color: #DE3B2D;
+    color: #FF304F;
     background: #fff;
 }
 
 #sidebar ul li.active>a,
 a[aria-expanded="true"] {
     color: #fff;
-    background: #6d7fcc;
+    background: #DE3B2D;
 }
 
 a[data-toggle="collapse"] {
@@ -103,7 +103,7 @@ a[data-toggle="collapse"] {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #6d7fcc;
+    background: #DE3B2D;
 }
 
 ul.CTAs {
@@ -120,7 +120,7 @@ ul.CTAs a {
 
 a.download {
     background: #fff;
-    color: #7386D5;
+    color: #DE3B2D;
 }
 
 a.article,
