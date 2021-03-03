@@ -6,3 +6,8 @@
     padding-top: 60px;
     /* Space for fixed navbar */
 }
+
+[role="centred-form"] {
+    margin-top: -60px;
+    /* Space for fixed navbar */
+}
