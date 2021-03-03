@@ -63,7 +63,7 @@ a:focus {
 
 #sidebar ul.components {
     padding: 20px 0;
-    border-bottom: 1px solid #47748b;
+    border-bottom: 1px solid #ff1616;
 }
 
 #sidebar ul p {
@@ -103,7 +103,7 @@ a[data-toggle="collapse"] {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #DE3B2D;
+    background: #ff1616;
 }
 
 ul.CTAs {
@@ -116,17 +116,6 @@ ul.CTAs a {
     display: block;
     border-radius: 5px;
     margin-bottom: 5px;
-}
-
-a.download {
-    background: #fff;
-    color: #DE3B2D;
-}
-
-a.article,
-a.article:hover {
-    background: #6d7fcc !important;
-    color: #fff !important;
 }
 
 
