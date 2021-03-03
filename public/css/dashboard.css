@@ -57,12 +57,11 @@ a:focus {
 
 #sidebar .sidebar-header {
     padding: 20px;
-    padding-top: 10px;
     background: #FF304F;
 }
 
 #sidebar ul.components {
-    padding: 15px 0;
+    padding: 20px 0;
     border-bottom: none;
 }
 

@@ -23,7 +23,7 @@
         <!-- Sidebar  -->
         <nav id="sidebar">
             <div class="sidebar-header text-center">
-                <img src="{{ asset('img/dash.png') }}" height="auto" width="210" alt="">
+                <h3>codecamp.ma</h3>
             </div>
 
             <ul class="list-unstyled components">
