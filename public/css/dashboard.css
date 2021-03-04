@@ -81,8 +81,7 @@ a:focus {
     background: #fff;
 }
 
-#sidebar ul li.active>a,
-a[aria-expanded="true"] {
+#sidebar ul li.active> {
     color: #222222;
     background: #fff;
 }
@@ -107,8 +106,6 @@ a[data-toggle="collapse"] {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #222;
-    color: #fff;
 }
 
 ul.CTAs {
