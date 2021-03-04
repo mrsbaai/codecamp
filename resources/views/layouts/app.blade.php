@@ -12,7 +12,10 @@
     <link rel="stylesheet" href="{{ asset('css/codecamp_theme.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/app.css') }}" />
 
-
+      <!-- Font Awesome JS -->
+      <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+      <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+  
 
   </head>
   <body data-spy="scroll" data-target="#navbar1" data-offset="200">
@@ -109,7 +112,7 @@
             </div>
             <!--/row-->
         </div>
-        <div class="container text-center">CodeCamp.ma: Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN.</div>
+        <div class="container text-center">Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO</div>
 
     </footer> 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
