@@ -6,7 +6,6 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/3.0.0/css/ionicons.css" rel="stylesheet">
 	
 
     <link rel="stylesheet" href="{{ asset('css/codecamp_theme.css') }}" />
@@ -24,7 +23,7 @@
 
         <div class="container">
             <a class="navbar-brand" href="{{ url('/') }}">
-                <img src="{{ asset('img/logo_sm_txt_1.png') }}" height="30" width="auto" alt="">
+                <img src="{{ asset('img/logo_sm.png') }}" height="30" width="auto" alt="Codecamp.ma">
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                 <span class="navbar-toggler-icon"></span>
@@ -99,14 +98,6 @@
                         <li><a class="text-white" target="_new" href="http://theme.cards">Theme.cards</a></li>
                         <li><a class="text-white" target="_new" href="http://www.bootbundle.com">BootBundle</a></li>
                         <li><a class="text-white" target="_new" title="Learn about Bootstrap 4 using this free theme" href="http://bootstrap4.guide">Bootstrap4.guide</a></li>
-                    </ul>
-                </div>
-                <div class="col-12 col-md-12 col-lg-6 mb-2 text-right">
-                    <h6 class="text-uppercase">Get Notified</h6>
-                    <ul class="nav float-right">
-                        <li><a class="text-white mr-2" rel="nofollow" href="http://twitter.com/ThemesGuide" title="Follow on Twitter"><i class="h1 fa fa-fw fa-twitter fa-2x ion-logo-twitter"></i></a></li>
-                        <li><a class="text-white mr-2" rel="nofollow" href="https://www.facebook.com/codeply" title="Follow on Facebook"><i class="fab fa-facebook-f"></i></a></li>
-                        <li><a class="text-white mr" rel="nofollow" href="https://github.com/ThemesGuide/bootstrap-themes" title="Follow on GitHub"><i class="h1 fa fa-fw fa-facebook fa-2x ion-logo-github"></i></a></li>
                     </ul>
                 </div>
             </div>
