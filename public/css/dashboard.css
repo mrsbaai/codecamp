@@ -81,6 +81,11 @@ a:focus {
     background: #fff;
 }
 
+#sidebar ul li.active>a {
+    color: #fff;
+    background: #222;
+}
+
 #sidebar ul li.active>a,
 a[aria-expanded="true"] {
     color: #222222;
