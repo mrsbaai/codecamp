@@ -80,31 +80,39 @@
        @yield('content')
     </main>
         <footer id="footer" class="bg-dark text-light py-5">
-        <div class="container py-5">
+        <div class="container text-center">
+
+            
+            <h1 class="display-6">Stay Connected</h1>
+            <p class="lead">Receive news about upcoming events</p>
+     
+            <div class="social-links">
+                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
+                <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+              </div>
+              
             <div class="row">
-                <div class="col-6 col-md-6 col-lg-3 mb-2">
-                    <h6 class="text-uppercase">Tools</h6>
-                    <ul class="nav flex-column">
-                        <li><a class="text-white" target="ext" rel="nofollow" href="https://themestr.app" title="Bootstrap theme builder">Themestr.app</a></li>
-                        <li><a class="text-white" target="ext" rel="nofollow" href="http://themes.guide" title="Bootstrap free and pro themes">Themes.guide</a></li>
-                        <li><a class="text-white" target="ext" rel="nofollow" href="http://codeply.com" title="Prototype and edit code for Bootstrap and other responsive frameworks">Codeply</a></li>
-                        <li><a class="text-white" target="ext" rel="nofollow" href="http://bootply.com">Bootply</a></li>
-                    </ul>
-                </div>
-                <div class="col-6 col-md-6 col-lg-3 mb-2">
-                    <h6 class="text-uppercase">More</h6>
-                    <ul class="nav flex-column">
-                        <li><a class="text-white" target="_new" href="http://wdstack.com" title="The top projects, tools and apps for Web developers">WDStack</a></li>
-                        <li><a class="text-white" target="_new" href="http://theme.cards">Theme.cards</a></li>
-                        <li><a class="text-white" target="_new" href="http://www.bootbundle.com">BootBundle</a></li>
-                        <li><a class="text-white" target="_new" title="Learn about Bootstrap 4 using this free theme" href="http://bootstrap4.guide">Bootstrap4.guide</a></li>
-                    </ul>
+                <div class="col-lg-4 col-sm-6 mx-auto">
+                    <div class="input-group mb-3">
+                      <input type="text" class="form-control form-control-lg" placeholder="your@email">
+                      <div class="input-group-append">
+                        <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
+                      </div>
+                    </div>
                 </div>
             </div>
-            <!--/row-->
-        </div>
-        <div class="container text-center">Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO</div>
 
+            <div class="row text-center">
+
+                    Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO
+        
+            </div>
+ 
+        </div>
+
+        
     </footer> 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
