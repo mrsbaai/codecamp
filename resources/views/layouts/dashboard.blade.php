@@ -71,7 +71,7 @@
                             <a href="#">Become a mumber</a>
                         </li>
                         <li>
-                            <a href="#">Live cam feed</a>
+                            <a href="#">Live feed</a>
                         </li>
                         <li>
                             <a href="#">Time Tracking</a>
@@ -132,7 +132,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Live Cam feed</a>
+                                <a class="nav-link" href="#">Live feed</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="#">Messages</a>
