@@ -29,8 +29,8 @@
             <ul class="list-unstyled components">
                 
                 <li class="active">
-                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Learn</a>
-                    <ul class="collapse list-unstyled" id="homeSubmenu">
+                    <a href="#learnSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Learn</a>
+                    <ul class="collapse list-unstyled" id="learnSubmenu">
                         <li>
                             <a href="#">Episodes</a>
                         </li>
@@ -41,8 +41,8 @@
                 </li>
 
                 <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Find a job</a>
-                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                    <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Find a job</a>
+                    <ul class="collapse list-unstyled" id="jobSubmenu">
                         <li>
                             <a href="#">Edit porfolio</a>
                         </li>
@@ -56,8 +56,8 @@
                 </li>
 
                 <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
-                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                    <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
+                    <ul class="collapse list-unstyled" id="coworkingSubmenu">
                         <li>
                             <a href="#">My Subscription</a>
                         </li>
@@ -80,8 +80,8 @@
                 </li>
 
                 <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Settings</a>
-                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                    <a href="#settingsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Settings</a>
+                    <ul class="collapse list-unstyled" id="settingsSubmenu">
                         <li>
                             <a href="#">Notifications</a>
                         </li>
