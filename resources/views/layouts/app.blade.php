@@ -40,6 +40,27 @@
                     <!-- Authentication Links -->
                     @guest
                         <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Home') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Find a job') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Episodes') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Live Events') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Coworking') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Blog') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Contact') }}</a>
+                        </li>
+                        <li class="nav-item">
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
                         </li>
                         @if (Route::has('register'))
@@ -92,7 +113,7 @@
                 <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
                 <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
-              
+
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mx-auto">
                     <div class="input-group mb-3">
@@ -103,13 +124,13 @@
                     </div>
                 </div>
             </div>
-
-            <div class="row text-center">
-
-                    Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO
-        
-            </div>
  
+        </div>
+
+        
+        <div class="container text-center">
+
+            Made With <span style="color: #FF304F;"> <i class="fas fa-heart"></i> </span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO
         </div>
 
         
