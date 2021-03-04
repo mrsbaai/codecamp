@@ -23,7 +23,7 @@
         <!-- Sidebar  -->
         <nav id="sidebar">
             <div class="sidebar-header text-center">
-                <h3>{{ Auth::user()->name }}</h3>
+                <h5>{{ Auth::user()->name }}</h5>
             </div>
 
             <ul class="list-unstyled components">
@@ -32,38 +32,83 @@
                     <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Home</a>
                     <ul class="collapse list-unstyled" id="homeSubmenu">
                         <li>
-                            <a href="#">Home 1</a>
+                            <a href="#">Episodes</a>
                         </li>
                         <li>
-                            <a href="#">Home 2</a>
-                        </li>
-                        <li>
-                            <a href="#">Home 3</a>
+                            <a href="#">Live events</a>
                         </li>
                     </ul>
                 </li>
+
                 <li>
-                    <a href="#">About</a>
-                </li>
-                <li>
-                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Pages</a>
+                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Find a job</a>
                     <ul class="collapse list-unstyled" id="pageSubmenu">
                         <li>
-                            <a href="#">Page 1</a>
+                            <a href="#">Edit porfolio</a>
                         </li>
                         <li>
-                            <a href="#">Page 2</a>
+                            <a href="#">Preview porfolio</a>
                         </li>
                         <li>
-                            <a href="#">Page 3</a>
+                            <a href="#">Messages</a>
                         </li>
                     </ul>
                 </li>
+
                 <li>
-                    <a href="#">Portfolio</a>
+                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                        <li>
+                            <a href="#">My Subscription</a>
+                        </li>
+                        <li>
+                            <a href="#">What is coworking?</a>
+                        </li>
+                        <li>
+                            <a href="#">Locations</a>
+                        </li>
+                        <li>
+                            <a href="#">Become a mumber</a>
+                        </li>
+                        <li>
+                            <a href="#">Live cam feed</a>
+                        </li>
+                        <li>
+                            <a href="#">Time Tracking</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Settings</a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                        <li>
+                            <a href="#">Notifications</a>
+                        </li>
+                        <li>
+                            <a href="#">Personal info</a>
+                        </li>
+                        <li>
+                            <a href="#">Change password</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#">News</a>
                 </li>
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="#">Administration</a>
+                </li>
+                <li>
+                    <a href="{{ route('logout') }}"
+                    onclick="event.preventDefault();
+                                  document.getElementById('logout-form').submit();">
+                     {{ __('Logout') }}
+                 </a>
+                 <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                    @csrf
+                </form>
                 </li>
             </ul>
 
@@ -86,14 +131,11 @@
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
-                            <li class="nav-item active">
-                                <a class="nav-link" href="#">Page</a>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">Live Cam feed</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
+                                <a class="nav-link" href="#">Messages</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('logout') }}"
@@ -101,6 +143,9 @@
                                               document.getElementById('logout-form').submit();">
                                  {{ __('Logout') }}
                              </a>
+                             <form id="logout-form" action="{{ route('logout') }}" method="POST" class="d-none">
+                                @csrf
+                            </form>
                             </li>
                         </ul>
                     </div>
@@ -113,7 +158,7 @@
     </div>
 
     <footer id="footer" class="bg-dark text-light py-5 text-center">
-        CodeCamp.ma: Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN.
+        Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO
     </footer> 
     <!-- jQuery CDN - Slim version (=without AJAX) -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
