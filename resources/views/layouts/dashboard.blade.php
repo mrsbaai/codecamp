@@ -74,7 +74,7 @@
                             <a href="#">Live feed</a>
                         </li>
                         <li>
-                            <a href="#">Time Tracking</a>
+                            <a href="#">Week Time Tracking Sheet</a>
                         </li>
                     </ul>
                 </li>
