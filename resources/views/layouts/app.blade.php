@@ -110,6 +110,8 @@
             </div>
             <!--/row-->
         </div>
+        <div class="container text-center">CodeCamp.ma: Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN.</div>
+
     </footer> 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>

@@ -23,7 +23,7 @@
         <!-- Sidebar  -->
         <nav id="sidebar">
             <div class="sidebar-header text-center">
-                <h3>codecamp.ma</h3>
+                <h3>{{ Auth::user()->name }}</h3>
             </div>
 
             <ul class="list-unstyled components">
@@ -96,7 +96,11 @@
                                 <a class="nav-link" href="#">Page</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Page</a>
+                                <a class="nav-link" href="{{ route('logout') }}"
+                                onclick="event.preventDefault();
+                                              document.getElementById('logout-form').submit();">
+                                 {{ __('Logout') }}
+                             </a>
                             </li>
                         </ul>
                     </div>
@@ -109,7 +113,7 @@
     </div>
 
     <footer id="footer" class="bg-dark text-light py-5 text-center">
-        CodeCamp.ma Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span>At Wilaya Center ET5 N°55 TETOUAN.
+        CodeCamp.ma: Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN.
     </footer> 
     <!-- jQuery CDN - Slim version (=without AJAX) -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
