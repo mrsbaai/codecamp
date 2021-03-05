@@ -1,3 +1,4 @@
+@include('footerCredit')
 <!DOCTYPE html>
 <html>
 
@@ -6,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Dashboard</title>
+    <title>{{ config('app.name') }}: @yield('title')</title>
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
 
    
@@ -16,6 +17,7 @@
     <!-- Font Awesome JS -->
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
     <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
+    @yield('head')
 </head>
 
 <body>
@@ -97,6 +99,11 @@
                 <li>
                     <a href="#">News</a>
                 </li>
+
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+
                 <li>
                     <a href="#">Administration</a>
                 </li>
@@ -158,7 +165,8 @@
     </div>
 
     <footer id="footer" class="bg-dark text-light py-5 text-center">
-        Made With <span style="color: #FF304F;"><i class="fas fa-heart"></i></span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO
+        @yield('footer')
+        @yield('footerCredit')
     </footer> 
     <!-- jQuery CDN - Slim version (=without AJAX) -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>

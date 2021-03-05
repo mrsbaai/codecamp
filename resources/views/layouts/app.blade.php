@@ -1,8 +1,9 @@
+@include('footerCredit')
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ config('app.name', 'codecamp.ma') }}</title>
+    <title>{{ config('app.name') }}: @yield('title')</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
@@ -11,11 +12,29 @@
     <link rel="stylesheet" href="{{ asset('css/codecamp_theme.css') }}" />
     <link rel="stylesheet" href="{{ asset('css/app.css') }}" />
 
-      <!-- Font Awesome JS -->
-      <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
-      <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
-  
+    <!-- Font Awesome JS -->
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
 
+    <!-- Favicons -->
+
+    <link rel="apple-touch-icon" sizes="57x57" href="/construction/img/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/construction/img/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/construction/img/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/construction/img/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/construction/img/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/construction/img/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/construction/img/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/construction/img/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/construction/img/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192"  href="/construction/img/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/construction/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/construction/img/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/construction/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/construction/img/favicon/manifest.json">
+    
+    @yield('head')
+    
   </head>
   <body data-spy="scroll" data-target="#navbar1" data-offset="200">
   
@@ -126,8 +145,15 @@
 
         
         <div class="container text-center">
-
-            Made With <span style="color: #FF304F;"> <i class="fas fa-heart"></i> </span> At Wilaya Center ET5 N°55 TETOUAN MOROCCO
+            <a class="nav-link" href="#">{{ __('Find a job') }}</a> | 
+            <a class="nav-link" href="#">{{ __('Episodes') }}</a> | 
+            <a class="nav-link" href="#">{{ __('Live Events') }}</a> | 
+            <a class="nav-link" href="#">{{ __('Coworking') }}</a> | 
+            <a class="nav-link" href="#">{{ __('Blog') }}</a> | 
+            <a class="nav-link" href="#">{{ __('Contact') }}</a> | 
+            <a class="nav-link" href="#">{{ __('Login') }}</a>
+            @yield('footer')
+            @yield('footerCredit')
         </div>
 
         
