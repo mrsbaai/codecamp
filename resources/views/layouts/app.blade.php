@@ -36,8 +36,10 @@
     @yield('head')
     
   </head>
-  <body data-spy="scroll" data-target="#navbar1" data-offset="200">
+  <body data-spy="scroll" data-target="#navbar1" data-offset="60">
   
+    @yield('pre')
+
     <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-primary" id="navbar1">
 
         <div class="container">
@@ -112,7 +114,7 @@
 
 
 
-    @yield('pre')
+
 
     <main role="main" >
        @yield('content')
