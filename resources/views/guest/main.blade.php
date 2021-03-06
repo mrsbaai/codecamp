@@ -6,7 +6,7 @@
         <div class="row h-100">
             <div class="col-12">
                 <div class="text-center m-0 vh-100 d-flex flex-column justify-content-center text-light">
-                    <div class="img-fluid text-white">
+                    <div class="img-fluid text-white py-3">
                         <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
                      </div>
 
