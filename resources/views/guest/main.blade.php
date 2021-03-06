@@ -3,7 +3,7 @@
 @section('pre')
 <div class="bg-primary">
     <div class="container">
-        <div class="row align-items-center vh-50 py-5">
+        <div class="row align-items-center vh-60 py-5">
             <div class="col-xl-5 col-lg-6 ml-auto py-2 text-light order-2 text-center text-lg-left">
                 <h1 class="mb-0">
                     <span>Signal</span>
