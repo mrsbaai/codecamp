@@ -16,15 +16,15 @@ class PagesController extends Controller
     }
 
     public function homeTest(){
-        return view('home');
+        return view('dashboard.home');
     }
 
     public function dev(){
         return view('dev');
     }
 
-    public function coworking(){
-        return view('coworking');
+    public function coworking1(){
+        return view('coworking1');
     }
 
     public function newyear(){
@@ -51,15 +51,6 @@ class PagesController extends Controller
 
 
 
-    
-
-
-    public function main(){
-        return view('main');
-    }
-
-
-
     public function saveForm(Request $request){
         $contact = new contact();
         $contact->name = $request->get('name');
@@ -82,4 +73,47 @@ class PagesController extends Controller
         return "OK";
 
     } 
+
+
+
+    
+    /* Guest */
+    
+    public function ShowMain(){
+        return view('guest.main');
+    }
+
+
+    public function ShowJob(){
+        return view('guest.job');
+    }
+
+    public function ShowEpisodes(){
+        return view('guest.episodes');
+    }
+
+
+    public function ShowEvents(){
+        return view('guest.events');
+    }
+
+
+    public function ShowCoworking(){
+        return view('guest.coworking');
+    }
+
+
+    public function ShowBlog(){
+        return view('guest.blog');
+    }
+
+
+    public function ShowContact(){
+        return view('guest.contact');
+    }
+
+
+
+
+
 }

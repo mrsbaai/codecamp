@@ -3,7 +3,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>{{ config('app.name') }}: @yield('title')</title>
+    <title>{{ config('app.name') }}@yield('title')</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
@@ -145,6 +145,7 @@
         </div>
 
         <div class="container text-center py-3">
+            <a class="text-white" href="#">{{ __('Home') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="#">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="#">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="#">{{ __('Live Events') }}</a>&nbsp;|&nbsp;

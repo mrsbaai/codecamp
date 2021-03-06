@@ -23,9 +23,9 @@ use Illuminate\Support\Facades\Route;
 /* temp routes for under construction */
 Route::get('/', 'pagesController@home');
 Route::post('/', 'pagesController@saveForm');
-Route::get('/coworking', 'pagesController@coworking');
+Route::get('/coworking1', 'pagesController@coworking1');
 Route::get('/home', 'pagesController@homeTest');
-Route::post('/coworking', 'pagesController@saveForm');
+Route::post('/coworking1', 'pagesController@saveForm');
 Route::get('/events/1', 'pagesController@event1');
 Route::get('/events/newyear', 'pagesController@newyear');
 Route::post('/events/newyear', 'pagesController@saveApp');
@@ -46,7 +46,16 @@ Route::get('/test', 'PagesController@test')->name('test');
 
 /* Guest */
 
-Route::get('/main', 'pagesController@main')->name('main');
+Route::get('/main', 'PagesController@ShowMain')->name('ShowMain');
+Route::get('/job', 'PagesController@ShowJob')->name('ShowJob');
+Route::get('/episodes', 'PagesController@ShowEpisodes')->name('ShowEpisodes');
+Route::get('/events', 'PagesController@ShowEvents')->name('ShowEvents');
+Route::get('/coworking', 'PagesController@ShowCoworking')->name('ShowCoworking');
+Route::get('/blog', 'PagesController@ShowBlog')->name('ShowBlog');
+Route::get('/contact', 'PagesController@ShowContact')->name('ShowContact');
+
+
+Route::get('/{user}', 'PortfolioController@ShowPortfolio')->name('ShowPortfolio');
 
 
 
