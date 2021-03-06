@@ -149,6 +149,9 @@
                 <a class="text-white" href="#">{{ __('Blog') }}</a> | 
                 <a class="text-white" href="#">{{ __('Contact') }}</a> | 
                 <a class="text-white" href="#">{{ __('Login') }}</a>
+                @if (Route::has('register'))
+                 | <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+            @endif
             </div>
 
             <div class="row">
