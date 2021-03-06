@@ -10,7 +10,7 @@
                         <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
                      </div>
 
-                    <h1 class="display-4">A Moroccan Community Initiative</h1>
+                    <h2 class="display-6">A Moroccan Community Initiative</h2>
                     <p class="lead">To highlight modern carer paths & informational technologies.</p>
                     <div class="row">
                         <div class="col-lg-4 col-sm-6 mx-auto">

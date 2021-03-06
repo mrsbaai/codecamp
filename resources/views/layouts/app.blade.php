@@ -64,13 +64,13 @@
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Find a job') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Episodes') }}</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Live Events') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Coworking') }}</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="{{ route('login') }}">{{ __('Episodes') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Blog') }}</a>
@@ -152,9 +152,9 @@
         <div class="container text-center py-3">
             <a class="text-white" href="/main">{{ __('Home') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="/job">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="/events">{{ __('Live Events') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="/blog">{{ __('Blog') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="/contact">{{ __('Contact') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
