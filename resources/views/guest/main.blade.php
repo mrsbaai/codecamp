@@ -3,7 +3,7 @@
 @section('pre')
 <div class="bg-primary">
     <div class="container">
-        <div class="row align-items-center vh-60 py-5">
+        <div class="row align-items-center vh-100 py-5">
             <div class="col-xl-5 col-lg-6 ml-auto py-2 text-light order-2 text-center text-lg-left">
                 <h1 class="mb-0">
                     <span>Signal</span>
@@ -29,9 +29,7 @@
             </div>
             <div class="col-xl-4 col-lg-6 col mr-auto order-1 order-lg-last align-items-center justify-content-center justify-content-lg-end d-flex">
                  <div class="img-fluid text-white">
-                    <svg class="i-desktop" viewBox="0 0 32 32" width="240" height="240" fill="none" stroke="currentcolor" stroke-linecap="round" stroke-linejoin="round" stroke-width=".5">
-                        <path d="M10 29 C10 29 10 24 16 24 22 24 22 29 22 29 L10 29 Z M2 6 L2 23 30 23 30 6 2 6 Z"></path>
-                    </svg>
+                    <img src="{{ asset('img/logo_transparent.png') }}" height="auto" width="auto" alt="Codecamp.ma">
                  </div>
             </div>
         </div>
