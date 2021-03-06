@@ -144,7 +144,7 @@
 
         </div>
 
-        <div class="container text-center mx-auto">
+        <div class="container text-center py-3">
             <a class="text-white" href="#">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="#">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
             <a class="text-white" href="#">{{ __('Live Events') }}</a>&nbsp;|&nbsp;
@@ -157,7 +157,7 @@
         @endif
         </div>
 
-        <div class="container text-center mx-auto">
+        <div class="container text-center py-3">
             @yield('footerCredit')
         </div>
 
