@@ -4,7 +4,7 @@
 <div class="bg-primary">
     <div class="container">
         <div class="row align-items-center vh-100 py-5">
-            <div class="col-xl-4 col-lg-6 col mr-auto order-1 order-lg-2 align-items-center justify-content-center justify-content-lg-end d-flex">
+            <div class="col-xl-4 col-lg-6 col mr-auto order-1 order-lg-2 align-items-center justify-content-center justify-content-lg-start d-flex">
                 <div class="img-fluid text-white">
                    <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
                 </div>
