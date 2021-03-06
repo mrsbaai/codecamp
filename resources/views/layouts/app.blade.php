@@ -143,12 +143,12 @@
 
             <div class="row">
                 <a class="text-white" href="#">{{ __('Find a job') }}</a> | 
-                <a class="ftext-white" href="#">{{ __('Episodes') }}</a> | 
-                <a class="ftext-white" href="#">{{ __('Live Events') }}</a> | 
-                <a class="ftext-white" href="#">{{ __('Coworking') }}</a> | 
-                <a class="ftext-white" href="#">{{ __('Blog') }}</a> | 
-                <a class="ftext-white" href="#">{{ __('Contact') }}</a> | 
-                <a class="ftext-white" href="#">{{ __('Login') }}</a>
+                <a class="text-white" href="#">{{ __('Episodes') }}</a> | 
+                <a class="text-white" href="#">{{ __('Live Events') }}</a> | 
+                <a class="text-white" href="#">{{ __('Coworking') }}</a> | 
+                <a class="text-white" href="#">{{ __('Blog') }}</a> | 
+                <a class="text-white" href="#">{{ __('Contact') }}</a> | 
+                <a class="text-white" href="#">{{ __('Login') }}</a>
             </div>
 
             <div class="row">
