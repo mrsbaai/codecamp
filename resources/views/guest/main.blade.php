@@ -6,24 +6,23 @@
         <div class="row align-items-center vh-100 py-5">
             <div class="col-xl-5 col-lg-6 ml-auto py-2 text-light order-2 text-center text-lg-left">
                 <h1 class="mb-0">
-                    <span>Signal</span>
+                    <span>A Moroccan Community Initiative</span>
                 </h1>
-                <p class="lead mb-3"><span>Like sailing yacht flags in a busy harbor.</span> This font face is Comfortaa. <a class="font-weight-bold text-white" href="http://themestr.app">Themestr.app</a> makes it easy to customize this, and other free Bootstrap 4 themes.</p>
-                <a class="btn btn-outline-light btn-lg mr-2" href="http://themestr.app" target="_new">Customize</a> 
+                <p class="lead mb-3"><span>to highlight modern carer paths & informational technologies.</span></p>
+                <a class="btn btn-outline-light btn-lg mr-2" href="http://themestr.app" target="_new">Free Account</a> 
                                                 <div class="btn-group">
                               <a href="theme.css" class="btn btn-outline-light btn-lg">
-                                Download Theme
+                                Services
                               </a>
                               <button type="button" class="btn btn-lg btn-outline-light dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="sr-only">Downloads</span>
+                                <span class="sr-only">Services</span>
                               </button>
                               <div class="dropdown-menu">
-                                  <a class="dropdown-item" href="theme.css">theme.css</a>
-                                  <a class="dropdown-item" href="theme.min.css">theme.min.css</a>
+                                  <a class="dropdown-item" target="new" href="{{ route('ShowJob') }}">{{ __('Find a job') }}</a>
                                   <div class="dropdown-divider"></div>
-                                  <a class="dropdown-item" href="theme.scss">theme.scss</a>
+                                  <a class="dropdown-item" target="new" href="{{ route('ShowEvents') }}">{{ __('Live Events') }}</a>
                                   <div class="dropdown-divider"></div>
-                                  <a class="dropdown-item" target="new" href="https://github.com/ThemesGuide/bootstrap-themes/tree/master/signal">Full template</a>
+                                  <a class="dropdown-item" target="new" href="{{ route('ShowCoworking') }}">{{ __('Coworking') }}</a>
                               </div>
                             </div>  
             </div>
