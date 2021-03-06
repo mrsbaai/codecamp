@@ -38,7 +38,16 @@ Route::get('/timer', 'pagesController@timer');
 
 Auth::routes();
 
+/* user */
+
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('/test', 'PagesController@test')->name('test');
 
 
-Route::get('/test', 'pagesController@test')->name('home');
+/* Guest */
+
+Route::get('/main', 'pagesController@main')->name('main');
+
+
+
+

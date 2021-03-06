@@ -9,7 +9,7 @@ use App\contact;
 use App\app;
 
 
-class pagesController extends Controller
+class PagesController extends Controller
 {
     public function Home(){
         return view('underConstruction');
@@ -50,6 +50,13 @@ class pagesController extends Controller
     }
 
 
+
+    
+
+
+    public function main(){
+        return view('main');
+    }
 
 
 
