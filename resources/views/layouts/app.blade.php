@@ -141,20 +141,20 @@
                 </div>
             </div>
 
-            <div class="row">
-                <a class="text-white" href="#">{{ __('Find a job') }}</a> | 
-                <a class="text-white" href="#">{{ __('Episodes') }}</a> | 
-                <a class="text-white" href="#">{{ __('Live Events') }}</a> | 
-                <a class="text-white" href="#">{{ __('Coworking') }}</a> | 
-                <a class="text-white" href="#">{{ __('Blog') }}</a> | 
-                <a class="text-white" href="#">{{ __('Contact') }}</a> | 
+            <div class="row text-center">
+                <a class="text-white" href="#">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
+                <a class="text-white" href="#">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
+                <a class="text-white" href="#">{{ __('Live Events') }}</a>&nbsp;|&nbsp;
+                <a class="text-white" href="#">{{ __('Coworking') }}</a>&nbsp;|&nbsp;
+                <a class="text-white" href="#">{{ __('Blog') }}</a>&nbsp;|&nbsp;
+                <a class="text-white" href="#">{{ __('Contact') }}</a>&nbsp;|&nbsp;
                 <a class="text-white" href="#">{{ __('Login') }}</a>
                 @if (Route::has('register'))
-                 | <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                &nbsp;|&nbsp;<a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
             @endif
             </div>
 
-            <div class="row">
+            <div class="row text-center">
                 @yield('footerCredit')
             </div>
  
