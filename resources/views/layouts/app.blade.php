@@ -112,10 +112,13 @@
 
 
 
-    
+    @yield('pre')
+
     <main role="main" >
        @yield('content')
     </main>
+
+
         <footer id="footer" class="bg-dark text-light py-5">
         <div class="container text-center">
 
@@ -145,14 +148,14 @@
         </div>
 
         <div class="container text-center py-3">
-            <a class="text-white" href="#">{{ __('Home') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Live Events') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Coworking') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Blog') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Contact') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="#">{{ __('Login') }}</a>
+            <a class="text-white" href="/main">{{ __('Home') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/job">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/events">{{ __('Live Events') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/blog">{{ __('Blog') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="/contact">{{ __('Contact') }}</a>&nbsp;|&nbsp;
+            <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
             @if (Route::has('register'))
             &nbsp;|&nbsp;<a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
         @endif
