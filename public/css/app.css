@@ -11,15 +11,3 @@
     margin-top: -60px;
     /* Space for fixed navbar */
 }
-
-.footer-nav-link a {
-    color: rgba(255, 255, 255, 0.5);
-}
-
-.footer-nav-link :focus {
-    color: rgba(255, 255, 255, 0.75);
-}
-
-.footer-nav-link.disabled {
-    color: rgba(255, 255, 255, 0.25);
-}
