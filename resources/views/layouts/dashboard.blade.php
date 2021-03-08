@@ -80,9 +80,6 @@
                     <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
                     <ul class="collapse list-unstyled" id="coworkingSubmenu">
                         <li>
-                            <a href="#">My Subscription</a>
-                        </li>
-                        <li>
                             <a href="#">What is coworking?</a>
                         </li>
                         <li>
