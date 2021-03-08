@@ -37,7 +37,7 @@
 <section class="container">
 
     <div class="row">
-        <div class="col-12 my-auto text-center py-3">
+        <div class="col-12 my-auto text-center py-5">
                 <h1>Why Get An Account?</h1>
         </div>
         <div class="col-12 my-auto">
