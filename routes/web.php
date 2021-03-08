@@ -46,7 +46,7 @@ Route::get('/test', 'PagesController@test')->name('test');
 
 /* Guest */
 
-Route::get('/main', 'PagesController@ShowMain')->name('ShowMain');
+Route::get('/main', 'PagesController@ShowMain')->name('ShowHome');
 Route::get('/job', 'PagesController@ShowJob')->name('ShowJob');
 Route::get('/episodes', 'PagesController@ShowEpisodes')->name('ShowEpisodes');
 Route::get('/events', 'PagesController@ShowEvents')->name('ShowEvents');

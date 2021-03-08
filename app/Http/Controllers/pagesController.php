@@ -79,8 +79,8 @@ class PagesController extends Controller
     
     /* Guest */
     
-    public function ShowMain(){
-        return view('guest.main');
+    public function ShowHome(){
+        return view('guest.home');
     }
 
 
