@@ -38,7 +38,9 @@
 
     <div class="row vh-100">
         <div class="col-12 my-auto text-center">
-            <h1>Why Get An Account?</h1>
+            <div class="row">
+                <h1>Why Get An Account?</h1>
+            </div>
         </div>
         <div class="col-12 my-auto">
             <div class="row text-center">
