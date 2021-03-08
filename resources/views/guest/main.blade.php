@@ -22,23 +22,6 @@
                             </div>
                         </div>
                     </div>
-                    <div class="mt-2 mx-auto">
-                            <div class="btn-group">
-                                <a href="#" class="btn btn-outline-light btn-lg">
-                                    Services
-                                  </a>
-                                <button type="button" class="btn btn-lg btn-outline-light dropdown-toggle dropdown-toggle-split" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    <span class="sr-only">Services</span>
-                                  </button>
-                                  <div class="dropdown-menu">
-                                      <a class="dropdown-item" target="new" href="{{ route('ShowJob') }}">{{ __('Find a job') }}</a>
-                                      <div class="dropdown-divider"></div>
-                                      <a class="dropdown-item" target="new" href="{{ route('ShowEvents') }}">{{ __('Live Events') }}</a>
-                                      <div class="dropdown-divider"></div>
-                                      <a class="dropdown-item" target="new" href="{{ route('ShowCoworking') }}">{{ __('Coworking') }}</a>
-                                  </div>
-                            </div> 
-                    </div>
                 </div>
             </div>
         </div>
