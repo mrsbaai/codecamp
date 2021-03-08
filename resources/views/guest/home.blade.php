@@ -36,8 +36,8 @@
 
 <section class="container">
 
-    <div class="row vh-100">
-        <div class="col-12 my-auto text-center pb-20">
+    <div class="row">
+        <div class="col-12 my-auto text-center py-3">
                 <h1>Why Get An Account?</h1>
         </div>
         <div class="col-12 my-auto">
@@ -47,8 +47,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-laptop-code"></i></h1>
                             <h4 class="card-title text-primary">Freelance</h4>
-                            <p class="card-text">Get exposure to job opportunities, and find freelance project to be part of.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Create a potfolio</a>
+                            <p class="card-text">Get exposure to job opportunities, and find freelance projects to be part of.</p>
+                            <a href="#" class="btn btn-primary mt-auto copyable">Make a potfolio?</a>
                         </div>
                     </div>
                 </div>
@@ -57,8 +57,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-hat-wizard"></i></h1>
                             <h4 class="card-title text-primary">Learn</h4>
-                            <p class="card-text">Get access to free online learning material and get notified for new online and offline events.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Events</a>
+                            <p class="card-text">Get access to free online learning material and get notified about new online and offline events.</p>
+                            <a href="#" class="btn btn-primary mt-auto copyable">Next Event?</a>
                         </div>
                     </div>
                 </div>
