@@ -37,10 +37,8 @@
 <section class="container">
 
     <div class="row vh-100">
-        <div class="col-12 my-auto text-center">
-            <div class="row">
+        <div class="col-12 my-auto text-center pb-20">
                 <h1>Why Get An Account?</h1>
-            </div>
         </div>
         <div class="col-12 my-auto">
             <div class="row text-center">
