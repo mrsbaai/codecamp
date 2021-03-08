@@ -17,7 +17,7 @@
                             <div class="input-group mb-3">
                               <input type="text" class="form-control form-control-lg" placeholder="your@email">
                               <div class="input-group-append">
-                                <button class="btn btn-outline-light btn-lg rounded-right" type="button">Sign-up</button>
+                                <button class="btn btn-outline-light btn-lg rounded-right" type="button">Get Account</button>
                               </div>
                             </div>
                         </div>
@@ -47,8 +47,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-laptop-code"></i></h1>
                             <h4 class="card-title text-primary">Freelance</h4>
-                            <p class="card-text">Don't like that typical Bootstrap look? Each theme has a custom look-and-feel, while maximizing use of Bootstrap without extensive additional CSS &amp; JS.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Button</a>
+                            <p class="card-text">Get exposure to job opportunities, and find freelance project to be part of.</p>
+                            <a href="#" class="btn btn-primary mt-auto copyable">Create a potfolio</a>
                         </div>
                     </div>
                 </div>
@@ -57,8 +57,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-hat-wizard"></i></h1>
                             <h4 class="card-title text-primary">Learn</h4>
-                            <p class="card-text">Based on mobile-first Bootstrap 4, all themes are 100% responsive and designed to look great on everything from smartphones to tablets to desktops..</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Button</a>
+                            <p class="card-text">Get access to free online learning material and get notified for new online and offline events.</p>
+                            <a href="#" class="btn btn-primary mt-auto copyable">Events</a>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-users"></i></h1>
                             <h4 class="card-title text-primary">Coworking</h4>
-                            <p class="card-text">Themes are crafted with care for design and performance. All themes are built on modern HTML5 &amp; CSS3 standards to ensure consistency and cross-browser support.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Button</a>
+                            <p class="card-text">Get access to our affordable coworking space, for a professional work envirment.</p>
+                            <a href="#" class="btn btn-primary mt-auto copyable">What is coworking?</a>
                         </div>
                     </div>
                 </div>
