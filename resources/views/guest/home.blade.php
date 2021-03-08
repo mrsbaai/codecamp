@@ -49,7 +49,8 @@
                             <h4 class="card-title text-primary">Freelance</h4>
                             <p class="card-text">Don't like that typical Bootstrap look? Each theme has a custom look-and-feel, while maximizing use of Bootstrap without extensive additional CSS &amp; JS.</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">Button<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
-                        </div>   
+                        </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 copyable">
@@ -59,6 +60,7 @@
                             <p class="card-text">Based on mobile-first Bootstrap 4, all themes are 100% responsive and designed to look great on everything from smartphones to tablets to desktops..</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">Button<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
                         </div>
+                    </div>
                 </div>
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 copyable">
@@ -68,6 +70,7 @@
                             <p class="card-text">Themes are crafted with care for design and performance. All themes are built on modern HTML5 &amp; CSS3 standards to ensure consistency and cross-browser support.</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">Button<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
                         </div>
+                    </div>
                 </div>
             </div>
         </div>
