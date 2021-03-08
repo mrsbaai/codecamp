@@ -101,9 +101,6 @@
                     <a href="#settingsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Settings</a>
                     <ul class="collapse list-unstyled" id="settingsSubmenu">
                         <li>
-                            <a href="#">Notifications</a>
-                        </li>
-                        <li>
                             <a href="#">Personal info</a>
                         </li>
                         <li>
