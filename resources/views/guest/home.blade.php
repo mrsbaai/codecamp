@@ -107,11 +107,10 @@
         <div class="col-lg-4 mb-4">
             <div class="card bg-primary text-white h-100 copyable">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h4 class="card-title">Scrollspy</h4>
-                    <p class="card-text">The top NavBar utilizes Bootstrap's Scrollspy component. You'll notice when you scroll the page the "active" nav section is highlighted.</p>
-                    <a href="https://getbootstrap.com/docs/4.1/components/scrollspy/" class="btn btn-primary border-white mt-auto copyable">Read More<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
+                    <img src="{{ asset('img/soon.png') }}" class="card-img-top" alt="Title">
+                    <p class="card-text">This episode is about bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla </p>
                 </div>
-            <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
+            </div>
         </div>
     </div>
 
