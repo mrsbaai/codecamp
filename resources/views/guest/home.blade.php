@@ -47,7 +47,7 @@
                 <div class="col-lg-4 mb-4">
                     <div class="card h-100 copyable">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                            <h1 class="display-2 text-primary"><i class="fas fa-project-diagram"></i></h1>
+                            <h1 class="display-2 text-primary"><i class="fas fa-laptop-code"></i></h1>
                             <h4 class="card-title text-primary">Freelance</h4>
                             <p class="card-text">Don't like that typical Bootstrap look? Each theme has a custom look-and-feel, while maximizing use of Bootstrap without extensive additional CSS &amp; JS.</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">Button</a>
