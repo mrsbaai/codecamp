@@ -94,7 +94,7 @@
                   </div>
                 </div>
                 <div class="card-body">
-                    <p class="card-text">Best practices to build a resume, how to avoid most common mistakes and some tools to build a Good resume.</p>
+                    <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
                     <p class="card-text"><small class="text-muted">Duration: 56 mins</small></p>
                 </div>
             </div>              
