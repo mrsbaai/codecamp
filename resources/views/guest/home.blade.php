@@ -103,9 +103,9 @@
                 <div class="thumb-container">
                   <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
                   <div class="thumb-overlay">
-                  <a href="#" class="thumb-icon" title="User Profile">
-                    <i class="fa fa-play"></i>
-                  </a>
+                    <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode2">
+                        <i class="fa fa-play"></i>
+                      </a>
                   </div>
                 </div>
                 <div class="card-body">
@@ -118,9 +118,9 @@
                 <div class="thumb-container">
                   <img  class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
                   <div class="thumb-overlay">
-                  <a href="#" class="thumb-icon" title="User Profile">
-                    <i class="fa fa-play"></i>
-                  </a>
+                    <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode3">
+                        <i class="fa fa-play"></i>
+                      </a>
                   </div>
                 </div>
                 <div class="card-body">
@@ -130,7 +130,6 @@
         </div>
 
 
-                <!--Modal: Name-->
                 <div class="modal fade" id="episode1" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
                     <div class="modal-dialog modal-lg" role="document">
           
@@ -148,9 +147,9 @@
           
                         <!--Footer-->
                         <div class="modal-footer justify-content-center text-center">
-                            <h6>
+                            <h6 class="mt-3 mb-3">
                                 To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a>, and get access to all our exlusive content.
-                                <br/><br/>You alredy have ab account? Please <a href="{{ route('login') }}">Login</a>
+                                <br/><br/>Already have an account? Please <a href="{{ route('login') }}">Login</a>
                             </h6>
                         </div>
           
@@ -158,8 +157,68 @@
                       <!--/.Content-->
           
                     </div>
-                  </div>
-                  <!--Modal: Name-->
+                </div>
+
+                <div class="modal fade" id="episode2" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
+                    <div class="modal-dialog modal-lg" role="document">
+          
+                      <!--Content-->
+                      <div class="modal-content">
+          
+                        <!--Body-->
+                        <div class="modal-body mb-0 p-0">
+          
+                          <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen=""></iframe>
+                          </div>
+          
+                        </div>
+          
+                        <!--Footer-->
+                        <div class="modal-footer justify-content-center text-center">
+                            <h6 class="mt-3 mb-3">
+                                To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a>, and get access to all our exlusive content.
+                                <br/><br/>Already have an account? Please <a href="{{ route('login') }}">Login</a>
+                            </h6>
+                        </div>
+          
+                      </div>
+                      <!--/.Content-->
+          
+                    </div>
+                </div>
+
+                <div class="modal fade" id="episode3" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
+                    <div class="modal-dialog modal-lg" role="document">
+          
+                      <!--Content-->
+                      <div class="modal-content">
+          
+                        <!--Body-->
+                        <div class="modal-body mb-0 p-0">
+          
+                          <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
+                            <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen=""></iframe>
+                          </div>
+          
+                        </div>
+          
+                        <!--Footer-->
+                        <div class="modal-footer justify-content-center text-center">
+                            <h6 class="mt-3 mb-3">
+                                To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a>, and get access to all our exlusive content.
+                                <br/><br/>Already have an account? Please <a href="{{ route('login') }}">Login</a>
+                            </h6>
+                        </div>
+          
+                      </div>
+                      <!--/.Content-->
+          
+                    </div>
+                </div>
+
+
+
 
     </div>
 
