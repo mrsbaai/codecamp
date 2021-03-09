@@ -11,3 +11,32 @@
     margin-top: -60px;
     /* Space for fixed navbar */
 }
+
+.thumb-container {
+    position: relative;
+    width: 100%;
+}
+
+.thumb-image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.thumb-container:hover .thumb-overlay .thumb-icon {
+    opacity: 1;
+    color: #FF304F;
+}
+
+.thumb-icon {
+    opacity: 0.9;
+    color: #CACACA;
+    font-size: 100px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    text-align: center;
+    transition: .6s ease;
+}

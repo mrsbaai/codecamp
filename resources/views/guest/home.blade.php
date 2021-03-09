@@ -84,33 +84,25 @@
 
     <div class="row">
         <div class="col-lg-4 mb-4">
-            <div class="card border-primary h-100 copyable">
-                <div class="card-body d-flex flex-column align-items-start">
-                    <h4 class="card-title text-primary">Card Outline</h4>
-                    <p class="card-text">Themestr.app makes it easy to customize this, and other free Bootstrap 4 themes for your downloading pleasure.</p>
-                    <a href="#" class="btn btn-primary mt-auto copyable">Button<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
+            <div class="card border-0">
+                <div class="thumb-container">
+                  <img src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
+                  <div class="thumb-overlay">
+                  <a href="#" class="thumb-icon" title="User Profile">
+                    <i class="fa fa-play"></i>
+                  </a>
+                  </div>
                 </div>
-            <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
-        </div>
-        <div class="col-lg-4 mb-4">
-            <div class="card border-primary h-100 copyable">
                 <div class="card-body">
-                    <div class="list-group copyable">
-                        <a href="#" class="list-group-item list-group-item-action active">Dis List Group</a>
-                        <a href="#" class="list-group-item list-group-item-action">Custom Colors</a>
-                        <a href="#" class="list-group-item list-group-item-action">Google Fonts</a>
-                        <a href="#" class="list-group-item list-group-item-action disabled">Ionicons</a>
-                    <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 </div>
-            <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
+            </div>              
         </div>
         <div class="col-lg-4 mb-4">
-            <div class="card bg-primary text-white h-100 copyable">
-                <div class="card-body d-flex flex-column align-items-start">
-                    <img src="{{ asset('img/soon.png') }}" class="card-img-top" alt="Title">
-                    <p class="card-text">This episode is about bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla bla </p>
-                </div>
-            </div>
+            d
+        </div>
+        <div class="col-lg-4 mb-4">
+            d
         </div>
     </div>
 
