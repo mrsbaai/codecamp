@@ -127,7 +127,7 @@
             <h1 class="display-6">Stay Connected</h1>
             <p class="lead">Receive news about upcoming events</p>
      
-            <div class="social-links">
+            <div class="text-center text-white">
                 <a href="https://www.facebook.com/CodeCamp.ma" class="fab fa-facebook-f social"></a>
                 <a href="#" class="fab fa-google social"></a>
                 <a href="https://linkedin.com/company/code-camp-ma" class="fab fa-linkedin social"></a>
