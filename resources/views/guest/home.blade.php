@@ -239,7 +239,7 @@
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right">
+                    <div class="col-12 text-right p-0">
                         <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
@@ -253,7 +253,7 @@
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right">
+                    <div class="col-12 text-right p-0">
                         <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
@@ -267,7 +267,7 @@
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right">
+                    <div class="col-12 text-right p-0">
                         <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
@@ -278,7 +278,7 @@
 
     </div>
 
-    <div class="col-12 my-auto text-center py-5">
+    <div class="col-12 my-auto text-center py-3">
     </div>
 </section>
 
