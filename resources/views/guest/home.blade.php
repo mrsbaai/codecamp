@@ -99,10 +99,34 @@
             </div>              
         </div>
         <div class="col-lg-4 mb-4">
-            d
+            <div class="card border-0">
+                <div class="thumb-container">
+                  <img src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
+                  <div class="thumb-overlay">
+                  <a href="#" class="thumb-icon" title="User Profile">
+                    <i class="fa fa-play"></i>
+                  </a>
+                  </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>   
         </div>
         <div class="col-lg-4 mb-4">
-            d
+            <div class="card border-0">
+                <div class="thumb-container">
+                  <img src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
+                  <div class="thumb-overlay">
+                  <a href="#" class="thumb-icon" title="User Profile">
+                    <i class="fa fa-play"></i>
+                  </a>
+                  </div>
+                </div>
+                <div class="card-body">
+                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                </div>
+            </div>   
         </div>
     </div>
 
