@@ -17,7 +17,7 @@
                             <div class="input-group mb-3">
                               <input type="text" class="form-control form-control-lg" placeholder="your@email">
                               <div class="input-group-append">
-                                <button class="btn btn-outline-light btn-lg rounded-right" type="button">Get Account</button>
+                                <button class="btn btn-outline-light btn-lg rounded-right" type="button">Get Started</button>
                               </div>
                             </div>
                         </div>
@@ -276,6 +276,9 @@
      
 
 
+    </div>
+
+    <div class="col-12 my-auto text-center py-5">
     </div>
 </section>
 
