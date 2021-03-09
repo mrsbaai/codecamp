@@ -46,8 +46,8 @@
                     <div class="card h-100 copyable">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-laptop-code"></i></h1>
-                            <h4 class="card-title text-primary">Freelance</h4>
-                            <p class="card-text">Get exposure to job opportunities, and find freelance projects to be part of.</p>
+                            <h4 class="card-title text-primary">To Freelance</h4>
+                            <p class="card-text">Get exposure to job opportunities, and freelance projects.</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">Make a potfolio</a>
                         </div>
                     </div>
@@ -56,7 +56,7 @@
                     <div class="card h-100 copyable">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-hat-wizard"></i></h1>
-                            <h4 class="card-title text-primary">Learn</h4>
+                            <h4 class="card-title text-primary">To Learn</h4>
                             <p class="card-text">Get access to free online learning material and get notified about new online and offline events.</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">Next Event</a>
                         </div>
@@ -66,7 +66,7 @@
                     <div class="card h-100 copyable">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-users"></i></h1>
-                            <h4 class="card-title text-primary">Coworking</h4>
+                            <h4 class="card-title text-primary">For Coworking</h4>
                             <p class="card-text">Get access to our affordable coworking space, for a professional work envirment.</p>
                             <a href="#" class="btn btn-primary mt-auto copyable">What is coworking?</a>
                         </div>
