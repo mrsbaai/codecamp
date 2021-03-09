@@ -231,45 +231,50 @@
 
 
     <div class="row">
+
         <div class="col-lg-4 mb-4">
-            <div class="card bg-success text-white h-100">
+            <div class="card bg-light text-white h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <div class="col-12 text-right">
-                        <a href="/blog" class="btn btn-success border-white mt-auto">Read More</a>
+                        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
             </div>
         </div>        
-        
+     
+                
         <div class="col-lg-4 mb-4">
-            <div class="card bg-success text-white h-100">
+            <div class="card bg-light text-white h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <div class="col-12 text-right">
-                        <a href="/blog" class="btn btn-success border-white mt-auto">Read More</a>
+                        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
             </div>
-        </div>
+        </div>        
+     
+               
+        <div class="col-lg-4 mb-4">
+            <div class="card bg-light text-white h-100">
+                <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
+                <div class="card-body d-flex flex-column align-items-start">
+                    <h4 class="card-title">MSS Episodes</h4>
+                    <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
+                    <div class="col-12 text-right">
+                        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
+                    </div>      
+                </div>
+            </div>
+        </div>        
+     
 
-        <div class="col-lg-4 mb-4">
-            <div class="card bg-success text-white h-100">
-                <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
-                <div class="card-body d-flex flex-column align-items-start">
-                    <h4 class="card-title">MSS Episodes</h4>
-                    <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right">
-                        <a href="/blog" class="btn btn-success border-white mt-auto">Read More</a>
-                    </div>      
-                </div>
-            </div>
-        </div>
-        
+
     </div>
 </section>
 
