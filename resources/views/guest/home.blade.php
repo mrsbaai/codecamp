@@ -147,8 +147,9 @@
                         </div>
           
                         <!--Footer-->
-                        <div class="modal-footer justify-content-center text-center">
-                            <h6>To watch the full episode please <a href="{{ route('login') }}">REGISTER</a> and get access to all our exlusive content. You alredy have ab account? Please <a href="{{ route('login') }}">Login</a></h6>
+                        <div class="modal-footer justify-content-center text-center bg-primary">
+                            <h6>To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a> and get access to all our exlusive content. </h6>
+                            <h6>You alredy have ab account? Please <a href="{{ route('login') }}">Login</a></h6>
                         </div>
           
                       </div>
