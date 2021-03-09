@@ -94,7 +94,7 @@
                   </div>
                 </div>
                 <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Best practices to build a resume, how to avoid most common mistakes and some tools to build a Good resume.</p>
                 </div>
             </div>              
         </div>
@@ -109,7 +109,7 @@
                   </div>
                 </div>
                 <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Best practices to build a resume, how to avoid most common mistakes and some tools to build a Good resume.</p>
                 </div>
             </div>   
         </div>
@@ -124,7 +124,7 @@
                   </div>
                 </div>
                 <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p class="card-text">Best practices to build a resume, how to avoid most common mistakes and some tools to build a Good resume.</p>
                 </div>
             </div>   
         </div>
