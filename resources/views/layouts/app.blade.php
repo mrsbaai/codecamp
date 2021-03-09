@@ -14,7 +14,7 @@
 
     <!-- Font Awesome JS -->
     <script src="https://use.fontawesome.com/releases/v5.15.2/js/all.js" data-mutate-approach="sync"></script>
-    
+
     <!-- Favicons -->
 
     <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('img/favicon/apple-icon-57x57.png') }}">
@@ -128,11 +128,13 @@
             <p class="lead">Receive news about upcoming events</p>
      
             <div class="social-links">
-                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
-                <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
-              </div>
+                <a href="https://www.facebook.com/CodeCamp.ma" class="fa fa-facebook social"></a>
+                <a href="#" class="fa fa-google social"></a>
+                <a href="https://linkedin.com/company/code-camp-ma" class="fa fa-linkedin social"></a>
+                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="fa fa-youtube social"></a>
+                <a href="https://instagram/codecamp.ma" class="fa fa-instagram social"></a>
+
+            </div>
 
             <div class="row">
                 <div class="col-lg-4 col-sm-6 mx-auto">
