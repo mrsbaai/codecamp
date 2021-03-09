@@ -40,3 +40,7 @@
     text-align: center;
     transition: .6s ease;
 }
+
+.modal {
+    padding-right: 0px !important;
+}
