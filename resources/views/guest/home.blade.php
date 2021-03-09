@@ -85,16 +85,16 @@
     <div class="row">
         <div class="col-lg-4 mb-4">
             <div class="card">
+                <div class="card-body">
+                    <p class="card-text">Best practices to build a resume, how to avoid most common mistakes and some tools to build a Good resume.</p>
+                </div>
                 <div class="thumb-container">
-                  <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
+                  <img class="card-img-bottom" src="https://codecamp.ma/img/thumbnail.png" alt="Avatar" class="thumb-image">
                   <div class="thumb-overlay">
                   <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode1">
                     <i class="fa fa-play"></i>
                   </a>
                   </div>
-                </div>
-                <div class="card-body">
-                    <p class="card-text">Best practices to build a resume, how to avoid most common mistakes and some tools to build a Good resume.</p>
                 </div>
             </div>              
         </div>
