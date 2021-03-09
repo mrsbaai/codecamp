@@ -226,14 +226,15 @@
             
 
     <div class="col-12 my-auto text-center py-5">
-        <h1>Latest News</h1>
+        <h1>Latest Blogs
+        </h1>
     </div>
 
 
     <div class="row">
 
         <div class="col-lg-4 mb-4">
-            <div class="card bg-light text-white h-100">
+            <div class="card bg-light h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
@@ -247,7 +248,7 @@
      
                 
         <div class="col-lg-4 mb-4">
-            <div class="card bg-light text-white h-100">
+            <div class="card bg-light h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
@@ -261,7 +262,7 @@
      
                
         <div class="col-lg-4 mb-4">
-            <div class="card bg-light text-white h-100">
+            <div class="card bg-light h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
