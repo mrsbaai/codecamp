@@ -43,32 +43,32 @@
         <div class="col-12 my-auto">
             <div class="row text-center">
                 <div class="col-lg-4 mb-4">
-                    <div class="card h-100 copyable">
+                    <div class="card h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-laptop-code"></i></h1>
                             <h4 class="card-title text-primary">To Freelance</h4>
                             <p class="card-text">Get exposure to job opportunities, and freelance projects.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Make a potfolio</a>
+                            <a href="#" class="btn btn-primary mt-auto">Make a potfolio</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4">
-                    <div class="card h-100 copyable">
+                    <div class="card h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-hat-wizard"></i></h1>
                             <h4 class="card-title text-primary">To Learn</h4>
                             <p class="card-text">Get access to free online learning material and get notified about new online and offline events.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">Next Event</a>
+                            <a href="#" class="btn btn-primary mt-auto">Next Event</a>
                         </div>
                     </div>
                 </div>
                 <div class="col-lg-4 mb-4">
-                    <div class="card h-100 copyable">
+                    <div class="card h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2 text-primary"><i class="fas fa-users"></i></h1>
                             <h4 class="card-title text-primary">For Coworking</h4>
                             <p class="card-text">Get access to our affordable coworking space, for a professional work envirment.</p>
-                            <a href="#" class="btn btn-primary mt-auto copyable">What is coworking?</a>
+                            <a href="#" class="btn btn-primary mt-auto">What is coworking?</a>
                         </div>
                     </div>
                 </div>
@@ -219,11 +219,43 @@
 
 
 
+            
 
+    <div class="col-12 my-auto text-center py-5">
+        <h1>Latest News</h1>
     </div>
 
 
+    <div class="row">
+        <div class="col-lg-4 mb-4">
+            <div class="card bg-primary text-white h-100 copyable">
+                <div class="card-body d-flex flex-column align-items-start">
+                    <h4 class="card-title">Scrollspy</h4>
+                    <p class="card-text">The top NavBar utilizes Bootstrap's Scrollspy component. You'll notice when you scroll the page the "active" nav section is highlighted.</p>
+                    <a href="https://getbootstrap.com/docs/4.1/components/scrollspy/" class="btn btn-primary border-white mt-auto copyable">Read More<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
+                </div>
+            <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
+        </div>
+        <div class="col-lg-4 mb-4">
+            <div class="card bg-primary text-white h-100 copyable">
+                <div class="card-body d-flex flex-column align-items-start">
+                    <h4 class="card-title">Scrollspy</h4>
+                    <p class="card-text">The top NavBar utilizes Bootstrap's Scrollspy component. You'll notice when you scroll the page the "active" nav section is highlighted.</p>
+                    <a href="https://getbootstrap.com/docs/4.1/components/scrollspy/" class="btn btn-primary border-white mt-auto copyable">Read More<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
+                </div>
+            <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
+        </div>
+        <div class="col-lg-4 mb-4">
+            <div class="card bg-primary text-white h-100 copyable">
+                <div class="card-body d-flex flex-column align-items-start">
+                    <h4 class="card-title">Scrollspy</h4>
+                    <p class="card-text">The top NavBar utilizes Bootstrap's Scrollspy component. You'll notice when you scroll the page the "active" nav section is highlighted.</p>
+                    <a href="https://getbootstrap.com/docs/4.1/components/scrollspy/" class="btn btn-primary border-white mt-auto copyable">Read More<a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></a>
+                </div>
+            <a href="" class="copyable-trigger" data-original-title="" title="">&lt;&gt;</a></div>
+        </div>
 
+    </div>
 </section>
 
 @endsection
