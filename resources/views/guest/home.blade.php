@@ -233,7 +233,7 @@
     <div class="row">
         <div class="col-lg-4 mb-4">
             <div class="card bg-primary text-white h-100 copyable">
-                <img class="card-img-top" src="https://codecamp.ma/img/blog.png">
+                <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
@@ -243,18 +243,20 @@
         </div>
         <div class="col-lg-4 mb-4">
             <div class="card bg-primary text-white h-100 copyable">
+                <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h4 class="card-title">Scrollspy</h4>
-                    <p class="card-text">The top NavBar utilizes Bootstrap's Scrollspy component. You'll notice when you scroll the page the "active" nav section is highlighted.</p>
+                    <h4 class="card-title">MSS Episodes</h4>
+                    <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <a href="https://getbootstrap.com/docs/4.1/components/scrollspy/" class="btn btn-primary border-white mt-auto copyable">Read More</a>
                 </div>
             </div>
         </div>
         <div class="col-lg-4 mb-4">
             <div class="card bg-primary text-white h-100 copyable">
+                <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
                 <div class="card-body d-flex flex-column align-items-start">
-                    <h4 class="card-title">Scrollspy</h4>
-                    <p class="card-text">The top NavBar utilizes Bootstrap's Scrollspy component. You'll notice when you scroll the page the "active" nav section is highlighted.</p>
+                    <h4 class="card-title">MSS Episodes</h4>
+                    <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <a href="https://getbootstrap.com/docs/4.1/components/scrollspy/" class="btn btn-primary border-white mt-auto copyable">Read More</a>
                 </div>
             </div>
