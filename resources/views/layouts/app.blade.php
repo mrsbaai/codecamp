@@ -128,11 +128,11 @@
             <p class="lead">Receive news about upcoming events</p>
      
             <div class="social-links">
-                <a href="https://www.facebook.com/CodeCamp.ma" class="fa fa-facebook social"></a>
-                <a href="#" class="fa fa-google social"></a>
-                <a href="https://linkedin.com/company/code-camp-ma" class="fa fa-linkedin social"></a>
-                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="fa fa-youtube social"></a>
-                <a href="https://instagram/codecamp.ma" class="fa fa-instagram social"></a>
+                <a href="https://www.facebook.com/CodeCamp.ma" class="fab fa-facebook-f social"></a>
+                <a href="#" class="fab fa-google social"></a>
+                <a href="https://linkedin.com/company/code-camp-ma" class="fab fa-linkedin social"></a>
+                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="fab fa-youtube social"></a>
+                <a href="https://instagram/codecamp.ma" class="fab fa-instagram social"></a>
 
             </div>
 
