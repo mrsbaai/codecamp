@@ -129,19 +129,19 @@
      
 
             <div class="text-center text-white social-container">
-                <a href="https://www.facebook.com/CodeCamp.ma" class="btn btn-facebook btn-lg rounded-circle social">
+                <a href="https://www.facebook.com/CodeCamp.ma" class="btn btn-facebook btn-lg social">
                     <span  class="fab fa-facebook-f"></span>
                 </a>
-                <a href="#" class="btn btn-google btn-lg rounded-circle">
+                <a href="#" class="btn btn-google btn-lg">
                     <span  class="fab fa-google"></span>
                 </a>
-                <a href="https://linkedin.com/company/code-camp-ma" class="btn btn-linkedin btn-lg rounded-circle social">
+                <a href="https://linkedin.com/company/code-camp-ma" class="btn btn-linkedin btn-lg social">
                     <span  class="fab fa-linkedin"></span>
                 </a>
-                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="btn btn-youtube btn-lg rounded-circle social">
+                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="btn btn-pinterest btn-lg social">
                     <span  class="fab fa-youtube"></span>
                 </a>
-                <a href="https://instagram/codecamp.ma" class="btn btn-instagram btn-lg rounded-circle social">
+                <a href="https://instagram/codecamp.ma" class="btn btn-instagram btn-lgsocial">
                     <span  class="fab fa-instagram"></span>
                 </a>
 
