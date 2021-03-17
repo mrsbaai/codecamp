@@ -731,20 +731,20 @@ fieldset[disabled] .btn-google.focus {
 
 .btn-instagram {
     color: #fff;
-    background-color: #3f729b;
+    background-color: #C9016C;
     border-color: rgba(0, 0, 0, 0.2)
 }
 
 .btn-instagram:focus,
 .btn-instagram.focus {
     color: #fff;
-    background-color: #305777;
+    background-color: #c9016cab;
     border-color: rgba(0, 0, 0, 0.2)
 }
 
 .btn-instagram:hover {
     color: #fff;
-    background-color: #305777;
+    background-color: #c9016cab;
     border-color: rgba(0, 0, 0, 0.2)
 }
 
@@ -752,7 +752,7 @@ fieldset[disabled] .btn-google.focus {
 .btn-instagram.active,
 .open>.dropdown-toggle.btn-instagram {
     color: #fff;
-    background-color: #305777;
+    background-color: #c9016cab;
     border-color: rgba(0, 0, 0, 0.2)
 }
 
@@ -785,12 +785,12 @@ fieldset[disabled] .btn-instagram:focus,
 .btn-instagram.disabled.focus,
 .btn-instagram[disabled].focus,
 fieldset[disabled] .btn-instagram.focus {
-    background-color: #3f729b;
+    background-color: #C9016C;
     border-color: rgba(0, 0, 0, 0.2)
 }
 
 .btn-instagram .badge {
-    color: #3f729b;
+    color: #C9016C;
     background-color: #fff
 }
 
