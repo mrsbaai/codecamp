@@ -68,6 +68,11 @@
     margin: 20px;
 }
 
+.social {
+    width: 60px;
+    height: 60px;
+}
+
 .btn-social {
     position: relative;
     padding-left: 44px;
