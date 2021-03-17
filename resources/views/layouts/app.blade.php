@@ -134,7 +134,7 @@
                 <span class="fa fa-twitter"></span> Sign in with Twitter
               </a>
             <div class="text-center text-white">
-                <a href="https://www.facebook.com/CodeCamp.ma" class="fab fa-facebook-f social"></a>
+                <a href="https://www.facebook.com/CodeCamp.ma" class="fab fa-facebook-f social btn-facebook"></a>
                 <a href="#" class="fab fa-google social"></a>
                 <a href="https://linkedin.com/company/code-camp-ma" class="fab fa-linkedin social"></a>
                 <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="fab fa-youtube social"></a>
