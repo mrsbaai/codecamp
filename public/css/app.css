@@ -63,6 +63,11 @@
  * https://github.com/lipis/bootstrap-social
  */
 
+.social-container {
+    padding: 20px;
+    margin: 20px;
+}
+
 .btn-social {
     position: relative;
     padding-left: 44px;
