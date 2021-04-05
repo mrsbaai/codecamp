@@ -3,7 +3,7 @@
 @section('content')
 <div class="container" data-aos="fade-up">
 
-<ul class="nav nav-pills justify-content-center m-3">
+<ul class="nav nav-pills justify-content-center m-6">
   <li class="nav-item">
     <a class="nav-link active " href="#">All</a>
   </li>
@@ -21,7 +21,7 @@
     <div class="row justify-content-center">
         <div class="col-lg-10">
           <article>
-                 <div class="card mb-3">
+                 <div class="card mb-6">
                     <div class="row no-gutters">
                         <div class="col-md-4">
                           <img src="/img/square.jpg" class="card-img rounded-left" alt="Dolorum optio tempore voluptas">
