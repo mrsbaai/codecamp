@@ -1,4 +1,4 @@
-@extends('layouts.appp')
+@extends('layouts.app')
 
 @section('content')
 <div class="container" data-aos="fade-up">
