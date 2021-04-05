@@ -71,5 +71,8 @@
       </div>
     
 </div>
-<br/><br/><br/>
+
+@section('title')
+: Blog
+@endsection
 @endsection
