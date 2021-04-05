@@ -24,7 +24,7 @@
                  <div class="card mb3-3">
                     <div class="row no-gutters">
                         <div class="col-md-4">
-                          <img src="..." class="card-img" alt="...">
+                          <img src="/img/square/jpg" class="card-img" alt="Dolorum optio tempore voluptas">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -44,7 +44,7 @@
             <div class="card mb3-3">
                <div class="row no-gutters">
                    <div class="col-md-4">
-                     <img src="..." class="card-img" alt="...">
+                     <img src="/img/square/jpg" class="card-img" alt="Dolorum optio tempore voluptas">
                    </div>
                    <div class="col-md-8">
                        <div class="card-body">
@@ -59,9 +59,6 @@
           </div>
      </article>
       <br/>
-
-      
-           
 
 
 
