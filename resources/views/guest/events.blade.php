@@ -14,7 +14,7 @@
                       <td>
                          <div>
                             <div class="card-body">
-                                <h5 class="card-title text-primary pb-1">Dolorum optio tempore </h5>
+                                <h5 class="card-title text-primary Mb-1">Dolorum optio tempore </h5>
                                <h6 class="card-subtitle mb-2 text-muted">
                                  <div class="row">
                                      <div class="col-6 col-md-4">
