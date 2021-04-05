@@ -11,17 +11,17 @@
           <div class="col-lg-6">
            
               <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-map-marker-alt"></i> Location:</h4>
+                <h4 class="text-primary"><i class="fas fa-map-marker-alt"></i> Location</h4>
                 <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
               </div>
 
               <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-envelope"></i> Email:</h4>
+                <h4 class="text-primary"><i class="fas fa-envelope"></i> Email</h4>
                 <p>info@codecamp.ma</p>
               </div>
 
               <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-phone-alt"></i> Call:</h4>
+                <h4 class="text-primary"><i class="fas fa-phone-alt"></i> Call</h4>
                 <p>07 07 73 07 72</p>
               </div>
 
@@ -56,6 +56,13 @@
 
           </div>
 
+        </div>
+        
+        <div class="row mt-1">
+        <div id="map-container-google-1" class="z-depth-1-half map-container" style="height: 500px">
+            <iframe src="https://maps.google.com/maps?q=manhatan&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0"
+              style="border:0" allowfullscreen></iframe>
+          </div>
         </div>
 
       </div>
