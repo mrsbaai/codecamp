@@ -405,8 +405,8 @@ fieldset[disabled] .btn-dropbox.focus {
 }
 
 .btn-facebook {
-    color: #fff;
-    background-color: #3b5998;
+    color: #3b5998;
+    background-color: transparent;
     border-color: rgba(0, 0, 0, 0.2)
 }
 
