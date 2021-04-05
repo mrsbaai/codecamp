@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<div class="container m-4">
+<div class="container mb-4">
 
             <div class="text-center m-5">
                 <h3>More info?</h3>
