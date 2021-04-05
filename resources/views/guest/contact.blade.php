@@ -8,26 +8,6 @@
 
         <div class="row mt-1">
 
-          <div class="col-lg-6">
-           
-              <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-map-marker-alt"></i> Location:</h4>
-                <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
-              </div>
-
-              <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-envelope"></i> Email:</h4>
-                <p>info@codecamp.ma</p>
-              </div>
-
-              <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-phone-alt"></i> Call:</h4>
-                <p>07 07 73 07 72</p>
-              </div>
-
-           
-
-          </div>
 
           <div class="col-lg-6 mt-5 mt-lg-0">
               <div class="form-row">
@@ -55,6 +35,28 @@
               <div class="text-center"><button  class="btn btn-primary" type="submit">Send</button></div>
 
           </div>
+
+          
+          <div class="col-lg-6">
+           
+            <div class="col-lg-12">
+              <h4 class="text-primary"><i class="fas fa-map-marker-alt"></i> Location:</h4>
+              <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
+            </div>
+
+            <div class="col-lg-12">
+              <h4 class="text-primary"><i class="fas fa-envelope"></i> Email:</h4>
+              <p>info@codecamp.ma</p>
+            </div>
+
+            <div class="col-lg-12">
+              <h4 class="text-primary"><i class="fas fa-phone-alt"></i> Call:</h4>
+              <p>07 07 73 07 72</p>
+            </div>
+
+         
+
+        </div>
 
         </div>
 
