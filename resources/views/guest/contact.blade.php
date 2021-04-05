@@ -3,12 +3,13 @@
 <div class="container" data-aos="fade-up">
 
             <div class="text-center">
-                <h3> </br> More info?</h3>
+                <h3>More info?</h3>
              </div>
+             
         <div class="row mt-1">
 
           <div class="col-lg-6">
-            </br>
+           
               <div class="col-lg-12">
                 <h4 class="text-primary"><i class="fas fa-map-marker-alt"></i> Location:</h4>
                 <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
@@ -58,7 +59,7 @@
         </div>
 
       </div>
-</br></br></br>
+
 @endsection
 @section('title')
 : Contact
