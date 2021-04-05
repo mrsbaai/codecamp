@@ -128,7 +128,7 @@
             <p class="lead">Receive news about upcoming events</p>
      
 
-            <div class="text-center social-container">
+            <div class="text-center social-links">
                 <a href="https://www.facebook.com/CodeCamp.ma">
                     <span  class="fab fa-facebook-f"></span>
                 </a>

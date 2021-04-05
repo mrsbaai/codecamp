@@ -53,7 +53,27 @@
     opacity: 1;
 }
 
-.social-container {
-    font-size: 50px;
-    color: white;
+.social-links {
+    margin: 0 0 40px 0;
+}
+
+.social-links a {
+    font-size: 48px;
+    display: inline-block;
+    background: transparent;
+    color: #fff;
+    line-height: 1;
+    padding: 10px 0;
+    margin-right: 4px;
+    border-radius: 50%;
+    text-align: center;
+    width: 66px;
+    height: 66px;
+    transition: 0.3s;
+}
+
+.social-links a:hover {
+    background: transparent;
+    color: #fff;
+    text-decoration: none;
 }

@@ -38,7 +38,7 @@
   <link href="/construction/vendor/icofont/icofont.min.css" rel="stylesheet">
   <link href="/construction/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="/construction/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="/construction/vendor/owl.carousel//construction/owl.carousel.min.css" rel="stylesheet">
+  <link href="/construction/vendor/owl.carousel/construction/owl.carousel.min.css" rel="stylesheet">
   <link href="/construction/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
