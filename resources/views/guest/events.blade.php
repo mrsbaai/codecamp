@@ -10,9 +10,10 @@
                   
                  <tbody>
                     <tr>
-                        <td class="col-4 p-0 hidden-xs hidden-sm">
+                        <th scope="col" class="col-4 p-0 d-none d-sm-table-cell">
                             <img alt="Dolorum optio tempore" src="img/square.jpg" class="card-img rounded-0">
-                        </td>
+                        </th>
+ 
                       <td>
                          <div>
                             <div class="card-body">
