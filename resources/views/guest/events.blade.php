@@ -10,7 +10,9 @@
                   
                  <tbody>
                     <tr>
-                        <th scope="row" class="col-4 p-0 hidden-sm"><img alt="Dolorum optio tempore" src="img/square.jpg" class="card-img rounded-0"></th>
+                        <td class="col-4 p-0 hidden-xs hidden-sm">
+                            <img alt="Dolorum optio tempore" src="img/square.jpg" class="card-img rounded-0">
+                        </td>
                       <td>
                          <div>
                             <div class="card-body">
