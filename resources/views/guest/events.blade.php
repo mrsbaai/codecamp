@@ -17,13 +17,13 @@
                                 <h5 class="card-title text-primary mb-1">Dolorum optio tempore </h5>
                                <h6 class="card-subtitle mb-2 text-muted">
                                  <div class="row">
-                                     <div class="col-6 col-md-3 mt-1">
+                                     <div class="col-6 col-md-3 mt-3">
                                          <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021</small></p>
                                      </div>
-                                     <div class="col-6 col-md-3 mt-1">
+                                     <div class="col-6 col-md-3 mt-3">
                                           <p class="card-text"><i class="fas fa-dollar-sign text-primary"></i> <small class="text-muted"> 600 MAD</small></p>
                                      </div>
-                                     <div class="col-12 col-md-6 mt-1">
+                                     <div class="col-12 col-md-6 mt-3">
                                           <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                                      </div>
                                    </div>
