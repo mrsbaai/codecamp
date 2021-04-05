@@ -17,24 +17,24 @@
                       <td>
                          <div>
                             <div class="card-body">
-                                <h5 class="card-title text-primary mb-1">Dolorum optio tempore </h5>
+                                <h5 class="card-title text-primary mb-1"><span class="badge badge-pill badge-dark mr-3">190 Dh</span> Dolorum optio tempore</h5>
                                <h6 class="card-subtitle mb-2 text-muted">
                                  <div class="row">
                                      <div class="col-6 col-md-3 mt-3">
                                          <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021</small></p>
                                      </div>
-                                     <div class="col-6 col-md-3 mt-3">
-                                          <p class="card-text"><i class="fas fa-dollar-sign text-primary"></i> <small class="text-muted"> 600 MAD</small></p>
-                                     </div>
-                                     <div class="col-12 col-md-6 mt-3">
+
+                                     <div class="col-12 col-md-9 mt-3">
                                           <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                                      </div>
                                    </div>
                                </h6>
                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                <div class="text-right">
-                                  <a href="#" data-toggle="modal" data-target="#events1"  class="card-link">Participate</a>
-                                  <a href="eventdetails" class="card-link">More info</a>
+                                <a href="eventdetails" class="card-link">More info</a>
+                                <button type="button" class="btn btn-lg btn-primary"  data-toggle="modal" data-target="#events1" >Subscribe</button>
+
+                                  
                                 </div>
                               </div>
                           </div>
@@ -53,7 +53,7 @@
                         <!--Body-->
                         <div class="modal-body">
                            <div class="card-body">
-                                <h5 class="card-title text-primary">Dolorum optio tempore </h5>
+                                <h5 class="card-title text-primary"><span class="badge badge-pill badge-dark mr-3">190 Dh</span> Dolorum optio tempore </h5>
                                <h6 class="card-subtitle mb-2 text-muted">
                                    <div class="row">
                                      <div class="col-6 col-md-4">
@@ -66,11 +66,7 @@
                                           <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                                      </div>
                                    </div>
-                                   <div class="row">
-                                      <div class="col-lg-3 offset-lg-4 badge badge-primary text-center">
-                                         <h6 class="card-text"><i class="fas fa-dollar-sign"></i> 600 MAD</h6>
-                                      </div>
-                                  </div>
+
                                </h6>
                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
