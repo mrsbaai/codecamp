@@ -1,8 +1,8 @@
 @extends('layouts.app')
 @section('content')
 <div class="container" data-aos="fade-up">
-            <div class="text-center">
-                <h3> </br> Upcoming Latest Event</h3>
+            <div class="text-center m-5">
+                <h3> Upcoming Latest Event</h3>
             </div>
        <div class="row justify-content-center">
           <div class="col-lg-10">
@@ -10,7 +10,7 @@
                   
                  <tbody>
                     <tr>
-                        <th scope="row" class="col-4 p-0"><img alt="Dolorum optio tempore" src="img/square.jpg" class="card-img rounded-0"></th>
+                        <th scope="row" class="col-4 p-0 hidden-sm"><img alt="Dolorum optio tempore" src="img/square.jpg" class="card-img rounded-0"></th>
                       <td>
                          <div>
                             <div class="card-body">
