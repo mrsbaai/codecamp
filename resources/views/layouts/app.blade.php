@@ -60,22 +60,22 @@
                     <!-- Authentication Links -->
                     @guest
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Find a job') }}</a>
+                            <a class="nav-link" href="/job">{{ __('Find a job') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Live Events') }}</a>
+                            <a class="nav-link" href="/events">{{ __('Live Events') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Coworking') }}</a>
+                            <a class="nav-link" href="/coworking">{{ __('Coworking') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Episodes') }}</a>
+                            <a class="nav-link" href="/episodes">{{ __('Episodes') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Blog') }}</a>
+                            <a class="nav-link" href="/blog">{{ __('Blog') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="{{ route('login') }}">{{ __('Contact') }}</a>
+                            <a class="nav-link" href="/contact">{{ __('Contact') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="{{ route('login') }}">{{ __('Login') }}</a>
