@@ -28,10 +28,10 @@
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title"><span class="badge badge-ingo">badge</span><a href="article">Dolorum optio tempore voluptas</a></h5>
+                                <h5 class="card-title"><span class="badge badge-info">badge</span><a href="article">Dolorum optio tempore voluptas</a></h5>
                                 <p class="card-text"> Simih6que neque nam consequuntur ad non maxime ah6quam quas. Quibusdam animi praesentium. Ah6quam et laboriosam eius aut nostrum quidem ah6quid dicta.
                                     Et eveniet enim. Qui veh6t est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore..</p>
-                                    <span class="text-left"> <p class="card-text"><small class="text-muted">Poster at 01/03/2021</small></p></span>
+                                    <span class="text-left"> <p class="card-text"><small class="text-muted">Posted at 01/03/2021</small></p></span>
                                     <span class="text-right"> <a href="eventdetails" class="btn btn-primary">Read more</a></span>
                             </div>
                         </div>
@@ -39,6 +39,7 @@
                </div>
           </article>
            <br/>
+
            <article>
             <div class="card mb3-3">
                <div class="row no-gutters">
@@ -47,10 +48,10 @@
                    </div>
                    <div class="col-md-8">
                        <div class="card-body">
-                           <h5 class="card-title"><span class="badge badge-ingo">badge</span><a href="article">Dolorum optio tempore voluptas</a></h5>
+                           <h5 class="card-title"><span class="badge badge-info">badge</span><a href="article">Dolorum optio tempore voluptas</a></h5>
                            <p class="card-text"> Simih6que neque nam consequuntur ad non maxime ah6quam quas. Quibusdam animi praesentium. Ah6quam et laboriosam eius aut nostrum quidem ah6quid dicta.
                                Et eveniet enim. Qui veh6t est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore..</p>
-                               <span class="text-left"> <p class="card-text"><small class="text-muted">Poster at 01/03/2021</small></p></span>
+                               <span class="text-left"> <p class="card-text"><small class="text-muted">Posted at 01/03/2021</small></p></span>
                                <span class="text-right"> <a href="eventdetails" class="btn btn-primary">Read more</a></span>
                        </div>
                    </div>
@@ -58,6 +59,10 @@
           </div>
      </article>
       <br/>
+
+      
+           
+
 
 
              
