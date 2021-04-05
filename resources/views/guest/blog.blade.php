@@ -3,7 +3,7 @@
 @section('content')
 <div class="container" data-aos="fade-up">
 
-<ul class="nav nav-pills justify-content-center m-3>
+<ul class="nav nav-pills justify-content-center m-3">
   <li class="nav-item">
     <a class="nav-link active " href="#">All</a>
   </li>
