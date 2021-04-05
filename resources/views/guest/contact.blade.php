@@ -2,10 +2,10 @@
 @section('content')
 <div class="container" data-aos="fade-up">
 
-            <div class="text-center">
+            <div class="text-center m-4">
                 <h3>More info?</h3>
              </div>
-             
+
         <div class="row mt-1">
 
           <div class="col-lg-6">
