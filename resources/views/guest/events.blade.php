@@ -10,11 +10,11 @@
                   
                  <tbody>
                     <tr>
-                      <th scope="row"><img src="{{ asset('img/b.png') }}" alt="..." class="img-thumbnail"></th>
+                        <th scope="row" class="col-4 p-0"><img alt="Dolorum optio tempore" src="img/square.jpg" class="card-img rounded-0"></th>
                       <td>
                          <div>
                             <div class="card-body">
-                                <h5 class="card-title text-primary">Dolorum optio tempore </h5>
+                                <h5 class="card-title text-primary pb-1">Dolorum optio tempore </h5>
                                <h6 class="card-subtitle mb-2 text-muted">
                                  <div class="row">
                                      <div class="col-6 col-md-4">
@@ -37,64 +37,7 @@
                           </div>
                       </td>
                     </tr>
-                    <tr>
-                      <th scope="row"><img src="{{ asset('img/b.png') }}" alt="..." class="img-thumbnail"></th>
-                      <td>
-                         <div>
-                            <div class="card-body">
-                                <h5 class="card-title text-primary">Dolorum optio tempore </h5>
-                               <h6 class="card-subtitle mb-2 text-muted">
-                                 <div class="row">
-                                     <div class="col-6 col-md-4">
-                                         <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021</small></p>
-                                     </div>
-                                     <div class="col-6 col-md-4">
-                                          <p class="card-text"><i class="fas fa-dollar-sign text-primary"></i> <small class="text-muted"> 600 MAD</small></p>
-                                     </div>
-                                     <div class="col-12 col-md-4">
-                                          <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
-                                     </div>
-                                   </div>
-                               </h6>
-                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                               <div class="text-right">
-                                  <a href="#" data-toggle="modal" data-target="#events1"  class="card-link">Participate</a>
-                                  <a href="eventdetails" class="card-link">More info</a>
-                                </div>
-                              </div>
-                          </div>
-                      </td>
-                    </tr>
-                    <tr>
-                    <tr>
-                      <th scope="row"><img src="{{ asset('img/b.png') }}" alt="..." class="img-thumbnail"></th>
-                      <td>
-                         <div>
-                            <div class="card-body">
-                                <h5 class="card-title text-primary">Dolorum optio tempore </h5>
-                               <h6 class="card-subtitle mb-2 text-muted">
-                                 <div class="row">
-                                     <div class="col-6 col-md-4">
-                                         <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021</small></p>
-                                     </div>
-                                     <div class="col-6 col-md-4">
-                                          <p class="card-text"><i class="fas fa-dollar-sign text-primary"></i> <small class="text-muted"> 600 MAD</small></p>
-                                     </div>
-                                     <div class="col-12 col-md-4">
-                                          <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
-                                     </div>
-                                   </div>
-                               </h6>
-                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                               <div class="text-right">
-                                  <a href="#" data-toggle="modal" data-target="#events1"  class="card-link">Participate</a>
-                                  <a href="eventdetails" class="card-link">More info</a>
-                                </div>
-                              </div>
-                          </div>
-                      </td>
-                    </tr>
-                    <tr>
+                    
                  </tbody>
                </table>
             </div>
