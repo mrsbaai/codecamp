@@ -51,25 +51,7 @@
   border-top-right-radius: 0;
   border-bottom-left-radius: calc(0.25rem - 1px);
 }
-@media only screen and (max-width: 768px) {
-  a {
-    display: none;
-  }
-  .card-body {
-    padding: 0.5em 1.2em;
-  }
-  .card-body .card-text {
-    margin: 0;
-  }
-  .card img {
-    width: 50%;
-  }
-}
-@media only screen and (max-width: 1200px) {
-  .card img {
-    width: 40%;
-  }
-}
+
 </style>
 
 
