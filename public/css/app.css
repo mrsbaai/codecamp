@@ -77,11 +77,3 @@
     color: #fff;
     text-decoration: none;
 }
-
-.form-control:focus {
-    color: #8a96a1;
-    background-color: #fff;
-    border-color: #ECECEC;
-    outline: 0;
-    box-shadow: #8a96a1;
-}
