@@ -2,7 +2,7 @@
 @section('content')
 <div class="container" data-aos="fade-up">
             <div class="text-center m-5">
-                <h3> Upcoming Latest Event</h3>
+                <h3> Upcoming events</h3>
             </div>
        <div class="row justify-content-center">
           <div class="col-lg-10">
@@ -17,19 +17,25 @@
                       <td>
                          <div>
                             <div class="card-body">
-                                <h5 class="card-title text-primary mb-1"><span class="badge badge-pill badge-dark mr-3">190 Dh</span> Dolorum optio tempore</h5>
+                                <h4 class="card-title mb-1">2021 New Year Online Business Resolution</h4>
                                <h6 class="card-subtitle mb-2 text-muted">
                                  <div class="row">
-                                     <div class="col-6 col-md-3 mt-3">
-                                         <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021</small></p>
-                                     </div>
+                                    <div class="col-12 mt-3">
+                                        <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted">Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
+                                   </div>
+                                   <div class="col-8 mt-3">
+                                        <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted">01/03/2021 - 01/03/2021</small></p>
+                                   </div>
+                                   
+                                   <div class="col-8 mt-3">
+                                    <p class="card-text"><i class="fas fa-money-bill-wave text-primary"></i><small class="text-muted">190 DH</small></p>
+                                    </div>
 
-                                     <div class="col-12 col-md-9 mt-3">
-                                          <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
-                                     </div>
+
+
                                    </div>
                                </h6>
-                               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                               <p class="card-text">We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. </p>
                                <div class="text-right">
                                 <a href="eventdetails" class="card-link">More info</a>
                                 <button type="button" class="btn btn-md btn-primary"  data-toggle="modal" data-target="#events1" >Subscribe</button>
