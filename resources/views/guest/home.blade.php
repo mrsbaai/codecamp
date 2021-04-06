@@ -93,9 +93,9 @@
                   </a>
                   </div>
                 </div>
-                <div class="card-body">
+                <div class="card-body bg-dark text-light">
                     <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                    <p class="card-text"><small class="text-muted">Duration: 56 mins</small></p>
+                    <p class="card-text"><small>Duration: 56 mins</small></p>
                 </div>
             </div>              
         </div>
@@ -109,9 +109,9 @@
                   </a>
                   </div>
                 </div>
-                <div class="card-body">
+                <div class="card-body bg-dark text-light">
                     <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                    <p class="card-text"><small class="text-muted">Duration: 56 mins</small></p>
+                    <p class="card-text"><small>Duration: 56 mins</small></p>
                 </div>
             </div>              
         </div>
@@ -125,9 +125,9 @@
                   </a>
                   </div>
                 </div>
-                <div class="card-body">
+                <div class="card-body bg-dark text-light">
                     <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                    <p class="card-text"><small class="text-muted">Duration: 56 mins</small></p>
+                    <p class="card-text"><small>Duration: 56 mins</small></p>
                 </div>
             </div>              
         </div>
@@ -236,11 +236,11 @@
         <div class="col-lg-4 mb-4">
             <div class="card bg-light h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
-                <div class="card-body d-flex flex-column align-items-start">
+                <div class="card-body d-flex flex-column align-items-start bg-dark text-light">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <div class="col-12 text-right p-0">
-                        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
+                        <a href="/blog" class="btn btn-w btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
             </div>
@@ -250,11 +250,11 @@
         <div class="col-lg-4 mb-4">
             <div class="card bg-light h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
-                <div class="card-body d-flex flex-column align-items-start">
+                <div class="card-body d-flex flex-column align-items-start bg-dark text-light">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <div class="col-12 text-right p-0">
-                        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
+                        <a href="/blog" class="btn btn-w btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
             </div>
@@ -264,11 +264,11 @@
         <div class="col-lg-4 mb-4">
             <div class="card bg-light h-100">
                 <img class="card-img-top" src="https://codecamp.ma/img/blog.jpg">
-                <div class="card-body d-flex flex-column align-items-start">
+                <div class="card-body d-flex flex-column align-items-start bg-dark text-light">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
                     <div class="col-12 text-right p-0">
-                        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
+                        <a href="/blog" class="btn btn-w btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
             </div>
