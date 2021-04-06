@@ -25,7 +25,7 @@
 
 .thumb-container:hover .thumb-icon .card-thumb {
     opacity: 1;
-    color: #FF304F;
+    /* color: #FF304F; */
 }
 
 .thumb-icon {
