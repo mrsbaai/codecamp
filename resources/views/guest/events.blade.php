@@ -126,10 +126,16 @@
       border-top-right-radius: 0;
       border-bottom-left-radius: calc(0.25rem - 1px);
     }
-    .thumb-overlay{
+    .thumb-container{
         width: 300px;
 
     }
+
+    .thumb-container:hover .thumb-icon .card-thumb {
+    opacity: 1;
+    color: #0F81C7;
+}
+
     @media (max-width: 992px) {
       .card img {
         width: 100%;
