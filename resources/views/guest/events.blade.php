@@ -6,7 +6,7 @@
     </div>
 
     <div class="card">
-        <img src="img/square.jpg" class="card-img-top" />
+        <img src="img/square.jpg" class="card-img" />
         <div class="card-body">
           <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
           <h6 class="card-subtitle mb-2">
@@ -115,7 +115,7 @@
       border-top-right-radius: 0;
       border-bottom-left-radius: calc(0.25rem - 1px);
     }
-    @media (max-width: 992px) {
+    @media (max-width: 768px) {
       .card img {
         width: 100%;
     
