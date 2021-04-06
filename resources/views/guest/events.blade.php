@@ -6,7 +6,7 @@
     </div>
 
     <div class="card">
-        <img src="img/square.jpg class="card-img-top" />
+        <img src="img/square.jpg" class="card-img-top" />
         <div class="card-body">
           <h5 class="card-title">Card Title</h5>
           <p class="card-text">
