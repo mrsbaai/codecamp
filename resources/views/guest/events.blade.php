@@ -85,18 +85,23 @@
                 </h6>
 
                 <div class="form-row">
-                    <div class="col-lg-4 form-group">
+                    <div class="col-lg-3 form-group">
                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                          <div class="validate"></div>
                      </div>
-                     <div class="col-lg-4 form-group">
+                     <div class="col-lg-3 form-group">
                           <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone Number" data-rule="minlen:8" data-msg="Please enter your realphone number" />
                           <div class="validate"></div>
                      </div>
-                     <div class="col-lg-4 form-group">
+                     <div class="col-lg-3 form-group">
                           <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
                           <div class="validate"></div>
                      </div>
+                     <div class="col-lg-3 form-group">
+                        <button type="button" class="btn btn-dark">Subscribe</button>
+                     </div>
+
+                     
                      
                  </div>
 
@@ -105,12 +110,6 @@
 
 
         </div>
-
-                <!--Footer-->
-                <div class="modal-footer pt-5">
-                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-                    <button type="button" class="btn btn-dark">Submit</button>
-                  </div>
 
 
 
