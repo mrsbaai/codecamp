@@ -60,6 +60,9 @@
 
         <!--Body-->
         <div class="modal-body">
+            <button type="button" class="close" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
             <div class="card-body">
                 <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
                 <h6 class="card-subtitle mb-2">
@@ -98,7 +101,7 @@
                           <div class="validate"></div>
                      </div>
                      <div class="col-lg-3 form-group">
-                        <button type="button" class="btn btn-dark">Subscribe</button>
+                        <button type="button" class="btn btn-dark btn-block">Subscribe</button>
                      </div>
 
                      
