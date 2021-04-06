@@ -23,10 +23,10 @@
                </div>
               </div>
           </h6>
-          <p class="card-text">
+          <p class="card-text mt-2">
             We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. 
           </p>
-          <a href="#" class="btn btn-primary">Go somewhere</a>
+          <a href="#" class="btn btn-primary mt-2">Go somewhere</a>
         </div>
       </div>
        
