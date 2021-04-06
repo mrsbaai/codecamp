@@ -21,14 +21,14 @@
                                <h6 class="card-subtitle mb-2 text-muted">
                                  <div class="row">
                                     <div class="col-12 mt-3">
-                                        <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted">Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
+                                        <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                                    </div>
-                                   <div class="col-8 mt-3">
-                                        <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted">01/03/2021 - 01/03/2021</small></p>
+                                   <div class="col-8 col-sm-12 mt-3">
+                                        <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021 - 01/03/2021</small></p>
                                    </div>
                                    
-                                   <div class="col-8 mt-3">
-                                    <p class="card-text"><i class="fas fa-money-bill-wave text-primary"></i><small class="text-muted">190 DH</small></p>
+                                   <div class="col-4 col-sm-12 mt-3">
+                                    <p class="card-text"><i class="fas fa-money-bill-wave text-primary"></i><small class="text-muted"> 190 DH</small></p>
                                     </div>
 
 
