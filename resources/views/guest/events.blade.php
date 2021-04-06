@@ -14,11 +14,11 @@
                 <div class="col-12 mt-3">
                     <p class="card-text"><i class="fas fa-map-marker-alt"></i><small> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                 </div>
-                <div class="col-6 mt-3">
+                <div class="col-12 mt-3">
                     <p class="card-text"><i class="fas fa-calendar-alt "></i><small> 01/03/2021 - 01/03/2021</small></p>
                </div>
 
-              <div class="col-6 mt-3">
+              <div class="col-12 mt-3">
                    <p class="card-text"><i class="fas fa-clock "></i><small> 15:00 - 18:00</small></p>
               </div>
  
@@ -31,7 +31,7 @@
               </div>
           </h6>
           <p class="card-text mt-2 mb-2">
-            We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a href="/blog/3334">More info...</a>
+            We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
         </p>
         <div class="text-center">
         <button type="button" class="btn btn-sm btn-primary mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
