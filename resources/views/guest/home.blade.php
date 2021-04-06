@@ -239,7 +239,7 @@
                 <div class="card-body d-flex flex-column align-items-start bg-dark text-light">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right p-0">
+                    <div class="col-12 text-center p-0">
                         <a href="/blog" class="btn btn-w btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
@@ -253,7 +253,7 @@
                 <div class="card-body d-flex flex-column align-items-start bg-dark text-light">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right p-0">
+                    <div class="col-12 text-center p-0">
                         <a href="/blog" class="btn btn-w btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
@@ -267,7 +267,7 @@
                 <div class="card-body d-flex flex-column align-items-start bg-dark text-light">
                     <h4 class="card-title">MSS Episodes</h4>
                     <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                    <div class="col-12 text-right p-0">
+                    <div class="col-12 text-center p-0">
                         <a href="/blog" class="btn btn-w btn-sm mt-auto">Read More</a>
                     </div>      
                 </div>
