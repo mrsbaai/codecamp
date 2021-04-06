@@ -36,7 +36,7 @@
       border-top-right-radius: 0;
       border-bottom-left-radius: calc(0.25rem - 1px);
     }
-    @media (max-width: 576px) {
+    @media (max-width: 768px) {
       .card img {
         width: 100%;
     
