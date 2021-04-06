@@ -2,23 +2,23 @@
 @section('content')
 <div class="container mb-5" data-aos="fade-up">
     <div class="text-center m-5">
-         <h3>Upcoming events</h3>
+         <h3>Upcoming Events</h3>
     </div>
 
     <div class="card">
         <img src="img/square.jpg" class="card-img-top" />
         <div class="card-body">
-          <h5 class="card-title">2021 New Year Online Business Resolution</h5>
+          <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
           <h6 class="card-subtitle mb-2 text-muted">
             <div class="row">
                <div class="col-12 mt-3">
                    <p class="card-text"><i class="fas fa-map-marker-alt"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
               </div>
-              <div class="col-8 col-sm-12 mt-3">
+              <div class="col-12 mt-3">
                    <p class="card-text"><i class="fas fa-calendar-alt "></i><small class="text-muted"> 01/03/2021 - 01/03/2021</small></p>
               </div>
               
-              <div class="col-4 col-sm-12 mt-3">
+              <div class="col-12 mt-3">
                <p class="card-text"><i class="fas fa-money-bill-wave text-primary"></i><small class="text-muted"> 190 DH</small></p>
                </div>
               </div>
@@ -33,7 +33,7 @@
 </div>
 @endsection
 @section('title')
-: Events
+: Upcoming Events
 @endsection
 @section('head')
 <style>
