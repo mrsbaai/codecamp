@@ -113,6 +113,8 @@
     .card img {
       width: 300px;
       border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+      border-top-right-radius: 0;
       border-bottom-left-radius: calc(0.25rem - 1px);
     }
     @media (max-width: 768px) {
