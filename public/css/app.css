@@ -23,9 +23,9 @@
     height: auto;
 }
 
-.thumb-container:hover .thumb-icon .card-thumb {
+.thumb-icon:hover {
     opacity: 1;
-    color: black;
+    color: white;
 }
 
 .thumb-icon {
