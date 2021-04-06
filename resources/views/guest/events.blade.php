@@ -24,22 +24,53 @@
 @endsection
 @section('head')
 <style>
- .card {
-  flex-direction: row;
-  align-items: center;
-}
+    .card {
+      flex-direction: row;
+      align-items: center;
+    }
+    .card-title {
+      font-weight: bold;
+    }
     .card img {
-    width: 100%;
-
-    border-bottom-right-radius: 0;
-    border-bottom-left-radius: 0;
-
-    border-top-right-radius: calc(0.25rem - 1px);
-    border-top-left-radius: calc(0.25rem - 1px);
-  
-  }
-</style>
-
+      width: 30%;
+      border-top-right-radius: 0;
+      border-bottom-left-radius: calc(0.25rem - 1px);
+    }
+    @media (max-width: 576px) {
+      .card img {
+        width: 100%;
+    
+        border-bottom-right-radius: 0;
+        border-bottom-left-radius: 0;
+    
+        border-top-right-radius: calc(0.25rem - 1px);
+        border-top-left-radius: calc(0.25rem - 1px);
+      
+      }
+    }
+    
+    @media only screen and (max-width: 768px) {
+    .card {
+      flex-direction: column;
+      align-items: left;
+    }
+     
+      .card-body {
+        padding: 0.5em 1.2em;
+      }
+      .card-body .card-text {
+        margin: 0;
+      }
+      .card img {
+        width: 50%;
+      }
+    }
+    @media only screen and (max-width: 1200px) {
+      .card img {
+        width: 40%;
+      }
+    }
+    </style>
 
 @endsection
 
