@@ -16,7 +16,7 @@
           </div>
 
 
-        <div class="card-body">
+        <div class="card-body bg-dark text-light">
           <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
           <h6 class="card-subtitle mb-2">
             <div class="row">
@@ -43,7 +43,7 @@
             We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
         </p>
         <div class="text-center">
-        <button type="button" class="btn btn-sm btn-primary mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
+        <button type="button" class="btn btn-sm btn-w mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
         </div>
         </div>
       </div>
@@ -67,8 +67,8 @@
 
         <!--Body-->
         <div class="modal-body">
-            <div class="card-body  bg-dark text-light">
-                <h6 class="card-subtitle mb-4  mt-3">
+            <div class="card-body">
+                <h6 class="card-subtitle  mt-3">
                   <div class="row">
                       <div class="col-12 mt-1">
                           <p class="card-text"><i class="fas fa-map-marker-alt"></i><small> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
@@ -104,7 +104,7 @@
                           <div class="validate"></div>
                      </div>
                      <div class="col-lg-3 form-group">
-                        <button type="button" class="btn btn-w btn-block">Subscribe</button>
+                        <button type="button" class="btn btn-dark btn-block">Subscribe</button>
                      </div>
 
                      
