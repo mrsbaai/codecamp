@@ -41,18 +41,7 @@
 <style>
 
 @media only screen and (max-width: 768px) {
-    .card {
-  flex-direction: row;
-  align-items: center;
-}
-.card-title {
-  font-weight: bold;
-}
-.card img {
-  width: 30%;
-  border-top-right-radius: 0;
-  border-bottom-left-radius: calc(0.25rem - 1px);
-}
+
 
 }
 
