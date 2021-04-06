@@ -908,9 +908,9 @@ pre code {
 .form-control:focus {
     color: #495057;
     background-color: #fff;
-    border-color: #ECECEC;
+    border-color: #ffb0bb;
     outline: 0;
-    box-shadow: #495057;
+    box-shadow: 0 0 0 0.2rem rgba(255, 48, 79, 0.25);
 }
 
 .form-control::placeholder {
