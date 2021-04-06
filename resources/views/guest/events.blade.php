@@ -32,7 +32,7 @@
       font-weight: bold;
     }
     .card img {
-      width: 30%;
+      width: 300px;
       border-top-right-radius: 0;
       border-bottom-left-radius: calc(0.25rem - 1px);
     }
@@ -47,9 +47,7 @@
         border-top-left-radius: calc(0.25rem - 1px);
       
       }
-    }
-    
-    @media only screen and (max-width: 768px) {
+
     .card {
       flex-direction: column;
       align-items: left;
@@ -61,15 +59,10 @@
       .card-body .card-text {
         margin: 0;
       }
-      .card img {
-        width: 50%;
-      }
     }
-    @media only screen and (max-width: 1200px) {
-      .card img {
-        width: 40%;
-      }
-    }
+    
+
+
     </style>
 
 @endsection
