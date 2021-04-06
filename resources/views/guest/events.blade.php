@@ -6,7 +6,16 @@
     </div>
 
     <div class="card">
-        <img src="img/square.jpg" class="card-img" />
+        <div class="thumb-container">
+            <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution<" class="thumb-image">
+            <div class="thumb-overlay">
+            <a href="#" class="thumb-icon" title="2021 New Year Online Business Resolution" data-toggle="modal" data-target="#events1">
+              <i class="fa fa-info-circle"></i>
+            </a>
+            </div>
+          </div>
+
+
         <div class="card-body">
           <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
           <h6 class="card-subtitle mb-2">
@@ -116,6 +125,10 @@
       border-bottom-right-radius: 0;
       border-top-right-radius: 0;
       border-bottom-left-radius: calc(0.25rem - 1px);
+    }
+    .thumb-overlay{
+        width: 300px;
+
     }
     @media (max-width: 992px) {
       .card img {
