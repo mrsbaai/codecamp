@@ -69,7 +69,7 @@
         <div class="modal-body">
             <div class="card-body">
                 <h6 class="card-subtitle  mb-4">
-                  <div class="row">
+                  
                       <div class="col-12 mt-2">
                           <p class="card-text"><i class="fas fa-map-marker-alt"></i><small> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                       </div>
@@ -87,7 +87,7 @@
       
       
                     
-                    </div>
+                   
                 </h6>
 
                 <div class="form-row">
