@@ -157,6 +157,10 @@
         border-top-left-radius: calc(0.25rem - 1px);
       
       }
+      .thumb-container{
+        width: 100%;
+
+    }
 
     .card {
       flex-direction: column;
