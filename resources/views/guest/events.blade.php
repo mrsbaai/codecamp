@@ -7,12 +7,14 @@
 
     <div class="card">
         <div class="thumb-container">
-            <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution<" class="thumb-image">
-            <div class="thumb-overlay">
             <a href="#" class="thumb-icon" title="2021 New Year Online Business Resolution" data-toggle="modal" data-target="#events1">
+            <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
+            <div class="thumb-overlay">
+            
               <i class="fa fa-info-circle"></i>
-            </a>
+            
             </div>
+        </a>
           </div>
 
 
@@ -131,10 +133,7 @@
 
     }
 
-    .thumb-container:hover .thumb-icon:hover .card-thumb:hover {
-    opacity: 1;
-    color: #0F81C7;
-}
+
 
     @media (max-width: 992px) {
       .card img {
