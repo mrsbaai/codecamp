@@ -131,7 +131,7 @@
 
     }
 
-    .thumb-container:hover .thumb-icon .card-thumb {
+    .thumb-container:hover .thumb-icon:hover .card-thumb:hover {
     opacity: 1;
     color: #0F81C7;
 }
