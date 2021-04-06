@@ -51,7 +51,7 @@
   border-top-right-radius: 0;
   border-bottom-left-radius: calc(0.25rem - 1px);
 }
-@media only screen and (max-width: 576) {
+@media only screen and (max-width: 576px) {
   .card img {
     width: 100%;
 
