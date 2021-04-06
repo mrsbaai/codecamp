@@ -23,12 +23,9 @@
     height: auto;
 }
 
-.thumb-container:hover {
-    color: white;
-}
-
 .thumb-icon:hover {
     opacity: 1;
+    color: white;
 }
 
 .thumb-icon {
