@@ -19,11 +19,11 @@
               </div>
               
               <div class="col-12 mt-3">
-               <p class="card-text"><i class="fas fa-money-bill-wave text-primary"></i><small class="text-muted"> 190 DH</small></p>
+               <p class="card-text"><i class="fas fa-money-bill-wave"></i><small class="text-muted"> 190 DH</small></p>
                </div>
               </div>
           </h6>
-          <p class="card-text mt-2">
+          <p class="card-text mt-2 mb-2">
             We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. 
           </p>
           <a href="#" class="btn btn-primary mt-2">Go somewhere</a>
