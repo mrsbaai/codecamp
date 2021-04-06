@@ -11,20 +11,22 @@
           <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
           <h6 class="card-subtitle mb-2 text-muted">
             <div class="row">
-                <div class="col-6 mt-3">
+                <div class="col-4 mt-3">
                     <p class="card-text"><i class="fas fa-calendar-alt "></i><small class="text-muted"> 01/03/2021 - 01/03/2021</small></p>
                </div>
 
-              <div class="col-6 mt-3">
-                   <p class="card-text"><i class="fas fa-clock "></i><small class="text-muted"> 03:00 - 5:00</small></p>
+              <div class="col-4 mt-3">
+                   <p class="card-text"><i class="fas fa-clock "></i><small class="text-muted"> 15:00 - 18:00</small></p>
               </div>
-              <div class="col-9 mt-3">
+ 
+              <div class="col-4 mt-3">
+               <p class="card-text"><i class="fas fa-money-bill-wave"></i><small class="text-muted"> 190 DH</small></p>
+               </div>
+
+               <div class="col-12 mt-3">
                 <p class="card-text"><i class="fas fa-map-marker-alt"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
             </div>
               
-              <div class="col-3 mt-3">
-               <p class="card-text"><i class="fas fa-money-bill-wave"></i><small class="text-muted"> 190 DH</small></p>
-               </div>
               </div>
           </h6>
           <p class="card-text mt-2 mb-2">
