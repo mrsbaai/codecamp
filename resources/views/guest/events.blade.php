@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<div class="container" data-aos="fade-up">
+<div class="container mb-5" data-aos="fade-up">
     <div class="text-center m-5">
          <h3>Upcoming events</h3>
     </div>
