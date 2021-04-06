@@ -8,10 +8,23 @@
     <div class="card">
         <img src="img/square.jpg" class="card-img-top" />
         <div class="card-body">
-          <h5 class="card-title">Card Title</h5>
+          <h5 class="card-title">2021 New Year Online Business Resolution</h5>
+          <h6 class="card-subtitle mb-2 text-muted">
+            <div class="row">
+               <div class="col-12 mt-3">
+                   <p class="card-text"><i class="fas fa-map-marker-alt"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
+              </div>
+              <div class="col-8 col-sm-12 mt-3">
+                   <p class="card-text"><i class="fas fa-calendar-alt "></i><small class="text-muted"> 01/03/2021 - 01/03/2021</small></p>
+              </div>
+              
+              <div class="col-4 col-sm-12 mt-3">
+               <p class="card-text"><i class="fas fa-money-bill-wave text-primary"></i><small class="text-muted"> 190 DH</small></p>
+               </div>
+              </div>
+          </h6>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. 
           </p>
           <a href="#" class="btn btn-primary">Go somewhere</a>
         </div>
