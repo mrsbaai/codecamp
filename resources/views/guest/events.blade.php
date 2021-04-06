@@ -24,7 +24,10 @@
 @endsection
 @section('head')
 <style>
- 
+ .card {
+  flex-direction: row;
+  align-items: center;
+}
     .card img {
     width: 100%;
 
