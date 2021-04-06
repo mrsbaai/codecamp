@@ -58,13 +58,16 @@
       <!--Content-->
       <div class="modal-content">
 
+        <div class="modal-header">
+            <h5 class="modal-title">2021 New Year Online Business Resolution</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+
         <!--Body-->
         <div class="modal-body">
-            <button type="button" class="close" aria-label="Close" data-dismiss="modal">
-                <span aria-hidden="true">&times;</span>
-              </button>
             <div class="card-body  bg-dark text-light">
-                <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
                 <h6 class="card-subtitle mb-4  mt-3">
                   <div class="row">
                       <div class="col-12 mt-1">
