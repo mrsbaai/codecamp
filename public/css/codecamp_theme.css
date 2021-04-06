@@ -905,6 +905,14 @@ pre code {
     border: 0;
 }
 
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ECECEC;
+    outline: 0;
+    box-shadow: #495057;
+}
+
 .form-control::placeholder {
     color: #6c757d;
     opacity: 1;
