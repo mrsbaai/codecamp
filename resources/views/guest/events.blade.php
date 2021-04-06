@@ -11,14 +11,18 @@
           <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
           <h6 class="card-subtitle mb-2 text-muted">
             <div class="row">
-               <div class="col-12 mt-3">
-                   <p class="card-text"><i class="fas fa-map-marker-alt"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
+                <div class="col-6 mt-3">
+                    <p class="card-text"><i class="fas fa-calendar-alt "></i><small class="text-muted"> 01/03/2021 - 01/03/2021</small></p>
+               </div>
+
+              <div class="col-6 mt-3">
+                   <p class="card-text"><i class="fas fa-clock "></i><small class="text-muted"> 03:00 - 5:00</small></p>
               </div>
-              <div class="col-12 mt-3">
-                   <p class="card-text"><i class="fas fa-calendar-alt "></i><small class="text-muted"> 01/03/2021 - 01/03/2021</small></p>
-              </div>
+              <div class="col-9 mt-3">
+                <p class="card-text"><i class="fas fa-map-marker-alt"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
+            </div>
               
-              <div class="col-12 mt-3">
+              <div class="col-3 mt-3">
                <p class="card-text"><i class="fas fa-money-bill-wave"></i><small class="text-muted"> 190 DH</small></p>
                </div>
               </div>
@@ -26,9 +30,9 @@
           <p class="card-text mt-2 mb-2">
             We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a href="/blog/3334">More info...</a>
         </p>
-        <span class="text-center">
+        <div class="text-center">
         <button type="button" class="btn btn-sm btn-primary mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
-        </span>
+        </div>
         </div>
       </div>
        
@@ -45,17 +49,17 @@
         <!--Body-->
         <div class="modal-body">
            <div class="card-body">
-                <h5 class="card-title text-primary"><span class="badge badge-pill badge-dark mr-3">190 Dh</span> Dolorum optio tempore </h5>
+                <h5 class="card-title"><span class="badge badge-pill badge-dark mr-3">190 Dh</span> Dolorum optio tempore </h5>
                <h6 class="card-subtitle mb-2 text-muted">
                    <div class="row">
                      <div class="col-6 col-md-3 mt-2 ">
-                         <p class="card-text"><i class="fas fa-calendar-alt text-primary"></i><small class="text-muted"> 01/03/2021</small></p>
+                         <p class="card-text"><i class="fas fa-calendar-alt "></i><small class="text-muted"> 01/03/2021</small></p>
                      </div>
                       <div class="col-6 col-md-3  mt-2">
-                         <p class="card-text"><i class="fas fa-clock text-primary"></i> <small class="text-muted"> 03:00-5:00</small></p>
+                         <p class="card-text"><i class="fas fa-clock"></i> <small class="text-muted"> 03:00-5:00</small></p>
                        </div>
                      <div class="col-6 col-md-6  mt-2">
-                          <p class="card-text"><i class="fas fa-map-marker-alt text-primary"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
+                          <p class="card-text"><i class="fas fa-map-marker-alt"></i> <small class="text-muted"> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                      </div>
                    </div>
 
