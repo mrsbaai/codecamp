@@ -107,7 +107,7 @@
         </div>
 
                 <!--Footer-->
-                <div class="modal-footer">
+                <div class="modal-footer pt-5">
                     <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
                     <button type="button" class="btn btn-dark">Submit</button>
                   </div>
