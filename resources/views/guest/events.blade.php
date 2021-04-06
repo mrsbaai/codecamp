@@ -51,6 +51,19 @@
   border-top-right-radius: 0;
   border-bottom-left-radius: calc(0.25rem - 1px);
 }
+@media only screen and (max-width: 576) {
+  .card img {
+    width: 100%;
+
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-top-left-radius: calc(0.25rem - 1px);
+  
+  }
+}
+
 @media only screen and (max-width: 768px) {
  
   .card-body {
