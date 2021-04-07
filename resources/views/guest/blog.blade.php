@@ -47,7 +47,7 @@
   </div>
     
 </div>
-
+@endsection
 @section('title')
 : Blog
 @endsection
