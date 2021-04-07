@@ -123,9 +123,45 @@
         <footer id="footer" class="bg-dark text-light py-5">
         <div class="container text-center">
 
-            
-            <h1 class="display-6">Stay Connected</h1>
-            <p class="lead">Receive news about upcoming events</p>
+
+            <ul class="list-unstyled mb-0">
+                <li>
+                    <a class="text-white" href="/main">{{ __('Home') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/job">{{ __('Find a job') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/events">{{ __('Live Events') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/blog">{{ __('Blog') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/contact">{{ __('Contact') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
+                </li>
+                <li>
+                    @if (Route::has('register'))
+                    <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                    @endif
+                </li>
+                
+                
+        
+                
+
+
+              </ul>
+            </div>
      
 
             <div class="text-center social-links">
@@ -146,6 +182,7 @@
             </div>
 
             <div class="row">
+                <p class="lead">Receive news about upcoming events</p>
                 <div class="col-lg-4 col-sm-6 mx-auto">
                     <div class="input-group mb-3">
                       <input type="text" class="form-control form-control-lg" placeholder="your@email">
@@ -159,19 +196,7 @@
 
         </div>
 
-        <div class="container text-center py-3">
-            <a class="text-white" href="/main">{{ __('Home') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/job">{{ __('Find a job') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/events">{{ __('Live Events') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/blog">{{ __('Blog') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="/contact">{{ __('Contact') }}</a>&nbsp;|&nbsp;
-            <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
-            @if (Route::has('register'))
-            &nbsp;|&nbsp;<a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
-        @endif
-        </div>
+
 
         <div class="container text-center py-3">
             @yield('footerCredit')
