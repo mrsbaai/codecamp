@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<div class="container mb-4 bg-dark text-light">
+<div class="container mb-4">
 
             <div class="text-center m-5">
                 <h3>More info?</h3>
@@ -67,11 +67,6 @@
 : Contact
 @endsection
 @section('head')
-<style>
-  body{
-    background-color: #222222;
-  }
 
-</style>
 @endsection
 
