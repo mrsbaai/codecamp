@@ -68,7 +68,7 @@
 @endsection
 @section('head')
 <style>
-  #body{
+  body{
     background-color: #222222;
   }
 
