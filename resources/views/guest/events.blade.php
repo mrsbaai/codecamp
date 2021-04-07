@@ -68,27 +68,26 @@
         <!--Body-->
         <div class="modal-body">
             <div class="card-body">
-                <h6 class="card-subtitle  mb-4">
+             
                   
-                      <div class="col-12 mt-2">
+                      <div class="col-12 mt-2 p-0">
                           <p class="card-text"><i class="fas fa-map-marker-alt"></i><small> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
                       </div>
-                      <div class="col-12 mt-2">
+                      <div class="col-12 mt-2 p-0">
                           <p class="card-text"><i class="fas fa-calendar-alt "></i><small> 01/03/2021 - 01/03/2021</small></p>
                      </div>
       
-                    <div class="col-12 mt-2">
+                    <div class="col-12 mt-2 p-0">
                          <p class="card-text"><i class="fas fa-clock "></i><small> 15:00 - 18:00</small></p>
                     </div>
        
-                    <div class="col-12 mt-2">
+                    <div class="col-12 mt-2 mb-4 p-0">
                      <p class="card-text"><i class="fas fa-money-bill-wave"></i><small> 190 DH</small></p>
                      </div>
       
       
                     
-                   
-                </h6>
+  
 
                 <div class="form-row">
                     <div class="col-lg-3 form-group">
