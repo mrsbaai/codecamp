@@ -124,37 +124,7 @@
 
     <footer class="bg-dark text-white text-center text-md-start">
 
-        <div class="p-1 bg-primary" >
 
-
-                    <div class="container p-1 pb-0">
-                        <!-- Section: Social media -->
-                        <!-- Facebook -->
-                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                            ><i class="fab fa-facebook-f"></i
-                        ></a>
-            
-                        <!-- Instagram -->
-                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                            ><i class="fab fa-instagram"></i
-                        ></a>
-                    
-                        <!-- Linkedin -->
-                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                            ><i class="fab fa-linkedin-in"></i
-                        ></a>
-                    
-                        <!-- Youtube -->
-                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                            ><i class="fab fa-youtube"></i
-                        ></a>
-                
-                        <!-- Section: Social media -->
-                    </div>
-
-     
-        
-         </div>
 
         <!-- Grid container -->
         <div class="container p-4">
@@ -168,7 +138,33 @@
                 <div class="input-group-append">
                     <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
                 </div>
+              </div>
+
+              <div class="container p-1 pb-0">
+                <!-- Section: Social media -->
+                <!-- Facebook -->
+                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-facebook-f"></i
+                ></a>
+    
+                <!-- Instagram -->
+                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-instagram"></i
+                ></a>
+            
+                <!-- Linkedin -->
+                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-linkedin-in"></i
+                ></a>
+            
+                <!-- Youtube -->
+                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-youtube"></i
+                ></a>
+        
+                <!-- Section: Social media -->
             </div>
+
 
 
             </div>
