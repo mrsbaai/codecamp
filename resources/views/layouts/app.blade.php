@@ -132,29 +132,14 @@
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
                 <h4 class="mb-4">Receive news about upcoming events</h4>
-              <div class="input-group mb-3">
-                <input type="text" class="form-control form-control-lg pr-4 pl-4" placeholder="your@email">
+              <div class="input-group mb-3 pr-4 pl-4">
+                <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
                     <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
                 </div>
             </div>
 
-            <div class="text-center social-links">
-                <a href="https://www.facebook.com/CodeCamp.ma">
-                    <span  class="fab fa-facebook-f"></span>
-                </a>
-                <a href="https://linkedin.com/company/code-camp-ma">
-                    <span  class="fab fa-linkedin"></span>
-                </a>
-                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg">
-                    <span  class="fab fa-youtube"></span>
-                </a>
-                <a href="https://instagram/codecamp.ma" >
-                    <span  class="fab fa-instagram"></span>
-                </a>
 
-
-            </div>
             </div>
             <!--Grid column-->
     
@@ -210,7 +195,7 @@
         <!-- Grid container -->
     
         <!-- Copyright -->
-        <div class="text-center p-3" style="background-color: black">
+        <div class="p-3" style="background-color: black">
            @yield('footerCredit')
         </div>
         <!-- Copyright -->
