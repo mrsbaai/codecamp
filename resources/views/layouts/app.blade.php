@@ -172,7 +172,7 @@
     
 
             <!--Grid column-->
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 mb-4 mb-0">
+            <div class="col-lg-3 col-6 ">
               <h5>Services</h5>
     
               <ul class="list-unstyled mb-0">
@@ -193,7 +193,7 @@
             <!--Grid column-->
     
             <!--Grid column-->
-            <div class="col-lg-3 col-md-6 col-sm-6 col-xs-6 mb-4 mb-0">
+            <div class="col-lg-3 col-6">
               <h5>Links</h5>
     
               <ul class="list-unstyled">
