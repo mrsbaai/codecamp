@@ -136,7 +136,7 @@
               <div class="input-group mb-3 pr-4 pl-4">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
-                    <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
+                    <button class="btn btn-primary btn-lg rounded-right" type="button">Subscribe</button>
                 </div>
               </div>
 
