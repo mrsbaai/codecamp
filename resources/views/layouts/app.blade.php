@@ -51,9 +51,7 @@
 
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                 <!-- Left Side Of Navbar -->
-                <ul class="navbar-nav mr-auto">
 
-                </ul>
 
                 <!-- Right Side Of Navbar -->
                 <ul class="navbar-nav ml-auto">
@@ -130,7 +128,7 @@
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
-            <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+            <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
                 <h4 class="mb-4">Receive news about upcoming events</h4>
               <div class="input-group mb-3 pr-4 pl-4">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
@@ -143,8 +141,27 @@
             </div>
             <!--Grid column-->
     
+            <div class="col-lg-4 col-md-12 mb-4 mb-md-0">
+                <h4>Follow Us</h4>
+    
+                <ul class="list-unstyled mb-0">
+                  <li>
+                     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i>Facebook</a>
+                  </li>
+                  <li>
+                     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i>Facebook</a>
+                  </li>
+                  <li>
+                     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i>Facebook</a>
+                  </li>
+                  <li>
+                     <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"><i class="fab fa-facebook-f"></i>Facebook</a>
+                  </li>
+                </ul>
+            </div>
+
             <!--Grid column-->
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
               <h4>Services</h4>
     
               <ul class="list-unstyled mb-0">
@@ -165,7 +182,7 @@
             <!--Grid column-->
     
             <!--Grid column-->
-            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+            <div class="col-lg-2 col-md-6 mb-4 mb-md-0">
               <h4>Links</h4>
     
               <ul class="list-unstyled">
