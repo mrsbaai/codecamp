@@ -67,7 +67,7 @@
 
         <!--Body-->
         <div class="modal-body">
-            <div class="card-body pb-0 pt-0">
+            <div class="card-body pl-2 pr-2 pb-0 pt-0">
              
                   
                       <div class="col-12 mt-2 p-0">
