@@ -121,40 +121,6 @@
 
 
 
-        <footer id="footer" class="bg-dark text-light py-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-4">
-                    <ul class="list-unstyled mb-0">
-                        
-        
-                    </ul>
-                </div>
-                <div class="col-8">
-                    <p class="lead">Receive news about upcoming events</p>
-                    <div class="col-lg-4 col-sm-6 mx-auto">
-                        <div class="input-group mb-3">
-                        <input type="text" class="form-control form-control-lg" placeholder="your@email">
-                        <div class="input-group-append">
-                            <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
-                        </div>
-                        </div>
-                    </div>
-
-                </div>
-
-            </div>
-
-
-         
-        </div>
-    
-
-
-      
-
-        
-    </footer> 
 
 
 
