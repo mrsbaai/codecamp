@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-<div class="container mb-4">
+<div class="container mb-4 bg-dark text-light">
 
             <div class="text-center m-5">
                 <h3>More info?</h3>
@@ -11,17 +11,17 @@
           <div class="col-lg-6">
            
               <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-map-marker-alt"></i> Location</h4>
+                <h4 ><i class="fas fa-map-marker-alt"></i> Location</h4>
                 <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
               </div>
 
               <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-envelope"></i> Email</h4>
+                <h4 ><i class="fas fa-envelope"></i> Email</h4>
                 <p>info@codecamp.ma</p>
               </div>
 
               <div class="col-lg-12">
-                <h4 class="text-primary"><i class="fas fa-phone-alt"></i> Call</h4>
+                <h4 ><i class="fas fa-phone-alt"></i> Call</h4>
                 <p>07 07 73 07 72</p>
               </div>
 
@@ -52,7 +52,7 @@
                 <textarea class="form-control" name="message" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
                 <div class="validate"></div>
               </div>
-              <div class="text-center"><button  class="btn btn-primary" type="submit">Send</button></div>
+              <div class="text-center"><button  class="btn btn-w" type="submit">Send</button></div>
 
           </div>
 
