@@ -77,3 +77,41 @@
     color: #fff;
     text-decoration: none;
 }
+
+.btn-w {
+    color: #212529;
+    background-color: white;
+    border-color: white;
+}
+
+.btn-w:hover {
+    color: #212529;
+    background-color: white;
+    border-color: white;
+}
+
+.btn-w:focus,
+.btn-w.focus {
+    box-shadow: 0 0 0 0.2rem rgba(236, 236, 236, 0.5);
+}
+
+.btn-w.disabled,
+.btn-w:disabled {
+    color: #212529;
+    background-color: white;
+    border-color: white;
+}
+
+.btn-w:not(:disabled):not(.disabled):active,
+.btn-w:not(:disabled):not(.disabled).active,
+.show>.btn-w.dropdown-toggle {
+    color: #212529;
+    background-color: lightgray;
+    border-color: #cccccc;
+}
+
+.btn-w:not(:disabled):not(.disabled):active:focus,
+.btn-w:not(:disabled):not(.disabled).active:focus,
+.show>.btn-w.dropdown-toggle:focus {
+    box-shadow: 0 0 0 0.2rem rgba(243, 243, 243, 0.5);
+}
