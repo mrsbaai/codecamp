@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container mb-5">
+<div class="container mt-5 pt-5">
 
-<ul class="nav nav-pills justify-content-center">
+<ul class="nav nav-pills justify-content-center pb-4 ">
   <li class="nav-item">
     <a class="nav-link active" href="#">All</a>
   </li>
@@ -22,66 +22,10 @@
 </ul>
 
 <div class="row">
-     <div class="col-lg-3 ">
-       <div class="list-group ">
-         <a href="#" class="list-group-item list-group-item-action ">
-           <div class="d-flex w-100 justify-content-between">
-             <div class="col">
-               <div class="text-left">
-                  <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
-                </div>
-             </div>
-             <div class="col-9">
-                <div class="row">
-                  <h5 class="text-primary">DataBases deep dive</h5>
-                </div>
-                <div class="row">
-                   <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
-                 </div>
-              </div>
-           </div>   
-          </a>
-
-          <a href="#" class="list-group-item list-group-item-action">
-           <div class="d-flex w-100 justify-content-between">
-             <div class="col">
-               <div class="text-left">
-                  <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
-                </div>
-             </div>
-             <div class="col-9">
-                <div class="row">
-                  <h5 class="text-primary">PHP</h5>
-                </div>
-                <div class="row">
-                   <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
-                 </div>
-              </div>
-           </div>   
-          </a>
-
-          <a href="#" class="list-group-item list-group-item-action">
-           <div class="d-flex w-100 justify-content-between">
-             <div class="col">
-               <div class="text-left">
-                  <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
-                </div>
-             </div>
-             <div class="col-9">
-                <div class="row">
-                  <h5 class="text-primary">E-commerce</h5>
-                </div>
-                <div class="row">
-                   <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
-                 </div>
-              </div>
-           </div>   
-          </a>
-       </div>
-     </div>
+     
 
 
-   <div class="col-lg-9">
+   <div class="col-lg-8">
 
      <div class="card" >
        <div class="embed-responsive embed-responsive-16by9">
@@ -113,12 +57,71 @@
           <p><a href="#">Advice about Performance Optimization</a></p>
           <h5>Prepared and Presented by</h5>
           <hr>
-          <h6><a href="#">ALI</a></h6>
-         <h6><a href="#">ANASS</a></h6>
+          <p><a href="#">ALI</a></p>
+          <p><a href="#">ANASS</a></p>
+          <p><a href="#">ADAM</a></p>
         </div>
       </div>
 
    </div>
+
+   <div class="col-lg-4 ">
+    <div class="list-group ">
+      <a href="#" class="list-group-item list-group-item-action ">
+        <div class="d-flex w-100 justify-content-between">
+          <div class="col">
+            <div class="text-left">
+               <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
+             </div>
+          </div>
+          <div class="col-9">
+             <div class="row">
+               <h6>DataBases deep dive</h6>
+             </div>
+             <div class="row">
+                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+              </div>
+           </div>
+        </div>   
+       </a>
+
+       <a href="#" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-between">
+          <div class="col">
+            <div class="text-left">
+               <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
+             </div>
+          </div>
+          <div class="col-9">
+             <div class="row">
+               <h6>PHP</h6>
+             </div>
+             <div class="row">
+                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+              </div>
+           </div>
+        </div>   
+       </a>
+
+       <a href="#" class="list-group-item list-group-item-action">
+        <div class="d-flex w-100 justify-content-between">
+          <div class="col">
+            <div class="text-left">
+               <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
+             </div>
+          </div>
+          <div class="col-9">
+             <div class="row">
+               <h6>E-commerce</h6>
+             </div>
+             <div class="row">
+                <p lass="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+              </div>
+           </div>
+        </div>   
+       </a>
+    </div>
+  </div>
 </div>
 </div>
 
