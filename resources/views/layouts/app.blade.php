@@ -126,11 +126,7 @@
 
         <div class="p-1 bg-primary" >
 
-            <div class="row">
-                <div class="col-lg-6 col-md-12">
-                    <h4 class="mb-4">Follow Us: </h4>
-                </div>
-                <div class="col-lg-6 col-md-12">
+
                     <div class="container p-1 pb-0">
                         <!-- Section: Social media -->
                         <!-- Facebook -->
@@ -155,9 +151,8 @@
                 
                         <!-- Section: Social media -->
                     </div>
-                </div>
 
-            </div>
+     
         
          </div>
 
