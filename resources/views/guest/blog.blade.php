@@ -1,9 +1,9 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container" data-aos="fade-up">
+<div class="container mb-5">
 
-<ul class="nav nav-pills justify-content-center m-5">
+<ul class="nav nav-pills justify-content-center mt-5 mb-5">
   <li class="nav-item">
     <a class="nav-link active " href="#">All</a>
   </li>
@@ -18,57 +18,36 @@
   </li>
 </ul>
 
-    <div class="row justify-content-center">
-        <div class="col-lg-10">
-          <article>
-                 <div class="card mb-5">
-                    <div class="row no-gutters">
-                        <div class="col-md-4">
-                          <img src="/img/square.jpg" class="card-img rounded-left" alt="Dolorum optio tempore voluptas">
-                        </div>
-                        <div class="col-md-8">
-                            <div class="card-body">
-                                <h5 class="card-title"><span class="badge badge-pill badge-dark mr-3">Training</span><a href="article">Dolorum optio tempore voluptas</a></h5>
-                                <p class="card-text"> Simih6que neque nam consequuntur ad non maxime ah6quam quas. Quibusdam animi praesentium. Ah6quam et laboriosam eius aut nostrum quidem ah6quid dicta.
-                                    Et eveniet enim. Qui veh6t est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore..</p>
-                                <p class="card-text"><small class="text-muted">Posted at 01/03/2021</small></p>
-
-                                    <div class="col-12 text-right p-0">
-                                        <a href="/blog" class="btn btn-primary btn-sm mt-auto">Read More</a>
-                                    </div> 
-                            </div>
-                        </div>
-                    </div>
-               </div>
-          </article>
-          
-          <article>
-            <div class="card mb-3">
-               <div class="row no-gutters">
-                   <div class="col-md-4">
-                     <img src="/img/square.jpg" class="card-img rounded-left" alt="Dolorum optio tempore voluptas">
-                   </div>
-                   <div class="col-md-8">
-                       <div class="card-body">
-                           <h5 class="card-title"><span class="badge badge-pill badge-dark mr-3">Training</span><a href="article">Dolorum optio tempore voluptas</a></h5>
-                           <p class="card-text"> Simih6que neque nam consequuntur ad non maxime ah6quam quas. Quibusdam animi praesentium. Ah6quam et laboriosam eius aut nostrum quidem ah6quid dicta.
-                               Et eveniet enim. Qui veh6t est ea dolorem doloremque deleniti aperiam unde soluta. Est cum et quod quos aut ut et sit sunt. Voluptate porro consequatur assumenda perferendis dolore..</p>
-                           <p class="card-text"><small class="text-muted">Posted at 01/03/2021</small></p>
-
-                               <div class="col-12 text-right p-0">
-                                   <a href="/blog" class="btn btn-primary btn-sm mt-auto">Read More</a>
-                               </div> 
-                       </div>
-                   </div>
-               </div>
-          </div>
-     </article>
-
-
-             
-         </div>
+    
          
-      </div>
+<div class="card">
+    <div class="thumb-container">
+        <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
+        <div class="thumb-overlay">
+        <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
+          <i class="fa fa-info-circle"></i>
+        </a>
+        </div>
+    </div>
+
+
+    <div class="card-body ml-3">
+      <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
+
+      <p class="card-text mt-2 mb-2">
+        We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
+    </p>
+
+    <div class="col-6 text-left p-0">
+        <small class="text-muted">Posted at 01/03/2021</small>
+    </div>
+
+    <div class="col-6 text-right p-0">
+        <a href="/blog" class="btn btn-dark btn-sm mt-auto">Read More</a>
+    </div>
+
+    </div>
+  </div>
     
 </div>
 

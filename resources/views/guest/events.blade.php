@@ -9,7 +9,7 @@
         <div class="thumb-container">
             <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
             <div class="thumb-overlay">
-            <a href="#" class="thumb-icon" title="2021 New Year Online Business Resolution" data-toggle="modal" data-target="#events1">
+            <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
               <i class="fa fa-info-circle"></i>
             </a>
             </div>
