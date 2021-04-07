@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="container">
-</br>
+
 <ul class="nav nav-pills justify-content-center">
   <li class="nav-item">
     <a class="nav-link active" href="#">All</a>
@@ -20,7 +20,7 @@
     <a class="nav-link " href="#">Database</a>
   </li>
 </ul>
-</br>
+
 <div class="row">
      <div class="col-lg-3 ">
        <div class="list-group ">
@@ -92,15 +92,15 @@
               <p class="card-text"><small class="text-muted">01/03/2021</small></p>
           </div>
           <h3 class="card-title text-primary">DataBases deep dive</h3>
-          <hr></hr>
+          <hr>
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <h5>Guests</h5>
-          <hr></hr>
+          <hr>
           <p><a href="#">ALI</a></p>
           <p><a href="#">ANASS</a></p>
           <p><a href="#">ADAM</a></p>
           <h5>Notes</h5>
-          <hr></hr>
+          <hr>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
@@ -108,11 +108,11 @@
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <h5>Links</h5>
-          <hr></hr>
+          <hr>
           <p><a href="#">Advice about Performance Optimization</a></p>
           <p><a href="#">Advice about Performance Optimization</a></p>
           <h5>Prepared and Presented by</h5>
-          <hr></hr>
+          <hr>
           <h6><a href="#">ALI</a></h6>
          <h6><a href="#">ANASS</a></h6>
         </div>
@@ -121,7 +121,7 @@
    </div>
 </div>
 </div>
-<br/><br/><br/>
+
 @section('title')
 : Episodes
 @endsection
