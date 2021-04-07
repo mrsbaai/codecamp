@@ -66,3 +66,12 @@
 @section('title')
 : Contact
 @endsection
+@section('head')
+<style>
+  #body{
+    background-color: #222222;
+  }
+
+</style>
+@endsection
+
