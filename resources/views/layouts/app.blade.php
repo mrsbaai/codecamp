@@ -120,40 +120,13 @@
     </main>
 
 
+
         <footer id="footer" class="bg-dark text-light py-5">
         <div class="container">
             <div class="row">
                 <div class="col-4">
                     <ul class="list-unstyled mb-0">
-                        <li>
-                            <a class="text-white" href="/main">{{ __('Home') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="/job">{{ __('Find a job') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="/events">{{ __('Live Events') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="/blog">{{ __('Blog') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="/contact">{{ __('Contact') }}</a>
-                        </li>
-                        <li>
-                            <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
-                        </li>
-                        <li>
-                            @if (Route::has('register'))
-                            <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
-                            @endif
-                        </li>
+                        
         
                     </ul>
                 </div>
@@ -167,22 +140,7 @@
                         </div>
                         </div>
                     </div>
-                    <div class="text-center social-links">
-                        <a href="https://www.facebook.com/CodeCamp.ma">
-                            <span  class="fab fa-facebook-f"></span>
-                        </a>
-                        <a href="https://linkedin.com/company/code-camp-ma">
-                            <span  class="fab fa-linkedin"></span>
-                        </a>
-                        <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg">
-                            <span  class="fab fa-youtube"></span>
-                        </a>
-                        <a href="https://instagram/codecamp.ma" >
-                            <span  class="fab fa-instagram"></span>
-                        </a>
-        
-        
-                    </div>
+
                 </div>
 
             </div>
@@ -193,15 +151,106 @@
     
 
 
-
-        <div class="container text-center py-3">
-            @yield('footerCredit')
-        </div>
-
-        
+      
 
         
     </footer> 
+
+
+
+    <footer class="bg-dark text-white text-center text-md-start">
+        <!-- Grid container -->
+        <div class="container p-4">
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+              <h3 class="display-6">Stay Connected</h3>
+    
+              <p>Receive news about upcoming events</p>
+              <div class="input-group mb-3">
+                <input type="text" class="form-control form-control-lg" placeholder="your@email">
+                <div class="input-group-append">
+                    <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
+                </div>
+            </div>
+
+            <div class="text-center social-links">
+                <a href="https://www.facebook.com/CodeCamp.ma">
+                    <span  class="fab fa-facebook-f"></span>
+                </a>
+                <a href="https://linkedin.com/company/code-camp-ma">
+                    <span  class="fab fa-linkedin"></span>
+                </a>
+                <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg">
+                    <span  class="fab fa-youtube"></span>
+                </a>
+                <a href="https://instagram/codecamp.ma" >
+                    <span  class="fab fa-instagram"></span>
+                </a>
+
+
+            </div>
+            </div>
+            <!--Grid column-->
+    
+            <!--Grid column-->
+            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+              <h5 class="text-uppercase">Services</h5>
+    
+              <ul class="list-unstyled mb-0">
+                <li>
+                    <a class="text-white" href="/job">{{ __('Find a job') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/events">{{ __('Live Events') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>
+                </li>
+              </ul>
+            </div>
+            <!--Grid column-->
+    
+            <!--Grid column-->
+            <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+              <h5 class="text-uppercase mb-0">Links</h5>
+    
+              <ul class="list-unstyled">
+                <li>
+                    <a class="text-white" href="/main">{{ __('Home') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/blog">{{ __('Blog') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="/contact">{{ __('Contact') }}</a>
+                </li>
+                <li>
+                    <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
+                </li>
+                <li>
+                    @if (Route::has('register'))
+                    <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                    @endif
+                </li>
+              </ul>
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Grid container -->
+    
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: black">
+           @yield('footerCredit')
+        </div>
+        <!-- Copyright -->
+      </footer>
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js"></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
