@@ -28,23 +28,21 @@
    <div class="col-lg-8">
 
      <div class="card" >
-       <div class="embed-responsive embed-responsive-16by9">
-         <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
-       </div>
+
        <div class="card-body">
-          <div class="text-right">
-              <p class="card-text"><small class="text-muted">01/03/2021</small></p>
-          </div>
-          <h3 class="card-title text-primary">DataBases deep dive</h3>
-          <hr>
+        <div class="embed-responsive embed-responsive-16by9">
+          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
+        </div>
+          <h3 class="card-title">DataBases deep dive</h3>
+          
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
           <h5>Guests</h5>
-          <hr>
+         
           <p><a href="#">ALI</a></p>
           <p><a href="#">ANASS</a></p>
           <p><a href="#">ADAM</a></p>
           <h5>Notes</h5>
-          <hr>
+         
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
@@ -52,11 +50,11 @@
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <p><a href="#">1:56</a> - Advice about Performance Optimization.</p>
           <h5>Links</h5>
-          <hr>
+         
           <p><a href="#">Advice about Performance Optimization</a></p>
           <p><a href="#">Advice about Performance Optimization</a></p>
           <h5>Prepared and Presented by</h5>
-          <hr>
+         
           <p><a href="#">ALI</a></p>
           <p><a href="#">ANASS</a></p>
           <p><a href="#">ADAM</a></p>
