@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container">
+<div class="container mb-5">
 
 <ul class="nav nav-pills justify-content-center">
   <li class="nav-item">
