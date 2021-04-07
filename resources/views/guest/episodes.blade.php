@@ -112,14 +112,16 @@
           </div>
           <div class="col-9">
              <div class="row">
-               <h6>E-commerce</h6>
+               <h6>A tasty test to test this test</h6>
              </div>
              <div class="row">
-                <p lass="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
               </div>
            </div>
         </div>   
        </a>
+
+  
     </div>
   </div>
 </div>
