@@ -131,11 +131,9 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
-              <h3 class="display-6">Stay Connected</h3>
-    
-              <p>Receive news about upcoming events</p>
+                <h4 class="mb-4">Receive news about upcoming events</h4>
               <div class="input-group mb-3">
-                <input type="text" class="form-control form-control-lg" placeholder="your@email">
+                <input type="text" class="form-control form-control-lg pr-4 pl-4" placeholder="your@email">
                 <div class="input-group-append">
                     <button class="btn btn-outline-light btn-lg rounded-right" type="button">Subscribe</button>
                 </div>
@@ -162,7 +160,7 @@
     
             <!--Grid column-->
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-              <h5 class="text-uppercase">Services</h5>
+              <h4>Services</h4>
     
               <ul class="list-unstyled mb-0">
                 <li>
@@ -183,7 +181,7 @@
     
             <!--Grid column-->
             <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
-              <h5 class="text-uppercase mb-0">Links</h5>
+              <h4>Links</h4>
     
               <ul class="list-unstyled">
                 <li>
