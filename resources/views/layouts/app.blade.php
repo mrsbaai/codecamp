@@ -123,6 +123,36 @@
 
 
     <footer class="bg-dark text-white text-center text-md-start">
+
+        <div class="p-3 bg-primary" >
+            <div class="container p-4 pb-0">
+                <!-- Section: Social media -->
+                <section class="mb-4">
+                  <!-- Facebook -->
+                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-facebook-f"></i
+                  ></a>
+    
+                  <!-- Instagram -->
+                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-instagram"></i
+                  ></a>
+            
+                  <!-- Linkedin -->
+                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-linkedin-in"></i
+                  ></a>
+            
+                  <!-- Youtube -->
+                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                    ><i class="fab fa-youtube"></i
+                  ></a>
+                </section>
+                <!-- Section: Social media -->
+              </div>
+        
+         </div>
+
         <!-- Grid container -->
         <div class="container p-4">
           <!--Grid row-->
@@ -193,42 +223,7 @@
         </div>
         <!-- Grid container -->
 
-        <div class="container p-4 pb-0">
-            <!-- Section: Social media -->
-            <section class="mb-4">
-              <!-- Facebook -->
-              <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                ><i class="fab fa-facebook-f"></i
-              ></a>
-        
-              <!-- Twitter -->
-              <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                ><i class="fab fa-twitter"></i
-              ></a>
-        
-              <!-- Google -->
-              <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                ><i class="fab fa-google"></i
-              ></a>
-        
-              <!-- Instagram -->
-              <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                ><i class="fab fa-instagram"></i
-              ></a>
-        
-              <!-- Linkedin -->
-              <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                ><i class="fab fa-linkedin-in"></i
-              ></a>
-        
-              <!-- Github -->
-              <a class="btn btn-outline-light btn-floating m-1" href="#!" role="button"
-                ><i class="fab fa-github"></i
-              ></a>
-            </section>
-            <!-- Section: Social media -->
-          </div>
-    
+
         <!-- Copyright -->
         <div class="p-3" style="background-color: black">
            @yield('footerCredit')
