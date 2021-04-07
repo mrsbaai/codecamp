@@ -124,32 +124,40 @@
 
     <footer class="bg-dark text-white text-center text-md-start">
 
-        <div class="p-3 bg-primary" >
-            <div class="container p-4 pb-0">
-                <!-- Section: Social media -->
-                <section class="mb-4">
-                  <!-- Facebook -->
-                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-    
-                  <!-- Instagram -->
-                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                    ><i class="fab fa-instagram"></i
-                  ></a>
+        <div class="p-1 bg-primary" >
+
+            <div class="row">
+                <div class="col-lg-6 col-md-12">
+                    <h4 class="mb-4">Follow Us: </h4>
+                </div>
+                <div class="col-lg-6 col-md-12">
+                    <div class="container p-1 pb-0">
+                        <!-- Section: Social media -->
+                        <!-- Facebook -->
+                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                            ><i class="fab fa-facebook-f"></i
+                        ></a>
             
-                  <!-- Linkedin -->
-                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                    ><i class="fab fa-linkedin-in"></i
-                  ></a>
-            
-                  <!-- Youtube -->
-                  <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
-                    ><i class="fab fa-youtube"></i
-                  ></a>
-                </section>
-                <!-- Section: Social media -->
-              </div>
+                        <!-- Instagram -->
+                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                            ><i class="fab fa-instagram"></i
+                        ></a>
+                    
+                        <!-- Linkedin -->
+                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                            ><i class="fab fa-linkedin-in"></i
+                        ></a>
+                    
+                        <!-- Youtube -->
+                        <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                            ><i class="fab fa-youtube"></i
+                        ></a>
+                
+                        <!-- Section: Social media -->
+                    </div>
+                </div>
+
+            </div>
         
          </div>
 
@@ -225,7 +233,7 @@
 
 
         <!-- Copyright -->
-        <div class="p-3" style="background-color: black">
+        <div class="p-1" style="background-color: black">
            @yield('footerCredit')
         </div>
         <!-- Copyright -->
