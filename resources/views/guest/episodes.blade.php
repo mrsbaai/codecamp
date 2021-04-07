@@ -33,8 +33,7 @@
         <div class="embed-responsive embed-responsive-16by9 mb-4" style="        border-top-right-radius: calc(0.25rem - 1px);border-top-left-radius: calc(0.25rem - 1px);">
           <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
         </div>
-        <div class="m-3"></div>
-        
+        <div class="m-3">
           <h3 class="card-title">DataBases deep dive</h3>
           
           <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
@@ -60,6 +59,8 @@
           <p><a href="#">ALI</a></p>
           <p><a href="#">ANASS</a></p>
           <p><a href="#">ADAM</a></p>
+          </div>
+        
         </div>
       </div>
 
