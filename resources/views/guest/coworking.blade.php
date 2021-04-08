@@ -2,9 +2,7 @@
 
 @section('content')
 <div class="container" data-aos="fade-up">
-    <div class="text-center">
-          <h3> </br> Coworking</h3>
-    </div>
+
 <div class="row justify-content-center">
   <div class="col-lg-10"> 
       <div class="card bg-light h-100">
