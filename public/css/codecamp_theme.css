@@ -1971,9 +1971,9 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-light:hover {
-    color: #212529;
-    background-color: white;
-    border-color: white;
+    color: white;
+    background-color: #222222;
+    border-color: #222222;
 }
 
 .btn-outline-light:focus,
