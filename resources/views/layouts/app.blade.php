@@ -175,7 +175,7 @@
 
             <!--Grid column-->
             <div class="col-lg-3 col-6 ">
-                <h5>SERVICES</h5>
+                <h5>Services</h5>
       
                 <ul class="list-unstyled mb-0">
                   <li class="p-1">
@@ -196,7 +196,7 @@
       
               <!--Grid column-->
               <div class="col-lg-3 col-6">
-                <h5>LINKS</h5>
+                <h5>Links</h5>
       
                 <ul class="list-unstyled">
                   <li class="p-1">
