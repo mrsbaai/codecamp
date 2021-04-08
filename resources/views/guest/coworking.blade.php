@@ -10,7 +10,7 @@
              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
          </div>
               <div class="card-body d-flex flex-column align-items-start">
-                <h4 class="card-title">What is Coworking?</h4>
+                <h4 class="card-title">What is CodeCamp Coworking?</h4>
                  <p class="card-text">Coworking is an arrangement in which workers of different companies share an office space, allowing cost savings and convenience through the use of common infrastructures, such as equipment, utilities, and receptionist and custodial services, and in some cases refreshments and parcel acceptance services.</p> 
               </div>
 
