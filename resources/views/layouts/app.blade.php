@@ -131,7 +131,7 @@
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
-            <div class="col-lg-6 col-md-12 col-sm-12">
+            <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
                 <h4 class="mb-4">Receive news about upcoming events</h4>
               <div class="input-group mb-3 pr-4 pl-4">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
