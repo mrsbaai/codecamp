@@ -24,16 +24,15 @@
     <div class="col-lg-5 mb-4">
         <div class="card">
             <div class="thumb-container">
-              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
+              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Coworking Tetoaun" class="thumb-image">
               <div class="thumb-overlay">
-              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode1">
-                <i class="fa fa-play"></i>
+              <a href="#" class="thumb-icon" title="Coworking Tetoaun" data-toggle="modal" data-target="#tetouan">
+                <i class="fa fa-expand-arrows-alt"></i>
               </a>
               </div>
             </div>
-            <div class="card-body bg-dark text-light">
-                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                <p class="card-text"><small>Duration: 56 mins</small></p>
+            <div class="card-body bg-primary text-light text-center">
+                <h1>Tetouan</h1>
             </div>
         </div>              
     </div>
