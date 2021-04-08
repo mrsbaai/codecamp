@@ -79,12 +79,16 @@
 
       <!--Content-->
       <div class="modal-content">
+        <div class="modal-header pr-4 pl-4">
+            <h5 class="modal-title"><i class="fas fa-map-marker-alt"></i><small>Wilaya Center N°55 Tetouan Morocco</small></h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
 
         <!--Body-->
         <div class="modal-body mb-0 p-0">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
+
 
               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
