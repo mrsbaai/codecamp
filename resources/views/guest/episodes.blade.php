@@ -5,16 +5,16 @@
 
 <ul class="nav nav-pills justify-content-center mt-5 mb-5">
   <li class="nav-item">
-    <a class="nav-link active " href="#">All</a>
+    <a class="nav-link bg-dark active " href="#">All</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Events</a>
+    <a class="nav-link text-dark" href="#">Events</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="#">Training</a>
+    <a class="nav-link text-dark" href="#">Training</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link " href="#">Coworking</a>
+    <a class="nav-link text-dark" href="#">Coworking</a>
   </li>
 </ul>
 
