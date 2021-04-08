@@ -20,8 +20,8 @@
  </div>
 </div>
 
-<div class="row">
-    <div class="col-lg-6 mb-4">
+<div class="row justify-content-center">
+    <div class="col-lg-4 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
@@ -37,7 +37,7 @@
             </div>
         </div>              
     </div>
-    <div class="col-lg-6 mb-4">
+    <div class="col-lg-4 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
@@ -55,8 +55,8 @@
     </div>
 </div>
 
-<div class="row">
-    <div class="col-lg-6 mb-4">
+<div class="row justify-content-center">
+    <div class="col-lg-4 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
