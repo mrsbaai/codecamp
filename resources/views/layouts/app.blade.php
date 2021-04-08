@@ -132,7 +132,7 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
-                <h4 class="mb-4">Get Notified About Events</h4>
+                <h5 class="mb-4">Get Notified About Events</h5>
               <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
@@ -140,7 +140,7 @@
                 </div>
               </div>
 
-              <h4 class="mt-4 mb-3">Follow Us</h4>
+              <h5 class="mt-4 mb-3">Follow Us</h5>
 
               <div class="container p-1 pb-0">
                 <!-- Section: Social media -->
