@@ -22,7 +22,7 @@
      
 
 
-  <div class="col-lg-8">
+  <div class="col-lg-7">
 
     <div class="card" >
 
@@ -63,7 +63,7 @@
 
   </div>
 
-  <div class="col-lg-4 ">
+  <div class="col-lg-5">
    <div class="list-group ">
      <a href="#" class="list-group-item list-group-item-action ">
        <div class="d-flex w-100 justify-content-between">
