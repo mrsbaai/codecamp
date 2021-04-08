@@ -175,49 +175,49 @@
 
             <!--Grid column-->
             <div class="col-lg-3 col-6 ">
-              <h5>Services</h5>
-    
-              <ul class="list-unstyled mb-0">
-                <li>
-                    <a class="text-white" href="/job">{{ __('Find a job') }}</a>
-                </li>
-                <li>
-                    <a class="text-white" href="/events">{{ __('Live Events') }}</a>
-                </li>
-                <li>
-                    <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
-                </li>
-                <li>
-                    <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>
-                </li>
-              </ul>
-            </div>
-            <!--Grid column-->
-    
-            <!--Grid column-->
-            <div class="col-lg-3 col-6">
-              <h5>Links</h5>
-    
-              <ul class="list-unstyled">
-                <li>
-                    <a class="text-white" href="/main">{{ __('Home') }}</a>
-                </li>
-                <li>
-                    <a class="text-white" href="/blog">{{ __('Blog') }}</a>
-                </li>
-                <li>
-                    <a class="text-white" href="/contact">{{ __('Contact') }}</a>
-                </li>
-                <li>
-                    <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
-                </li>
-                <li>
-                    @if (Route::has('register'))
-                    <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
-                    @endif
-                </li>
-              </ul>
-            </div>
+                <h5>Services</h5>
+      
+                <ul class="list-unstyled mb-0">
+                  <li class="p-1">
+                      <a class="text-white" href="/job">{{ __('Find a job') }}</a>
+                  </li>
+                  <li class="p-1">
+                      <a class="text-white" href="/events">{{ __('Live Events') }}</a>
+                  </li>
+                  <li class="p-1">
+                      <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
+                  </li>
+                  <li class="p-1">
+                      <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>
+                  </li>
+                </ul>
+              </div>
+              <!--Grid column-->
+      
+              <!--Grid column-->
+              <div class="col-lg-3 col-6">
+                <h5>Links</h5>
+      
+                <ul class="list-unstyled">
+                  <li class="p-1">
+                      <a class="text-white" href="/main">{{ __('Home') }}</a>
+                  </li>
+                  <li class="p-1">
+                      <a class="text-white" href="/blog">{{ __('Blog') }}</a>
+                  </li>
+                  <li class="p-1">
+                      <a class="text-white" href="/contact">{{ __('Contact') }}</a>
+                  </li>
+                  <li class="p-1">
+                      <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
+                  </li>
+                  <li class="p-1">
+                      @if (Route::has('register'))
+                      <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                      @endif
+                  </li>
+                </ul>
+              </div>
             <!--Grid column-->
           </div>
           <!--Grid row-->
