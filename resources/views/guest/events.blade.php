@@ -43,7 +43,7 @@
             We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
         </p>
         <div class="text-right">
-        <button type="button" class="btn btn-large btn-primary mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
+        <button type="button" class="btn btn-primary mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
         </div>
         </div>
       </div>
