@@ -48,7 +48,7 @@
                             <h1 class="display-2"><i class="fas fa-laptop-code"></i></h1>
                             <h4 class="card-title">To Freelance</h4>
                             <p class="card-text">Get exposure to job opportunities, and freelance projects.</p>
-                            <a href="#" class="btn btn-primary border-white mt-auto">Make a potfolio</a>
+                            <a href="#" class="btn btn-w mt-auto">Make a potfolio</a>
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@
                             <h1 class="display-2"><i class="fas fa-hat-wizard"></i></h1>
                             <h4 class="card-title">To Learn</h4>
                             <p class="card-text">Get access to free online learning material and get notified about new online and offline events.</p>
-                            <a href="#" class="btn btn-primary border-white mt-auto">Next Event</a>
+                            <a href="#" class="btn btn-w mt-auto">Next Event</a>
                         </div>
                     </div>
                 </div>
@@ -68,7 +68,7 @@
                             <h1 class="display-2"><i class="fas fa-users"></i></h1>
                             <h4 class="card-title">For Coworking</h4>
                             <p class="card-text">Get access to our affordable coworking space, for a professional work envirment.</p>
-                            <a href="#" class="btn btn-primary border-white mt-auto">What is coworking?</a>
+                            <a href="#" class="btn btn-w mt-auto">What is coworking?</a>
                         </div>
                     </div>
                 </div>
