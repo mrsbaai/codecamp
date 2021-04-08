@@ -5,7 +5,7 @@
          <h3>Upcoming Events</h3>
     </div>
 
-    <div class="card bg-dark text-light mb-5">
+    <div class="card bg-light  mb-5">
         <div class="thumb-container">
             <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
             <div class="thumb-overlay">
