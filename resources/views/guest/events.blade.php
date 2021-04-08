@@ -89,7 +89,7 @@
                     
   
 
-                <div class="form-row">
+                <div class="form-row pb-3">
                     <div class="col-lg-3 form-group">
                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                          <div class="validate"></div>
