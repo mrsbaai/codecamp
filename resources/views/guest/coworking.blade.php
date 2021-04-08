@@ -39,16 +39,10 @@
     <div class="col-lg-5 mb-4">
         <div class="card">
             <div class="thumb-container">
-              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
-              <div class="thumb-overlay">
-              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode2">
-                <i class="fa fa-play"></i>
-              </a>
-              </div>
+              <img class="card-img-top" src="https://codecamp.ma/img/marrakech.jpg" alt="Coworking Marrakech" class="thumb-image">
             </div>
-            <div class="card-body bg-dark text-light">
-                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                <p class="card-text"><small>Duration: 56 mins</small></p>
+            <div class="card-body bg-dark text-light text-center">
+                <h1>Marrakech (Soon)</h1>
             </div>
         </div>              
     </div>
@@ -58,32 +52,20 @@
     <div class="col-lg-5 mb-4">
         <div class="card">
             <div class="thumb-container">
-              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
-              <div class="thumb-overlay">
-              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode1">
-                <i class="fa fa-play"></i>
-              </a>
-              </div>
+              <img class="card-img-top" src="https://codecamp.ma/img/marrakech.jpg" alt="Coworking Marrakech" class="thumb-image">
             </div>
-            <div class="card-body bg-dark text-light">
-                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                <p class="card-text"><small>Duration: 56 mins</small></p>
+            <div class="card-body bg-dark text-light text-center">
+                <h1>Marrakech (Soon)</h1>
             </div>
         </div>              
     </div>
     <div class="col-lg-5 mb-4">
         <div class="card">
             <div class="thumb-container">
-              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
-              <div class="thumb-overlay">
-              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode2">
-                <i class="fa fa-play"></i>
-              </a>
-              </div>
+              <img class="card-img-top" src="https://codecamp.ma/img/marrakech.jpg" alt="Coworking Marrakech" class="thumb-image">
             </div>
-            <div class="card-body bg-dark text-light">
-                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
-                <p class="card-text"><small>Duration: 56 mins</small></p>
+            <div class="card-body bg-dark text-light text-center">
+                <h1>Marrakech (Soon)</h1>
             </div>
         </div>              
     </div>
