@@ -15,7 +15,7 @@
               </div>
 
               <div class="card-footer justify-content-center text-center">
-                <div class="mt-3 mb-3">
+                <div class="mt-3">
                     <div class="form-row">
                         <div class="col-lg-3 form-group">
                              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
@@ -102,7 +102,7 @@
       <!--Content-->
       <div class="modal-content">
         <div class="modal-header pr-4 pl-4">
-            <h4 class="modal-title"><i class="fas fa-map-marker-alt text-muted"></i><small> Wilaya Center N°55 Tetouan Morocco</small></h4>
+            <h4 class="modal-title text-muted"><i class="fas fa-map-marker-alt "></i><small> Wilaya Center N°55 Tetouan Morocco</small></h4>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
