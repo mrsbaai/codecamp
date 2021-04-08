@@ -12,7 +12,7 @@
            
               <div class="col-lg-12">
                 <h4 ><i class="fas fa-map-marker-alt"></i> Location</h4>
-                <p>Wilaya Center N°55 ET 5 Tetouan Morocco.</p>
+                <p>Wilaya Center N° 55Tetouan Morocco.</p>
               </div>
 
               <div class="col-lg-12">

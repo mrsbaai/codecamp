@@ -224,7 +224,7 @@
 
 
         <!-- Copyright -->
-        <div class="p-1" style="background-color: black">
+        <div class="p-1" style="background-color: #222222">
            @yield('footerCredit')
         </div>
         <!-- Copyright -->
