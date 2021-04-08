@@ -31,7 +31,7 @@
          <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
        </div>
        <div class="m-3">
-         <h3 class="card-title">DataBases deep dive</h3>
+         <h3 class="card-title">2021 New Year Online Business Resolution</h3>
          
          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
          <h5>Guests</h5>
@@ -74,7 +74,7 @@
          </div>
          <div class="col-9">
             <div class="row">
-              <h6>DataBases deep dive</h6>
+              <h6>2021 New Year Online Business Resolution</h6>
             </div>
             <div class="row">
                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
