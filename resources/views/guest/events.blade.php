@@ -108,7 +108,7 @@
                           <div class="validate"></div>
                      </div>
                      <div class="col-lg-3 form-group">
-                        <button type="button" class="btn btn-dark btn-block">Subscribe</button>
+                        <button type="button" class="btn btn-dark btn-block">Send Request</button>
                      </div>
 
                      
