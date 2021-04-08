@@ -20,7 +20,7 @@
   
     
          
-<div class="card pb-5">
+<div class="card mb-5">
     <div class="thumb-container">
         <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
         <div class="thumb-overlay">
@@ -47,7 +47,7 @@
 </div>
 
 
-<div class="card pb-5">
+<div class="card mb-5">
   <div class="thumb-container">
       <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
       <div class="thumb-overlay">
@@ -74,7 +74,7 @@
 </div>
 
 
-<div class="card pb-5">
+<div class="card mb-5">
   <div class="thumb-container">
       <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
       <div class="thumb-overlay">
