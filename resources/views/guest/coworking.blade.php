@@ -24,9 +24,9 @@
     <div class="col-lg-5 mb-4">
         <div class="card">
             <div class="thumb-container">
-              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Coworking Tetoaun" class="thumb-image">
+              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Coworking Tetouan" class="thumb-image">
               <div class="thumb-overlay">
-              <a href="#" class="thumb-icon" title="Coworking Tetoaun" data-toggle="modal" data-target="#tetouan">
+              <a href="#" class="thumb-icon" title="Coworking Tetouan" data-toggle="modal" data-target="#tetouan">
                 <i class="fa fa-expand-arrows-alt"></i>
               </a>
               </div>
@@ -74,7 +74,7 @@
 
 
 
-<div class="modal fade" id="tetoaun" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
+<div class="modal fade" id="tetouan" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
     <div class="modal-dialog modal-lg" role="document">
 
       <!--Content-->
