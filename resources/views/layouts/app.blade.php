@@ -133,12 +133,14 @@
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
                 <h4 class="mb-4">Receive news about upcoming events</h4>
-              <div class="input-group mb-3 pr-4 pl-4">
+              <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
                     <button class="btn btn-primary btn-lg rounded-right" type="button">Subscribe</button>
                 </div>
               </div>
+
+              <h4 class="mt-4 mb-3">Follow Us</h4>
 
               <div class="container p-1 pb-0">
                 <!-- Section: Social media -->
