@@ -80,7 +80,7 @@
       <!--Content-->
       <div class="modal-content">
         <div class="modal-header pr-4 pl-4">
-            <h5 class="modal-title"><i class="fas fa-map-marker-alt"></i><small>Wilaya Center N°55 Tetouan Morocco</small></h5>
+            <h4 class="modal-title"><i class="fas fa-map-marker-alt text-muted"></i><small> Wilaya Center N°55 Tetouan Morocco</small></h4>
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
@@ -93,10 +93,7 @@
               <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
                 <div class="carousel-inner">
         
-                  <div class="carousel-item active">
-                    <img class="d-block w-100" src="/construction/img/00.png">
-                  </div>
-                  <div class="carousel-item">
+                    <div class="carousel-item active">
                     <img class="d-block w-100" src="/construction/img/01.jpg">
                   </div>
                   <div class="carousel-item">
