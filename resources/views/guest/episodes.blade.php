@@ -67,12 +67,12 @@
    <div class="list-group ">
      <a href="#" class="list-group-item list-group-item-action ">
        <div class="d-flex w-100 justify-content-between">
-         <div class="col">
+         <div class="col-2">
            <div class="text-left">
-              <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
+              <h1><i class="fas fa-play"></i> </h1>
             </div>
          </div>
-         <div class="col-9">
+         <div class="col-10">
             <div class="row">
               <h6>2021 New Year Online Business Resolution</h6>
             </div>
