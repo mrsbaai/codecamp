@@ -42,97 +42,13 @@
           <p class="card-text mt-2 mb-2">
             We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
         </p>
-        <div class="text-center">
-        <button type="button" class="btn btn-sm btn-w mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
+        <div class="text-right">
+        <button type="button" class="btn btn-large btn-primary mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
         </div>
         </div>
       </div>
 
-      <div class="card bg-dark text-light mb-5">
-        <div class="thumb-container">
-            <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
-            <div class="thumb-overlay">
-            <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
-              <i class="fa fa-info-circle"></i>
-            </a>
-            </div>
-          </div>
-
-
-        <div class="card-body ml-3">
-          <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
-          <h6 class="card-subtitle mb-2">
-            <div class="row">
-                <div class="col-12 mt-2">
-                    <p class="card-text"><i class="fas fa-map-marker-alt"></i><small> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
-                </div>
-                <div class="col-12 mt-2">
-                    <p class="card-text"><i class="fas fa-calendar-alt "></i><small> 01/03/2021 - 01/03/2021</small></p>
-               </div>
-
-              <div class="col-12 mt-2">
-                   <p class="card-text"><i class="fas fa-clock "></i><small> 15:00 - 18:00</small></p>
-              </div>
- 
-              <div class="col-12 mt-2">
-               <p class="card-text"><i class="fas fa-money-bill-wave"></i><small> 190 DH</small></p>
-               </div>
-
-
-              
-              </div>
-          </h6>
-          <p class="card-text mt-2 mb-2">
-            We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
-        </p>
-        <div class="text-center">
-        <button type="button" class="btn btn-sm btn-w mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
-        </div>
-        </div>
-      </div>
-
-      <div class="card bg-dark text-light mb-5">
-        <div class="thumb-container">
-            <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
-            <div class="thumb-overlay">
-            <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
-              <i class="fa fa-info-circle"></i>
-            </a>
-            </div>
-          </div>
-
-
-        <div class="card-body ml-3">
-          <h5 class="card-title mt-2">2021 New Year Online Business Resolution</h5>
-          <h6 class="card-subtitle mb-2">
-            <div class="row">
-                <div class="col-12 mt-2">
-                    <p class="card-text"><i class="fas fa-map-marker-alt"></i><small> Wilaya Center ET5 N°55 TETOUAN MOROCCO</small></p>
-                </div>
-                <div class="col-12 mt-2">
-                    <p class="card-text"><i class="fas fa-calendar-alt "></i><small> 01/03/2021 - 01/03/2021</small></p>
-               </div>
-
-              <div class="col-12 mt-2">
-                   <p class="card-text"><i class="fas fa-clock "></i><small> 15:00 - 18:00</small></p>
-              </div>
- 
-              <div class="col-12 mt-2">
-               <p class="card-text"><i class="fas fa-money-bill-wave"></i><small> 190 DH</small></p>
-               </div>
-
-
-              
-              </div>
-          </h6>
-          <p class="card-text mt-2 mb-2">
-            We are organizing a professional gathering to discuss and exchange ideas about how can we make our online businesses more profitable in 2021. <a class="text-info" href="/blog/3334">More info...</a>
-        </p>
-        <div class="text-center">
-        <button type="button" class="btn btn-sm btn-w mt-2"  data-toggle="modal" data-target="#events1" >Subscribe</button>
-        </div>
-        </div>
-      </div>
+      
 
 
       

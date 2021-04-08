@@ -177,7 +177,7 @@
         </div>
     </div>
 
-    <footer id="footer" class="bg-dark text-light py-5 text-center">
+    <footer id="footer" class="bg-dark text-light text-center">
         @yield('footer')
         @yield('footerCredit')
     </footer> 
