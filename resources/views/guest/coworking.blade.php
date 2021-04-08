@@ -1,20 +1,18 @@
 @extends('layouts.app')
 
 @section('content')
-<div class="container" data-aos="fade-up">
+<div class="container container mb-5">
 
-<div class="row justify-content-center">
+<div class="row justify-content-center  mt-5 mb-5">
   <div class="col-lg-10"> 
-      <div class="card bg-light h-100">
-         <div class="embed-responsive embed-responsive-16by9" >
+      <div class="card">
+         <div class="embed-responsive embed-responsive-16by9" style="border-top-right-radius: calc(0.25rem - 1px);border-top-left-radius: calc(0.25rem - 1px);">
              <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
          </div>
               <div class="card-body d-flex flex-column align-items-start">
-                <h4 class="card-title text-center text-primary">What is Coworking?</h4>
-                 <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                 <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                 <p class="card-text">In Moroccan Success Story episodes, we invite a Moroccan icon in the IT and related fields, to share their experiences, lessons learned and knowledge with the Moroccan community.</p>
-                   <div class="col-12 text-center p-0">
+                <h4 class="card-title">What is Coworking?</h4>
+                 <p class="card-text">Coworking is an arrangement in which workers of different companies share an office space, allowing cost savings and convenience through the use of common infrastructures, such as equipment, utilities, and receptionist and custodial services, and in some cases refreshments and parcel acceptance services.</p>
+                 <div class="col-12 text-center p-0">
                    <p class="text-primary">Become a mumber <a href="{{ route('register') }}" class="btn btn-primary btn-sm mt-auto">Register</a></p>
                    </div>      
               </div>
@@ -25,7 +23,7 @@
 <div class="row justify-content-center">
    <div class="col-lg-10"> 
          <div class="text-center">
-             <h3> </br> Find us in</h3>
+             <h3> Find us in</h3>
          </div>
             
              <div class="row">
