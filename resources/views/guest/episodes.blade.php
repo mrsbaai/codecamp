@@ -22,7 +22,7 @@
      
 
 
-  <div class="col-lg-7">
+  <div class="col-lg-7 pb-5">
 
     <div class="card" >
 
@@ -65,16 +65,17 @@
 
   <div class="col-lg-5">
    <div class="list-group ">
+
      <a href="#" class="list-group-item list-group-item-action ">
        <div class="d-flex w-100 justify-content-between">
-         <div class="col-2 p-0">
+         <div class="col-2 p-1">
            <div class="text-left pt-3">
               <h1><i class="fas fa-play"></i> </h1>
             </div>
          </div>
-         <div class="col-10 p-0">
+         <div class="col-10 p-1">
             <div class="row">
-              <h6>2021 New Year Online Business Resolution</h6>
+              <h6>2021 New Year Online Business Resolution Resolution Resolution</h6>
             </div>
             <div class="row">
                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
@@ -83,41 +84,41 @@
        </div>   
       </a>
 
-      <a href="#" class="list-group-item list-group-item-action">
-       <div class="d-flex w-100 justify-content-between">
-         <div class="col">
-           <div class="text-left">
-              <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
-            </div>
-         </div>
-         <div class="col-9">
-            <div class="row">
-              <h6>PHP</h6>
-            </div>
-            <div class="row">
-               <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+      <a href="#" class="list-group-item list-group-item-action ">
+        <div class="d-flex w-100 justify-content-between">
+          <div class="col-2 p-1">
+            <div class="text-left pt-3">
+               <h1><i class="fas fa-play"></i> </h1>
              </div>
           </div>
-       </div>   
-      </a>
+          <div class="col-10 p-1">
+             <div class="row">
+               <h6>2021 New Year Online Business Resolution</h6>
+             </div>
+             <div class="row">
+                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+              </div>
+           </div>
+        </div>   
+       </a>
 
-      <a href="#" class="list-group-item list-group-item-action">
-       <div class="d-flex w-100 justify-content-between">
-         <div class="col">
-           <div class="text-left">
-              <h1 class="text-primary"><i class="fas fa-play-circle"></i> </h1>
-            </div>
-         </div>
-         <div class="col-9">
-            <div class="row">
-              <h6>A tasty test to test this test</h6>
-            </div>
-            <div class="row">
-               <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+       <a href="#" class="list-group-item list-group-item-action ">
+        <div class="d-flex w-100 justify-content-between">
+          <div class="col-2 p-1">
+            <div class="text-left pt-3">
+               <h1><i class="fas fa-play"></i> </h1>
              </div>
           </div>
-       </div>   
-      </a>
+          <div class="col-10 p-1">
+             <div class="row">
+               <h6>2021 New Year Online Business Resolution</h6>
+             </div>
+             <div class="row">
+                <p class="card-text"><small class="text-muted">02:12:38 | 01/03/2021</small></p>
+              </div>
+           </div>
+        </div>   
+       </a>
 
  
    </div>
