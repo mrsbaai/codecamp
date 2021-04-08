@@ -3,7 +3,7 @@
 @section('content')
 <div class="container container mb-5">
 
-<div class="row justify-content-center  mt-5 mb-5">
+<div class="row justify-content-center mt-5 mb-5">
   <div class="col-lg-10"> 
       <div class="card">
          <div class="embed-responsive embed-responsive-16by9" style="border-top-right-radius: calc(0.25rem - 1px);border-top-left-radius: calc(0.25rem - 1px);">
@@ -20,60 +20,78 @@
  </div>
 </div>
 
-<div class="row justify-content-center">
-   <div class="col-lg-10"> 
-         <div class="text-center">
-             <h3> Find us in</h3>
-         </div>
-            
-             <div class="row">
-                 <div class="col-lg-4">
-                     <div class="card h-100">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                          <h4 class="card-text text-primary"><a href="Tetouan">Tetouan</a></h4>
-                          <p class="card-text">Wilaya Center ET5 N°55 TETOUAN MOROCCO</p>
-                        </div>
-                    </div>
-                 </div>
-                 <div class="col-lg-4 offset-lg-4">
-                     <div class="card h-100">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                           <h4 class="card-text text-primary">Tangier</h4>
-                           <p class="card-text">COMMING SOON</p>
-                           <p class="card-text"></p>
-                        </div>
-                    </div>
-                 </div>
-                 <div class="w-100"></div>
-                 <div class="col-lg-4">
-                    <div class="card h-100">
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                        <h4 class="card-text text-primary">Marrakche</h4>
-                        <p class="card-text">COMMING SOON</p>
-                        <p class="card-text"></p>
-                        </div>
-                    </div>
-                 </div>
-                 <div class="col-lg-4 offset-lg-4">
-                    <div class="card h-100" >
-                        <img src="..." class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <h4 class="card-text text-primary">Agadir</h4>
-                            <p class="card-text">COMMING SOON</p>
-                            <p class="card-text"></p>
-                        </div>
-                    </div>
-                 </div>
+<div class="row">
+    <div class="col-lg-6 mb-4">
+        <div class="card">
+            <div class="thumb-container">
+              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
+              <div class="thumb-overlay">
+              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode1">
+                <i class="fa fa-play"></i>
+              </a>
+              </div>
             </div>
-   </div>
+            <div class="card-body bg-dark text-light">
+                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
+                <p class="card-text"><small>Duration: 56 mins</small></p>
+            </div>
+        </div>              
+    </div>
+    <div class="col-lg-6 mb-4">
+        <div class="card">
+            <div class="thumb-container">
+              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
+              <div class="thumb-overlay">
+              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode2">
+                <i class="fa fa-play"></i>
+              </a>
+              </div>
+            </div>
+            <div class="card-body bg-dark text-light">
+                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
+                <p class="card-text"><small>Duration: 56 mins</small></p>
+            </div>
+        </div>              
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-6 mb-4">
+        <div class="card">
+            <div class="thumb-container">
+              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
+              <div class="thumb-overlay">
+              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode1">
+                <i class="fa fa-play"></i>
+              </a>
+              </div>
+            </div>
+            <div class="card-body bg-dark text-light">
+                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
+                <p class="card-text"><small>Duration: 56 mins</small></p>
+            </div>
+        </div>              
+    </div>
+    <div class="col-lg-6 mb-4">
+        <div class="card">
+            <div class="thumb-container">
+              <img class="card-img-top" src="https://codecamp.ma/img/thumbnail.png" alt="Play trailer" class="thumb-image">
+              <div class="thumb-overlay">
+              <a href="#" class="thumb-icon" title="User Profile" data-toggle="modal" data-target="#episode2">
+                <i class="fa fa-play"></i>
+              </a>
+              </div>
+            </div>
+            <div class="card-body bg-dark text-light">
+                <p class="card-text">How to avoid most common mistakes and some tools to build a Good resume.</p>
+                <p class="card-text"><small>Duration: 56 mins</small></p>
+            </div>
+        </div>              
+    </div>
 </div>
 
 
 
-</div>
 @endsection
 
 
