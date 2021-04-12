@@ -83,7 +83,7 @@
                             <a href="#">Become a mumber</a>
                         </li>
                         <li>
-                            <a href="#">Live feed</a>
+                            <a href="/cam">Live feed</a>
                         </li>
                     </ul>
                 </li>
