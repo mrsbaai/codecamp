@@ -62,13 +62,10 @@
                 </li>
 
                 <li>
-                    <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Find a job</a>
+                    <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Work / Hire / Partners</a>
                     <ul class="collapse list-unstyled" id="jobSubmenu">
                         <li>
                             <a href="#">Edit porfolio</a>
-                        </li>
-                        <li>
-                            <a href="#">Preview porfolio</a>
                         </li>
                         <li>
                             <a href="#">Messages</a>
@@ -83,16 +80,10 @@
                             <a href="#">What is coworking?</a>
                         </li>
                         <li>
-                            <a href="#">Locations</a>
-                        </li>
-                        <li>
                             <a href="#">Become a mumber</a>
                         </li>
                         <li>
                             <a href="#">Live feed</a>
-                        </li>
-                        <li>
-                            <a href="#">Week Time Tracking Sheet</a>
                         </li>
                     </ul>
                 </li>
@@ -117,9 +108,6 @@
                     <a href="#">Contact</a>
                 </li>
 
-                <li>
-                    <a href="#">Administration</a>
-                </li>
                 <li>
                     <a href="{{ route('logout') }}"
                     onclick="event.preventDefault();

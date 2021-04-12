@@ -42,6 +42,7 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/test', 'PagesController@test')->name('test');
+Route::get('/cam', 'PagesController@ShowCam')->name('cam');
 
 
 /* Guest */
