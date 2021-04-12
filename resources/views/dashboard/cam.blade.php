@@ -2,7 +2,7 @@
 
 @section('content')
 
-<div class="contaner p-0 m-0 bg-dark">
+
 <div class="text-center m-5">
     <h3 class="text-light">TETOUAN <span class="text-green">- (live)</span></h3>
 </div>
@@ -24,11 +24,18 @@
         <iframe width="290" height="240" src="https://rtsp.me/embed/EnQ5ehkK/" frameborder="0"></iframe>
     </div>
 </div>
-</div>
+
 
 @endsection
 
 
 @section('title')
 Live Feed
+@endsection
+@section('head')
+<style>
+    body{
+        background-color: #343A40;
+    }
+</style>
 @endsection
