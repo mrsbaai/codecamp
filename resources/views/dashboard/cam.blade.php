@@ -2,7 +2,7 @@
 
 @section('content')
 <div class="text-center m-5">
-    <h3>Tetouan - <span class="text-green">Live</span></h3>
+    <h3>TETOUAN <span class="text-green">- (live)</span></h3>
 </div>
 
 <div class="row justify-content-center">
