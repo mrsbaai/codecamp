@@ -53,10 +53,10 @@
                     <a href="#learnSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Learn</a>
                     <ul class="collapse list-unstyled" id="learnSubmenu">
                         <li>
-                            <a href="#">Episodes</a>
+                            <a href="{{ route('UserEpisodes') }}">Episodes</a>
                         </li>
                         <li>
-                            <a href="#">Live events</a>
+                            <a href="{{ route('UserEvents') }}">Live events</a>
                         </li>
                     </ul>
                 </li>
@@ -65,10 +65,10 @@
                     <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Work / Hire / Partners</a>
                     <ul class="collapse list-unstyled" id="jobSubmenu">
                         <li>
-                            <a href="#">Edit porfolio</a>
+                            <a href="{{ route('porfolio') }}">Edit porfolio</a>
                         </li>
                         <li>
-                            <a href="#">Messages</a>
+                            <a href="{{ route('messages') }}">Messages</a>
                         </li>
                     </ul>
                 </li>
@@ -77,10 +77,10 @@
                     <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
                     <ul class="collapse list-unstyled" id="coworkingSubmenu">
                         <li>
-                            <a href="#">What is coworking?</a>
+                            <a href="{{ route('UserCoworking') }}">What is coworking?</a>
                         </li>
                         <li>
-                            <a href="#">Become a mumber</a>
+                            <a href="{{ route('RegisterCoworking') }}">Become a mumber</a>
                         </li>
                         <li>
                             <a href="/cam">Live feed</a>
@@ -92,20 +92,20 @@
                     <a href="#settingsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Settings</a>
                     <ul class="collapse list-unstyled" id="settingsSubmenu">
                         <li>
-                            <a href="#">Personal info</a>
+                            <a href="{{ route('personal') }}">Personal info</a>
                         </li>
                         <li>
-                            <a href="#">Change password</a>
+                            <a href="{{ route('password') }}">Change password</a>
                         </li>
                     </ul>
                 </li>
 
                 <li>
-                    <a href="#">News</a>
+                    <a href="{{ route('UserNews') }}">News</a>
                 </li>
 
                 <li>
-                    <a href="#">Contact</a>
+                    <a href="{{ route('support') }}">Support</a>
                 </li>
 
                 <li>
@@ -140,10 +140,10 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="/cam">Live feed</a>
+                                <a class="nav-link" href="{{ route('cam') }}">Live feed</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Messages</a>
+                                <a class="nav-link" href="{{ route('messages') }}">Messages</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('logout') }}"

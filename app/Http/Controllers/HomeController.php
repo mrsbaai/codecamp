@@ -25,4 +25,18 @@ class HomeController extends Controller
     {
         return view('dashboard.home');
     }
+
+    public function ShowCam(){
+        return view('dashboard.cam');
+    }
+
+
+    public function ShowEpisodes(){
+        return view('dashboard.episodes');
+    }
+
+
+
+
+
 }

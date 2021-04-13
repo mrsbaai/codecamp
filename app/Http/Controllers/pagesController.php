@@ -112,11 +112,7 @@ class PagesController extends Controller
         return view('guest.contact');
     }
 
-    public function ShowCam(){
-        return view('dashboard.cam');
-    }
-
-
+ 
 
 
 }
