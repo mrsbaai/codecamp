@@ -165,17 +165,14 @@
 
             @yield('content')
 
-            <footer id="footer" class="bg-dark text-light text-center">
-                @yield('footer')
-                @yield('footerCredit')
-            </footer>
-
 
            
         </div>
 
-
-
+        <footer id="footer" class="bg-dark text-light text-center">
+            @yield('footer')
+            @yield('footerCredit')
+        </footer>
     </div>
 
  
