@@ -31,7 +31,7 @@ class HomeController extends Controller
     }
 
 
-    public function ShowEpisodes(){
+    public function ShowUserEpisodes(){
         return view('dashboard.episodes');
     }
 
