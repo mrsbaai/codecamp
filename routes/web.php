@@ -44,7 +44,7 @@ Route::get('/test', 'PagesController@test')->name('test');
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/home/cam', 'HomeController@ShowCam')->name('cam');
+Route::get('/home/cameras', 'HomeController@ShowCam')->name('cameras');
 
 Route::get('/home/episodes', 'HomeController@ShowUserEpisodes')->name('UserEpisodes');
 

@@ -86,7 +86,7 @@
                             <a href="{{ route('RegisterCoworking') }}">Become a mumber</a>
                         </li>
                         <li>
-                            <a href="/cam">Camera feed</a>
+                            <a href="/cameras">Cameras</a>
                         </li>
                     </ul>
                 </li>
@@ -143,7 +143,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('cam') }}">Camera feed</a>
+                                <a class="nav-link" href="{{ route('cameras') }}">Cameras</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('messages') }}">Messages</a>
