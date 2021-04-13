@@ -70,7 +70,7 @@
                             <a class="nav-link" href="/episodes">{{ __('Episodes') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/news">{{ __('news') }}</a>
+                            <a class="nav-link" href="/news">{{ __('News') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/contact">{{ __('Contact') }}</a>
