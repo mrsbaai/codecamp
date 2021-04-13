@@ -1,13 +1,13 @@
-@extends('layouts.dashboard')
+@extends('layouts.app')
+
 @include('sections.news')
 
 @section('content')
-    @yield('newsTable')
+  @yield('newsTable')
 @endsection
 
-
 @section('title')
-News
+: News
 @endsection
 
 
