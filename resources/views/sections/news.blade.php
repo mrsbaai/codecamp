@@ -21,7 +21,7 @@
            
   <div class="card mb-5">
       <div class="thumb-container">
-          <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
+          <img class="card-img" src="../img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
           <div class="thumb-overlay">
           <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
             <i class="fa fa-info-circle"></i>
@@ -48,7 +48,7 @@
   
   <div class="card mb-5">
     <div class="thumb-container">
-        <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
+        <img class="card-img" src="../img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
         <div class="thumb-overlay">
         <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
           <i class="fa fa-info-circle"></i>
@@ -75,7 +75,7 @@
   
   <div class="card mb-5">
     <div class="thumb-container">
-        <img class="card-img" src="img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
+        <img class="card-img" src="../img/square.jpg" alt="2021 New Year Online Business Resolution" class="thumb-image">
         <div class="thumb-overlay">
         <a href="/blog/3334" class="thumb-icon" title="2021 New Year Online Business Resolution">
           <i class="fa fa-info-circle"></i>
