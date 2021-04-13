@@ -86,7 +86,7 @@
                             <a href="{{ route('RegisterCoworking') }}">Become a mumber</a>
                         </li>
                         <li>
-                            <a href="/cameras">Cameras</a>
+                            <a href="{{ route('cameras') }}">Cameras</a>
                         </li>
                     </ul>
                 </li>
