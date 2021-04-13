@@ -71,7 +71,7 @@ Route::get('/job', 'PagesController@ShowJob')->name('ShowJob');
 Route::get('/episodes', 'PagesController@ShowEpisodes')->name('ShowEpisodes');
 Route::get('/events', 'PagesController@ShowEvents')->name('ShowEvents');
 Route::get('/coworking', 'PagesController@ShowCoworking')->name('ShowCoworking');
-Route::get('/blog', 'PagesController@ShowBlog')->name('ShowBlog');
+Route::get('/news', 'PagesController@ShowNews')->name('ShowNews');
 Route::get('/contact', 'PagesController@ShowContact')->name('ShowContact');
 
 

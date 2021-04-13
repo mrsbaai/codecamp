@@ -1,4 +1,4 @@
-@include('footerCredit')
+@include('sections.footerCredit')
 <!DOCTYPE html>
 <html>
   <head>

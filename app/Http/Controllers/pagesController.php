@@ -103,8 +103,8 @@ class PagesController extends Controller
     }
 
 
-    public function ShowBlog(){
-        return view('guest.blog');
+    public function ShowNews(){
+        return view('guest.news');
     }
 
 
