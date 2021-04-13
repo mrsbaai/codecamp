@@ -40,9 +40,28 @@ Auth::routes();
 
 /* user */
 
-Route::get('/home', 'HomeController@index')->name('home');
 Route::get('/test', 'PagesController@test')->name('test');
-Route::get('/cam', 'PagesController@ShowCam')->name('cam');
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/home/cam', 'HomeController@ShowCam')->name('cam');
+
+Route::get('/home/episodes', 'HomeController@ShowUserEpisodes')->name('UserEpisodes');
+
+
+Route::get('/home/messages', 'HomeController@ShowMessages')->name('messages');
+Route::get('/home/events', 'HomeController@ShowUserEvents')->name('UserEvents');
+Route::get('/home/porfolio', 'HomeController@ShowPorfolio')->name('porfolio');
+Route::get('/home/coworking', 'HomeController@ShowUserCoworking')->name('UserCoworking');
+Route::get('/home/coworking/register', 'HomeController@ShowRegisterCoworking')->name('RegisterCoworking');
+Route::get('/home/coworkers', 'HomeController@ShowCoworkers')->name('coworkers');
+Route::get('/home/personal', 'HomeController@ShowPersonal')->name('personal');
+Route::get('/home/password', 'HomeController@ShowPassword')->name('password');
+Route::get('/home/news', 'HomeController@ShowUserNews')->name('UserNews');
+Route::get('/home/support', 'HomeController@ShowSupport')->name('support');
+
+
+
 
 
 /* Guest */

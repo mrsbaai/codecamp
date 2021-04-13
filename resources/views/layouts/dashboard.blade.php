@@ -80,10 +80,13 @@
                             <a href="{{ route('UserCoworking') }}">What is coworking?</a>
                         </li>
                         <li>
+                            <a href="{{ route('coworkers') }}">Active members</a>
+                        </li>
+                        <li>
                             <a href="{{ route('RegisterCoworking') }}">Become a mumber</a>
                         </li>
                         <li>
-                            <a href="/cam">Live feed</a>
+                            <a href="/cam">Camera feed</a>
                         </li>
                     </ul>
                 </li>
@@ -140,7 +143,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
                             <li class="nav-item">
-                                <a class="nav-link" href="{{ route('cam') }}">Live feed</a>
+                                <a class="nav-link" href="{{ route('cam') }}">Camera feed</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="{{ route('messages') }}">Messages</a>
