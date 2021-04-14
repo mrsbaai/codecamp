@@ -132,7 +132,7 @@
 @endsection
 
 @section('title')
-: Blog
+: Episodes
 @endsection
 
 

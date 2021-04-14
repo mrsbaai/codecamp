@@ -43,12 +43,8 @@ Auth::routes();
 Route::get('/test', 'PagesController@test')->name('test');
 
 Route::get('/home', 'HomeController@index')->name('home');
-
 Route::get('/home/cameras', 'HomeController@ShowCam')->name('cameras');
-
 Route::get('/home/episodes', 'HomeController@ShowUserEpisodes')->name('UserEpisodes');
-
-
 Route::get('/home/messages', 'HomeController@ShowMessages')->name('messages');
 Route::get('/home/events', 'HomeController@ShowUserEvents')->name('UserEvents');
 Route::get('/home/porfolio', 'HomeController@ShowPorfolio')->name('porfolio');
