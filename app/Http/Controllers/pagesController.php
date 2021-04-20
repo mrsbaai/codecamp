@@ -100,7 +100,7 @@ class PagesController extends Controller
 
     public function ShowCoworking(){
         //return view('guest.coworking');
-        return view('coworking1');
+        return view('coworking');
     }
 
 
