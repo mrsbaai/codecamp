@@ -1,5 +1,10 @@
 @section('locations')
 
+<style>
+  .thumb-icon {
+    color: #CACACA;
+  }
+</style>
 
 <div class="row justify-content-center">
     <div class="col-lg-5 mb-4">
