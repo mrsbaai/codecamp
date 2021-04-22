@@ -1,10 +1,10 @@
 @extends('layouts.dashboard')
 
 @section('content')
-<div class="container">
+<div class="container vh-100">
    <div class="card m-5">
        <div class="card-header">
-          Contact us
+          Please use this form if you have a question, or you need help.
        </div>
        <div class="card-body">
           <div class="">
