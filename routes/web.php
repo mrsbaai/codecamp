@@ -81,7 +81,7 @@ Route::get('/admin/edit/episodes', 'AdminController@ShowAdminEditEpisodes')->nam
 Route::get('/admin/edit/events', 'AdminController@ShowAdminEditEvents')->name('AdminEditEvents');
 Route::get('/admin/edit/news', 'AdminController@ShowAAdminEditNews')->name('AdminEditNews');
 Route::get('/admin/edit/coworkers', 'AdminController@ShowAdminEditCoworkers')->name('AdminEditCoworkers');
-Route::get('/admin/edit/EventSubscribers', 'AdminController@ShowAdminEditEventSubscribers')->name('AdminEditEventSubscribers');
+Route::get('/admin/show/EventSubscribers', 'AdminController@ShowAdminEventSubscribers')->name('AdminEventSubscribers');
 Route::get('/admin/show/requests/coworking', 'AdminController@ShowAdminCoworkingRequests')->name('AdminCoworkingRequests');
 Route::get('/admin/show/requests/events', 'AdminController@ShowAdminEventRequests')->name('AdminEventRequests');
 

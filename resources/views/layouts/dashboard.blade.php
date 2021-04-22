@@ -139,7 +139,7 @@
                     <a href="#eventsAdminSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Events</a>
                     <ul class="collapse list-unstyled" id="eventsAdminSubmenu">
                         <li>
-                            <a href="{{ route('AdminEditEventSubscribers') }}">Edit Event Subscribers</a>
+                            <a href="{{ route('AdminEventSubscribers') }}">Edit Event Subscribers</a>
                         </li>
                         
                         <li>

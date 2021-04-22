@@ -38,8 +38,8 @@ class AdminController extends Controller
         return view('admin.editCoworkers');
     }
 
-    public function ShowAdminEditEventSubscribers(){
-        return view('admin.editEventSubscribers');
+    public function ShowAdminEventSubscribers(){
+        return view('admin.eventSubscribers');
     }
 
     public function ShowAdminCoworkingRequests(){
