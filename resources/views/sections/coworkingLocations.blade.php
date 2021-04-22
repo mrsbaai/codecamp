@@ -135,8 +135,9 @@
                           <div class="validate"></div>
                      </div>
                      <div class="col-lg-3 form-group">
-                      <select class="custom-select" id="city" name="city" placeholder="I currently live in:" data-rule="minlen:2" data-msg="Please select your current city" >                    
-                         <option value="Casablanca">Casablanca</option>
+                      <select class="custom-select" id="city" name="city" data-rule="required" required="required" data-msg="Please select your current city" >                    
+                        <option value="" disabled>I currently live in:</option>
+                        <option value="Casablanca">Casablanca</option>
                          <option value="Fez">Fez</option>
                          <option value="Tangier">Tangier</option>
                          <option value="Marrakesh">Marrakesh</option>
