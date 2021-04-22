@@ -94,15 +94,7 @@
                 </li>
 
                 <li>
-                    <a href="#settingsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Settings</a>
-                    <ul class="collapse list-unstyled" id="settingsSubmenu">
-                        <li>
-                            <a href="{{ route('personal') }}">Personal info</a>
-                        </li>
-                        <li>
-                            <a href="{{ route('password') }}">Change password</a>
-                        </li>
-                    </ul>
+                    <a href="{{ route('Settings') }}">Settings</a>
                 </li>
 
                 <li>

@@ -6,7 +6,7 @@
         <div class="col-lg-12">
         <div class="card">
              <div class="card-header ">
-                 Recent messages
+                Messages from portfolio page
              </div>
              <div class="card-body">
              <table class="table table-striped">

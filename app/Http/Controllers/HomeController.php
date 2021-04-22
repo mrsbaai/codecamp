@@ -59,13 +59,10 @@ class HomeController extends Controller
         return view('dashboard.coworkers');
     }
 
-    public function ShowPersonal(){
-        return view('dashboard.personal');
+    public function ShowSettings(){
+        return view('dashboard.settings');
     }
 
-    public function ShowPassword(){
-        return view('dashboard.password');
-    }
 
     public function ShowUserNews(){
         return view('dashboard.news');
