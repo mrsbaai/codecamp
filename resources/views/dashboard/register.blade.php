@@ -1,10 +1,13 @@
 @extends('layouts.dashboard')
+@include('sections.coworkingLocations')
+@include('sections.coworkingPlans')
 
 @section('content')
-            <h1>Hello</h1>
+@yield('locations')
+@yield('plans')
 @endsection
 
 
 @section('title')
-Home
+Become a member
 @endsection

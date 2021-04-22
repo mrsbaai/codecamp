@@ -85,7 +85,7 @@
                             <a href="{{ route('coworkers') }}">Active members</a>
                         </li>
                         <li>
-                            <a href="{{ route('RegisterCoworking') }}">Become a mumber</a>
+                            <a href="{{ route('RegisterCoworking') }}">Become a member</a>
                         </li>
                         <li>
                             <a href="{{ route('cameras') }}">Cameras</a>

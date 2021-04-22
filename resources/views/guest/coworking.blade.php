@@ -6,8 +6,6 @@
 @section('content')
   @yield('coworking')
   @yield('locations')
-
-
 @endsection
 
 
