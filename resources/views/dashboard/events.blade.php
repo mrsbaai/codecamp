@@ -1,10 +1,10 @@
 @extends('layouts.dashboard')
 
+@include('sections.events')
 @section('content')
-            <h1>Hello</h1>
+  @yield('events')
 @endsection
 
-
 @section('title')
-Home
+Upcoming Events
 @endsection
