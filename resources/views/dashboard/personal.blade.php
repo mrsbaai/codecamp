@@ -6,16 +6,7 @@
   <div class="row justify-content-center">
      <div class="col-lg-8 m-3">
          <div class="card">
-             <div class="card-header">
-                 <ul class="nav nav-tabs" id="myTab" role="tablist">
-                     <li class="nav-item">
-                         <a class="nav-link active" id="profile-tab" data-toggle="tab" href="#profile" role="tab" aria-controls="profile" aria-selected="true">Profile</a>
-                     </li>
-                     <li class="nav-item">
-                         <a class="nav-link" id="update-tab" data-toggle="tab" href="#update" role="tab" aria-controls="update" aria-selected="false">Update</a>
-                     </li>
-                 </ul>
-              </div>
+            <div class="card-header">{{ __('Personal Info') }}</div>
               <div class="card-body">
                 <form method="POST" action="{{ route('personal') }}">
                     @csrf
