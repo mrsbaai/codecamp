@@ -4,7 +4,7 @@
 <div class="container vh-100">
    <div class="card m-5">
        <div class="card-header">
-          Please use this form if you have a question, or you need help.
+          How can we help?
        </div>
        <div class="card-body">
           <div class="">
