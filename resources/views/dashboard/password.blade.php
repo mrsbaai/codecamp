@@ -1,7 +1,7 @@
 @extends('layouts.dashboard')
 
 @section('content')
-<div class="container" data-aos="fade-up">
+<div class="container vh-100">
    <div class=" row h-100 justify-content-center align-items-center" role="centred-form">
         <div class="col-md-8 m-5">
             <div class="card">
