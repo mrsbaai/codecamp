@@ -107,54 +107,53 @@
                 <!-- if admin  -->
 
                 <li>
-                    <a href="#learnSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Postes</a>
-                    <ul class="collapse list-unstyled" id="learnSubmenu">
+                    <a href="#postesAdminSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Postes</a>
+                    <ul class="collapse list-unstyled" id="postesAdminSubmenu">
                         <li>
-                            <a href="admin_episode">Episodes</a>
+                            <a href="{{ route('AdminEditEpisodes') }}">Edit Episodes</a>
                         </li>
                         <li>
-                            <a href="admin_news">News</a>
+                            <a href="{{ route('AdminEditEvents') }}">Edit Events</a>
                         </li>
                         <li>
-                            <a href="admin_events">Events</a>
+                            <a href="{{ route('AdminEditNews') }}">Edit News</a>
                         </li>
                     </ul>
                 </li>
 
                 <li>
-                    <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
-                    <ul class="collapse list-unstyled" id="coworkingSubmenu">
+                    <a href="#coworkingAdminSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking</a>
+                    <ul class="collapse list-unstyled" id="coworkingAdminSubmenu">
                         
                         <li>
-                            <a href="coworkers">Coworkers</a>
+                            <a href="{{ route('AdminEditCoworkers') }}">Edit Coworkers</a>
                         </li>
                         <li>
-                            <a href="coworking_requests">Requests</a>
-                        </li>
-                        <li>
-                            <a href="archive">Archive</a>
-                        </li>
-                        
-                    </ul>
-                </li>
-
-                <li>
-                    <a href="#eventsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Events</a>
-                    <ul class="collapse list-unstyled" id="eventsSubmenu">
-                        
-                        <li>
-                            <a href="events_requests">Requests</a>
-                        </li>
-                        <li>
-                            <a href="events_subscribe">Subscribers</a>
+                            <a href="{{ route('AdminCoworkingRequests') }}">Coworking Requests</a>
                         </li>
                         
                     </ul>
                 </li>
 
                 <li>
-                    <a href="guests">Guests</a>
+                    <a href="#eventsAdminSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Events</a>
+                    <ul class="collapse list-unstyled" id="eventsAdminSubmenu">
+                        <li>
+                            <a href="{{ route('AdminEditEventSubscribers') }}">Edit Event Subscribers</a>
+                        </li>
+                        
+                        <li>
+                            <a href="{{ route('AdminEventRequests') }}">Event Requests</a>
+                        </li>
+                        <li>
+                            <a href="{{ route('AdminEditGuests') }}">Edit Guests</a>
+                        </li>
+
+                        
+                    </ul>
                 </li>
+
+
 
 
 
