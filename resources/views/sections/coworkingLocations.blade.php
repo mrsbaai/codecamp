@@ -5,8 +5,11 @@
     color: #CACACA;
   }
 </style>
-
+<div class="text-center m-5">
+  <h3>When you subscribe to the coworking space, You have access to all our locations.</h3>
+</div>
 <div class="row justify-content-center">
+
     <div class="col-lg-5 mb-4">
         <div class="card">
             <div class="thumb-container">
