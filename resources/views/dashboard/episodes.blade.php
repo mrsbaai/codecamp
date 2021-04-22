@@ -1,10 +1,11 @@
 @extends('layouts.dashboard')
+@include('sections.episodes')
 
 @section('content')
-            <h1>Hello</h1>
+@yield('episodes')
 @endsection
 
 
 @section('title')
-Home
+Episodes
 @endsection
