@@ -52,7 +52,7 @@
             <ul class="list-unstyled components">
                 
                 <li class="active">
-                    <a href="#learnSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Learn</a>
+                    <a href="#learnSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Learning</a>
                     <ul class="collapse list-unstyled" id="learnSubmenu">
                         <li>
                             <a href="{{ route('UserEpisodes') }}">Episodes</a>
@@ -64,7 +64,7 @@
                 </li>
 
                 <li>
-                    <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Work / Hire / Partners</a>
+                    <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Working</a>
                     <ul class="collapse list-unstyled" id="jobSubmenu">
                         <li>
                             <a href="{{ route('portfolio') }}">Edit portfolio</a>
@@ -76,7 +76,7 @@
                 </li>
 
                 <li>
-                    <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
+                    <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking</a>
                     <ul class="collapse list-unstyled" id="coworkingSubmenu">
                         <li>
                             <a href="{{ route('UserCoworking') }}">What is coworking?</a>
@@ -104,6 +104,59 @@
                 <li>
                     <a href="{{ route('support') }}">Support</a>
                 </li>
+                <!-- if admin  -->
+
+                <li>
+                    <a href="#learnSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Postes</a>
+                    <ul class="collapse list-unstyled" id="learnSubmenu">
+                        <li>
+                            <a href="admin_episode">Episodes</a>
+                        </li>
+                        <li>
+                            <a href="admin_news">News</a>
+                        </li>
+                        <li>
+                            <a href="admin_events">Events</a>
+                        </li>
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking space</a>
+                    <ul class="collapse list-unstyled" id="coworkingSubmenu">
+                        
+                        <li>
+                            <a href="coworkers">Coworkers</a>
+                        </li>
+                        <li>
+                            <a href="coworking_requests">Requests</a>
+                        </li>
+                        <li>
+                            <a href="archive">Archive</a>
+                        </li>
+                        
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="#eventsSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Events</a>
+                    <ul class="collapse list-unstyled" id="eventsSubmenu">
+                        
+                        <li>
+                            <a href="events_requests">Requests</a>
+                        </li>
+                        <li>
+                            <a href="events_subscribe">Subscribers</a>
+                        </li>
+                        
+                    </ul>
+                </li>
+
+                <li>
+                    <a href="guests">Guests</a>
+                </li>
+
+
 
                 <li>
                     <a href="{{ route('logout') }}"
