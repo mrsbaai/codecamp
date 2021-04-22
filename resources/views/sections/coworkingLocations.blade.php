@@ -135,7 +135,75 @@
                           <div class="validate"></div>
                      </div>
                      <div class="col-lg-3 form-group">
-                          <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+                      <select class="custom-select" id="city" name="city" placeholder="I currently live in:" data-rule="minlen:2" data-msg="Please select your current city" >                    
+                         <option value="Casablanca">Casablanca</option>
+                         <option value="Fez">Fez</option>
+                         <option value="Tangier">Tangier</option>
+                         <option value="Marrakesh">Marrakesh</option>
+                         <option value="Salé">Salé</option>
+                         <option value="Meknes">Meknes</option>
+                         <option value="Rabat">Rabat</option>
+                         <option value="Oujda">Oujda</option>
+                         <option value="Kenitra">Kenitra</option>
+                         <option value="Agadir">Agadir</option>
+                         <option value="Tetouan">Tetouan</option>
+                         <option value="Temara">Temara</option>
+                         <option value="Safi">Safi</option>
+                         <option value="Mohammedia">Mohammedia</option>
+                         <option value="Khouribga">Khouribga</option>
+                         <option value="El Jadida">El Jadida</option>
+                         <option value="Beni Mellal">Beni Mellal</option>
+                         <option value="Aït Melloul">Aït Melloul</option>
+                         <option value="Nador">Nador</option>
+                         <option value="Dar Bouazza">Dar Bouazza</option>
+                         <option value="Taza">Taza</option>
+                         <option value="Settat">Settat</option>
+                         <option value="Berrechid">Berrechid</option>
+                         <option value="Khemisset">Khemisset</option>
+                         <option value="Inezgane">Inezgane</option>
+                         <option value="Ksar El Kebir">Ksar El Kebir</option>
+                         <option value="Larache">Larache</option>
+                         <option value="Guelmim">Guelmim</option>
+                         <option value="Khenifra">Khenifra</option>
+                         <option value="Berkane">Berkane</option>
+                         <option value="Taourirt">Taourirt</option>
+                         <option value="Bouskoura">Bouskoura</option>
+                         <option value="Fquih Ben Salah">Fquih Ben Salah</option>
+                         <option value="Dcheira El Jihadia">Dcheira El Jihadia</option>
+                         <option value="Oued Zem">Oued Zem</option>
+                         <option value="El Kelaa Des Sraghna">El Kelaa Des Sraghna</option>
+                         <option value="Sidi Slimane">Sidi Slimane</option>
+                         <option value="Errachidia">Errachidia</option>
+                         <option value="Guercif">Guercif</option>
+                         <option value="Oulad Teima">Oulad Teima</option>
+                         <option value="Ben Guerir">Ben Guerir</option>
+                         <option value="Tifelt">Tifelt</option>
+                         <option value="Lqliaa">Lqliaa</option>
+                         <option value="Taroudant">Taroudant</option>
+                         <option value="Sefrou">Sefrou</option>
+                         <option value="Essaouira">Essaouira</option>
+                         <option value="Fnideq">Fnideq</option>
+                         <option value="Sidi Kacem">Sidi Kacem</option>
+                         <option value="Tiznit">Tiznit</option>
+                         <option value="Tan-Tan">Tan-Tan</option>
+                         <option value="Ouarzazate">Ouarzazate</option>
+                         <option value="Souk El Arbaa">Souk El Arbaa</option>
+                         <option value="Youssoufia">Youssoufia</option>
+                         <option value="Lahraouyine">Lahraouyine</option>
+                         <option value="Martil">Martil</option>
+                         <option value="Ain Harrouda">Ain Harrouda</option>
+                         <option value="Suq as-Sabt Awlad an-Nama">Suq as-Sabt Awlad an-Nama</option>
+                         <option value="Skhirat">Skhirat</option>
+                         <option value="Ouazzane">Ouazzane</option>
+                         <option value="Benslimane">Benslimane</option>
+                         <option value="Al Hoceima">Al Hoceima</option>
+                         <option value="Beni Ansar">Beni Ansar</option>
+                         <option value="M'diq">M"diq</option>
+                         <option value="Sidi Bennour">Sidi Bennour</option>
+                         <option value="Midelt">Midelt</option>
+                         <option value="Azrou">Azrou</option>
+                        
+                  </select>
                           <div class="validate"></div>
                      </div>
                      <div class="col-lg-3 form-group">
