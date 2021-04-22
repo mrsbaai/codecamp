@@ -83,7 +83,7 @@
                         <div class="form-group row mb-3">
                             <div class="col-md-12">
                                 <select class="custom-select" id="city" name="city" data-rule="required" required="required" data-msg="Please select your current city" >                    
-                                    <option value="" disabled>I currently live in:</option>
+                                    <option>I currently live in:</option>
                                     <option value="Casablanca">Casablanca</option>
                                      <option value="Fez">Fez</option>
                                      <option value="Tangier">Tangier</option>
