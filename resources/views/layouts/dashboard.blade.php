@@ -94,7 +94,7 @@
                 </li>
 
                 <li>
-                    <a href="{{ route('Settings') }}">Settings</a>
+                    <a href="{{ route('UserSettings') }}">Settings</a>
                 </li>
 
                 <li>

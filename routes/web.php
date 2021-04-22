@@ -51,7 +51,7 @@ Route::get('/home/portfolio', 'HomeController@ShowPortfolio')->name('portfolio')
 Route::get('/home/coworking', 'HomeController@ShowUserCoworking')->name('UserCoworking');
 Route::get('/home/coworking/register', 'HomeController@ShowRegisterCoworking')->name('RegisterCoworking');
 Route::get('/home/coworkers', 'HomeController@ShowCoworkers')->name('coworkers');
-Route::get('/home/settings', 'HomeController@ShowSettings')->name('settings');
+Route::get('/home/settings', 'HomeController@ShowSettings')->name('UserSettings');
 Route::get('/home/news', 'HomeController@ShowUserNews')->name('UserNews');
 Route::get('/home/support', 'HomeController@ShowSupport')->name('support');
 
