@@ -17,16 +17,16 @@
                     <div class="mt-3">
                         <div class="form-row">
                             <div class="col-lg-3 form-group">
-                                 <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+                                 <input type="text" name="name" class="form-control" id="name" placeholder="Name (ex Youssef)" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
                                  <div class="validate"></div>
                              </div>
                              <div class="col-lg-3 form-group">
-                                  <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone Number" data-rule="minlen:8" data-msg="Please enter your realphone number" />
+                                  <input type="text" name="phone" class="form-control" id="phone" placeholder="Phone Number (ex 06xxxxxxxx)" data-rule="minlen:8" data-msg="Please enter your realphone number" />
                                   <div class="validate"></div>
                              </div>
                              <div class="col-lg-3 form-group">
                                 <select class="custom-select" id="city" name="city" data-rule="required" required="required" data-msg="Please select your current city" >                    
-                                    <option>I currently live in:</option>
+                                    <option>I Currently Live In:</option>
                                     <option value="Casablanca">Casablanca</option>
                                      <option value="Fez">Fez</option>
                                      <option value="Tangier">Tangier</option>

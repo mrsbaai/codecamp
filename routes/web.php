@@ -47,7 +47,7 @@ Route::get('/home/cameras', 'HomeController@ShowCam')->name('cameras');
 Route::get('/home/episodes', 'HomeController@ShowUserEpisodes')->name('UserEpisodes');
 Route::get('/home/messages', 'HomeController@ShowMessages')->name('messages');
 Route::get('/home/events', 'HomeController@ShowUserEvents')->name('UserEvents');
-Route::get('/home/porfolio', 'HomeController@ShowPorfolio')->name('porfolio');
+Route::get('/home/portfolio', 'HomeController@ShowPortfolio')->name('portfolio');
 Route::get('/home/coworking', 'HomeController@ShowUserCoworking')->name('UserCoworking');
 Route::get('/home/coworking/register', 'HomeController@ShowRegisterCoworking')->name('RegisterCoworking');
 Route::get('/home/coworkers', 'HomeController@ShowCoworkers')->name('coworkers');

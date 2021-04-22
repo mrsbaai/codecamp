@@ -43,8 +43,8 @@ class HomeController extends Controller
         return view('dashboard.events');
     }
 
-    public function ShowPorfolio(){
-        return view('dashboard.porfolio');
+    public function ShowPortfolio(){
+        return view('dashboard.portfolio');
     }
 
     public function ShowUserCoworking(){
