@@ -13,28 +13,16 @@
 
                     <div class="form-group row mb-4 pt-4">
                         <div class="col-12">
-                            <label class="font-weight-bold">I'm interested in:</label><br/>
-                            <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="is_hiring" value="is_hiring">
-                                <label class="form-check-label font-weight-bold" for="is_hiring">Hiring</label>
+                            <div class="button-group">
+                                <button type="button" class="custom-select custom-select-lg text-left" data-toggle="dropdown">I'm interested in</button>
+                                <ul class="dropdown-menu p-2">
+                                    <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
+                                    <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
+                                    <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
+                                    <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
+                                    <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
+                                </ul>
                               </div>
-                              <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="is_getting_hired" value="is_getting_hired">
-                                <label class="form-check-label font-weight-bold" for="is_getting_hired">Getting Hired</label>
-                              </div>
-                              <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="is_finding" value="is_finding partners">
-                                <label class="form-check-label font-weight-bold" for="is_finding">Finding partners</label>
-                              </div>
-                              <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="is_coworking" value="is_coworking">
-                                <label class="form-check-label font-weight-bold" for="is_coworking">Coworking</label>
-                              </div>
-                              <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="is_learning" value="is_learning">
-                                <label class="form-check-label font-weight-bold" for="is_learning">Learning</label>
-                              </div>
-
                        </div>
                     </div>
 
