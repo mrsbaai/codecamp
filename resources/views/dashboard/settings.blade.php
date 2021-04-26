@@ -164,10 +164,8 @@
           </div>
      </div>
   </div>
-</div>
 
-<div class="container">
-    <div class=" row h-100 justify-content-center align-items-center" role="centred-form">
+    <div class=" row ustify-content-center pt-4" role="centred-form">
          <div class="col-md-8 m-5">
              <div class="card">
                  <div class="card-header">Change Password</div>
