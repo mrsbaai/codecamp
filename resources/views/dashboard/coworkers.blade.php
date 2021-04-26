@@ -6,6 +6,8 @@
    .thumb-icon {
      color: #CACACA;
      font-size: 60px;
+     top: 90%;
+      left: 90%;
 
    }
 
@@ -33,7 +35,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -60,7 +62,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -87,7 +89,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -114,7 +116,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -141,7 +143,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -168,7 +170,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -195,7 +197,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -222,7 +224,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -249,7 +251,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -276,7 +278,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -303,7 +305,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -330,7 +332,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -357,7 +359,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -384,7 +386,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -411,7 +413,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -438,7 +440,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -465,7 +467,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -492,7 +494,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -519,7 +521,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
@@ -546,7 +548,7 @@
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
-                  <i class="fas fa-external-link-alt"></i>
+                  <i class="fas fa-link"></i>
                   </a>
                   </div>
                </div>
