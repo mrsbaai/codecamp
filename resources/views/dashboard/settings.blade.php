@@ -41,7 +41,10 @@
 
                     <div class="form-group row ">
                         <div class="col-md-6 my-1">
-                            <input id="first_name" type="text" placeholder="{{ __('First Name') }}" class="form-control @error('name') is-invalid @enderror" name="first_name" value="{{ old('first_name') }}" required autocomplete="first_name" autofocus>
+                            <div class="input-group-prepend">
+                                <div class="input-group-text">{{ __('First Name') }}</div>
+                              </div>
+                            <input id="first_name" type="text" class="form-control @error('name') is-invalid @enderror" name="first_name" value="{{ old('first_name') }}" required autocomplete="first_name" autofocus>
 
                             @error('name')
                                 <span class="invalid-feedback" role="alert">
@@ -50,7 +53,10 @@
                             @enderror
                         </div>
                          <div class="col-md-6 my-1">
-                            <input id="last_name" type="text" placeholder="{{ __('Last Name') }}" class="form-control @error('name') is-invalid @enderror" name="last_name" value="{{ old('last_name') }}" required autocomplete="last_name" autofocus>
+                            <div class="input-group-prepend">
+                                <div class="input-group-text">{{ __('Last Name') }}</div>
+                              </div>
+                            <input id="last_name" type="text"  class="form-control @error('name') is-invalid @enderror" name="last_name" value="{{ old('last_name') }}" required autocomplete="last_name" autofocus>
 
                             @error('name')
                                 <span class="invalid-feedback" role="alert">
@@ -62,8 +68,10 @@
 
                     <div class="form-group row ">
                         <div class="col-md-6 my-1 ">
-                            <input id="email" type="email" placeholder="{{ __('Email') }}" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ Auth::user()->email }}" required autocomplete="email">
-
+                            <div class="input-group-prepend">
+                                <div class="input-group-text">{{ __('Email') }}</div>
+                              </div>
+                            
                             @error('email')
                                 <span class="invalid-feedback" role="alert">
                                     <strong>{{ $message }}</strong>
@@ -71,7 +79,11 @@
                             @enderror
                         </div>
                         <div class="col-md-6 my-1">
-                            <input id="phone" type="tel" placeholder="{{ __('Phone') }}" class="form-control @error('') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required autocomplete="phone" autofocus>
+                            <div class="input-group-prepend">
+                                <div class="input-group-text">{{ __('Phone') }}</div>
+                              </div>
+                            
+                            <input id="phone" type="tel" class="form-control @error('') is-invalid @enderror" name="phone" value="{{ old('phone') }}" required autocomplete="phone" autofocus>
 
                             @error('name')
                                 <span class="invalid-feedback" role="alert">
@@ -83,8 +95,10 @@
 
                     <div class="form-group row mb-3">
                         <div class="col-md-12">
+                            <div class="input-group-prepend">
+                                <div class="input-group-text">{{ __('I currently live in') }}:</div>
+                              </div>
                             <select class="custom-select" id="city" name="city" data-rule="required" required="required" data-msg="Please select your current city" >                    
-                                <option>I currently live in:</option>
                                 <option value="Casablanca">Casablanca</option>
                                  <option value="Fez">Fez</option>
                                  <option value="Tangier">Tangier</option>
