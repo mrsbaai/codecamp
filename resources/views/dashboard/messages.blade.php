@@ -6,37 +6,35 @@
         <div class="col-lg-12">
         <div class="card">
              <div class="card-header ">
-                Messages from portfolio page
+                Inbound Messages <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
              </div>
-             <div class="card-body">
+             <div class="card-body p-0">
              <table class="table table-striped">
                <thead>
                     <tr>
-                       <th scope="col-lg-2">Name</th>
-                       <th scope="col-lg-2">Email</th>
-                       <th scope="col-lg-6">Message</th>
-                       <th scope="col-lg-6">Action</th>
+                       <th class="col-lg-2">From</th>
+                       <th class="col-lg-2">Subject</th>
+                       <th class="col-lg-6"></th>
                    </tr>
                </thead>
                <tbody>
                     <tr>
                        <td>Mark</td>
-                       <td>Otto@gmail.com</td>
-                       <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Hello Ikram...</a></td>
-                       <td><a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete</a></td> 
+ 
+                       <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">This is a test subject to test</a></td>
+                       <td>
+                           <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete</a>
+                        </td> 
                      </tr>
-                     <tr>
-                       <td>Jacob</td>
-                       <td>Thornton@gmail.com</td>
-                       <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Hello Ikram...</a></td>
-                       <td><a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete</a></td> 
-                     </tr>
+ 
                </tbody>
            </table>
            </div>
         </div>
         </div>
     </div>
+
+
     <div class="modal fade bd-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-lg modal-dialog-centered">
             <div class="modal-content">
