@@ -71,7 +71,7 @@
                         </div>
                     </div>
 
-                    <div class="form-group row ">
+                    <div class="form-group row">
                         <div class="col-lg-6 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
