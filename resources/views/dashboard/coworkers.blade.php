@@ -6,6 +6,18 @@
    .thumb-icon {
      color: #CACACA;
    }
+
+   .user-image {
+      object-fit: cover;
+   }
+
+   .thumb-container {
+      position: relative;
+      width: 100%;
+      padding-top: 100%; /* 1:1 Aspect Ratio */
+   }
+
+
  </style>
 
 <div class="container">
@@ -13,10 +25,10 @@
         <div class="col-lg-3 mb-3">
          <div class="card">
             <div class="thumb-container">
-            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
             <div class="thumb-overlay">
                <a href="/link" class="thumb-icon" title="Abdelilah: Full stack developer">
-                 <i class="fas fa-link"></i>
+                 <i class="fas fa-external-link-alt"></i>
                </a>
                </div>
             </div>
