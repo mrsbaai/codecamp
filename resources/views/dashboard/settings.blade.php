@@ -13,19 +13,31 @@
 
                     <div class="form-group row ">
                         <div class="col-md-12">
-                           <div class="button-group">
-                              <button type="button" class="custom-select text-left" data-toggle="dropdown">I'm interested in</button>
-                              <ul class="dropdown-menu p-2">
-                                  <li><input type="checkbox"  value="hiring" name="interest"/>&nbsp;Hiring</li>
-                                  <li><input type="checkbox" value="paid" name="interest"/>&nbsp;Getting paid for work</a></li>
-                                  <li><input type="checkbox" value="partner" name="interest"/>&nbsp;Partnering</li>
-                                  <li><input type="checkbox" value="coworking" name="interest"/>&nbsp;Coworking</li>
-                                  <li><input type="checkbox" value="learning" name="interest"/>&nbsp;Online learning</li>
-                                  <li><input type="checkbox" value="events" name="interest"/>&nbsp;Live events</li>
-                              </ul>
-                            </div>
-                        </div>
+                            <label for="exampleInputEmail1">I'm interested in:</label>
+                            <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
+                                <label class="form-check-label" for="inlineCheckbox1">Hiring</label>
+                              </div>
+                              <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                                <label class="form-check-label" for="inlineCheckbox2">Getting Hired</label>
+                              </div>
+                              <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                                <label class="form-check-label" for="inlineCheckbox2">Finding partners</label>
+                              </div>
+                              <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                                <label class="form-check-label" for="inlineCheckbox2">Coworking</label>
+                              </div>
+                              <div class="form-check form-check-inline">
+                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
+                                <label class="form-check-label" for="inlineCheckbox2">Learning</label>
+                              </div>
+
+                       </div>
                     </div>
+
 
                     <div class="form-group row ">
                         <div class="col-md-6 my-1">
@@ -165,7 +177,7 @@
      </div>
   </div>
 
-    <div class=" row ustify-content-center pt-4" role="centred-form">
+    <div class="row h-100 justify-content-center align-items-center pt-4" role="centred-form">
          <div class="col-md-8 m-5">
              <div class="card">
                  <div class="card-header">Change Password</div>
