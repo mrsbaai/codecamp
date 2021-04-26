@@ -192,8 +192,8 @@
      </div>
   </div>
 
-    <div class="row h-100 justify-content-center align-items-center pt-4" role="centred-form">
-         <div class="col-md-8 m-5">
+    <div class="row justify-content-center align-items-center pt-4" role="centred-form">
+         <div class="col-lg-8 m-5">
              <div class="card">
                  <div class="card-header">Change Password</div>
                  <div class="card-body">
