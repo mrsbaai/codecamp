@@ -12,6 +12,23 @@
                     @csrf
 
                     <div class="form-group row">
+                        <div class="col-lg-6 my-1">
+                            <div class="input-group mb-3">
+    
+                                    <button type="button" class="custom-select text-left" data-toggle="dropdown">{{ __('I\'m interested in') }}:</button>
+                                    <ul class="dropdown-menu p-2">
+                                        <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
+                                        <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
+                                        <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
+                                        <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
+                                        <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
+                                    </ul>
+
+                                  
+
+                              </div>
+
+                        </div>
                         <div class="col-lg-6 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
@@ -95,23 +112,7 @@
                                 </span>
                             @enderror
                         </div>
-                        <div class="col-lg-6 my-1">
-                            <div class="input-group mb-3">
-    
-                                    <button type="button" class="custom-select text-left" data-toggle="dropdown">{{ __('I\'m interested in') }}:</button>
-                                    <ul class="dropdown-menu p-2">
-                                        <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
-                                        <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
-                                        <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
-                                        <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
-                                        <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
-                                    </ul>
 
-                                  
-
-                              </div>
-
-                        </div>
                     </div>
 
 
@@ -196,8 +197,9 @@
      </div>
   </div>
 
-    <div class="row justify-content-center align-items-center pt-4" role="centred-form">
-         <div class="col-lg-8">
+  <div class="container">
+    <div class="row justify-content-center">
+       <div class="col-lg-8 m-3">
              <div class="card">
                  <div class="card-header">Change Password</div>
                  <div class="card-body">
@@ -250,6 +252,7 @@
              </div>
          </div>
      </div>
+  </div>
  </div>
 @endsection
 
