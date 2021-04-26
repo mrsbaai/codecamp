@@ -7,13 +7,18 @@
      color: #CACACA;
    }
  </style>
- 
+
 <div class="container">
  <div class="row ">
         <div class="col-lg-3 mb-3">
          <div class="card">
             <div class="thumb-container">
             <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="thumb-overlay">
+               <a href="/link" class="thumb-icon" title="Abdelilah: Full stack developer">
+                 <i class="fas fa-link"></i>
+               </a>
+               </div>
             </div>
             <div class="card-body">
                     <h5 class="card-title">Abdelilah</h5>
