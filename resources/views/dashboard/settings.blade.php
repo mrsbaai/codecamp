@@ -15,7 +15,7 @@
                         <div class="col-lg-6 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
-                                  <span class="input-group-text">{{ __('I currently live in') }}:</span>
+                                  <span class="input-group-text">{{ __('I live in') }}:</span>
                                 </div>
                                 <select class="custom-select" id="city" name="city" data-rule="required" required data-msg="Please select your current city" >                    
                                     <option value="Casablanca">Casablanca</option>
