@@ -11,7 +11,7 @@
                 <form method="POST" action="">
                     @csrf
 
-                    <div class="form-group row mb-4">
+                    <div class="form-group row mb-4 pt-4">
                         <div class="col-12">
                             <label class="font-weight-bold">I'm interested in:</label><br/>
                             <div class="form-check form-check-inline">
@@ -215,7 +215,7 @@
                              <p class="text-danger">{{ $error }}</p>
                           @endforeach 
                  
-                          <div class="form-group row mb-3">
+                          <div class="form-group row mb-3 pt-4">
                             <div class="col-12">
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
@@ -234,7 +234,7 @@
                                 </div>
                             </div>
                           </div>
-                          
+
                           <div class="form-group row mb-3">
                               <div class="col-12">
                                 <div class="input-group mb-3">
@@ -246,13 +246,13 @@
                           </div>
 
 
-                         <div class="form-group row m-0">
-                             <div class="col-md-8 offset-md-4 text-right">
-                                 <button type="submit" class="btn btn-dark">
-                                     Update
-                                 </button>
-                             </div>
-                         </div>
+                          <div class="form-group row mb-0">
+                            <div class="col-md-12 text-right">
+                                <button type="submit" class="btn btn-dark">
+                                    {{ __('Update') }}
+                                </button>
+                            </div>
+                        </div>
                      </form>
                  </div>
              </div>
