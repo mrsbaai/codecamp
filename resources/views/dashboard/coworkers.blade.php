@@ -9,12 +9,15 @@
 
    .user-image {
       object-fit: cover;
+      position: absolute;
+      top: 0;
+      height: 100%;
    }
 
    .thumb-container {
       position: relative;
       width: 100%;
-      padding-top: 50%; /* 1:1 Aspect Ratio */
+      padding-top: 100%;
    }
 
 
