@@ -6,15 +6,18 @@
         <div class="col-lg-12">
         <div class="card">
              <div class="card-header ">
-                Inbound Messages <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
+                Inbound Messages 
+                <div class="form-group col-md-4 offset-md-8 text-right">
+                <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
+                </div>
              </div>
              <div class="card-body p-0">
              <table class="table table-striped">
                <thead>
                     <tr>
-                       <th class="col-lg-2">From</th>
-                       <th class="col-lg-2">Subject</th>
-                       <th class="col-lg-6"></th>
+                       <th class="col-lg-4">From</th>
+                       <th class="col-lg-6">Subject</th>
+                       <th class="col-lg-2"></th>
                    </tr>
                </thead>
                <tbody>
@@ -23,7 +26,11 @@
  
                        <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">This is a test subject to test</a></td>
                        <td>
-                           <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete</a>
+                        <div class="form-group col-md-4 offset-md-8 text-right">
+                            <a href="#"><i class="fas fa-trash-alt"></i></a>
+                        </div>
+                        
+                           
                         </td> 
                      </tr>
  
