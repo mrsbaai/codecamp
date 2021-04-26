@@ -100,15 +100,18 @@
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('I\'m interested in') }}:</span>
                                 </div>
+                                <div class="input-group-append">
+                                    <button type="button" class="custom-select text-left" data-toggle="dropdown">Please select</button>
+                                    <ul class="dropdown-menu p-2">
+                                        <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
+                                        <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
+                                        <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
+                                        <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
+                                        <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
+                                    </ul>
+                                </div>
                                   
-                                <button type="button" class="custom-select text-left" data-toggle="dropdown">Please select</button>
-                                <ul class="dropdown-menu p-2">
-                                    <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
-                                    <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
-                                    <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
-                                    <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
-                                    <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
-                                </ul>
+
                               </div>
 
                         </div>
