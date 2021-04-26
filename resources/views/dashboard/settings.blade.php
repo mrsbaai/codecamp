@@ -41,11 +41,15 @@
 
                     <div class="form-group row ">
                         <div class="col-md-6 my-1">
-                            <div for="first_name" class="input-group-text">
-                                <div for="first_name" class="input-group-text">{{ __('First Name') }}</div>
-                              </div>
-                            <input id="first_name" type="text" class="form-control @error('name') is-invalid @enderror" name="first_name" value="{{ old('first_name') }}" required autocomplete="first_name" autofocus>
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text" id="basic-addon1">{{ __('First Name') }}</span>
+                                </div>
+                                <input id="first_name" type="text" class="form-control @error('name') is-invalid @enderror" name="first_name" value="{{ old('first_name') }}" required autocomplete="first_name" autofocus>
+                            </div>
+                              
 
+                           
                             @error('first_name')
                                 <span class="invalid-feedback" role="alert">
                                     <strong>{{ $message }}</strong>
