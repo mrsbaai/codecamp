@@ -12,7 +12,7 @@
                     @csrf
 
                     <div class="form-group row ">
-                        <div class="col-md-12">
+                        <div class="col-12">
                             <label class="font-weight-bold">I'm interested in:</label><br/>
                             <div class="form-check form-check-inline">
                                 <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
@@ -40,7 +40,7 @@
 
 
                     <div class="form-group row ">
-                        <div class="col-md-6 my-1">
+                        <div class="col-lg-6 my-1">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('First Name') }}</span>
@@ -54,7 +54,7 @@
                                 </span>
                             @enderror
                         </div>
-                         <div class="col-md-6 my-1">
+                         <div class="col-lg-6 my-1">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('Last Name') }}</span>
@@ -72,7 +72,7 @@
                     </div>
 
                     <div class="form-group row ">
-                        <div class="col-md-6 my-1 ">
+                        <div class="col-lg-6 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('Email') }}</span>
@@ -86,7 +86,7 @@
                                 </span>
                             @enderror
                         </div>
-                        <div class="col-md-6 my-1">
+                        <div class="col-lg-6 my-1">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('Phone') }}</span>
@@ -104,7 +104,7 @@
                     </div>
 
                     <div class="form-group row mb-3">
-                        <div class="col-md-12">
+                        <div class="col-12">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('I currently live in') }}:</span>
@@ -225,7 +225,7 @@
                         </div>
                          <div class="form-group row">
                     
-                                <div class="input-group mb-3">
+                                <div class="input-group m-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('New Password') }}</span>
                                     </div><input id="new_password" type="password" class="form-control" name="new_password">
@@ -235,7 +235,7 @@
 
                          <div class="form-group row">
               
-                                <div class="input-group mb-3">
+                                <div class="input-group m-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('Confirm Password') }}</span>
                                     </div><input id="confirm_password" type="password" class="form-control" name="confirm_password">
@@ -245,7 +245,7 @@
 
 
 
-                         <div class="form-group row mb-0">
+                         <div class="form-group row m-0">
                              <div class="col-md-8 offset-md-4 text-right">
                                  <button type="submit" class="btn btn-dark">
                                      Update
