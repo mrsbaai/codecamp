@@ -20,24 +20,58 @@
                <tbody>
                     <tr>
                        <td>Mark Zuckerberg</td>
- 
                        <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Feeling motivated to start!</a></td>
                        <td>
                         <div class="form-group col-md-4 offset-md-8 text-right">
                             <a href="#"><i class="fas fa-trash-alt"></i></a>
-                        </div>
-                        
-                           
+                        </div>     
                         </td> 
                      </tr>
- 
+                     <tr>
+                        <td>Mark Zuckerberg</td>
+                        <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Feeling motivated to start!</a></td>
+                        <td>
+                         <div class="form-group col-md-4 offset-md-8 text-right">
+                             <a href="#"><i class="fas fa-trash-alt"></i></a>
+                         </div>     
+                         </td> 
+                      </tr>
+                      <tr>
+                        <td>Mark Zuckerberg</td>
+                        <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Feeling motivated to start!</a></td>
+                        <td>
+                         <div class="form-group col-md-4 offset-md-8 text-right">
+                             <a href="#"><i class="fas fa-trash-alt"></i></a>
+                         </div>     
+                         </td> 
+                      </tr>
+                      <tr>
+                        <td>Mark Zuckerberg</td>
+                        <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Feeling motivated to start!</a></td>
+                        <td>
+                         <div class="form-group col-md-4 offset-md-8 text-right">
+                             <a href="#"><i class="fas fa-trash-alt"></i></a>
+                         </div>     
+                         </td> 
+                      </tr>
+                      <tr>
+                        <td>Mark Zuckerberg</td>
+                        <td><a href="#" data-toggle="modal" data-target=".bd-example-modal-lg">Feeling motivated to start!</a></td>
+                        <td>
+                         <div class="form-group col-md-4 offset-md-8 text-right">
+                             <a href="#"><i class="fas fa-trash-alt"></i></a>
+                         </div>     
+                         </td> 
+                      </tr>
                </tbody>
            </table>
-           <div class="form-group pt-5 text-center">
-            <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
-            </div>
-           </div>
+
         </div>
+        </div>
+    </div>
+
+    <div class="form-group pt-5 text-center">
+        <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
         </div>
     </div>
 
