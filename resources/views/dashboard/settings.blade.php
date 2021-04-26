@@ -219,8 +219,7 @@
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('Current Password') }}</span>
-                                    <input id="password" type="password" class="form-control" name="current_password">
-                                    </div>
+                                    </div><input id="password" type="password" class="form-control" name="current_password">
                                 </div>
                             </div>
                         </div>
@@ -229,8 +228,7 @@
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('New Password') }}</span>
-                                    <input id="new_password" type="password" class="form-control" name="new_password">
-                                    </div>
+                                    </div><input id="new_password" type="password" class="form-control" name="new_password">
                                 </div>
                             </div>
                          </div>
@@ -240,8 +238,7 @@
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('Confirm Password') }}</span>
-                                    <input id="confirm_password" type="password" class="form-control" name="confirm_password">
-                                    </div>
+                                    </div><input id="confirm_password" type="password" class="form-control" name="confirm_password">
                                 </div>
                             </div>
                          </div>
