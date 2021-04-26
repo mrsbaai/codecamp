@@ -13,7 +13,7 @@
 
                     <div class="form-group row mb-4 pt-3">
                         <div class="col-12">
-                            <div class="button-group">
+                            <div class="button-group  mb-3">
                                 <button type="button" class="custom-select text-left" data-toggle="dropdown">I'm Interested in:</button>
                                 <ul class="dropdown-menu p-2">
                                     <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
@@ -192,7 +192,7 @@
      </div>
   </div>
 
-    <div class="row h-100 justify-content-center align-items-center pt-" role="centred-form">
+    <div class="row h-100 justify-content-center align-items-center pt-4" role="centred-form">
          <div class="col-md-8 m-5">
              <div class="card">
                  <div class="card-header">Change Password</div>
