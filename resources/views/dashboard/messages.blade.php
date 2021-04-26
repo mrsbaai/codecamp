@@ -7,9 +7,6 @@
         <div class="card">
              <div class="card-header ">
                 Inbound Messages 
-                <div class="form-group col-md-4 offset-md-8 text-right">
-                <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
-                </div>
              </div>
              <div class="card-body p-0">
              <table class="table table-striped">
@@ -36,6 +33,9 @@
  
                </tbody>
            </table>
+           <div class="form-group pt-5 text-center">
+            <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
+            </div>
            </div>
         </div>
         </div>
