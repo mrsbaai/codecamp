@@ -15,7 +15,7 @@
                         <div class="col-lg-6 my-1">
                             <div class="input-group mb-3">
     
-                                    <button type="button" class="custom-select text-left rounded-right" data-toggle="dropdown">{{ __('My interests') }}:</button>
+                                    <button type="button" class="custom-select text-left rounded-right" data-toggle="dropdown">{{ __('My interests') }}</button>
                                     <ul class="dropdown-menu p-2">
                                         <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
                                         <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>

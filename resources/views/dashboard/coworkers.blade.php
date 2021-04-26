@@ -5,101 +5,152 @@
 <div class="container">
  <div class="row ">
         <div class="col-lg-3 mb-3">
-          <div class="card" >
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
+
         <div class="col-lg-3 mb-3">
-           <div class="card">
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
+
         <div class="col-lg-3 mb-3">
-            <div class="card">
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
+
         <div class="col-lg-3 mb-3">
-          <div class="card">
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
+
         <div class="col-lg-3 mb-3">
-          <div class="card" >
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
+
         <div class="col-lg-3 mb-3">
-          <div class="card" >
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
+
         <div class="col-lg-3 mb-3">
-          <div class="card" >
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
+         <div class="card">
+            <img src="https://i.imgur.com/i4uauqV.jpg" class="card-img-top" alt="Abdelilah: Full stack developer">
+            <div class="card-body">
+                    <h5 class="card-title">Abdelilah</h5>
+              <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
+              <p class="card-text">
+                  <span class="badge badge-warning">PHP</span>
+                  <span class="badge badge-warning">Javascript</span>
+                  <span class="badge badge-warning">Bootsrap</span>
+                  <span class="badge badge-warning">CSS</span>
+                  <span class="badge badge-warning">HTML</span>
+                  <span class="badge badge-warning">NodeJS</span>
+                  <span class="badge badge-warning">Mysql</span>
+                  <span class="badge badge-warning">CPA</span>
+                  <span class="badge badge-warning">Facebook Ads</span>
+              </p>
+            </div>
+          </div>          
         </div>
-        <div class="col-lg-3 mb-3">
-          <div class="card" >
-             <div class="card-body text-center">
-                 <img src="https://bootdey.com/img/Content/avatar/avatar3.png" style="width:100px;" alt="User" class="img-fluid img-thumbnail rounded-circle border-0 mb-3">
-                 <h5 class="card-title">John Doe</h5>
-                 <p class="text-secondary mb-1">Full Stack Developer</p>
-              </div>
-              <div class="card-footer text-center ">
-                 <a href="#"type="button">View portfolio</a>
-              </div>
-          </div>
-        </div>
+        
   </div>
   
 </div>
