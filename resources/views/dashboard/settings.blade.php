@@ -96,12 +96,12 @@
                             @enderror
                         </div>
                         <div class="col-lg-6 my-1">
-                            <div class="button-group  mb-3">
+                            <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('I\'m interested in') }}:</span>
-                                  </div>
+                                </div>
                                   
-                                <button type="button" class="custom-select text-left" data-toggle="dropdown" required data-msg="Please select your interests">Please select</button>
+                                <button type="button" class="custom-select text-left" data-toggle="dropdown">Please select</button>
                                 <ul class="dropdown-menu p-2">
                                     <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
                                     <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
@@ -110,6 +110,7 @@
                                     <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
                                 </ul>
                               </div>
+
                         </div>
                     </div>
 
