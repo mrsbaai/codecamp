@@ -11,92 +11,13 @@
                 <form method="POST" action="">
                     @csrf
 
-                    <div class="form-group row mb-4 pt-3">
-                        <div class="col-12">
-                            <div class="button-group  mb-3">
-                                <button type="button" class="custom-select text-left" data-toggle="dropdown">I'm Interested in:</button>
-                                <ul class="dropdown-menu p-2">
-                                    <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
-                                    <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
-                                    <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
-                                    <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
-                                    <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
-                                </ul>
-                              </div>
-                       </div>
-                    </div>
-
-
-                    <div class="form-group row ">
-                        <div class="col-lg-6 my-1">
-                            <div class="input-group mb-3">
-                                <div class="input-group-prepend">
-                                  <span class="input-group-text">{{ __('First Name') }}</span>
-                                </div>
-                                <input id="first_name" type="text" class="form-control" name="first_name" required>
-                            </div>
- 
-                            @error('first_name')
-                                <span class="invalid-feedback" role="alert">
-                                    <strong>{{ $message }}</strong>
-                                </span>
-                            @enderror
-                        </div>
-                         <div class="col-lg-6 my-1">
-                            <div class="input-group mb-3">
-                                <div class="input-group-prepend">
-                                  <span class="input-group-text">{{ __('Last Name') }}</span>
-                                </div>  
-                                <input id="last_name" type="text"  class="form-control" name="last_name"  required>
-                            </div>
-                       
-                          
-                            @error('last_name')
-                                <span class="invalid-feedback" role="alert">
-                                    <strong>{{ $message }}</strong>
-                                </span>
-                            @enderror
-                        </div>
-                    </div>
-
                     <div class="form-group row">
                         <div class="col-lg-6 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
-                                  <span class="input-group-text">{{ __('Email') }}</span>
-                                </div>
-                              <input id="email" type="email" class="form-control" name="email" required>
-                            </div>
-
-                            @error('email')
-                                <span class="invalid-feedback" role="alert">
-                                    <strong>{{ $message }}</strong>
-                                </span>
-                            @enderror
-                        </div>
-                        <div class="col-lg-6 my-1">
-                            <div class="input-group mb-3">
-                                <div class="input-group-prepend">
-                                  <span class="input-group-text">{{ __('Phone') }}</span>
-                                </div>
-                                <input id="phone" type="tel" class="form-control" required>
-                            </div>
-
-                            
-                            @error('phone')
-                                <span class="invalid-feedback" role="alert">
-                                    <strong>{{ $message }}</strong>
-                                </span>
-                            @enderror
-                        </div>
-                    </div>
-
-                    <div class="form-group row mb-3">
-                        <div class="col-12">
-                            <div class="input-group mb-3">
-                                <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('I currently live in') }}:</span>
-                                </div><select class="custom-select" id="city" name="city" data-rule="required" required data-msg="Please select your current city" >                    
+                                </div>
+                                <select class="custom-select" id="city" name="city" data-rule="required" required data-msg="Please select your current city" >                    
                                     <option value="Casablanca">Casablanca</option>
                                      <option value="Fez">Fez</option>
                                      <option value="Tangier">Tangier</option>
@@ -174,9 +95,91 @@
                                 </span>
                             @enderror
                         </div>
+                        <div class="col-lg-6 my-1">
+                            <div class="button-group  mb-3">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">{{ __('I\'m interested in') }}:</span>
+                                  </div>
+                                  
+                                <button type="button" class="custom-select text-left" data-toggle="dropdown" required data-msg="Please select your interests">Please select</button>
+                                <ul class="dropdown-menu p-2">
+                                    <li><input type="checkbox" value="interest_hiring" name="interest_hiring" id="interest_hiring"/>&nbsp;Hiring</li>
+                                    <li><input type="checkbox" value="interest_getting_hired" name="interest_getting_hired" id="interest_getting_hired"/>&nbsp;Getting Hired</li>
+                                    <li><input type="checkbox" value="interest_finding_partners" name="interest_finding_partners" id="interest_finding_partners"/>&nbsp;Finding partners</li>
+                                    <li><input type="checkbox" value="interest_coworking" name="interest_coworking" id="interest_coworking"/>&nbsp;Coworking</li>
+                                    <li><input type="checkbox" value="interest_learning" name="interest_learning" id="interest_learning"/>&nbsp;Learning</li>
+                                </ul>
+                              </div>
+                        </div>
                     </div>
 
 
+
+
+
+                    <div class="form-group row ">
+                        <div class="col-lg-6 my-1">
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text">{{ __('First Name') }}</span>
+                                </div>
+                                <input id="first_name" type="text" class="form-control" name="first_name" required>
+                            </div>
+ 
+                            @error('first_name')
+                                <span class="invalid-feedback" role="alert">
+                                    <strong>{{ $message }}</strong>
+                                </span>
+                            @enderror
+                        </div>
+                         <div class="col-lg-6 my-1">
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text">{{ __('Last Name') }}</span>
+                                </div>  
+                                <input id="last_name" type="text"  class="form-control" name="last_name"  required>
+                            </div>
+                       
+                          
+                            @error('last_name')
+                                <span class="invalid-feedback" role="alert">
+                                    <strong>{{ $message }}</strong>
+                                </span>
+                            @enderror
+                        </div>
+                    </div>
+
+                    <div class="form-group row">
+                        <div class="col-lg-6 my-1 ">
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text">{{ __('Email') }}</span>
+                                </div>
+                              <input id="email" type="email" class="form-control" name="email" required>
+                            </div>
+
+                            @error('email')
+                                <span class="invalid-feedback" role="alert">
+                                    <strong>{{ $message }}</strong>
+                                </span>
+                            @enderror
+                        </div>
+                        <div class="col-lg-6 my-1">
+                            <div class="input-group mb-3">
+                                <div class="input-group-prepend">
+                                  <span class="input-group-text">{{ __('Phone') }}</span>
+                                </div>
+                                <input id="phone" type="tel" class="form-control" required>
+                            </div>
+
+                            
+                            @error('phone')
+                                <span class="invalid-feedback" role="alert">
+                                    <strong>{{ $message }}</strong>
+                                </span>
+                            @enderror
+                        </div>
+                    </div>
 
                     <div class="form-group row mb-0">
                         <div class="col-md-12 text-right">
