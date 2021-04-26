@@ -5,9 +5,7 @@
 <style>
    .thumb-icon {
      color: #CACACA;
-     font-size: 60px;
-     top: 90%;
-      left: 90%;
+     opacity: 0;
 
    }
 
