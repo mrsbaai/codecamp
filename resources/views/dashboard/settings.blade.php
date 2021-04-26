@@ -15,24 +15,24 @@
                         <div class="col-12">
                             <label class="font-weight-bold">I'm interested in:</label><br/>
                             <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
-                                <label class="form-check-label" for="inlineCheckbox1">Hiring</label>
+                                <input class="form-check-input" type="checkbox" id="is_hiring" value="is_hiring">
+                                <label class="form-check-label font-weight-bold" for="is_hiring">Hiring</label>
                               </div>
                               <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-                                <label class="form-check-label" for="inlineCheckbox2">Getting Hired</label>
+                                <input class="form-check-input" type="checkbox" id="is_getting_hired" value="is_getting_hired">
+                                <label class="form-check-label font-weight-bold" for="is_getting_hired">Getting Hired</label>
                               </div>
                               <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-                                <label class="form-check-label" for="inlineCheckbox2">Finding partners</label>
+                                <input class="form-check-input" type="checkbox" id="is_finding" value="is_finding partners">
+                                <label class="form-check-label font-weight-bold" for="is_finding">Finding partners</label>
                               </div>
                               <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-                                <label class="form-check-label" for="inlineCheckbox2">Coworking</label>
+                                <input class="form-check-input" type="checkbox" id="is_coworking" value="is_coworking">
+                                <label class="form-check-label font-weight-bold" for="is_coworking">Coworking</label>
                               </div>
                               <div class="form-check form-check-inline">
-                                <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2">
-                                <label class="form-check-label" for="inlineCheckbox2">Learning</label>
+                                <input class="form-check-input" type="checkbox" id="is_learning" value="is_learning">
+                                <label class="form-check-label font-weight-bold" for="is_learning">Learning</label>
                               </div>
 
                        </div>
