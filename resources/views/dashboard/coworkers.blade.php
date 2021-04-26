@@ -30,7 +30,9 @@
         <div class="col-xl-3 col-lg-4 col-md-6 col-sm-12 mb-3">
          <div class="card">
                <div class="thumb-container">
-               <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image" alt="Abdelilah: Full stack developer">
+                  <a href="/link" alt="Abdelilah: Full stack developer">
+                     <img src="https://i.imgur.com/KmeTFmn.jpg" class="card-img-top user-image">
+                  </a>
                <div class="thumb-overlay">
                   <a href="/link" class="thumb-icon">
                   <i class="fas fa-link"></i>
@@ -40,7 +42,7 @@
             <div class="card-body">
                     <h5 class="card-title">Abdelilah</h5>
               <h6 class="card-subtitle mb-2 text-muted">Full stack developer</h6>
-              <a href="/link" alt="Abdelilah: Full stack developer"><small>(click here for more info)</small></a>
+              
               <p class="card-text">
                   <span class="badge badge-warning">PHP</span>
                   <span class="badge badge-warning">Javascript</span>
