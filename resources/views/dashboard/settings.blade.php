@@ -11,7 +11,7 @@
                 <form method="POST" action="">
                     @csrf
 
-                    <div class="form-group row ">
+                    <div class="form-group row mb-4">
                         <div class="col-12">
                             <label class="font-weight-bold">I'm interested in:</label><br/>
                             <div class="form-check form-check-inline">
@@ -214,28 +214,36 @@
                           @foreach ($errors->all() as $error)
                              <p class="text-danger">{{ $error }}</p>
                           @endforeach 
-
-                       
+                 
+                          <div class="form-group row mb-3">
+                            <div class="col-12">
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('Current Password') }}</span>
                                     </div><input id="password" type="password" class="form-control" name="current_password">
                                 </div>
+                            </div>
+                          </div>
 
-
+                          <div class="form-group row mb-3">
+                            <div class="col-12">
                                 <div class="input-group mb-3">                                   
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('New Password') }}</span>
                                     </div><input id="new_password" type="password" class="form-control" name="new_password">
                                 </div>
-
+                            </div>
+                          </div>
+                          
+                          <div class="form-group row mb-3">
+                              <div class="col-12">
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
                                     <span class="input-group-text">{{ __('Confirm Password') }}</span>
                                     </div><input id="confirm_password" type="password" class="form-control" name="confirm_password">
                                 </div>
-
-
+                              </div>
+                          </div>
 
 
                          <div class="form-group row m-0">
