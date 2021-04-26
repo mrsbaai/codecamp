@@ -13,7 +13,7 @@
 
                     <div class="form-group row ">
                         <div class="col-md-12">
-                            <label for="exampleInputEmail1">I'm interested in:</label>
+                            <label class="font-weight-bold">I'm interested in:</label><br/>
                             <div class="form-check form-check-inline">
                                 <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
                                 <label class="form-check-label" for="inlineCheckbox1">Hiring</label>
