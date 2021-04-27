@@ -37,7 +37,7 @@
             </li>Optical Fibre Internet<li>
             </li>Access To Security Cameras<li>
             </li>Free Coffe & Tea<li>
-            </li>Access to all Code Camp Locations<li>
+            </li>Access to All Code Camp Locations<li>
           </ul>
           <button type="button" class="btn btn-lg btn-block btn-outline-primary">Request Keys</button>
         </div>
@@ -56,8 +56,8 @@
             </li>Optical Fibre Internet<li>
             </li>Access To Security Cameras<li>
             </li>Free Coffe & Tea<li>
-            </li>Access to all Code Camp Locations<li>
-            </li>Free Accsess To Learning Events<li>
+            </li>Access to All Code Camp Locations<li>
+            </li>Accsess To All Learning Events<li>
           </ul>
           <button type="button" class="btn btn-lg btn-block btn-primary">Request Keys</button>
         </div>
