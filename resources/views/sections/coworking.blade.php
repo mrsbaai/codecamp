@@ -1,9 +1,9 @@
 @section('coworking')
 
-<div class="container container mb-5">
+<div class="container container pt-4 mb-5">
 
     <div class="row justify-content-center mt-5 mb-5">
-      <div class="col-lg-10"> 
+      <div class="col-12"> 
           <div class="card">
              <div class="embed-responsive embed-responsive-16by9" style="border-top-right-radius: calc(0.25rem - 1px);border-top-left-radius: calc(0.25rem - 1px);">
                  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
