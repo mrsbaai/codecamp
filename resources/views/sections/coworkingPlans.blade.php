@@ -13,10 +13,14 @@
         <div class="card-body">
           <h1 class="card-title pricing-card-title">600dh <small class="text-muted">/ Mo</small></h1>
           <ul class="list-unstyled mt-3 mb-4">
-            <li>10 users included</li>
-            <li>2 GB of storage</li>
-            <li>Email support</li>
-            <li>Help center access</li>
+            </li>Open 24/24 7/7<li>
+            </li>Dedicated Desk<li>
+            </li>Shared Printer<li>
+            </li>Marker Board<li>
+            </li>Optical Fibre Internet<li>
+            </li>Dedicated Desk<li>
+            </li>Security Cameras Access<li>
+            </li>Free Coffe&Tea<li>
           </ul>
           <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
         </div>
@@ -28,10 +32,15 @@
         <div class="card-body">
           <h1 class="card-title pricing-card-title">4800dh <small class="text-muted">/ Yr</small></h1>
           <ul class="list-unstyled mt-3 mb-4">
-            <li>20 users included</li>
-            <li>10 GB of storage</li>
-            <li>Priority email support</li>
-            <li>Help center access</li>
+            </li>Open 24/24 7/7<li>
+            </li>Dedicated Desk<li>
+            </li>Shared Printer<li>
+            </li>Marker Board<li>
+            </li>Optical Fibre Internet<li>
+            </li>Dedicated Desk<li>
+            </li>Security Cameras Access<li>
+            </li>Free Coffe&Tea<li>
+            </li>Free Accsess To Learning Events<li>
           </ul>
           <button type="button" class="btn btn-lg btn-block btn-primary">Get started</button>
         </div>
