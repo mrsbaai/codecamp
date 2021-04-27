@@ -4,6 +4,9 @@
   .thumb-icon {
     color: #CACACA;
   }
+  .link {
+    color: #343a40;
+  }
 </style>
 <div class="container">
 <div class="text-center m-5">
@@ -129,7 +132,7 @@
         <!--Footer-->
         <div class="modal-footer justify-content-center text-center">
           <h6 class="mt-3 mb-3">
-            Google Maps: <a title="Coworking CodeCamp Tetouan Directions" href="https://goo.gl/maps/AHCUk4BKrwS1tJ9VA"><u>https://goo.gl/maps/AHCUk4BKrwS1tJ9VA<</u></a>
+            Google Maps: <a class="link" title="Coworking CodeCamp Tetouan Directions" href="https://goo.gl/maps/AHCUk4BKrwS1tJ9VA"><u>https://goo.gl/maps/AHCUk4BKrwS1tJ9VA</u></a>
           </h6>
          
 
