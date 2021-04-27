@@ -5,6 +5,7 @@
     color: #CACACA;
   }
 </style>
+<div class="container">
 <div class="text-center m-5">
   <h1 class="display-4">CodeCamp Coworking Project</h1>
 </div>
@@ -140,6 +141,6 @@
     </div>
 </div>
 
-
+</div>
 
 @endsection
