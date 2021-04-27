@@ -7,7 +7,7 @@
 
 
     <div class="card-deck mb-3 text-center">
-        <div class="card lg-4 box-shadow">
+        <div class="card xl-4 box-shadow">
             <div class="card-header">
               <h4 class="my-0 font-weight-normal">Trial</h4>
             </div>
@@ -23,7 +23,7 @@
               <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request a trial</button>
             </div>
           </div>
-      <div class="card lg-4 box-shadow">
+      <div class="card xl-4 box-shadow">
         <div class="card-header">
           <h4 class="my-0 font-weight-normal">Monthly</h4>
         </div>
@@ -42,7 +42,7 @@
           <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request Keys</button>
         </div>
       </div>
-      <div class="card lg-4 box-shadow">
+      <div class="card xl-4 box-shadow">
         <div class="card-header">
           <h4 class="my-0 font-weight-normal">Yearly</h4>
         </div>
