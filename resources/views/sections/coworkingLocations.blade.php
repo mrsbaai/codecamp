@@ -7,6 +7,9 @@
   .link {
     color: #343a40;
   }
+  .link:hover {
+    color: #343a40;
+  }
 </style>
 <div class="container">
 <div class="text-center m-5">
