@@ -4,7 +4,7 @@
 @section('content')
 
 
-     <div class="col-xl-6 m-3">
+     <div class="col-xl-8 m-3">
          <div class="card">
             <div class="card-header">{{ __('Personal Info') }}</div>
               <div class="card-body">
@@ -197,7 +197,7 @@
  
 
 
-       <div class="col-xl-6 m-3">
+       <div class="col-xl-4 m-3">
              <div class="card">
                  <div class="card-header">Change Password</div>
                  <div class="card-body">
