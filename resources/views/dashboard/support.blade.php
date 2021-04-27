@@ -8,6 +8,10 @@
        </div>
        <div class="card-body">
           <div class="">
+            
+            <div class="form-row">
+              <p>You have any questions or concerns about CodeCamp? You have a suggestion? Please let us kown.</P>
+            </div>
               <div class="form-row">
                 <div class="col-md-4 form-group">
                   <input type="text" name="name" class="form-control" id="name" placeholder="Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
