@@ -3,16 +3,16 @@
 
 @section('content')
 
-  <div class="row justify-content-center">
-     <div class="col-lg-8 m-3">
+
+     <div class="col-xl-6 m-3">
          <div class="card">
             <div class="card-header">{{ __('Personal Info') }}</div>
               <div class="card-body">
                 <form method="POST" action="">
                     @csrf
 
-                    <div class="form-group row">
-                        <div class="col-lg-6 my-1">
+                    
+                        <div class="col-12 my-1">
                             <div class="input-group mb-3">
     
                                     <button type="button" class="custom-select text-left rounded-right" data-toggle="dropdown">{{ __('My interests') }}</button>
@@ -29,7 +29,7 @@
                               </div>
 
                         </div>
-                        <div class="col-lg-6 my-1 ">
+                        <div class="col-12 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('I live in') }}</span>
@@ -113,14 +113,11 @@
                             @enderror
                         </div>
 
-                    </div>
+      
 
 
 
-
-
-                    <div class="form-group row ">
-                        <div class="col-lg-6 my-1">
+                        <div class="col-12 my-1">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('First Name') }}</span>
@@ -134,7 +131,7 @@
                                 </span>
                             @enderror
                         </div>
-                         <div class="col-lg-6 my-1">
+                         <div class="col-12 my-1">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('Last Name') }}</span>
@@ -149,10 +146,10 @@
                                 </span>
                             @enderror
                         </div>
-                    </div>
+         
 
-                    <div class="form-group row">
-                        <div class="col-lg-6 my-1 ">
+ 
+                        <div class="col-12 my-1 ">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('Email') }}</span>
@@ -166,7 +163,7 @@
                                 </span>
                             @enderror
                         </div>
-                        <div class="col-lg-6 my-1">
+                        <div class="col-12 my-1">
                             <div class="input-group mb-3">
                                 <div class="input-group-prepend">
                                   <span class="input-group-text">{{ __('Phone') }}</span>
@@ -181,7 +178,7 @@
                                 </span>
                             @enderror
                         </div>
-                    </div>
+                   
 
                     <div class="form-group row mb-0">
                         <div class="col-md-12 text-right">
@@ -195,11 +192,10 @@
               
           </div>
      </div>
-  </div>
+ 
 
 
-    <div class="row justify-content-center">
-       <div class="col-lg-8 m-3">
+       <div class="col-xl-6 m-3">
              <div class="card">
                  <div class="card-header">Change Password</div>
                  <div class="card-body">
@@ -251,7 +247,7 @@
                  </div>
              </div>
          </div>
-     </div>
+  
   </div>
 
 @endsection
