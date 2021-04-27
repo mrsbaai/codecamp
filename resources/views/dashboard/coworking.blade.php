@@ -1,6 +1,6 @@
 @extends('layouts.dashboard')
 @include('sections.coworking')
-@include('sections.coworkingPlans')
+@include('sections.coworkingLocations')
 
 @section('content')
     @yield('coworking')
