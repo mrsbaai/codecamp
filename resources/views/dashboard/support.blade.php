@@ -10,7 +10,9 @@
           <div class="">
             
             <div class="form-row">
-              <p>You have any questions or concerns about CodeCamp? You have a suggestion? Please let us kown.</P>
+              <div class="col-12 form-group">
+              <p>You have any questions or concerns about CodeCamp? You have a suggestion? Please let us kown.</p>
+              </p>
             </div>
               <div class="form-row">
                 <div class="col-md-4 form-group">
