@@ -1,7 +1,7 @@
 @section('plans')
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h1 class="display-4">Pricing</h1>
-    <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
+    <p class="lead">When you subscribe to the coworking space, We will give you a call withing few hours. If admited, you can come to Code Camp in your city and get the key to all our locations. (You can have a 3 days free trial)</p>
 </div>
 
 <div class="container">
