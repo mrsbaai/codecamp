@@ -6,7 +6,7 @@
   }
 </style>
 <div class="text-center m-5">
-  <h3>When you subscribe to the coworking space, You have access to all our locations.</h3>
+  <h1 class="display-4">Pricing</h1>
 </div>
 <div class="row justify-content-center">
 
