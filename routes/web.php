@@ -70,7 +70,7 @@ Route::get('/news', 'PagesController@ShowNews')->name('ShowNews');
 Route::get('/contact', 'PagesController@ShowContact')->name('ShowContact');
 
 
-Route::get('/{user}', 'PortfolioController@ShowPortfolio')->name('ShowPortfolio');
+
 
 
 
@@ -87,6 +87,9 @@ Route::get('/admin/show/requests/events', 'AdminController@ShowAdminEventRequest
 
 
 
+
+/* portfolio should be LAST*/
+Route::get('/{username}', 'PortfolioController@ShowPortfolio')->name('ShowPortfolio');
 
 
 
