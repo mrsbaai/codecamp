@@ -11,7 +11,7 @@
                 <form method="POST" action="">
                     @csrf
 
-                    
+                    <div class="form-group row">
                         <div class="col-12 my-1">
                             <div class="input-group mb-3">
     
@@ -178,6 +178,8 @@
                                 </span>
                             @enderror
                         </div>
+
+                    </div>
                    
 
                     <div class="form-group row mb-0">
@@ -213,9 +215,7 @@
                                     </div><input id="password" type="password" class="form-control" name="current_password">
                                 </div>
                             </div>
-                          </div>
 
-                          <div class="form-group row mb-3">
                             <div class="col-12">
                                 <div class="input-group mb-3">                                   
                                     <div class="input-group-prepend">
@@ -223,9 +223,7 @@
                                     </div><input id="new_password" type="password" class="form-control" name="new_password">
                                 </div>
                             </div>
-                          </div>
 
-                          <div class="form-group row mb-3">
                               <div class="col-12">
                                 <div class="input-group mb-3">
                                     <div class="input-group-prepend">
