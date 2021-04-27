@@ -2,7 +2,7 @@
 <div class="container">
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
     <h1 class="display-4">Pricing</h1>
-    <p class="lead">When you subscribe to the coworking space, We will give you a call withing few hours. If admited, you can come to Code Camp in your city and get the key to all our locations.</p>
+    <p class="lead">When you subscribe to the coworking space, We will give you a call withing few hours. If admited, you can come to CodeCamp in your city and get the key to all our locations.</p>
 </div>
 
 
@@ -37,7 +37,7 @@
             </li>Optical Fibre Internet<li>
             </li>Access To Security Cameras<li>
             </li>Free Coffe & Tea<li>
-            </li>Access to All Code Camp Locations<li>
+            </li>Access to All CodeCamp Locations<li>
           </ul>
           <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request Keys</button>
         </div>
@@ -56,7 +56,7 @@
             </li>Optical Fibre Internet<li>
             </li>Access To Security Cameras<li>
             </li>Free Coffe & Tea<li>
-            </li>Access to All Code Camp Locations<li>
+            </li>Access to All CodeCamp Locations<li>
             </li>Accsess To All Learning Events<li>
           </ul>
           <button type="button" class="btn btn-lg btn-block btn-primary mt-auto">Request Keys</button>
