@@ -1,7 +1,7 @@
 @section('plans')
 <div class="container">
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-    <h1 class="display-4">Become A Member Today</h1>
+    <h1 class="display-4">Become A Coworker Today</h1>
     <p class="lead">When you subscribe to the coworking space, We will give you a call within a few hours. If admited, you can come to CodeCamp in your city and get the key to all our locations, and be part of our private network.</p>
 </div>
 
@@ -20,7 +20,7 @@
                 </li>Optical Fibre Internet<li>
                 </li>Free Coffe & Tea<li>
               </ul>
-              <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request a trial</button>
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request A Trial</button>
             </div>
           </div>
       <div class="card xl-4 box-shadow">
