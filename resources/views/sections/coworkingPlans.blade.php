@@ -12,7 +12,7 @@
               <h4 class="my-0 font-weight-normal">Trial</h4>
             </div>
             <div class="card-body d-flex flex-column">
-              <h1 class="card-title pricing-card-title">Free <small class="text-muted">For 3 Days</small></h1>
+              <h1 class="card-title pricing-card-title">FREE <small class="text-muted">(3 Days)</small></h1>
               <ul class="list-unstyled mt-3 mb-4">
                 </li>Day time<li>
                 </li>Shared Printer<li>
