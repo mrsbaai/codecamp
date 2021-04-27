@@ -70,7 +70,7 @@
         </div>
     </div>
 
-    <div class="form-group pt-5 text-center">
+    <div class="form-group pt-4 text-center">
         <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Delete All</a>
         </div>
     </div>
