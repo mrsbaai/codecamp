@@ -9,7 +9,7 @@
                 Inbound Messages 
              </div>
              <div class="card-body p-0">
-             <table class="table table-striped">
+             <table class="table table-striped m-0">
                <thead>
                     <tr>
                        <th class="col-lg-4">From</th>
