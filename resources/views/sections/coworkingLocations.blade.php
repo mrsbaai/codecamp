@@ -6,7 +6,7 @@
   }
 </style>
 <div class="text-center m-5">
-  <h1 class="display-4">Pricing</h1>
+  <h1 class="display-4">Locations</h1>
 </div>
 <div class="row justify-content-center">
 
