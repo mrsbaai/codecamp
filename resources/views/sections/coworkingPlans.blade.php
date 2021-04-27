@@ -11,7 +11,7 @@
             <div class="card-header">
               <h4 class="my-0 font-weight-normal">Trial</h4>
             </div>
-            <div class="card-body">
+            <div class="card-body d-flex flex-column">
               <h1 class="card-title pricing-card-title">Free <small class="text-muted">For 3 Days</small></h1>
               <ul class="list-unstyled mt-3 mb-4">
                 </li>Day time<li>
@@ -20,14 +20,14 @@
                 </li>Optical Fibre Internet<li>
                 </li>Free Coffe & Tea<li>
               </ul>
-              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Request a trial</button>
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request a trial</button>
             </div>
           </div>
       <div class="card mb-4 box-shadow">
         <div class="card-header">
           <h4 class="my-0 font-weight-normal">Monthly</h4>
         </div>
-        <div class="card-body">
+        <div class="card-body d-flex flex-column">
           <h1 class="card-title pricing-card-title">600dh <small class="text-muted">/ Mo</small></h1>
           <ul class="list-unstyled mt-3 mb-4">
             </li>Open 24/24 7/7<li>
@@ -39,14 +39,14 @@
             </li>Free Coffe & Tea<li>
             </li>Access to All Code Camp Locations<li>
           </ul>
-          <button type="button" class="btn btn-lg btn-block btn-outline-primary">Request Keys</button>
+          <button type="button" class="btn btn-lg btn-block btn-outline-primary mt-auto">Request Keys</button>
         </div>
       </div>
       <div class="card mb-4 box-shadow">
         <div class="card-header">
           <h4 class="my-0 font-weight-normal">Yearly</h4>
         </div>
-        <div class="card-body">
+        <div class="card-body d-flex flex-column">
           <h1 class="card-title pricing-card-title">4800dh <small class="text-muted">/ Yr</small></h1>
           <ul class="list-unstyled mt-3 mb-4">
             </li>Open 24/24 7/7<li>
@@ -59,7 +59,7 @@
             </li>Access to All Code Camp Locations<li>
             </li>Accsess To All Learning Events<li>
           </ul>
-          <button type="button" class="btn btn-lg btn-block btn-primary">Request Keys</button>
+          <button type="button" class="btn btn-lg btn-block btn-primary mt-auto">Request Keys</button>
         </div>
       </div>
       
