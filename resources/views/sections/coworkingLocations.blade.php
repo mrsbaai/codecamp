@@ -128,7 +128,7 @@
         <!--Footer-->
         <div class="modal-footer justify-content-center text-center">
           <h6 class="mt-3 mb-3">
-            Google Maps: <a title="Coworking CodeCamp Tetouan Directions" href="https://goo.gl/maps/AHCUk4BKrwS1tJ9VA">https://goo.gl/maps/AHCUk4BKrwS1tJ9VA</a>
+            Google Maps: <a title="Coworking CodeCamp Tetouan Directions" href="https://goo.gl/maps/AHCUk4BKrwS1tJ9VA"><u>https://goo.gl/maps/AHCUk4BKrwS1tJ9VA<</u></a>
           </h6>
          
 

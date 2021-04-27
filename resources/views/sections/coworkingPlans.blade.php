@@ -1,8 +1,8 @@
 @section('plans')
 <div class="container">
 <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-    <h1 class="display-4">Pricing</h1>
-    <p class="lead">When you subscribe to the coworking space, We will give you a call withing few hours. If admited, you can come to CodeCamp in your city and get the key to all our locations.</p>
+    <h1 class="display-4">Become A Member Today</h1>
+    <p class="lead">When you subscribe to the coworking space, We will give you a call within a few hours. If admited, you can come to CodeCamp in your city and get the key to all our locations, and be part of our private network.</p>
 </div>
 
 

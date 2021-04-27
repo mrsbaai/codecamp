@@ -3,7 +3,6 @@
 @include('sections.coworkingPlans')
 
 @section('content')
-@yield('locations')
 @yield('plans')
 @endsection
 
