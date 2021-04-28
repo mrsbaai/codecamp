@@ -67,7 +67,7 @@
                     <a href="#jobSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Working</a>
                     <ul class="collapse list-unstyled" id="jobSubmenu">
                         <li>
-                            <a href="{{ route('portfolio') }}">Edit portfolio</a>
+                            <a href="{{ route('portfolio') }}">Edit Portfolio</a>
                         </li>
                         <li>
                             <a href="{{ route('messages') }}">Messages</a>
@@ -79,16 +79,16 @@
                     <a href="#coworkingSubmenu" data-toggle="collapse" aria-expanded="false" class="dropdown-toggle">Coworking</a>
                     <ul class="collapse list-unstyled" id="coworkingSubmenu">
                         <li>
-                            <a href="{{ route('UserCoworking') }}">What is coworking?</a>
+                            <a href="{{ route('UserCoworking') }}">What Is Coworking?</a>
                         </li>
                         <li>
-                            <a href="{{ route('coworkers') }}">Active coworkers</a>
+                            <a href="{{ route('coworkers') }}">Active Coworkers</a>
                         </li>
                         <li>
-                            <a href="{{ route('RegisterCoworking') }}">Become a coworker</a>
+                            <a href="{{ route('RegisterCoworking') }}">Get The Keys</a>
                         </li>
                         <li>
-                            <a href="{{ route('cameras') }}">Cameras</a>
+                            <a href="{{ route('cameras') }}">View Cameras</a>
                         </li>
                     </ul>
                 </li>

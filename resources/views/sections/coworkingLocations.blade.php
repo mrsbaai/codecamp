@@ -17,7 +17,7 @@
 </div>
 <div class="row justify-content-center">
 
-    <div class="col-lg-5 mb-4">
+    <div class="col-lg-6 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/tetouan.jpg" alt="Coworking Tetouan" class="thumb-image">
@@ -32,7 +32,7 @@
             </div>
         </div>              
     </div>
-    <div class="col-lg-5 mb-4">
+    <div class="col-lg-6 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/marrakech.jpg" alt="Coworking Marrakech" class="thumb-image">
@@ -45,7 +45,7 @@
 </div>
 
 <div class="row justify-content-center">
-    <div class="col-lg-5 mb-4">
+    <div class="col-lg-6 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/agadir.jpg" alt="Coworking Agadir" class="thumb-image">
@@ -55,7 +55,7 @@
             </div>
         </div>              
     </div>
-    <div class="col-lg-5 mb-4">
+    <div class="col-lg-6 mb-4">
         <div class="card">
             <div class="thumb-container">
               <img class="card-img-top" src="https://codecamp.ma/img/tangier.jpg" alt="Coworking Tangier" class="thumb-image">
