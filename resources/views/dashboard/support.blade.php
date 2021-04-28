@@ -1,12 +1,12 @@
 @extends('layouts.dashboard')
 
 @section('content')
-<div class="container vh-100 text-center pt-4">
+<div class="container vh-100 text-center pt-2">
 
 
   <div class="d-flex my-3">
     <div class="jumbotron w-100 py-5 mx-auto">
-                <h1 class="display-4">How Can We Help?</h1>
+                <h1 class="display-4 pb-4">How Can We Help?</h1>
     
                 <div class="form-row">
                   
@@ -26,7 +26,7 @@
   
                 <div class="form-row">
            
-                    <div class="form-group pb-2">
+                    <div class="col-12 form-group pb-2">
                       <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" data-rule="minlen:4" data-msg="Please enter at least 8 chars of subject" />
                       <div class="validate"></div>
                
