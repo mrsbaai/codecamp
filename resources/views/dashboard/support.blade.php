@@ -5,7 +5,7 @@
 
 
   <div class="d-flex my-3">
-    <div class="jumbotron w-100 py-5 mx-auto">
+    <div class="jumbotron w-100 py-5 mx-auto text-center">
                 <h1 class="display-4 pb-4">How Can We Help?</h1>
     
                 <div class="form-row">
