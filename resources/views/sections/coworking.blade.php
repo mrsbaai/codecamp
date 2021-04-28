@@ -2,7 +2,7 @@
 
 <div class="container pt-4 mb-5">
 
-    <div class="row justify-content-center mt-5 mb-5">
+    <div class="row justify-content-center mb-5">
       <div class="col-12"> 
           <div class="card">
              <div class="embed-responsive embed-responsive-16by9" style="border-top-right-radius: calc(0.25rem - 1px);border-top-left-radius: calc(0.25rem - 1px);">
