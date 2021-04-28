@@ -88,10 +88,6 @@ class PagesController extends Controller
         return view('guest.job');
     }
 
-    public function ShowEpisodes(){
-        return view('guest.episodes');
-    }
-
 
     public function ShowEvents(){
         return view('guest.events');

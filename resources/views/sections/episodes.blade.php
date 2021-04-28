@@ -1,26 +1,9 @@
 @section('episodes')
 
 <div class="container mb-5">
-
-    <ul class="nav nav-pills justify-content-center mt-5 mb-5">
-      <li class="nav-item">
-        <a class="nav-link bg-dark active " href="#">All</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-dark" href="#">Events</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-dark" href="#">Training</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link text-dark" href="#">Coworking</a>
-      </li>
-    </ul>
-    
+  
     <div class="row">
-         
-    
-    
+   
       <div class="col-lg-7 pb-5">
     
         <div class="card" >
@@ -63,6 +46,14 @@
       </div>
     
       <div class="col-lg-5">
+
+        <select class="custom-select" id="category" name="category" >
+          <option value="All">All Episodes</option>
+          <option value="MSS">Moroccan Success Stories</option>
+          <option value="MC">Modern Careers</option>
+          <option value="TECH">Technology</option>
+        </select>
+
        <div class="list-group ">
     
          <a href="#" class="list-group-item list-group-item-action ">

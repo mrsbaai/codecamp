@@ -67,9 +67,6 @@
                             <a class="nav-link" href="/coworking">{{ __('Coworking') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/episodes">{{ __('Episodes') }}</a>
-                        </li>
-                        <li class="nav-item">
                             <a class="nav-link" href="/news">{{ __('News') }}</a>
                         </li>
                         <li class="nav-item">
@@ -186,9 +183,6 @@
                   </li>
                   <li class="p-1">
                       <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
-                  </li>
-                  <li class="p-1">
-                      <a class="text-white" href="/episodes">{{ __('Episodes') }}</a>
                   </li>
                 </ul>
               </div>
