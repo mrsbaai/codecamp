@@ -1,7 +1,7 @@
 @extends('layouts.dashboard')
 
 @section('content')
-<div class="container vh-100 text-center pt-2">
+<div class="container pt-2">
 
 
   <div class="d-flex my-3">
