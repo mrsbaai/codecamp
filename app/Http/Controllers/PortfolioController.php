@@ -23,7 +23,7 @@ class PortfolioController extends Controller
      */
     public function ShowPortfolio($username)
     {
-        return $username;
+        return view('guest.portfolio');
     }
 
     
