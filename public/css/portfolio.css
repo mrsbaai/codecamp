@@ -10287,6 +10287,10 @@ a.text-dark:focus {
 
 .masthead .masthead-avatar {
     width: 15rem;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    height: 100%;
 }
 
 @media (min-width: 992px) {
