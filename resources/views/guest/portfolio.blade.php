@@ -54,7 +54,7 @@
         <header class="masthead bg-primary text-white text-center">
             <div class="container d-flex align-items-center flex-column">
                 <!-- Masthead Avatar Image-->
-                <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead-avatar mb-5" alt="Full Stack Developer Tetouan">
+                <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead-avatar mb-5 rounded-circle" alt="Full Stack Developer Tetouan">
                 <!-- Masthead Heading-->
                 <h1 class="masthead-heading text-uppercase mb-0">Hello! I'm Abdelilah</h1>
                 <!-- Icon Divider-->
