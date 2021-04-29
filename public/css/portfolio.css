@@ -10289,7 +10289,6 @@ a.text-dark:focus {
     width: 15rem;
     object-fit: cover;
     position: absolute;
-    top: 0;
     height: 100%;
 }
 
