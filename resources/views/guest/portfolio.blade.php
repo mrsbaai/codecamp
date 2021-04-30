@@ -82,9 +82,33 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Skills Section Content-->
-                <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                <div class="text-center">
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Laravel</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Symfony</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">CodeIgniter</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Zend Framework</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Yii Framework</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">CakePHP</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Slim</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Phalcon</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">FuelPHP</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Fat-Free Framework</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Apache</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Linux</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">L</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Nginx</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">PHP</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">MongoDB</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Express</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">AngularJS</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Nodejs</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Python</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Django</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">MySQL</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">JavaScript</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Ruby</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">SQLite</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Rails</p></span>
                 </div>
             </div>
         </section>
