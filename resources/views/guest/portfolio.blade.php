@@ -84,31 +84,31 @@
                 </div>
                 <!-- Skills Section Content-->
                 <div class="text-center">
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Laravel</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Symfony</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">CodeIgniter</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Zend Framework</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Yii Framework</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">CakePHP</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Slim</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Phalcon</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">FuelPHP</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Fat-Free Framework</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Apache</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Linux</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Nginx</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">PHP</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">MongoDB</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Express</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">AngularJS</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Nodejs</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Python</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Django</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">MySQL</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">JavaScript</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Ruby</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">SQLite</p></span>
-                    <span class="badge badge-primary p-2 m-2 "><p class="display-4 m-1">Rails</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Laravel</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Symfony</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">CodeIgniter</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Zend Framework</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Yii Framework</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">CakePHP</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Slim</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Phalcon</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">FuelPHP</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Fat-Free Framework</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Apache</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Linux</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Nginx</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">PHP</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">MongoDB</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Express</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">AngularJS</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Nodejs</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Python</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Django</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">MySQL</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">JavaScript</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Ruby</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">SQLite</p></span>
+                    <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Rails</p></span>
                 </div>
             </div>
         </section>
@@ -323,7 +323,8 @@
         <div class="copyright py-4 text-center text-white">
             <div class="container">
                 <small>
-                    Copyright &copy; Your Website
+                    Made With&nbsp;&nbsp;<span style="color: #FF1616;"><i class="fas fa-heart"></i></span>&nbsp;&nbsp;Using <a href="https://codecamp.ma">CodeCamp.ma</a>
+                    Copyright &copy;
                     <!-- This script automatically adds the current year to your website footer-->
                     <!-- (credit: https://updateyourfooter.com/)-->
                     <script>
