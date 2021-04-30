@@ -43,7 +43,9 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#skills">Skills</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#projects">Projects</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#education">Education</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a></li>
                     </ul>
@@ -67,6 +69,33 @@
                 <h2 class="font-weight-light mb-0">And I'm A Full Stack Developper</h2>
             </div>
         </header>
+
+        <!-- Skills Section-->
+        <section class="page-section mb-0" id="skills">
+            <div class="container">
+                <!-- About Section Heading-->
+                <h2 class="page-section-heading text-center text-uppercase text-white">About</h2>
+                <!-- Icon Divider-->
+                <div class="divider-custom divider-light">
+                    <div class="divider-custom-line"></div>
+                    <div class="divider-custom-icon"><i class="fas fa-fire"></i></div>
+                    <div class="divider-custom-line"></div>
+                </div>
+                <!-- About Section Content-->
+                <div class="row">
+                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                </div>
+                <!-- About Section Button-->
+                <div class="text-center mt-4">
+                    <a class="btn btn-xl btn-outline-light" href="https://startbootstrap.com/theme/freelancer/">
+                        <i class="fas fa-download mr-2"></i>
+                        Free Download!
+                    </a>
+                </div>
+            </div>
+        </section>
+
         <!-- Portfolio Section-->
         <section class="page-section portfolio" id="projects">
             <div class="container">
@@ -88,7 +117,7 @@
                                     <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
                                 </div>
                                 <div class="card-body bg-dark text-light">
-                                    <h3>CodeCamp.ma</h3>
+                                    <h3 class="text-uppercase">CodeCamp.ma</h3>
                                     <p class="card-text">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.
                                         </p>
                                     <div class="text-right">
@@ -107,7 +136,7 @@
                                     <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
                                 </div>
                                 <div class="card-body bg-dark text-light">
-                                    <h3>Mailing.nija</h3>
+                                    <h3 class="text-uppercase">Mailing.nija</h3>
                                     <p class="card-text">Exclusive Offers For Traffic Monetization & E-Mail List Building.
                                         </p>
                                     <div class="text-right">
@@ -128,7 +157,7 @@
                                     <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
                                 </div>
                                 <div class="card-body bg-dark text-light">
-                                    <h3>Receive-SMS.com</h3>
+                                    <h3 class="text-uppercase">Receive-SMS.com</h3>
                                     <p class="card-text">This tool can be useful if you want to protect your privacy by keeping your real phone number to yourself. 
                                         </p>
                                     <div class="text-right">
