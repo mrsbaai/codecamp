@@ -82,15 +82,25 @@
                 <div class="row justify-content-center">
                     <!-- Portfolio Item 1-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto bg-dark text-light" href="/">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
+                        <a href="https://codecamp.ma" title="Link to the project website">
+                            <div class="portfolio-item mx-auto bg-dark text-light">
+                                <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                    <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
+                                </div>
+                                <div class="card">
+                                    <div class="card-body bg-dark text-light">
+                                    <h6>CodeCamp.ma</h6>
+                                    <p class="card-text">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.
+                                        </p>
+                                    
+                                    </div>
+                                    <div class="text-muted text-right">
+                                    Project Released at 2021
+                                    </div>
+                                </div>
+                                
                             </div>
-                            <h5 class="card-title">Card title</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn btn-primary">Go somewhere</a>
-                            
-                        </div>
+                        </a>
                     </div>
                     <!-- Portfolio Item 2-->
                     <div class="col-md-6 col-lg-4 mb-5">
