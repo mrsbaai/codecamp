@@ -93,31 +93,53 @@
                                         </p>
                                     <div class="text-right">
                                         <p class="card-text">Project Released at 2021</p>
-                                    </div>
-                                    
-                                    </div>
+                                    </div>   
+                                </div>
                                 
                             </div>
                         </a>
                     </div>
                     <!-- Portfolio Item 2-->
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" href="/">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
+                        <a href="https://codecamp.ma" title="Link to the project website">
+                            <div class="portfolio-item mx-auto bg-dark text-light">
+                                <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                    <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
+                                </div>
+                                <div class="card-body bg-dark text-light">
+                                    <h3>Mailing.nija</h3>
+                                    <p class="card-text">Exclusive Offers For Traffic Monetization & E-Mail List Building.
+                                        </p>
+                                    <div class="text-right">
+                                        <p class="card-text">Project Released at 2018</p>
+                                    </div>   
+                                </div>
+                                
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/cake.png" alt="..." />
-                        </div>
+                        </a>
                     </div>
+                    
                     <!-- Portfolio Item 3-->
+
                     <div class="col-md-6 col-lg-4 mb-5">
-                        <div class="portfolio-item mx-auto" href="/">
-                            <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
+                        <a href="https://receive-sms.com" title="Link to the project website">
+                            <div class="portfolio-item mx-auto bg-dark text-light">
+                                <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
+                                    <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
+                                </div>
+                                <div class="card-body bg-dark text-light">
+                                    <h3>Receive-SMS.com</h3>
+                                    <p class="card-text">This tool can be useful if you want to protect your privacy by keeping your real phone number to yourself. 
+                                        </p>
+                                    <div class="text-right">
+                                        <p class="card-text">Project Released at 2008</p>
+                                    </div>   
+                                </div>
+                                
                             </div>
-                            <img class="img-fluid" src="assets/img/portfolio/circus.png" alt="..." />
-                        </div>
+                        </a>
                     </div>
+ 
 
                 </div>
             </div>
