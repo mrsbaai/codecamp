@@ -87,17 +87,15 @@
                                 <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
                                     <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
                                 </div>
-                                <div class="card">
-                                    <div class="card-body bg-dark text-light">
-                                    <h6>CodeCamp.ma</h6>
+                                <div class="card-body bg-dark text-light">
+                                    <h3>CodeCamp.ma</h3>
                                     <p class="card-text">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.
                                         </p>
+                                    <div class="text-right">
+                                        <p class="card-text">Project Released at 2021</p>
+                                    </div>
                                     
                                     </div>
-                                    <div class="text-muted text-right">
-                                    Project Released at 2021
-                                    </div>
-                                </div>
                                 
                             </div>
                         </a>
