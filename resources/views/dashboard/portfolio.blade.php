@@ -5,30 +5,51 @@
       <div class="col-xl-6 pb-5">
          <div class="card">
             <div class="card-header">
-               Edit portfolio
+               Who are you?
             </div>
             <div class="card-body">
               <div class="input-group mb-3">
                 <div class="input-group-prepend">
-                   <span class="input-group-text">{{ __('First Name') }}</span>
+                   <span class="input-group-text">{{ __('I\'m a') }}</span>
                 </div>
-                <input id="first_name" type="text" class="form-control" name="first_name" required>
+                <input id="title" type="text" class="form-control" name="title" required>
              </div>
-             @error('first_name')
+             @error('title')
              <span class="invalid-feedback" role="alert">
-             <strong>{{ $message }}</strong>
+               <strong>{{ $message }}</strong>
              </span>
              @enderror
+
+             <div class="input-group mb-3">
+               <div class="input-group-prepend">
+                  <span class="input-group-text">https://codecamp.ma/</span>
+               </div>
+               <input id="username" type="text" class="form-control" name="username" required>
+            </div>
+            @error('username')
+            <span class="invalid-feedback" role="alert">
+               <strong>{{ $message }}</strong>
+            </span>
+            @enderror
             </div>
          </div>
       </div>
       <div class="col-xl-6 pb-5">
         <div class="card">
            <div class="card-header">
-              Edit portfolio
+             Face photo
            </div>
            <div class="card-body">
-              bb
+            <div class="custom-file">
+               <input type="file" accept="image" class="custom-file-input" id="photo" name="photo" required>
+               <label class="custom-file-label" for="photo">Choose photo...</label>
+               @error('photo')
+               <span class="invalid-feedback" role="alert">
+                  <strong>{{ $message }}</strong>
+               </span>
+               @enderror
+             </div>
+              
            </div>
         </div>
      </div>
@@ -37,7 +58,7 @@
     <div class="col-xl-6 pb-5">
        <div class="card">
           <div class="card-header">
-             Edit portfolio
+            About
           </div>
           <div class="card-body">
              bb
@@ -47,7 +68,7 @@
     <div class="col-xl-6 pb-5">
       <div class="card">
          <div class="card-header">
-            Edit portfolio
+            Skills
          </div>
          <div class="card-body">
             bb
@@ -59,7 +80,7 @@
   <div class="col-xl-6 pb-5">
      <div class="card">
         <div class="card-header">
-           Edit portfolio
+          Projects
         </div>
         <div class="card-body">
            bb
@@ -69,7 +90,7 @@
   <div class="col-xl-6 pb-5">
     <div class="card">
        <div class="card-header">
-          Edit portfolio
+          Education
        </div>
        <div class="card-body">
           bb
