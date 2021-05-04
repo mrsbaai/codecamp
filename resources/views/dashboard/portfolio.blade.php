@@ -10,9 +10,9 @@
             <div class="card-body">
               <div class="input-group mb-3">
                 <div class="input-group-prepend">
-                   <span class="input-group-text">{{ __('I\'m a') }}</span>
+                   <span class="input-group-text">{{ __('I\'m') }}</span>
                 </div>
-                <input id="title" type="text" class="form-control" name="title" required>
+                <input id="title" type="text" class="form-control" name="title" placeholder="A Full Stack Developer" required>
              </div>
              @error('title')
              <span class="invalid-feedback" role="alert">
@@ -24,7 +24,7 @@
                <div class="input-group-prepend">
                   <span class="input-group-text">https://codecamp.ma/</span>
                </div>
-               <input id="username" type="text" class="form-control" name="username" required>
+               <input id="username" type="text" class="form-control" name="username" placeholder="youssef123" required>
             </div>
             @error('username')
             <span class="invalid-feedback" role="alert">
