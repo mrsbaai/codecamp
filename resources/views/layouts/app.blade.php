@@ -129,7 +129,7 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
-                <h3>Get Notified About New Events</h3>
+                <h3>Get Notifieds</h3>
                 <h3 class="mb-4">About New Events</h3>
               <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
