@@ -84,17 +84,21 @@
 }
 
 .social-btn {
-    font-size: 48px;
+    ont-size: 26px;
     font-weight: 800;
     display: inline-block;
     background: transparent;
     color: #fff;
     line-height: 1;
-    padding: 10px 0;
+    padding: 14px 5px 5px 5px;
     margin-right: 4px;
     border-radius: 50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
     text-align: center;
-    width: 66px;
-    height: 66px;
+    width: 56px;
+    height: 56px;
     transition: 0.3s;
 }
