@@ -11,7 +11,7 @@
                      </div>
 
                     <h2 class="display-6">The Moroccan Web Experts Community</h2>
-                    <p class="lead">An Initiative to highlight <span class="typed" data-typed-items="informational technologies, modern carer paths, moroccan success stories, porductivity tools"></span></p>
+                    <p class="lead-home">An Initiative to highlight <span class="typed" data-typed-items="informational technologies, modern carer paths, moroccan success stories, porductivity tools"></span></p>
 
                 </div>
             </div>

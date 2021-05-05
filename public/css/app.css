@@ -102,3 +102,8 @@
     transition: 0.3s;
     border-width: 2px;
 }
+
+.lead-home {
+    font-size: 1.6rem;
+    font-weight: 400;
+}
