@@ -80,14 +80,13 @@
           </div>
        </div>
     </div>
-    <div class="col-xl-6 pb-5">
+   <div class="col-xl-6 pb-5">
       <div class="card">
-         <div class="card-header">Skills 
-            <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a skill</button>
-         </div>
+        <div class="card-header">Education
+           <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
+        </div>
          <div class="card-body">
-            table
-
+           table
          </div>
       </div>
    </div>
@@ -99,24 +98,51 @@
          <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a project</button>
       </div>
         <div class="card-body">
-           table
+         <table class="table table-bordered table-striped">
+            <tbody>
+                <tr>
+                    <td><input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
+                    <td><textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies."</textarea></td>
+                    <td><input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)" value="https://codecamp.ma"></td>
+                    <td><input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" value="2020"></td>
+                    <td>
+                       <a class="add" title="Add" data-toggle="tooltip"><i class="fa fa-thumbs-up"></i></a>
+                       <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a>
+                    </td>
+                </tr>
+                     
+            </tbody>
+        </table>
         </div>
      </div>
   </div>
-  <div class="col-xl-6 pb-5">
-    <div class="card">
-      <div class="card-header">Education
-         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
+
+</div>
+<div class="col-xl-6 pb-5">
+   <div class="card">
+      <div class="card-header">Skills 
+         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a skill</button>
       </div>
-       <div class="card-body">
+      <div class="card-body">
          table
-       </div>
-    </div>
- </div>
+
+      </div>
+   </div>
 </div>
 
 </div>
 @endsection
+
+@section('head')
+<link rel="stylesheet" href="{{ asset('css/edit-portfolio.css') }}" />
+@endsection
+
+
+@section('bottom')
+<script src="{{ asset('js/edit-portfolio.js') }}" ></script>
+@endsection
+
+
 @section('title')
 Edit Portfolio
 @endsection
