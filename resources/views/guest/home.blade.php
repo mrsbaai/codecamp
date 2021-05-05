@@ -287,7 +287,7 @@
 @endsection
 
 
-@section('footer')
+@section('bottom')
 <script src="{{ asset('js/typed.js/typed.min.js') }}></script>
 @endsection
 
