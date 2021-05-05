@@ -23,7 +23,7 @@
   }
   
   body {
-    background: black;
+    background: white;
   }
   
   * {
