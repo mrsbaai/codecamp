@@ -46,8 +46,8 @@
                     <div class="card bg-primary text-white h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-laptop-code"></i></h1>
-                            <h4 class="card-title">To Freelance</h4>
-                            <p class="card-text">Get exposure to job opportunities, and freelance projects.</p>
+                            <h4 class="card-title">Find Partners</h4>
+                            <p class="card-text">Get exposure to job opportunities, and freelance projects. browse profiles and find pratners to work on your new innovative ideas.</p>
                             <a href="#" class="btn btn-w mt-auto">Make a potfolio</a>
                         </div>
                     </div>
@@ -57,7 +57,7 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-hat-wizard"></i></h1>
                             <h4 class="card-title">To Learn</h4>
-                            <p class="card-text">Get access to free online learning material and get notified about new online and offline events.</p>
+                            <p class="card-text">Watch CodeCamp video episodes, and get notified about new online and offline events.</p>
                             <a href="#" class="btn btn-w mt-auto">Next Event</a>
                         </div>
                     </div>
