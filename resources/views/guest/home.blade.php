@@ -78,7 +78,7 @@
 
 
     <div class="col-12 my-auto text-center py-5">
-        <h1>Latest Episodes</h1>
+        <h1>Episodes</h1>
     </div>
 
 
@@ -226,7 +226,7 @@
             
 
     <div class="col-12 my-auto text-center py-5">
-        <h1>Latest Blogs
+        <h1>Latest News
         </h1>
     </div>
 
@@ -280,6 +280,7 @@
 
     <div class="col-12 my-auto text-center py-3">
     </div>
+    <div class="row"><img src="{{ asset('img/guest/codecamp_1.png') }}"></div>
 </section>
 
 @endsection
