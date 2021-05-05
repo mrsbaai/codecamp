@@ -11,7 +11,7 @@
                      </div>
 
                     <h2 class="display-6">The Moroccan Web Experts Community</h2>
-                    <p class="lead">An Initiative to highlight <span class="typed" data-typed-items="porductivity tools for entroponeurs, moroccan success stories, modern carer paths, informational technologies"></span></p>
+                    <p class="lead">An Initiative to highlight <span class="typed" data-typed-items="informational technologies, modern carer paths, moroccan success stories, porductivity tools"></span></p>
 
                 </div>
             </div>
@@ -297,8 +297,8 @@
         new Typed('.typed', {
             strings: typed_strings,
             loop: true,
-            typeSpeed: 100,
-            backSpeed: 50,
+            typeSpeed: 150,
+            backSpeed: 100,
             backDelay: 2000
         });
     }
