@@ -279,7 +279,7 @@
 
 
 @section('bottom')
-<script src="{{ asset('js/typed.js/typed.min.js') }}"></script>
+<script src="{{ asset('js/typed.js/typed.min.js') }}" defer></script>
 @endsection
 
 @section('title')
