@@ -61,7 +61,23 @@
             About
           </div>
           <div class="card-body">
-             bb
+            <div class="input-group mb-3">
+
+               <textarea id="title" type="text" class="form-control" name="title" placeholder="I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas....." required>
+               </textarea>
+            </div>
+
+            <div class="input-group mb-3">
+               <div class="input-group-prepend">
+                  <span class="input-group-text">https://www.youtube.com/watch?v=</span>
+               </div>
+               <input id="video" type="text" class="form-control" name="video" placeholder="Ex: rF5dtpTLqkY" required>
+            </div>
+            @error('video')
+            <span class="invalid-feedback" role="alert">
+               <strong>{{ $message }}</strong>
+            </span>
+            @enderror
           </div>
        </div>
     </div>
@@ -90,8 +106,8 @@
   </div>
   <div class="col-xl-6 pb-5">
     <div class="card">
-      <div class="card-header">Education 
-         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add Diploma/Degree/Certificate <button>
+      <div class="card-header">Education
+         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate <button>
       </div>
        <div class="card-body">
          table
