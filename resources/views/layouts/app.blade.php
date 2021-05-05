@@ -129,8 +129,8 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
-                <h3>Get Notifieds</h3>
-                <h3 class="mb-4">About New Events</h3>
+                <h2>Get Notifieds</h2>
+                <h4 class="mb-4">About New Events</h4>
               <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
@@ -172,7 +172,7 @@
 
             <!--Grid column-->
             <div class="col-lg-3 col-6 ">
-                <h3>Services</h3>
+                <h4>Services</h4>
       
                 <ul class="list-unstyled mb-0">
                   <li class="p-1">
@@ -190,7 +190,7 @@
       
               <!--Grid column-->
               <div class="col-lg-3 col-6">
-                <h3>Links</h3>
+                <h4>Links</h4>
       
                 <ul class="list-unstyled">
                   <li class="p-1">

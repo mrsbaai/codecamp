@@ -67,11 +67,11 @@
     </div>
     <div class="col-xl-6 pb-5">
       <div class="card">
-         <div class="card-header">
-            Skills
+         <div class="card-header">Skills 
+            <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a skill</button>
          </div>
          <div class="card-body">
-            <p>Please add the skills you master. The more you add the more exposure you get.</p>
+            table
 
          </div>
       </div>
@@ -80,21 +80,21 @@
  <div class="row">
   <div class="col-xl-6 pb-5">
      <div class="card">
-        <div class="card-header">
-          Projects
-        </div>
+      <div class="card-header">Projects 
+         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a project</button>
+      </div>
         <div class="card-body">
-           <p>Please the projects you workted on. The more you add the cridible your account will be.</p>
+           table
         </div>
      </div>
   </div>
   <div class="col-xl-6 pb-5">
     <div class="card">
-       <div class="card-header">
-          Education
-       </div>
+      <div class="card-header">Education 
+         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add Diploma/Degree/Certificate <button>
+      </div>
        <div class="card-body">
-         <p>If you leave empty it will show as private in your portfolio.</p>
+         table
        </div>
     </div>
  </div>
