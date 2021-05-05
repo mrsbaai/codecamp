@@ -279,7 +279,7 @@
     </div>
 
     <div class="col-12 my-auto text-center py-3">   
-     <img src="{{ asset('img/guest/codecamp_0.png') }}">
+     <img src="{{ asset('img/guest/codecamp_0.PNG') }}">
     </div>
 </section>
 
