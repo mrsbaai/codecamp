@@ -101,4 +101,5 @@
     width: 56px;
     height: 56px;
     transition: 0.3s;
+    border-width: 2px;
 }
