@@ -129,7 +129,7 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
-                <h5 class="mb-4">Get Notified About New Events</h5>
+                <h3 class="mb-4">Get Notified About New Events</h3>
               <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
@@ -137,27 +137,26 @@
                 </div>
               </div>
 
-              <h5 class="mt-4 mb-3">Follow Us</h5>
 
               <div class="container p-1 pb-0">
                 <!-- Section: Social media -->
                 <!-- Facebook -->
-                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                <a class="btn btn-outline-light btn-lg btn-floating m-1 social-btn " href="#!" role="button"
                     ><i class="fab fa-facebook-f"></i
                 ></a>
     
                 <!-- Instagram -->
-                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                <a class="btn btn-outline-light btn-lg btn-floating m-1 social-btn " href="#!" role="button"
                     ><i class="fab fa-instagram"></i
                 ></a>
             
                 <!-- Linkedin -->
-                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                <a class="btn btn-outline-light btn-lg btn-floating m-1 social-btn " href="#!" role="button"
                     ><i class="fab fa-linkedin-in"></i
                 ></a>
             
                 <!-- Youtube -->
-                <a class="btn btn-outline-light btn-lg btn-floating m-1" href="#!" role="button"
+                <a class="btn btn-outline-light btn-lg btn-floating m-1 social-btn " href="#!" role="button"
                     ><i class="fab fa-youtube"></i
                 ></a>
         
@@ -172,7 +171,7 @@
 
             <!--Grid column-->
             <div class="col-lg-3 col-6 ">
-                <h5>Services</h5>
+                <h3>Services</h3>
       
                 <ul class="list-unstyled mb-0">
                   <li class="p-1">
@@ -190,7 +189,7 @@
       
               <!--Grid column-->
               <div class="col-lg-3 col-6">
-                <h5>Links</h5>
+                <h3>Links</h3>
       
                 <ul class="list-unstyled">
                   <li class="p-1">
