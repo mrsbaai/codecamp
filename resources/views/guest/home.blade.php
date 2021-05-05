@@ -278,9 +278,10 @@
 
     </div>
 
-    <div class="col-12 my-auto text-center py-3">   
-     <img src="{{ asset('img/guest/codecamp_0.PNG') }}">
-    </div>
+    <div class="col-12 py-3"></div>
+    <img class="img-fluid" src="{{ asset('img/guest/codecamp_0.PNG') }}">
+    <div class="col-12 py-2"></div>
+   
 </section>
 
 @endsection

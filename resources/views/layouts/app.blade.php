@@ -197,7 +197,7 @@
                       <a class="text-white" href="/main">{{ __('Home') }}</a>
                   </li>
                   <li class="p-1">
-                      <a class="text-white" href="/news">{{ __('news') }}</a>
+                      <a class="text-white" href="/news">{{ __('News') }}</a>
                   </li>
                   <li class="p-1">
                       <a class="text-white" href="/contact">{{ __('Contact') }}</a>
