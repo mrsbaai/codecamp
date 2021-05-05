@@ -12,16 +12,7 @@
 
                     <h2 class="display-6">The Moroccan Web Experts Community</h2>
                     <p class="lead">An Initiative to highlight <span class="typed" data-typed-items="porductivity tools for entroponeurs, moroccan success stories, modern carer paths, informational technologies"></span></p>
-                    <div class="row">
-                        <div class="col-lg-4 col-sm-6 mx-auto">
-                            <div class="input-group mb-3">
-                              <input type="text" class="form-control form-control-lg" placeholder="your@email">
-                              <div class="input-group-append">
-                                <button class="btn btn-outline-light btn-lg rounded-right" type="button">Get Started</button>
-                              </div>
-                            </div>
-                        </div>
-                    </div>
+
                 </div>
             </div>
         </div>
