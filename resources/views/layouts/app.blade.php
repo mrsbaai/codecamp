@@ -202,7 +202,7 @@
               <div class="col-lg-2 col-6 pb-5">
                 <h4>Links</h4>
       
-                <ul class="list-unstyled">
+                <ul class="list-unstyled mb-0 pt-2">
                   <h6>
                       <a class="text-white" href="/news">News</a>
                   </h6>
