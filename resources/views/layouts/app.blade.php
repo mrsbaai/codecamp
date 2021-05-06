@@ -128,7 +128,7 @@
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
-            <div class="col-lg-4col-md-12 col-sm-12 pb-5">
+            <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
                 <h2>Get Notifieds</h2>
                 <h5 class="mb-4">About New Events</h5>
               <div class="input-group mb-3 pr-5 pl-5">
