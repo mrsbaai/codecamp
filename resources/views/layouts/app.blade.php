@@ -128,7 +128,7 @@
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
-            <div class="col-lg-4 col-md-12 col-sm-12 pb-4">
+            <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
                 <h4>Upcoming Events</h4>
               <div class="input-group mb-3 pt-3">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
@@ -144,7 +144,7 @@
 
             </div>
 
-            <div class="col-lg-4 col-md-12 col-sm-12 pb-4">
+            <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
                 <h4>Around The Web</h4>
               
 
@@ -199,7 +199,7 @@
               <!--Grid column-->
       
               <!--Grid column-->
-              <div class="col-lg-2 col-6 pb-4">
+              <div class="col-lg-2 col-6 pb-5">
                 <h4>Links</h4>
       
                 <ul class="list-unstyled">
