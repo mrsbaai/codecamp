@@ -129,7 +129,7 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
-                <h2>Get Notifieds</h2>
+                <h2>Get Notified</h2>
                 <h5 class="mb-4">About New Events</h5>
               <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
@@ -190,7 +190,7 @@
       
               <!--Grid column-->
               <div class="col-lg-4 col-6">
-                <h4>Links</h4>
+                <h2>Links</h2>
       
                 <ul class="list-unstyled">
                   <h5>
@@ -200,7 +200,7 @@
                       <a class="text-white" href="/contact">{{ __('Contact') }}</a>
                   </h5>
                   <h5>
-                      <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a> / <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                      <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
                   </h5>
                 </ul>
               </div>
