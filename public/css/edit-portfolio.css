@@ -114,3 +114,13 @@
 	textarea {
 	    min-height: 100px;
 	}
+	
+	.masthead .masthead-avatar {
+	    width: 15rem;
+	    height: 15rem;
+	    object-fit: cover;
+	}
+	
+	.rounded-circle {
+	    border-radius: 50% !important;
+	}
