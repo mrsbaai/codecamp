@@ -128,9 +128,9 @@
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
-            <div class="col-lg-6 col-md-12 col-sm-12 pb-5">
+            <div class="col-lg-4col-md-12 col-sm-12 pb-5">
                 <h2>Get Notifieds</h2>
-                <h4 class="mb-4">About New Events</h4>
+                <h5 class="mb-4">About New Events</h5>
               <div class="input-group mb-3 pr-5 pl-5">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
@@ -171,45 +171,45 @@
     
 
             <!--Grid column-->
-            <div class="col-lg-3 col-6 ">
-                <h4>Services</h4>
+            <div class="col-lg-4 col-6 ">
+                <h2>Services</h2>
       
                 <ul class="list-unstyled mb-0">
-                  <li class="p-1">
+                  <h2>
                       <a class="text-white" href="/job">{{ __('Find a job') }}</a>
-                  </li>
-                  <li class="p-1">
+                  </h2>
+                  <h2>
                       <a class="text-white" href="/events">{{ __('Live Events') }}</a>
-                  </li>
-                  <li class="p-1">
+                  </h2>
+                  <h2>
                       <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
-                  </li>
+                  </h2>
                 </ul>
               </div>
               <!--Grid column-->
       
               <!--Grid column-->
-              <div class="col-lg-3 col-6">
+              <div class="col-lg-4 col-6">
                 <h4>Links</h4>
       
                 <ul class="list-unstyled">
-                  <li class="p-1">
+                  <h2>
                       <a class="text-white" href="/main">{{ __('Home') }}</a>
-                  </li>
-                  <li class="p-1">
+                  </h2>
+                  <h2>
                       <a class="text-white" href="/news">{{ __('News') }}</a>
-                  </li>
-                  <li class="p-1">
+                  </h2>
+                  <h2>
                       <a class="text-white" href="/contact">{{ __('Contact') }}</a>
-                  </li>
-                  <li class="p-1">
+                  </h2>
+                  <h2>
                       <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
-                  </li>
-                  <li class="p-1">
+                  </h2>
+                  <h2>
                       @if (Route::has('register'))
                       <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
                       @endif
-                  </li>
+                  </h2>
                 </ul>
               </div>
             <!--Grid column-->
