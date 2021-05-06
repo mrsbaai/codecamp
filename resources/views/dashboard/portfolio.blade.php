@@ -4,7 +4,7 @@
 
    <div class="row">
       <div class="col-xl-3 pb-5">
-         <div class="card">
+         <div class="card h-100">
             <div class="card-header">
                Face photo
             </div>
@@ -26,7 +26,7 @@
    
       </div>
       <div class="col-xl-9 pb-5">
-         <div class="card">
+         <div class="card h-100">
             <div class="card-header">
                About
             </div>
