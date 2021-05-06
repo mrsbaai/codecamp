@@ -97,8 +97,8 @@
       <div class="card-header">Projects 
          <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a project</button>
       </div>
-        <div class="card-body">
-         <table class="table table-bordered table-striped">
+        <div class="card-body p-0">
+         <table class="table table-striped m-0">
             <tbody>
                 <tr>
                     <td><input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
@@ -116,9 +116,7 @@
         </div>
      </div>
   </div>
-
-</div>
-<div class="col-xl-6 pb-5">
+  <div class="col-xl-6 pb-5">
    <div class="card">
       <div class="card-header">Skills 
          <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a skill</button>
@@ -131,6 +129,9 @@
 </div>
 
 </div>
+
+
+</div>
 @endsection
 
 @section('head')
@@ -138,7 +139,7 @@
 @endsection
 
 
-@section('bottom')
+@section('footer')
 <script src="{{ asset('js/edit-portfolio.js') }}" ></script>
 @endsection
 
