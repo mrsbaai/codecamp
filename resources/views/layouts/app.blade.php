@@ -124,13 +124,13 @@
 
 
         <!-- Grid container -->
-        <div class="container pt-5 pb-5">
+        <div class="container pt-5 pb-0">
           <!--Grid row-->
           <div class="row">
             <!--Grid column-->
-            <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
+            <div class="col-lg-4 col-md-12 col-sm-12">
                 <h4>Get Notified About Upcoming Events</h4>
-              <div class="input-group mb-3">
+              <div class="input-group mb-3 pt-2">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
                     <button class="btn btn-primary btn-lg rounded-right" type="button">Subscribe</button>
