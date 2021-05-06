@@ -172,36 +172,36 @@
 
             <!--Grid column-->
             <div class="col-lg-4 col-6 ">
-                <h2>Services</h2>
+                <h4>Services</h4>
       
                 <ul class="list-unstyled mb-0">
-                  <h5>
+                  <h6>
                       <a class="text-white" href="/job">{{ __('Find a job') }}</a>
-                  </h5>
-                  <h5>
+                  </h6>
+                  <h6>
                       <a class="text-white" href="/events">{{ __('Live Events') }}</a>
-                  </h5>
-                  <h5>
+                  </h6>
+                  <h6>
                       <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
-                  </h5>
+                  </h6>
                 </ul>
               </div>
               <!--Grid column-->
       
               <!--Grid column-->
               <div class="col-lg-4 col-6">
-                <h2>Links</h2>
+                <h4>Links</h4>
       
                 <ul class="list-unstyled">
-                  <h5>
+                  <h6>
                       <a class="text-white" href="/news">{{ __('News') }}</a>
-                  </h5>
-                  <h5>
+                  </h6>
+                  <h6>
                       <a class="text-white" href="/contact">{{ __('Contact') }}</a>
-                  </h5>
-                  <h5>
+                  </h6>
+                  <h6>
                       <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
-                  </h5>
+                  </h6>
                 </ul>
               </div>
             <!--Grid column-->
