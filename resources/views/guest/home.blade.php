@@ -58,7 +58,7 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-users"></i></h1>
                             <h4 class="card-title">For Coworking</h4>
-                            <p class="card-text">Get access to our affordable coworking space, for a professional work envirment.</p>
+                            <p class="card-text">Get access to our affordable coworking space, for a professional work environment.</p>
                             <a href="#" class="btn btn-w mt-auto">What is coworking?</a>
                         </div>
                     </div>
