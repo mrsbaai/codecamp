@@ -4,12 +4,13 @@
 
    
 
-<div class="row">
+
    <div class="card">
       <div class="card-header">
          Face photo
       </div>
       <div class="card-body face-photo-card">
+         <div class="row">
          <div class="col-xl-6 pb-5">
             <div class="text-center">
                <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle">
@@ -63,8 +64,9 @@
             @enderror
          </div>
       </div>
+      </div>
    </div>
-</div>
+
 
 
 
