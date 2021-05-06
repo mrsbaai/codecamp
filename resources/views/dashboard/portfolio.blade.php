@@ -40,7 +40,9 @@
              Face photo
            </div>
            <div class="card-body face-photo-card">
-            <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle">
+              <div class="text-center">
+                  <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle">
+              </div>
             <div class="custom-file">
                <input type="file" accept="image" class="custom-file-input" id="photo" name="photo" required>
                <label class="custom-file-label" for="photo">Choose photo...</label>
