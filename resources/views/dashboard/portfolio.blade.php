@@ -39,8 +39,8 @@
            <div class="card-header">
              Face photo
            </div>
-           <div class="card-body">
-            <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead-avatar mb-5 rounded-circle" alt="Full Stack Developer Tetouan">
+           <div class="card-body face-photo-card">
+            <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle">
             <div class="custom-file">
                <input type="file" accept="image" class="custom-file-input" id="photo" name="photo" required>
                <label class="custom-file-label" for="photo">Choose photo...</label>

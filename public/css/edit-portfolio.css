@@ -115,7 +115,7 @@
 	    min-height: 100px;
 	}
 	
-	.masthead .masthead-avatar {
+	.masthead {
 	    width: 15rem;
 	    height: 15rem;
 	    object-fit: cover;
@@ -123,4 +123,8 @@
 	
 	.rounded-circle {
 	    border-radius: 50% !important;
+	}
+	
+	.face-photo-card {
+	    background-color: #1ABC9C;
 	}
