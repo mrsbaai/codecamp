@@ -129,9 +129,8 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
-                <h2>Get Notified</h2>
-                <h5 class="mb-4">About New Events</h5>
-              <div class="input-group mb-3 pr-5 pl-5">
+                <h4>Get Notified About Upcoming Events</h4>
+              <div class="input-group mb-3">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
                     <button class="btn btn-primary btn-lg rounded-right" type="button">Subscribe</button>
