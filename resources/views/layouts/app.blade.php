@@ -175,15 +175,15 @@
                 <h2>Services</h2>
       
                 <ul class="list-unstyled mb-0">
-                  <h2>
+                  <h5>
                       <a class="text-white" href="/job">{{ __('Find a job') }}</a>
-                  </h2>
-                  <h2>
+                  </h5>
+                  <h5>
                       <a class="text-white" href="/events">{{ __('Live Events') }}</a>
-                  </h2>
-                  <h2>
+                  </h5>
+                  <h5>
                       <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
-                  </h2>
+                  </h5>
                 </ul>
               </div>
               <!--Grid column-->
@@ -193,23 +193,15 @@
                 <h4>Links</h4>
       
                 <ul class="list-unstyled">
-                  <h2>
-                      <a class="text-white" href="/main">{{ __('Home') }}</a>
-                  </h2>
-                  <h2>
+                  <h5>
                       <a class="text-white" href="/news">{{ __('News') }}</a>
-                  </h2>
-                  <h2>
+                  </h5>
+                  <h5>
                       <a class="text-white" href="/contact">{{ __('Contact') }}</a>
-                  </h2>
-                  <h2>
-                      <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a>
-                  </h2>
-                  <h2>
-                      @if (Route::has('register'))
-                      <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
-                      @endif
-                  </h2>
+                  </h5>
+                  <h5>
+                      <a class="text-white" href="{{ route('login') }}">{{ __('Login') }}</a> / <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                  </h5>
                 </ul>
               </div>
             <!--Grid column-->
