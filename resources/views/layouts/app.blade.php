@@ -129,8 +129,8 @@
           <div class="row">
             <!--Grid column-->
             <div class="col-lg-4 col-md-12 col-sm-12">
-                <h4>Get Notified About Upcoming Events</h4>
-              <div class="input-group mb-3 pt-2">
+                <h4>Upcoming Events</h4>
+              <div class="input-group mb-3 pt-3">
                 <input type="text" class="form-control form-control-lg " placeholder="your@email">
                 <div class="input-group-append">
                     <button class="btn btn-primary btn-lg rounded-right" type="button">Subscribe</button>
@@ -138,7 +138,18 @@
               </div>
 
 
-              <div class="container p-1 pb-0">
+              
+
+
+
+            </div>
+
+<div class="col-lg-4 col-md-12 col-sm-12">
+                <h4>Around The Web</h4>
+              
+
+
+              <div class="container pt-2 pb-0">
                 <!-- Section: Social media -->
                 <!-- Facebook -->
                 <a class="btn btn-outline-light btn-lg btn-floating m-1 social-btn " href="#!" role="button"
@@ -170,43 +181,41 @@
     
 
             <!--Grid column-->
-            <div class="col-lg-4 col-6 ">
+            <div class="col-lg-2 col-6 ">
                 <h4>Services</h4>
       
                 <ul class="list-unstyled mb-0">
                   <h6>
-                      <a class="text-white" href="/job">{{ __('Find a job') }}</a>
+                      <a class="text-white" href="/job">Find a job</a>
                   </h6>
                   <h6>
-                      <a class="text-white" href="/events">{{ __('Live Events') }}</a>
+                      <a class="text-white" href="/events">Live Events</a>
                   </h6>
                   <h6>
-                      <a class="text-white" href="/coworking">{{ __('Coworking') }}</a>
+                      <a class="text-white" href="/coworking">Coworking</a>
                   </h6>
                 </ul>
               </div>
               <!--Grid column-->
       
               <!--Grid column-->
-              <div class="col-lg-4 col-6">
+              <div class="col-lg-2 col-6">
                 <h4>Links</h4>
       
                 <ul class="list-unstyled">
                   <h6>
-                      <a class="text-white" href="/news">{{ __('News') }}</a>
+                      <a class="text-white" href="/news">News</a>
                   </h6>
                   <h6>
-                      <a class="text-white" href="/contact">{{ __('Contact') }}</a>
+                      <a class="text-white" href="/contact">Contact</a>
                   </h6>
                   <h6>
-                      <a class="text-white" href="{{ route('register') }}">{{ __('Register') }}</a>
+                      <a class="text-white" href="https://codecamp.ma/register">Register</a>
                   </h6>
                 </ul>
               </div>
             <!--Grid column-->
           </div>
-          <!--Grid row-->
-        </div>
         <!-- Grid container -->
 
 
