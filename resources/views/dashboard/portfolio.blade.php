@@ -2,12 +2,13 @@
 @section('content')
 <div class="container pt-4">
    <div class="row">
-      <div class="col-xl-6 pb-5">
+
          <div class="card">
             <div class="card-header">
               Face photo
             </div>
             <div class="card-body face-photo-card">
+               <div class="col-xl-6 pb-5">
                <div class="text-center">
                    <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle">
                </div>
@@ -20,17 +21,10 @@
                 </span>
                 @enderror
               </div>
+               </div>
+               <div class="col-xl-6 pb-5">
                
-            </div>
-         </div>
-      </div>
 
-      <div class="col-xl-6 pb-5">
-         <div class="card">
-            <div class="card-header">
-               About
-            </div>
-            <div class="card-body">
                <div class="input-group mb-3">
                   <div class="input-group-prepend">
                      <span class="input-group-text">https://codecamp.ma/</span>
@@ -71,6 +65,7 @@
                <strong>{{ $message }}</strong>
             </span>
             @enderror
+            </div>
             </div>
          </div>
       </div>
