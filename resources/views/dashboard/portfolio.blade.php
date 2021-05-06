@@ -56,7 +56,7 @@
                <div class="input-group mb-3">
                   <textarea id="title" type="text" class="form-control" name="title" placeholder="I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas....."></textarea>
                </div>
-               <div class="input-group mb-3">
+               <div class="input-group mb-0">
                   <div class="input-group-prepend">
                      <span class="input-group-text">youtube.com/watch?v=</span>
                   </div>
