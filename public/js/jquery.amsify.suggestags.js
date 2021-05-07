@@ -71,7 +71,6 @@
                     this.selector = selector;
                     this.name = ($(selector).attr('name')) ? $(selector).attr('name') + '_amsify' : 'amsify_suggestags';
                     this.createHTML();
-                    alert("22")
                     this.setEvents();
                     $(this.selector).hide();
                     this.setDefault();
@@ -99,7 +98,6 @@
             },
 
             setEvents: function() {
-                alert("11")
                 var _self = this;
                 $(this.selectors.inputArea).attr('style', $(this.selector).attr('style'))
                     .addClass($(this.selector).attr('class'));
