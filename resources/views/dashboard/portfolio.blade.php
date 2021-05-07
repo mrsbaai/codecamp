@@ -86,7 +86,34 @@
                <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a skill</button>
             </div>
             <div class="card-body">
-               table
+               
+               <div class="text-center">
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Laravel</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Symfony</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">CodeIgniter</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Zend Framework</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Yii Framework</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">CakePHP</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Slim</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Phalcon</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">FuelPHP</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Fat-Free Framework</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Apache</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Linux</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Nginx</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">PHP</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">MongoDB</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Express</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">AngularJS</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Nodejs</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Python</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Django</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">MySQL</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">JavaScript</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Ruby</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">SQLite</p></span>
+                  <span class="badge badge-primary p-2 m-2 "><p class="display-5 m-1">Rails</p></span>
+              </div>
       
             </div>
          </div>
