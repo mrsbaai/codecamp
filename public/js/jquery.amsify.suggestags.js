@@ -123,6 +123,7 @@
                     } else if (keycode == '8' && !$(this).val()) {
                         var removeClass = _self.classes.readyToRemove.substring(1);
                         if ($(this).hasClass(removeClass)) {
+                            alert("test4")
                             $item = $(this).closest(_self.classes.inputArea).find(_self.classes.tagItem + ':last');
                             _self.removeTag($item, false);
                             $(this).removeClass(removeClass);
@@ -222,6 +223,7 @@
             setRemoveEvent: function() {
                 var _self = this;
                 $(this.selectors.inputArea).find(this.classes.removeTag).click(function(e) {
+                    alert("test3")
                     e.stopImmediatePropagation();
                     $tagItem = $(this).closest(_self.classes.tagItem);
                     _self.removeTag($tagItem, false);
@@ -340,7 +342,7 @@
             },
 
             setIcon: function() {
-                alert("test2");
+
                 var removeClass = this.classes.removeTag.substring(1);
                 if (settings.type == 'bootstrap') {
                     return '<span class="fa fa-times ' + removeClass + '"></span>';
