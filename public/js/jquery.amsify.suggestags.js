@@ -298,6 +298,7 @@
             },
 
             removeTag: function(item, animate) {
+                alert("test");
                 this.tagNames.splice($(item).index(), 1);
                 this.animateRemove(item, animate);
                 this.setInputValue();
