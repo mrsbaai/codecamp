@@ -151,13 +151,12 @@
 
 @section('footer')
 <script src="{{ asset('js/edit-portfolio.js') }}" ></script>
-
 <script src="{{ asset('js/jquery.amsify.suggestags.js') }}" ></script>
 <script type="text/javascript">
 
 
 	$('input[name="skills"]').amsifySuggestags({
-		suggestions: ['Black', 'White', 'Red', 'Blue', 'Green', 'Orange']
+		suggestions: ['Laravel', 'Symfony', 'CodeIgniter', 'Zend Framework', 'Yii Framework', 'CakePHP', 'Slim', 'Phalcon', 'FuelPHP', 'Apache', 'Linux', 'Nginx', 'PHP', 'MongoDB', 'Express', 'AngularJS', 'Nodejs', 'Python', 'Django', 'MySQL', 'JavaScript', 'Ruby', 'SQLite', 'Rails']
 	});
 	
 
