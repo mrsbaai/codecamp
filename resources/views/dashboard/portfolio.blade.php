@@ -88,31 +88,31 @@
             <div class="card-body">
 
                <div class="text-center">
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Laravel</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Symfony</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">CodeIgniter</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Zend Framework</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Yii Framework</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">CakePHP</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Slim</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Phalcon</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">FuelPHP</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Fat-Free Framework</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Apache</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Linux</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Nginx</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">PHP</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">MongoDB</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Express</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">AngularJS</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Nodejs</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Python</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Django</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">MySQL</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">JavaScript</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Ruby</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">SQLite</p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Rails</p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Laravel <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Symfony <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">CodeIgniter <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Zend Framework <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Yii Framework <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">CakePHP <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Slim <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Phalcon <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">FuelPHP <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Fat-Free Framework <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Apache <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Linux <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Nginx <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">PHP <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">MongoDB <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Express <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">AngularJS <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Nodejs <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Python <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Django <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">MySQL <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">JavaScript <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Ruby <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">SQLite <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
+                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Rails <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
               </div>
       
             </div>
