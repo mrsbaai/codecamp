@@ -87,7 +87,7 @@
             </div>
             <div class="card-body p-0">
                <div class="input-group input-group-lg">
-                  <input id="skills" style="border:0px;" type="text" value="example" class="form-control" name="skills" placeholder="Please input your skills here" required>
+                  <input id="skills" style="border:0px;" type="text" class="form-control" name="skills" placeholder="Please input your skills here" required>
                </div>
                @error('skills')
                <span class="invalid-feedback" role="alert">
@@ -154,11 +154,29 @@
 <script src="{{ asset('js/jquery.amsify.suggestags.js') }}" ></script>
 <script type="text/javascript">
 
+$('input[name="country"]').amsifySuggestags();
 	$('input[name="skills"]').amsifySuggestags({
-		suggestions: ['Laravel', 'Symfony', 'CodeIgniter', 'Zend Framework', 'Yii Framework', 'CakePHP', 'Slim', 'Phalcon', 'FuelPHP', 'Apache', 'Linux', 'Nginx', 'PHP', 'MongoDB', 'Express', 'AngularJS', 'Nodejs', 'Python', 'Django', 'MySQL', 'JavaScript', 'Ruby', 'SQLite', 'Rails'],
+		suggestions: ['Black', 'White', 'Red', 'Blue', 'Green', 'Orange']
+	});
+	$('input[name="planets"]').amsifySuggestags({
+		suggestions: ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupitor', 'Uranus', 'Neptune', 'Pluto'],
 		whiteList: true
 	});
 
+	$('input[name="fruits"]').amsifySuggestags({
+		suggestions: ['Apple', 'Banana', 'Cherries', 'Dates', 'Guava'],
+		classes: ['bg-primary', 'bg-success', 'bg-danger', 'bg-warning', 'bg-info'],
+		whiteList: true,
+		afterAdd : function(value) {
+			console.info(value);
+		},
+		afterRemove : function(value) {
+			console.info(value);
+		},
+	});
+	$('input[name="anything"]').amsifySuggestags({
+		tagLimit: 5
+	});
 </script>
 @endsection
 
