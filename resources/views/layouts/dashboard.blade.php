@@ -17,10 +17,9 @@
 
 
     <!-- Font Awesome JS -->
-  
-    <link href="https://use.fontawesome.com/releases/v5.0.13/css/svg-with-js.css" rel="stylesheet" />
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
     
-    <!-- Favicons -->
+        <!-- Favicons -->
 
         <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('img/favicon/apple-icon-57x57.png') }}">
         <link rel="apple-touch-icon" sizes="60x60" href="{{ asset('img/favicon/apple-icon-60x60.png') }}">
