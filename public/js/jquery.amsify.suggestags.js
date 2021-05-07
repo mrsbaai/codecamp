@@ -298,7 +298,7 @@
             },
 
             removeTag: function(item, animate) {
-                this.tagNames.splice($(item).index(), 0);
+                this.tagNames.splice($(item).index(), 1);
                 this.animateRemove(item, animate);
                 this.setInputValue();
                 $(this.selector).trigger('suggestags.remove', [$(item).attr('data-val')]);
