@@ -222,7 +222,6 @@
             setRemoveEvent: function() {
                 var _self = this;
                 $(this.selectors.inputArea).find(this.classes.removeTag).click(function(e) {
-                    alert("test44")
                     e.stopImmediatePropagation();
                     $tagItem = $(this).closest(_self.classes.tagItem);
                     _self.removeTag($tagItem, false);
