@@ -82,39 +82,20 @@
    <div class="row">
       <div class="col-12 pb-5">
          <div class="card">
-            <div class="card-header">Skills 
-               <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a skill</button>
+            <div class="card-header">
+               Skills 
             </div>
             <div class="card-body">
+               <div class="input-group mb-3">
+                  <input id="skills" type="text" value="example" class="form-control" name="skills" placeholder="Please input your skills here" required>
+               </div>
+               @error('skills')
+               <span class="invalid-feedback" role="alert">
+               <strong>{{ $message }}</strong>
+               </span>
+               @enderror
 
-               <div class="text-center">
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Laravel <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Symfony <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">CodeIgniter <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Zend Framework <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Yii Framework <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">CakePHP <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Slim <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Phalcon <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">FuelPHP <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Fat-Free Framework <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Apache <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Linux <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Nginx <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">PHP <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">MongoDB <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Express <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">AngularJS <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Nodejs <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Python <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Django <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">MySQL <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">JavaScript <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Ruby <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">SQLite <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-                    <span class="badge badge-dark p-2 m-2 "><p class="display-5 m-1">Rails <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a></p></span>
-              </div>
-      
+
             </div>
          </div>
       </div>
@@ -164,11 +145,21 @@
 
 @section('head')
 <link rel="stylesheet" href="{{ asset('css/edit-portfolio.css') }}" />
+<link rel="stylesheet" href="{{ asset('css/amsify.suggestags.css') }}" />
 @endsection
 
 
 @section('footer')
 <script src="{{ asset('js/edit-portfolio.js') }}" ></script>
+<script src="{{ asset('js/jquery.amsify.suggestagsjs') }}" ></script>
+<script type="text/javascript">
+
+	$('input[name="skills"]').amsifySuggestags({
+		suggestions: ['Laravel', 'Symfony', 'CodeIgniter', 'Zend Framework', 'Yii Framework', 'CakePHP', 'Slim', 'Phalcon', 'FuelPHP', 'Apache', 'Linux', 'Nginx', 'PHP', 'MongoDB', 'Express', 'AngularJS', 'Nodejs', 'Python', 'Django', 'MySQL', 'JavaScript', 'Ruby', 'SQLite', 'Rails'],
+		whiteList: true
+	});
+
+</script>
 @endsection
 
 
