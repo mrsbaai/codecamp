@@ -85,9 +85,9 @@
             <div class="card-header">
                Skills 
             </div>
-            <div class="card-body">
-               <div class="input-group mb-3">
-                  <input id="skills" type="text" value="example" class="form-control" name="skills" placeholder="Please input your skills here" required>
+            <div class="card-body p-0">
+               <div class="input-group input-group-lg">
+                  <input id="skills" style="border:0px;" type="text" value="example" class="form-control" name="skills" placeholder="Please input your skills here" required>
                </div>
                @error('skills')
                <span class="invalid-feedback" role="alert">
