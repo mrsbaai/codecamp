@@ -151,7 +151,7 @@
 
 @section('footer')
 <script src="{{ asset('js/edit-portfolio.js') }}" ></script>
-<script src="{{ asset('js/jquery.amsify.suggestagsjs') }}" ></script>
+<script src="{{ asset('js/jquery.amsify.suggestags.js') }}" ></script>
 <script type="text/javascript">
 
 	$('input[name="skills"]').amsifySuggestags({
