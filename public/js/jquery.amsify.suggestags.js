@@ -298,7 +298,7 @@
             },
 
             removeTag: function(item, animate) {
-                alert("test");
+                alert("test1");
                 this.tagNames.splice($(item).index(), 1);
                 this.animateRemove(item, animate);
                 this.setInputValue();
@@ -340,6 +340,7 @@
             },
 
             setIcon: function() {
+                alert("test2");
                 var removeClass = this.classes.removeTag.substring(1);
                 if (settings.type == 'bootstrap') {
                     return '<span class="fa fa-times ' + removeClass + '"></span>';
