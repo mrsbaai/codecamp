@@ -17,7 +17,8 @@
 
 
     <!-- Font Awesome JS -->
-    <script src="https://use.fontawesome.com/releases/v5.15.2/js/all.js" data-mutate-approach="sync"></script>
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+
         <!-- Favicons -->
 
         <link rel="apple-touch-icon" sizes="57x57" href="{{ asset('img/favicon/apple-icon-57x57.png') }}">
