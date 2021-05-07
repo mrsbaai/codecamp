@@ -339,7 +339,7 @@
             },
 
             setIcon: function() {
-                var removeClass = this.classes.removeTag.substring(0);
+                var removeClass = this.classes.removeTag.substring(1);
                 if (settings.type == 'bootstrap') {
                     return '<span class="fa fa-times ' + removeClass + '"></span>';
                 } else if (settings.type == 'materialize') {
