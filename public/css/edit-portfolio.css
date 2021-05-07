@@ -128,3 +128,9 @@
 	.face-photo-card {
 	    background-color: #1ABC9C;
 	}
+	
+	.display-5 {
+	    font-size: 1.2rem;
+	    font-weight: 800;
+	    line-height: 1.2;
+	}
