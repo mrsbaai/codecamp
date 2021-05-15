@@ -15,7 +15,7 @@ $(document).ready(function() {
             '</td>' +
             '</tr>';
         $("table").prepend(row);
-        // $("table tbody tr").eq(index + 1).find(".add").toggle();
+        $("table tbody tr").eq(index + 1).find(".add").toggle();
         $('[data-toggle="tooltip"]').tooltip();
     });
     // Add row on add button click
