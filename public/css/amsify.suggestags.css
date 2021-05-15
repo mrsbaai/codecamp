@@ -107,7 +107,7 @@
 
 .amsify-suggestags-input-area .amsify-select-tag {
     padding: 2px 7px;
-    margin: 0px 4px 1px 0px;
+    margin: -2px 4px 1px 0px;
     -webkit-border-radius: 2px;
     -moz-border-radius: 2px;
     border-radius: 2px;
