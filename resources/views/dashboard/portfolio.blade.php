@@ -64,17 +64,7 @@
                      <strong>{{ $message }}</strong>
                      </span>
                      @enderror
-                     <div class="input-group mb-0">
-                        <div class="input-group-prepend">
-                           <span class="input-group-text" style="border-color:#1ABC9C">Skills</span>
-                        </div>
-                        <input id="skills"  type="text" class="" name="skills" placeholder="Please type  your skills here" required>
-                     </div>
-                     @error('skills')
-                     <span class="invalid-feedback" role="alert">
-                     <strong>{{ $message }}</strong>
-                     </span>
-                     @enderror
+
                      
                   </div>
                </div>
@@ -85,6 +75,27 @@
 
 
 
+   <div class="row">
+      <div class="col-12 pb-5">
+         <div class="card">
+            <div class="card-header">
+               Skills 
+            </div>
+            <div class="card-body p-0">
+               <div class="input-group input-group-lg">
+                  <input id="skills" style="border:0px;" type="text" class="form-control" name="skills" placeholder="Please type  your skills here" required>
+               </div>
+               @error('skills')
+               <span class="invalid-feedback" role="alert">
+               <strong>{{ $message }}</strong>
+               </span>
+               @enderror
+
+
+            </div>
+         </div>
+      </div>
+ </div>
 
  <div class="row">
   <div class="col-xl-6 pb-5">
