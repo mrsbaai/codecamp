@@ -153,7 +153,7 @@
     -webkit-transition: all 0.2s;
 }
 .picture:hover{
-    border-color: #2ca8ff;
+    border-color: #ff3b30;
 }
 .content.ct-wizard-green .picture:hover{
     border-color: #05ae0e;
