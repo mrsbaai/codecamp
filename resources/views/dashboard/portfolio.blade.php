@@ -110,7 +110,6 @@
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          </div>
-        </div>
 
 
         </div>
