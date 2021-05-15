@@ -104,11 +104,13 @@
          <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a project</button>
       </div>
         <div class="card-body p-0">
+         <div class="amsify-suggestags-input-area form-control" style="border:0px;">
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
-         
+         </div>
+
 
         </div>
      </div>
