@@ -1,4 +1,9 @@
-.amsify-suggestags-area {}
+.amsify-suggestags-area:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #ffb0bb;
+    outline: 0;
+}
 
 .amsify-suggestags-area .amsify-suggestags-input-area-default {
     cursor: pointer;
