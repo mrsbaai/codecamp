@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $('[data-toggle="tooltip"]').tooltip();
-    var actions = $("table td:last-child").html();
+    var actions = $("table td:first-child").html();
     // Append table with add row form on add new button click
     $(".add-new").click(function() {
         var index = $("table tbody tr:first-child").index();
