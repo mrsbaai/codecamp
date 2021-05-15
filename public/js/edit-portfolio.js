@@ -1,8 +1,8 @@
 $(document).ready(function() {
     $('[data-toggle="tooltip"]').tooltip();
-    var actions = $("table td:first-child").html();
+    var actions = $("table td:last-child").html();
+    // Append table with add row form on add new button click
     $(".add-new").click(function() {
-        $(this).attr("disabled", "disabled");
         var index = $("table tbody tr:first-child").index();
         var row = '<tr>' +
             '<td><input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" ></td>' +
@@ -11,7 +11,7 @@ $(document).ready(function() {
             '<td><input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" ></td>' +
             '<td>' + actions + '</td>' +
             '</tr>';
-        $("table").append(row);
+        $("table").prepend(row);
         $("table tbody tr").eq(index + 1).find(".add").toggle();
         $('[data-toggle="tooltip"]').tooltip();
     });
@@ -31,13 +31,12 @@ $(document).ready(function() {
         if (!empty) {
 
             $(this).parents("tr").find(".add").toggle();
-            $(".add-new").removeAttr("disabled");
+
         }
     });
 
     // Delete row on delete button click
     $(document).on("click", ".delete", function() {
         $(this).parents("tr").remove();
-        $(".add-new").removeAttr("disabled");
     });
 });
