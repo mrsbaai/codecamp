@@ -3,34 +3,23 @@
 <div class="container pt-4">
 
    <div class="row">
-      <div class="col-xl-3 pb-5">
-         <div class="card h-100">
-            <div class="card-header">
-               Face photo
-            </div>
-            <div class="card-body face-photo-card">
+      <div class="card h-100">
+         <div class="card-header">
+            About
+         </div>
+         <div class="card-body">
+            <div class="col-xl-3 pb-5">
                <div class="text-center">
-                  <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle">
-               </div>
-               <div class="custom-file ">
-                  <input type="file" accept="image" class="custom-file-input" id="photo" name="photo" required>
-                  <label class="custom-file-label" for="photo">Choose photo...</label>
-                  @error('photo')
+                  <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle" id="wizardPicturePreview">
+                  <input type="file" id="wizard-picture" accept="image" name="wizard-picture" class="">
+                  @error('wizard-picture')
                   <span class="invalid-feedback" role="alert">
                   <strong>{{ $message }}</strong>
                   </span>
                   @enderror
-               </div>
+               </div>   
             </div>
-         </div>
-   
-      </div>
-      <div class="col-xl-9 pb-5">
-         <div class="card h-100">
-            <div class="card-header">
-               About
-            </div>
-            <div class="card-body">
+            <div class="col-xl-9 pb-5">
                <div class="input-group mb-3">
                   <div class="input-group-prepend">
                      <span class="input-group-text">https://codecamp.ma/</span>
@@ -68,12 +57,11 @@
                </span>
                @enderror
             </div>
+
+  
          </div>
       </div>
-    
-    
-    </div>
-   
+   </div>
 
 
 
@@ -159,6 +147,22 @@
 		suggestions: ['Laravel', 'Symfony', 'CodeIgniter', 'Zend Framework', 'Yii Framework', 'CakePHP', 'Slim', 'Phalcon', 'FuelPHP', 'Apache', 'Linux', 'Nginx', 'PHP', 'MongoDB', 'Express', 'AngularJS', 'Nodejs', 'Python', 'Django', 'MySQL', 'JavaScript', 'Ruby', 'SQLite', 'Rails']
 	});
 	
+   $(document).ready(function(){
+   // Prepare the preview for profile picture
+    $("#wizard-picture").change(function(){
+        readURL(this);
+    });
+   });
+   function readURL(input) {
+      if (input.files && input.files[0]) {
+         var reader = new FileReader();
+
+         reader.onload = function (e) {
+               $('#wizardPicturePreview').attr('src', e.target.result).fadeIn('slow');
+         }
+         reader.readAsDataURL(input.files[0]);
+      }
+   }
 
 </script>
 @endsection
