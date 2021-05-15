@@ -68,7 +68,7 @@
                         <div class="input-group-prepend">
                            <span class="input-group-text">Skills</span>
                         </div>
-                        <input id="skills"  type="text" class="form-control" name="skills" placeholder="Please type  your skills here" required>
+                        <input id="skills"  type="text" class="" name="skills" placeholder="Please type  your skills here" required>
                      </div>
                      @error('skills')
                      <span class="invalid-feedback" role="alert">

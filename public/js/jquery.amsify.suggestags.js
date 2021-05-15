@@ -78,7 +78,7 @@
             },
 
             createHTML: function() {
-                var HTML = '<div class="' + this.classes.sTagsArea.substring(1) + '"></div>';
+                var HTML = '<div class="form-control ' + this.classes.sTagsArea.substring(1) + '"></div>';
                 this.selectors.sTagsArea = $(HTML).insertAfter(this.selector);
                 var labelHTML = '<div class="' + this.classes.inputArea.substring(1) + '"></div>';
                 this.selectors.inputArea = $(labelHTML).appendTo(this.selectors.sTagsArea);
