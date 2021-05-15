@@ -1,5 +1,4 @@
 $(document).ready(function() {
-    var actions = $("table td:last-child").html();
     // Append table with add row form on add new button click
     $(".add-new").click(function() {
         var index = $("table tbody tr:first-child").index();
@@ -9,6 +8,8 @@ $(document).ready(function() {
             '<td><input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"  ></td>' +
             '<td><input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" ></td>' +
             '<td>' +
+
+            '<a class="delete" title="Delete"><i class="fa fa-trash"></i></a>' +
             '<a class="add" title="Add"><i class="fa fa-thumbs-up"></i></a>' +
             '<a class="delete" title="Delete"><i class="fa fa-trash"></i></a>' +
             '</td>' +
