@@ -10,7 +10,7 @@
             </div>
             <div class="card-body">
                <div class="row">
-                  <div class="col-xl-6">
+                  <div class="col-xl-4">
                      <div class="text-center">
                         <div class="picture-container">
                            <div class="picture">
@@ -27,7 +27,7 @@
                      </div>   
 
                   </div>
-                  <div class="col-xl-6">
+                  <div class="col-xl-8">
                      <div class="input-group mb-3">
                         <div class="input-group-prepend">
                            <span class="input-group-text">https://codecamp.ma/</span>
@@ -53,7 +53,7 @@
                      <div class="input-group mb-3">
                         <textarea id="title" type="text" class="form-control" name="title" placeholder="I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas....."></textarea>
                      </div>
-                     <div class="input-group mb-0">
+                     <div class="input-group mb-3">
                         <div class="input-group-prepend">
                            <span class="input-group-text">youtube.com/watch?v=</span>
                         </div>
@@ -68,7 +68,7 @@
                         <div class="input-group-prepend">
                            <span class="input-group-text">Skills</span>
                         </div>
-                        <input id="skills" style="border:0px;" type="text" class="form-control" name="skills" placeholder="Please type  your skills here" required>
+                        <input id="skills"  type="text" class="form-control" name="skills" placeholder="Please type  your skills here" required>
                      </div>
                      @error('skills')
                      <span class="invalid-feedback" role="alert">
