@@ -101,7 +101,7 @@
   <div class="col-xl-6 pb-5">
      <div class="card">
       <div class="card-header">Projects 
-         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a project</button>
+         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_project"><i class="fa fa-plus"></i> Add a project</button>
       </div>
         <div class="card-body p-0">
          <div class="amsify-suggestags-input-area form-control" style="border:0px;">
@@ -118,7 +118,7 @@
   <div class="col-xl-6 pb-5">
    <div class="card">
      <div class="card-header">Education
-        <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
+        <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_education"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
      </div>
       <div class="card-body">
         table
@@ -130,6 +130,88 @@
 </div>
 
 
+</div>
+
+
+
+<div class="modal fade" id="add_project" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
+   <div class="modal-dialog modal-lg" role="document">
+
+     <!--Content-->
+     <div class="modal-content">
+       <div class="modal-header pr-4 pl-4">
+           <h4 class="modal-title text-muted"><i class="fas fa-plus "></i><small>Add A project</small></h4>
+           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+             <span aria-hidden="true">&times;</span>
+           </button>
+         </div>
+
+       <!--Body-->
+       <div class="modal-body mb-0 p-0">
+          feilds here
+             
+       </div>
+
+       <!--Footer-->
+       <div class="modal-footer justify-content-center text-center">
+          
+         <div class="row justify-content-center ">
+            <div class="col-lg-4">
+                <div class="text-center ">
+                    <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-edit"></i> Add</a> 
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="text-center ">
+                    <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Cancel</a> 
+                </div>
+            </div>
+            </div>
+
+       </div>
+
+     </div>
+
+     <div class="modal fade" id="add_education" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
+      <div class="modal-dialog modal-lg" role="document">
+   
+        <!--Content-->
+        <div class="modal-content">
+          <div class="modal-header pr-4 pl-4">
+              <h4 class="modal-title text-muted"><i class="fas fa-plus "></i><small>Add Education</small></h4>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+   
+          <!--Body-->
+          <div class="modal-body mb-0 p-0">
+             feilds here
+                
+          </div>
+   
+          <!--Footer-->
+          <div class="modal-footer justify-content-center text-center">
+             
+            <div class="row justify-content-center ">
+               <div class="col-lg-4">
+                   <div class="text-center ">
+                       <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-edit"></i> Add</a> 
+                   </div>
+               </div>
+               <div class="col-lg-4">
+                   <div class="text-center ">
+                       <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Cancel</a> 
+                   </div>
+               </div>
+               </div>
+   
+          </div>
+   
+        </div>
+     <!--/.Content-->
+
+   </div>
 </div>
 @endsection
 
