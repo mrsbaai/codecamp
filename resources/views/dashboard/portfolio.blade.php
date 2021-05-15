@@ -3,62 +3,66 @@
 <div class="container pt-4">
 
    <div class="row">
-      <div class="card h-100">
-         <div class="card-header">
-            About
-         </div>
-         <div class="card-body">
-            <div class="col-xl-3 pb-5">
-               <div class="text-center">
-                  <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle" id="wizardPicturePreview">
-                  <input type="file" id="wizard-picture" accept="image" name="wizard-picture" class="">
-                  @error('wizard-picture')
-                  <span class="invalid-feedback" role="alert">
-                  <strong>{{ $message }}</strong>
-                  </span>
-                  @enderror
-               </div>   
+      <div class="col-12 pb-5">
+         <div class="card h-100">
+            <div class="card-header">
+               About
             </div>
-            <div class="col-xl-9 pb-5">
-               <div class="input-group mb-3">
-                  <div class="input-group-prepend">
-                     <span class="input-group-text">https://codecamp.ma/</span>
-                  </div>
-                  <input id="username" type="text" class="form-control" name="username" placeholder="youssef123" required>
-               </div>
-               <div class="input-group mb-3">
-                  <div class="input-group-prepend">
-                     <span class="input-group-text">{{ __('I\'m') }}</span>
-                  </div>
-                  <input id="title" type="text" class="form-control" name="title" placeholder="A Full Stack Developer" required>
-               </div>
-               @error('title')
-               <span class="invalid-feedback" role="alert">
-               <strong>{{ $message }}</strong>
-               </span>
-               @enderror
-               @error('username')
-               <span class="invalid-feedback" role="alert">
-               <strong>{{ $message }}</strong>
-               </span>
-               @enderror
-               <div class="input-group mb-3">
-                  <textarea id="title" type="text" class="form-control" name="title" placeholder="I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas....."></textarea>
-               </div>
-               <div class="input-group mb-0">
-                  <div class="input-group-prepend">
-                     <span class="input-group-text">youtube.com/watch?v=</span>
-                  </div>
-                  <input id="video" type="text" class="form-control" name="video" placeholder="Ex: rF5dtpTLqkY" required>
-               </div>
-               @error('video')
-               <span class="invalid-feedback" role="alert">
-               <strong>{{ $message }}</strong>
-               </span>
-               @enderror
-            </div>
+            <div class="card-body">
+               <div class="col-12">
+                  <div class="col-xl-6">
+                     <div class="text-center">
+                        <img src="https://i.imgur.com/KmeTFmn.jpg" class="masthead mb-4 rounded-circle" id="wizardPicturePreview">
+                        <input type="file" id="wizard-picture" accept="image" name="wizard-picture" class="">
+                        @error('wizard-picture')
+                        <span class="invalid-feedback" role="alert">
+                        <strong>{{ $message }}</strong>
+                        </span>
+                        @enderror
+                     </div>   
 
-  
+                  </div>
+                  <div class="col-xl-6">
+                     <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                           <span class="input-group-text">https://codecamp.ma/</span>
+                        </div>
+                        <input id="username" type="text" class="form-control" name="username" placeholder="youssef123" required>
+                     </div>
+                     <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                           <span class="input-group-text">{{ __('I\'m') }}</span>
+                        </div>
+                        <input id="title" type="text" class="form-control" name="title" placeholder="A Full Stack Developer" required>
+                     </div>
+                     @error('title')
+                     <span class="invalid-feedback" role="alert">
+                     <strong>{{ $message }}</strong>
+                     </span>
+                     @enderror
+                     @error('username')
+                     <span class="invalid-feedback" role="alert">
+                     <strong>{{ $message }}</strong>
+                     </span>
+                     @enderror
+                     <div class="input-group mb-3">
+                        <textarea id="title" type="text" class="form-control" name="title" placeholder="I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas....."></textarea>
+                     </div>
+                     <div class="input-group mb-0">
+                        <div class="input-group-prepend">
+                           <span class="input-group-text">youtube.com/watch?v=</span>
+                        </div>
+                        <input id="video" type="text" class="form-control" name="video" placeholder="Ex: rF5dtpTLqkY" required>
+                     </div>
+                     @error('video')
+                     <span class="invalid-feedback" role="alert">
+                     <strong>{{ $message }}</strong>
+                     </span>
+                     @enderror
+                     
+                  </div>
+               </div>
+            </div>
          </div>
       </div>
    </div>
