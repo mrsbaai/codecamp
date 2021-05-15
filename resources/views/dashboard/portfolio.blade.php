@@ -14,7 +14,7 @@
                      <div class="text-center">
                         <div class="picture-container">
                            <div class="picture">
-                               <img src="https://i.imgur.com/qTOdNAr.jpg" class="picture-src masthead mb-4 rounded-circle" id="wizardPicturePreview" title="">
+                               <img src="https://i.imgur.com/iQbRJoq.jpg" class="picture-src masthead mb-4 rounded-circle" id="wizardPicturePreview" title="">
                                <input type="file" id="wizard-picture" name="picture" accept="image"   class="">
                            </div>
                             <h6 class="p-3">Choose Photo</h6>
@@ -104,21 +104,12 @@
          <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"><i class="fa fa-plus"></i> Add a project</button>
       </div>
         <div class="card-body p-0">
-         <table class="table table-striped m-0">
-            <tbody>
-                <tr>
-                    <td><input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
-                    <td><textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies."</textarea></td>
-                    <td><input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)" value="https://codecamp.ma"></td>
-                    <td><input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" value="2020"></td>
-                    <td>
-                       <a class="add" title="Add" data-toggle="tooltip"><i class="fa fa-thumbs-up"></i></a>
-                       <a class="delete" title="Delete" data-toggle="tooltip"><i class="fa fa-trash"></i></a>
-                    </td>
-                </tr>
-                     
-            </tbody>
-        </table>
+         <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
+         <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
+         <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
+         <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
+         
+
         </div>
      </div>
   </div>

@@ -8,10 +8,7 @@ $(document).ready(function() {
             '<td><input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"  ></td>' +
             '<td><input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" ></td>' +
             '<td>' +
-
-            '<a class="ok" title="ok"><i class="fa fa-plus"></i></a>' +
-
-            '<a class="delete" title="Delete"><i class="fa fa-trash"></i></a>' +
+            '<a class="add" title="Add project"><i class="fa fa-plus"></i></a>' +
             '</td>' +
             '</tr>';
         $("table").prepend(row);
