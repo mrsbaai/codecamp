@@ -14,7 +14,7 @@
                      <div class="text-center">
                         <div class="picture-container">
                            <div class="picture">
-                               <img src="hhttps://i.imgur.com/qTOdNAr.jpg" class="picture-src masthead mb-4 rounded-circle" id="wizardPicturePreview" title="">
+                               <img src="https://i.imgur.com/qTOdNAr.jpg" class="picture-src masthead mb-4 rounded-circle" id="wizardPicturePreview" title="">
                                <input type="file" id="wizard-picture" name="picture" accept="image"   class="">
                            </div>
                             <h6 class="p-3">Choose Photo</h6>
