@@ -1,10 +1,9 @@
 $(document).ready(function() {
     $('[data-toggle="tooltip"]').tooltip();
-    var actions = $("table td:last-child").html();
-    // Append table with add row form on add new button click
+    var actions = $("table td:first-child").html();
     $(".add-new").click(function() {
         $(this).attr("disabled", "disabled");
-        var index = $("table tbody tr:last-child").index();
+        var index = $("table tbody tr:first-child").index();
         var row = '<tr>' +
             '<td><input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" ></td>' +
             '<td><textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)" ></textarea></td>' +
