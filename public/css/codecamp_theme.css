@@ -914,7 +914,7 @@ pre code {
     background-color: #fff;
     border-color: #ffb0bb;
     outline: 0;
-    box-shadow: 0 0 0 0.1rem rgba(255, 48, 79, 0.25);
+    box-shadow: 0 0 0 0;
 }
 
 .form-control::placeholder {
