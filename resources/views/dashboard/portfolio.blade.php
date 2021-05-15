@@ -66,7 +66,7 @@
                      @enderror
                      <div class="input-group mb-0">
                         <div class="input-group-prepend">
-                           <span class="input-group-text">Skills</span>
+                           <span class="input-group-text" style="border-color:#1ABC9C">Skills</span>
                         </div>
                         <input id="skills"  type="text" class="" name="skills" placeholder="Please type  your skills here" required>
                      </div>
@@ -153,7 +153,7 @@
     -webkit-transition: all 0.2s;
 }
 .picture:hover{
-    border-color: #ff3b30;
+    border-color: #1ABC9C;
 }
 .content.ct-wizard-green .picture:hover{
     border-color: #05ae0e;

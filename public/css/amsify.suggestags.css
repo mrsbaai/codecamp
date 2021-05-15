@@ -1,8 +1,7 @@
-.amsify-suggestags-area:focus {
-    color: #495057;
-    background-color: #fff;
-    border-color: #ffb0bb;
-    outline: 0;
+.amsify-suggestags-area {
+    border-top-color: #1ABC9C;
+    border-right-color: #1ABC9C;
+    border-bottom-color: #1ABC9C;
 }
 
 .amsify-suggestags-area .amsify-suggestags-input-area-default {
