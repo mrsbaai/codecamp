@@ -344,19 +344,12 @@ $(document).ready(function() {
     }
   });
   $(document).on('click', '.amsify-remove-tag', function () {    
-   alert($(this).attr('elem-id')]);
-   $(this).parent('.amsify-select-tag').remove();
-
+    $(this).parent('.amsify-select-tag').remove()
   })
 
   $(document).on('click', '.add-project', function () {    
-
-      $( '<span class="amsify-select-tag col-bg" elem-id="22345">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
-      $( '<input elem-id="22345" name="projects[22345][name]" value="a">' ).appendTo( '.project-variables' );
-      $( '<input elem-id="22345" name="projects[22345][description]" value="b">' ).appendTo( '.project-variables' );
-      $( '<input elem-id="22345" name="projects[22345][link]" value="c">' ).appendTo( '.project-variables' );
-      $( '<input elem-id="22345" name="projects[22345][release]" value="d">' ).appendTo( '.project-variables' );
-
+      $( '<span class="amsify-select-tag col-bg" data-val="this is">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
+      $( 'test' ).appendTo( '.project-variables' );
   })
 });
 
