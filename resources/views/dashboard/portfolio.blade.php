@@ -354,11 +354,11 @@ $(document).ready(function() {
 
   $(document).on('click', '.add-project', function () {  
       var id = Math.random().toString(36).substring(7);    
-      $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">' + $('#project_name').val() + '&nbsp;<span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
-      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_name]" value="' + $('#project_name').val()  +  '">' ).appendTo( '.project-variables' );
-      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_description]" value="' +  $('#project_description').val()  + '">' ).appendTo( '.project-variables' );
-      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_link]" value="'  + $('#project_link').val()  + '">' ).appendTo( '.project-variables' );
-      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_release]" value="'  + $('#project_release').val() +  '">' ).appendTo( '.project-variables' );
+      $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">' + $('#project_name').val() + '&nbsp;<span class="fa fa-times amsify-remove-tag"></span></span>' ).prependTo( '.project-titles' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_name]" value="' + $('#project_name').val()  +  '">' ).prependTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_description]" value="' +  $('#project_description').val()  + '">' ).prependTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_link]" value="'  + $('#project_link').val()  + '">' ).prependTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_release]" value="'  + $('#project_release').val() +  '">' ).prependTo( '.project-variables' );
 
   })
 });
