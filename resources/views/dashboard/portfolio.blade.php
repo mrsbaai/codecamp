@@ -140,7 +140,7 @@
      <!--Content-->
      <div class="modal-content">
        <div class="modal-header pr-4 pl-4">
-           <h4 class="modal-title text-muted"><i class="fas fa-plus "></i><small>Add A project</small></h4>
+           <h4 class="modal-title text-muted">Add A project</small></h4>
            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
              <span aria-hidden="true">&times;</span>
            </button>
@@ -148,73 +148,30 @@
 
        <!--Body-->
        <div class="modal-body mb-0 p-0">
-          feilds here
+         
+            <input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
+        
+            <textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies."</textarea></td>
+         
+            <input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)" value="https://codecamp.ma"></td>
+        
+            <input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" value="2020"></td>
+         
              
        </div>
 
        <!--Footer-->
-       <div class="modal-footer justify-content-center text-center">
+       <div class="modal-footer justify-content-right">
           
-         <div class="row justify-content-center ">
-            <div class="col-lg-4">
-                <div class="text-center ">
-                    <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-edit"></i> Add</a> 
-                </div>
-            </div>
-            <div class="col-lg-4">
-                <div class="text-center ">
-                    <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Cancel</a> 
-                </div>
-            </div>
-            </div>
+         <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Cancel</a> 
 
        </div>
 
      </div>
    </div>
-
-     <div class="modal fade" id="add_education" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
-      <div class="modal-dialog modal-lg" role="document">
-   
-        <!--Content-->
-        <div class="modal-content">
-          <div class="modal-header pr-4 pl-4">
-              <h4 class="modal-title text-muted"><i class="fas fa-plus "></i><small>Add Education</small></h4>
-              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span aria-hidden="true">&times;</span>
-              </button>
-            </div>
-   
-          <!--Body-->
-          <div class="modal-body mb-0 p-0">
-             feilds here
-                
-          </div>
-   
-          <!--Footer-->
-          <div class="modal-footer justify-content-center text-center">
-             
-            <div class="row justify-content-center ">
-               <div class="col-lg-4">
-                   <div class="text-center ">
-                       <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-edit"></i> Add</a> 
-                   </div>
-               </div>
-               <div class="col-lg-4">
-                   <div class="text-center ">
-                       <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Cancel</a> 
-                   </div>
-               </div>
-               </div>
-   
-          </div>
-   
-        </div>
-     <!--/.Content-->
-
-   </div>
-     </div>
 </div>
+
+     
 @endsection
 
 @section('head')
