@@ -101,8 +101,8 @@
   <div class="col-xl-6 pb-5">
      <div class="card">
       <div class="card-header">Projects</div>
-        <div class="card-body p-0">
-         <div class="amsify-suggestags-input-area form-control d-flex h-100 project-titles" style="border:0px;">
+        <div class="card-body p-2">
+         <div class="amsify-suggestags-input-area project-titles" style="border:0px;">
             <button type="button" data-toggle="modal" data-target="#add_project" class="btn btn-outline-dark add-new"><i class="fa fa-plus"></i> Add</button>
 
          </div>
@@ -354,7 +354,7 @@ $(document).ready(function() {
 
   $(document).on('click', '.add-project', function () {  
       var id = Math.random().toString(36).substring(7);    
-      $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">' + $('#project_name').val() + '<span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
+      $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">' + $('#project_name').val() + '&nbsp;<span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
       $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_name]" value="' + $('#project_name').val()  +  '">' ).appendTo( '.project-variables' );
       $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_description]" value="' +  $('#project_description').val()  + '">' ).appendTo( '.project-variables' );
       $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_link]" value="'  + $('#project_link').val()  + '">' ).appendTo( '.project-variables' );
