@@ -104,7 +104,7 @@
          <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_project"><i class="fa fa-plus"></i> Add a project</button>
       </div>
         <div class="card-body p-0">
-         <div class="amsify-suggestags-input-area form-control" style="border:0px;">
+         <div class="amsify-suggestags-input-area form-control d-flex h-100" style="border:0px;">
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
          <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
@@ -117,8 +117,8 @@
   </div>
   <div class="col-xl-6 pb-5">
    <div class="card">
-     <div class="card-header">Education
-        <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_education"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
+     <div class="card-header">Certificates
+        <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_certificate"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
      </div>
       <div class="card-body">
         
@@ -187,13 +187,13 @@
 
    
 
-<div class="modal fade" id="add_education" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
+<div class="modal fade" id="add_certificate" tabindex="-1" role="dialog" style="display: none;" aria-hidden="true">
    <div class="modal-dialog modal-lg" role="document">
 
      <!--Content-->
      <div class="modal-content">
        <div class="modal-header pr-4 pl-4">
-           <h4 class="modal-title text-muted">Add Education</small></h4>
+           <h4 class="modal-title text-muted">Add Certificate</small></h4>
            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
              <span aria-hidden="true">&times;</span>
            </button>
@@ -204,7 +204,7 @@
        <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="Degree" id="Degree" placeholder="Degree (Ex Lisence)"></td>
+               <input type="text" class="form-control" name="Degree" id="Degree" placeholder="Degree (Ex Lisence or Certificate)"></td>
             </div>
          </div>
 
