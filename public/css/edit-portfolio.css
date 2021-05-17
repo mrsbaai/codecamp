@@ -28,8 +28,9 @@
 	}
 	
 	.add-new {
-	    background: transparent !important;
-	    color: #343A40 !important;
+	    font-weight: 800;
+	    font-size: 150%;
+	    margin: 3px 4px 1px 0px;
 	}
 	
 	.table-title .add-new i {
