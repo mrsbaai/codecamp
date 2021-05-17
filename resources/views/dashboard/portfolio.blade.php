@@ -195,7 +195,7 @@
        <!--Footer-->
        <div class="modal-footer justify-content-right">
           
-         <button class="btn btn-outline-dark" href="#" onclick="$( '<p>Test</p>' ).insertAfter( '.project-titles' );"><i class="fas fa-edit"></i> Add</button> 
+         <button class="btn btn-outline-dark add-project"><i class="fas fa-edit"></i> Add</button> 
 
        </div>
 
@@ -329,12 +329,7 @@
 		suggestions: ['Laravel', 'Symfony', 'CodeIgniter', 'Zend Framework', 'Yii Framework', 'CakePHP', 'Slim', 'Phalcon', 'FuelPHP', 'Apache', 'Linux', 'Nginx', 'PHP', 'MongoDB', 'Express', 'AngularJS', 'Nodejs', 'Python', 'Django', 'MySQL', 'JavaScript', 'Ruby', 'SQLite', 'Rails']
 	});
 	
-   $(document).ready(function(){
-   // Prepare the preview for profile picture
-    $("#wizard-picture").change(function(){
-        readURL(this);
-    });
-   });
+
    function readURL(input) {
       if (input.files && input.files[0]) {
          var reader = new FileReader();
@@ -347,6 +342,11 @@
    }
 
 $(document).ready(function() {
+   // Prepare the preview for profile picture
+   $("#wizard-picture").change(function(){
+        readURL(this);
+    });
+
   $(window).keydown(function(event){
     if(event.keyCode == 13) {
       event.preventDefault();
@@ -355,6 +355,10 @@ $(document).ready(function() {
   });
   $(document).on('click', '.amsify-remove-tag', function () {    
     $(this).parent('.amsify-select-tag').remove()
+  })
+
+  $(document).on('click', '.add-project', function () {    
+      $( '<span class="amsify-select-tag col-bg">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).insertAfter( '.project-titles' );
   })
 });
 
