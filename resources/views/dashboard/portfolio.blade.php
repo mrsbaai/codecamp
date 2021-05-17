@@ -346,8 +346,7 @@ $(document).ready(function() {
 
 
   $('.amsify-remove-tag').on('click' , function () {    
-   var projectId = $(this).attr("projectId");
-    alert(projectId);
+
     $(this).parent('.amsify-select-tag').remove()
   })
 
