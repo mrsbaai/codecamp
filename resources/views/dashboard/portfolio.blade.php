@@ -349,10 +349,7 @@ $(document).ready(function() {
 
   $(document).on('click', '.add-project', function () {    
       $( '<span class="amsify-select-tag col-bg" data-val="this is">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).append( '.project-titles' );
-      $( '<input name="projects[22345][name]" value="a">' ).append( '.project-variables' );
-      $( '<input name="projects[22345][description]" value="b">' ).append( '.project-variables' );
-      $( '<input name="projects[22345][link]" value="c">' ).append( '.project-variables' );
-      $( '<input name="projects[22345][release]" value="d">' ).append( '.project-variables' );
+
   })
 });
 
