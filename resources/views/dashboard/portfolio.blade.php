@@ -1,7 +1,7 @@
 @extends('layouts.dashboard')
 @section('content')
 <div class="container pt-4">
-
+   {{ Form::open(array('action' => 'HomeController@UpdatePortfolio', 'id' => 'update-portfolio'))}}
    <div class="row">
       <div class="col-12 pb-5">
          <div class="card h-100">
@@ -129,6 +129,14 @@
 
 </div>
 
+<div class="row">
+   <div class="col-md-12 text-center mb-5">
+      <button type="submit" class="btn btn-primary btn-lg">
+      Update
+      </button>
+   </div>
+</div>
+{{ Form::close() }}
 
 </div>
 

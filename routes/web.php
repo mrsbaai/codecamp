@@ -55,6 +55,8 @@ Route::get('/home/settings', 'HomeController@ShowSettings')->name('UserSettings'
 Route::get('/home/news', 'HomeController@ShowUserNews')->name('UserNews');
 Route::get('/home/support', 'HomeController@ShowSupport')->name('support');
 
+Route::post('/home/portfolio','HomeController@UpdatePortfolio');
+
 
 
 

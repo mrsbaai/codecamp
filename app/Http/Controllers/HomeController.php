@@ -21,6 +21,14 @@ class HomeController extends Controller
      *
      * @return \Illuminate\Contracts\Support\Renderable
      */
+
+    public function UpdatePortfolio(Request $request)
+    {
+        return $request->all();
+        
+    }
+
+    
     public function index()
     {
         return view('dashboard.home');
