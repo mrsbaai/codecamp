@@ -109,6 +109,8 @@
 
          </div>
 
+         <div class="project-variables">
+         </div>
 
         </div>
      </div>
@@ -126,18 +128,6 @@
 
 
 </div>
-
-<input name="projects[22345][user_id]" value="1">
-<input name="projects[22345][name]" value="a">
-<input name="projects[22345][description]" value="b">
-<input name="projects[22345][link]" value="c">
-<input name="projects[22345][release]" value="d">
-
-<input name="projects[77653][user_id]" value="1">
-<input name="projects[77653][name]" value="e">
-<input name="projects[77653][description]" value="f">
-<input name="projects[77653][link]" value="g">
-<input name="projects[77653][release]" value="h">
 
 <div class="row">
    <div class="col-md-12 text-center mb-5">
@@ -358,7 +348,12 @@ $(document).ready(function() {
   })
 
   $(document).on('click', '.add-project', function () {    
-      $( '<span class="amsify-select-tag col-bg">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).insertAfter( '.project-titles' );
+      $( '<span class="amsify-select-tag col-bg" data-val="this is">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).append( '.project-titles' );
+      $( '<input name="projects[22345][name]" value="a">' ).append( '.project-variables' );
+      $( '<input name="projects[22345][description]" value="b">' ).append( '.project-variables' );
+      $( '<input name="projects[22345][link]" value="c">' ).append( '.project-variables' );
+      $( '<input name="projects[22345][release]" value="d">' ).append( '.project-variables' );
+
   })
 });
 
