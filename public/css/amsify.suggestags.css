@@ -12,6 +12,7 @@
 .amsify-suggestags-area .amsify-suggestags-input-area {
     text-align: left;
     height: auto;
+    min-height: 53px;
 }
 
 .amsify-suggestags-area .amsify-suggestags-input-area:hover {
@@ -21,7 +22,6 @@
 .amsify-suggestags-area .amsify-suggestags-input-area .amsify-suggestags-input {
     padding: 0px 4px;
     border: 0;
-    min-height: 36px;
 }
 
 .amsify-suggestags-area .amsify-suggestags-input-area .amsify-suggestags-input:focus {

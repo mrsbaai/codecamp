@@ -83,7 +83,7 @@
             </div>
             <div class="card-body p-0">
                <div class="input-group input-group-lg">
-                  <input id="skills" style="border:0px;" type="text" class="form-control" name="skills" placeholder="Please type  your skills here">
+                  <input id="skills" style="border:0px;" type="text" class="form-control amsify-suggestags-input" name="skills" placeholder="Please type  your skills here">
                </div>
                @error('skills')
                <span class="invalid-feedback" role="alert">
@@ -344,7 +344,9 @@ $(document).ready(function() {
     }
   });
   $(document).on('click', '.amsify-remove-tag', function () {    
-    $(this).parent('.amsify-select-tag').remove()
+   alert($(this).attr('elem-id')]);
+   $(this).parent('.amsify-select-tag').remove();
+
   })
 
   $(document).on('click', '.add-project', function () {    
