@@ -4,7 +4,7 @@
 
 
 <div class="text-center m-5">
-    <h3 class="text-light">TETOUAN <span class="text-green">- (live)</span></h3>
+    <h3>TETOUAN <span class="text-green">- (live)</span></h3>
 </div>
 
 <div class="row justify-content-center">
@@ -33,9 +33,5 @@
 Live Feed
 @endsection
 @section('head')
-<style>
-    body{
-        background-color: #343A40;
-    }
-</style>
+
 @endsection
