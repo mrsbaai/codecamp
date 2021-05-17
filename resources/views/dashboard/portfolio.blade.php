@@ -345,10 +345,15 @@ $(document).ready(function() {
   });
 
 
-  $('.amsify-remove-tag').on('click' , function () {    
+  $(document).on('click', '.amsify-select-tag' , function () {    
 
     $(this).parent('.amsify-select-tag').remove()
   })
+
+
+  $(".amsify-select-tag").click(function(event) {
+        alert(event.target.projectId);
+   });
 
   $(document).on('click', '.add-project', function () {    
       
