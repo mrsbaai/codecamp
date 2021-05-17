@@ -103,7 +103,7 @@
       <div class="card-header">Projects</div>
         <div class="card-body p-0">
          <div class="amsify-suggestags-input-area form-control d-flex h-100 project-titles" style="border:0px;">
-            <button type="button" data-toggle="modal" data-target="#add_project" class="btn btn-outline-dark amsify-select-tag col-bg add-new"><i class="fa fa-plus"></i> Add a project</button>
+            <button type="button" data-toggle="modal" data-target="#add_project" class="btn btn-outline-dark amsify-select-tag col-bg add-new"><i class="fa fa-plus"></i> Add</button>
 
          </div>
 
