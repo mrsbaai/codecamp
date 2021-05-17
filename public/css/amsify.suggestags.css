@@ -22,6 +22,7 @@
 .amsify-suggestags-area .amsify-suggestags-input-area .amsify-suggestags-input {
     padding: 0px 4px;
     border: 0;
+    font-size: 150%;
 }
 
 .amsify-suggestags-area .amsify-suggestags-input-area .amsify-suggestags-input:focus {
