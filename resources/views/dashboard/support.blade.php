@@ -3,7 +3,7 @@
 @extends('layouts.dashboard')
 @section('content')
 <div class="container pt-2">
-  <div class="d-flex my-3">
+  <div class="col d-flex justify-content-center">
     <div class="card">
         <div class="card-header">{{ __('How Can We Help?') }}</div>
         <div class="card-body">
