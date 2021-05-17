@@ -344,6 +344,7 @@ $(document).ready(function() {
     }
   });
   $(document).on('click', '.amsify-remove-tag', function () {    
+   alert($(this).attr('elem-id')]);
     $(this).parent('.amsify-select-tag').remove()
   })
 
