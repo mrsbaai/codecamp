@@ -129,6 +129,18 @@
 
 </div>
 
+<input name="projects[][user_id]" value="1">
+<input name="projects[][name]" value="a">
+<input name="projects[][description]" value="b">
+<input name="projects[][link]" value="c">
+<input name="projects[][release]" value="d">
+
+<input name="projects[][user_id]" value="1">
+<input name="projects[][name]" value="e">
+<input name="projects[][description]" value="f">
+<input name="projects[][link]" value="g">
+<input name="projects[][release]" value="h">
+
 <div class="row">
    <div class="col-md-12 text-center mb-5">
       <button type="submit" class="btn btn-primary btn-lg">
