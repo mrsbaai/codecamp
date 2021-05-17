@@ -100,12 +100,10 @@
  <div class="row">
   <div class="col-xl-6 pb-5">
      <div class="card">
-      <div class="card-header">Projects 
-         <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_project"><i class="fa fa-plus"></i> Add a project</button>
-      </div>
+      <div class="card-header">Projects</div>
         <div class="card-body p-0">
          <div class="amsify-suggestags-input-area form-control d-flex h-100 project-titles" style="border:0px;">
-         <span class="amsify-select-tag col-bg" data-val="this is">this is <span class="fa fa-times amsify-remove-tag"></span></span>
+            <button type="button" data-toggle="modal" data-target="#add_project" class="btn btn-info amsify-select-tag col-bg add-new"><i class="fa fa-plus"></i> Add a project</button>
 
          </div>
 
@@ -357,10 +355,10 @@ $(document).ready(function() {
   $(document).on('click', '.add-project', function () {  
       var id = Math.random().toString(36).substring(7);    
       $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">' + $('#project_name').val() + '<span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
-      $( '<input data-id="' + id + '" name="projects[' + id + '][project_name]" value="' + $('#project_name').val()  +  '">' ).appendTo( '.project-variables' );
-      $( '<input data-id="' + id + '" name="projects[' + id + '][project_description]" value="' +  $('#project_description').val()  + '">' ).appendTo( '.project-variables' );
-      $( '<input data-id="' + id + '" name="projects[' + id + '][project_link]" value="'  + $('#project_link').val()  + '">' ).appendTo( '.project-variables' );
-      $( '<input data-id="' + id + '" name="projects[' + id + '][project_release]" value="'  + $('#project_release').val() +  '">' ).appendTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_name]" value="' + $('#project_name').val()  +  '">' ).appendTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_description]" value="' +  $('#project_description').val()  + '">' ).appendTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_link]" value="'  + $('#project_link').val()  + '">' ).appendTo( '.project-variables' );
+      $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_release]" value="'  + $('#project_release').val() +  '">' ).appendTo( '.project-variables' );
 
   })
 });
