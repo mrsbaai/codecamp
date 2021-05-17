@@ -332,12 +332,6 @@
    }
 
 $(document).ready(function() {
-   
-  $(document).on('click', '.amsify-select-tag' , function () { 
-   
-$(this).parent('.amsify-select-tag').remove();
-})
-
    // Prepare the preview for profile picture
    $("#wizard-picture").change(function(){
         readURL(this);
@@ -351,7 +345,10 @@ $(this).parent('.amsify-select-tag').remove();
   });
 
 
-
+  $(document).on('click', '.amsify-select-tag' , function () {    
+    //$(this).parent('.amsify-select-tag').remove();
+    alert("me");
+  })
 
 
 
