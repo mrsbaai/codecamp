@@ -101,10 +101,9 @@
   <div class="col-xl-6 pb-5">
      <div class="card">
       <div class="card-header">Projects</div>
-        <div class="card-body p-2">
-         <div class="amsify-suggestags-input-area project-titles" style="border:0px;">
-            <button type="button" data-toggle="modal" data-target="#add_project" class="btn btn-outline-dark add-new"><i class="fa fa-plus"></i> Add</button>
-
+        <div class="card-body p-0">
+         <div class="amsify-suggestags-input-area project-titles" style="border:0px; padding: 7px 13px">
+            <span class="amsify-select-tag col-bg" type="button" data-toggle="modal" data-target="#add_project" ><i class="fa fa-plus"></i> Add</span>
          </div>
 
          <div class="project-variables">
