@@ -351,9 +351,7 @@ $(document).ready(function() {
   })
 
 
-  $(".amsify-select-tag").click(function(event) {
-        alert(event.target.projectId);
-   });
+
 
   $(document).on('click', '.add-project', function () {    
       
