@@ -159,22 +159,22 @@
        <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)"></td>
+               <input type="text" class="form-control" name="project_name" id="project_name" placeholder="Project name (Ex CodeCamp.ma)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)"></textarea></td>
+               <textarea type="text" class="form-control" name="project_description" id="project_description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)"></textarea></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"></td>
+               <input type="text" class="form-control" name="project_link" id="project_link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)"></td>
+               <input type="text" class="form-control" name="project_release" id="project_release" placeholder="Release Year (Ex 2020)"></td>
             </div>
          </div>
       </div>
@@ -345,27 +345,22 @@ $(document).ready(function() {
   });
 
 
-  $(document).on('click', '.amsify-remove-tag' , function () {    
-    
-    alert($(this).parent('.amsify-select-tag').attr("data-id"));
+  $(document).on('click', '.amsify-remove-tag' , function () {      
     var id = $(this).parent('.amsify-select-tag').attr("data-id");
-
     $(this).parent('.amsify-select-tag').remove();
-
     $('input[data-id="' + id + '"]').remove();
-
 
   })
 
 
 
-  $(document).on('click', '.add-project', function () {    
-      
-      $( '<span class="amsify-select-tag col-bg" data-id="22345">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
-      $( '<input data-id="22345" name="projects[22345][name]" value="a">' ).appendTo( '.project-variables' );
-      $( '<input data-id="22345" name="projects[22345][description]" value="b">' ).appendTo( '.project-variables' );
-      $( '<input data-id="22345" name="projects[22345][link]" value="c">' ).appendTo( '.project-variables' );
-      $( '<input data-id="22345" name="projects[22345][release]" value="d">' ).appendTo( '.project-variables' );
+  $(document).on('click', '.add-project', function () {  
+      var id = Math.random().toString(36).substring(7);    
+      $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
+      $( '<input data-id="' + id + '" name="projects[' + id + '][project_name]" value="' $('#project_name').val() '">' ).appendTo( '.project-variables' );
+      $( '<input data-id="' + id + '" name="projects[' + id + '][project_description]" value="' $('#project_description').val() '">' ).appendTo( '.project-variables' );
+      $( '<input data-id="' + id + '" name="projects[' + id + '][project_link]" value="' $('#project_link').val() '">' ).appendTo( '.project-variables' );
+      $( '<input data-id="' + id + '" name="projects[' + id + '][project_release]" value="' $('#project_release').val() '">' ).appendTo( '.project-variables' );
 
   })
 });
