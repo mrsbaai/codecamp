@@ -355,6 +355,9 @@ $(document).ready(function() {
       return false;
     }
   });
+  $(document).on('click', '.amsify-remove-tag', function () {    
+    $(this).parent('.amsify-select-tag').remove()
+  })
 });
 
 </script>
