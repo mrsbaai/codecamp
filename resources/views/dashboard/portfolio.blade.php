@@ -83,7 +83,7 @@
             </div>
             <div class="card-body p-0">
                <div class="input-group input-group-lg">
-                  <input id="skills" style="border:0px;" type="text" class="form-control" name="skills" placeholder="Please type  your skills here" required>
+                  <input id="skills" style="border:0px;" type="text" class="form-control" name="skills" placeholder="Please type  your skills here">
                </div>
                @error('skills')
                <span class="invalid-feedback" role="alert">
@@ -129,17 +129,17 @@
 
 </div>
 
-<input name="projects[][user_id]" value="1">
-<input name="projects[][name]" value="a">
-<input name="projects[][description]" value="b">
-<input name="projects[][link]" value="c">
-<input name="projects[][release]" value="d">
+<input name="projects[22345][user_id]" value="1">
+<input name="projects[22345][name]" value="a">
+<input name="projects[22345][description]" value="b">
+<input name="projects[22345][link]" value="c">
+<input name="projects[22345][release]" value="d">
 
-<input name="projects[][user_id]" value="1">
-<input name="projects[][name]" value="e">
-<input name="projects[][description]" value="f">
-<input name="projects[][link]" value="g">
-<input name="projects[][release]" value="h">
+<input name="projects[77653][user_id]" value="1">
+<input name="projects[77653][name]" value="e">
+<input name="projects[77653][description]" value="f">
+<input name="projects[77653][link]" value="g">
+<input name="projects[77653][release]" value="h">
 
 <div class="row">
    <div class="col-md-12 text-center mb-5">
