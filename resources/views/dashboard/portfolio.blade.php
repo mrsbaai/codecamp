@@ -353,7 +353,6 @@ $(document).ready(function() {
       $( '<input name="projects[22345][description]" value="b">' ).append( '.project-variables' );
       $( '<input name="projects[22345][link]" value="c">' ).append( '.project-variables' );
       $( '<input name="projects[22345][release]" value="d">' ).append( '.project-variables' );
-
   })
 });
 
