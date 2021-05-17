@@ -114,9 +114,7 @@
   </div>
   <div class="col-xl-6 pb-5">
    <div class="card">
-     <div class="card-header">Certificates
-        <button style="float:right" type="button" class="btn btn-info add-new btn-sm m-0 pt-0 pb-0"  data-toggle="modal" data-target="#add_certificate"><i class="fa fa-plus"></i> Add A Diploma/Degree/Certificate</button>
-     </div>
+     <div class="card-header">Certificates</div>
       <div class="card-body">
         
       </div>

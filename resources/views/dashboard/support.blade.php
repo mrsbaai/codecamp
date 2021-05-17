@@ -5,7 +5,7 @@
 
 
   <div class="d-flex my-3">
-    <div class="jumbotron w-100 py-5 mx-auto text-center">
+    <div class="jumbotron w-100 py-5 mx-auto text-center bg-dark text-light">
                 <h1 class="display-4 pb-4">How Can We Help?</h1>
     
                 <div class="form-row">
@@ -43,7 +43,7 @@
                 </div>
                 <div class="form-row">
                   <div class="col-12 form-group pb-2">
-                    <div class="text-right"><button  class="btn btn-dark" type="submit">Send</button></div>
+                    <div class="text-right"><button  class="btn btn-light" type="submit">Send</button></div>
                   </div>
                 </div>
       </div>
