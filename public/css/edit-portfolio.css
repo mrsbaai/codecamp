@@ -28,7 +28,7 @@
 	}
 	
 	.add-new {
-	    background-color: #0F81C7;
+	    background: #0F81C7 !important;
 	}
 	
 	.table-title .add-new i {
