@@ -343,7 +343,9 @@ $(document).ready(function() {
       return false;
     }
   });
-  $(document).on('click', '.amsify-remove-tag', function () {    
+
+
+  $('.amsify-remove-tag').on('click' , function () {    
    var elemid = $(this).attr("elemid");
     alert(elemid);
     $(this).parent('.amsify-select-tag').remove()
