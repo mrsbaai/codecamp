@@ -2,8 +2,8 @@
 
 @extends('layouts.dashboard')
 @section('content')
-<div class="container pt-2">
-  <div class="col d-flex justify-content-center">
+<div class="container vh-100 pt-2">
+  <div class="row h-75 justify-content-center align-items-center">
     <div class="card">
         <div class="card-header">{{ __('How Can We Help?') }}</div>
         <div class="card-body">

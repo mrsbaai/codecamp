@@ -2,8 +2,8 @@
 
 @section('content')
 
-<div class="container vh-100 pt-2">
-    <div class="row h-75 justify-content-center align-items-center" role="centred-form">
+<div class="container vh-100">
+    <div class="row h-100 justify-content-center align-items-center" role="centred-form">
         <div class="col-md-8">
             <div class="card">
                 <div class="card-header">{{ __('Login') }}</div>
