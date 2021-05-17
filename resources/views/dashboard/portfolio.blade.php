@@ -345,9 +345,9 @@ $(document).ready(function() {
   });
 
 
-  $(document).on('click', '.amsify-select-tag' , function () {    
-    //$(this).parent('.amsify-select-tag').remove();
-    alert("me");
+  $(document).on('click', '.amsify-remove-tag' , function () {    
+    $(this).parent('.amsify-select-tag').remove();
+    alert($(this).attr("projectId"));
   })
 
 
