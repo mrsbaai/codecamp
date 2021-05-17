@@ -148,31 +148,29 @@
 
        <!--Body-->
  
-
-      <div class="modal-body mb-0 p-0">
+       <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="Degree" id="Degree" placeholder="Degree (Ex Lisence)"></td>
-            </div>
-         </div>
-
-         <div class="col-12 my-1 mt-3">
-            <div class="input-group mb-3">
-               <input type="text" class="form-control" name="Major" id="Major" placeholder="Major (Ex Software Development)"></td>
-            </div>
-         </div>
-
-         <div class="col-12 my-1">
-            <div class="input-group mb-3">
-               <input type="text" class="form-control" name="establishment" id="establishment" placeholder="Establishment (Ex Université Abdelmalek Essaadi)"></td>
+               <input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="graduation" id="graduation" placeholder="Graduation Year (Ex 2020)"></td>
+               <textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)"></textarea></td>
+            </div>
+         </div>
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"></td>
+            </div>
+         </div>
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)"></td>
             </div>
          </div>
       </div>
+
 
 
 
@@ -203,30 +201,33 @@
 
        <!--Body-->
  
-
-      <div class="modal-body mb-0 p-0">
+       <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
+               <input type="text" class="form-control" name="Degree" id="Degree" placeholder="Degree (Ex Lisence)"></td>
+            </div>
+         </div>
+
+         <div class="col-12 my-1 mt-3">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="Major" id="Major" placeholder="Major (Ex Software Development)"></td>
+            </div>
+         </div>
+
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="establishment" id="establishment" placeholder="Establishment (Ex Université Abdelmalek Essaadi)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies."</textarea></td>
-            </div>
-         </div>
-         <div class="col-12 my-1">
-            <div class="input-group mb-3">
-               <input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)" value="https://codecamp.ma"></td>
-            </div>
-         </div>
-         <div class="col-12 my-1">
-            <div class="input-group mb-3">
-               <input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" value="2020"></td>
+               <input type="text" class="form-control" name="graduation" id="graduation" placeholder="Graduation Year (Ex 2020)"></td>
             </div>
          </div>
       </div>
 
+
+      
 
 
        <!--Footer-->
