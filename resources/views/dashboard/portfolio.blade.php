@@ -346,19 +346,26 @@ $(document).ready(function() {
 
 
   $(document).on('click', '.amsify-remove-tag' , function () {    
+    
+    alert($(this).parent('.amsify-select-tag').attr("data-id"));
+    var id = $(this).parent('.amsify-select-tag').attr("data-id");
+
     $(this).parent('.amsify-select-tag').remove();
-    alert($(this).parent('.amsify-select-tag').attr("projectId"));
+
+    $('input[data-id="' + id + '"]').remove();
+
+
   })
 
 
 
   $(document).on('click', '.add-project', function () {    
       
-      $( '<span class="amsify-select-tag col-bg" projectId="22345">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
-      $( '<input projectId="22345" name="projects[22345][name]" value="a">' ).appendTo( '.project-variables' );
-      $( '<input projectId="22345" name="projects[22345][description]" value="b">' ).appendTo( '.project-variables' );
-      $( '<input projectId="22345" name="projects[22345][link]" value="c">' ).appendTo( '.project-variables' );
-      $( '<input projectId="22345" name="projects[22345][release]" value="d">' ).appendTo( '.project-variables' );
+      $( '<span class="amsify-select-tag col-bg" data-id="22345">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).appendTo( '.project-titles' );
+      $( '<input data-id="22345" name="projects[22345][name]" value="a">' ).appendTo( '.project-variables' );
+      $( '<input data-id="22345" name="projects[22345][description]" value="b">' ).appendTo( '.project-variables' );
+      $( '<input data-id="22345" name="projects[22345][link]" value="c">' ).appendTo( '.project-variables' );
+      $( '<input data-id="22345" name="projects[22345][release]" value="d">' ).appendTo( '.project-variables' );
 
   })
 });
