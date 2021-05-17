@@ -348,7 +348,7 @@ $(document).ready(function() {
   })
 
   $(document).on('click', '.add-project', function () {    
-      $( '<span class="amsify-select-tag col-bg" data-val="this is">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).append( '.project-titles' );
+      $( '<span class="amsify-select-tag col-bg" data-val="this is">test <span class="fa fa-times amsify-remove-tag"></span></span>' ).insertAfter( '.project-titles' );
 
   })
 });
