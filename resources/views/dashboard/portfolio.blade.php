@@ -147,23 +147,37 @@
          </div>
 
        <!--Body-->
-       <div class="modal-body mb-0 p-0">
-         
-            <input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
-        
-            <textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies."</textarea></td>
-         
-            <input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)" value="https://codecamp.ma"></td>
-        
-            <input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" value="2020"></td>
-         
-             
-       </div>
+ 
+
+      <div class="modal-body mb-0 p-0">
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="name" id="name" placeholder="Project name (Ex CodeCamp.ma)" value="CodeCamp.ma"></td>
+            </div>
+         </div>
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <textarea type="text" class="form-control" name="description" id="description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies."</textarea></td>
+            </div>
+         </div>
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="link" id="link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)" value="https://codecamp.ma"></td>
+            </div>
+         </div>
+         <div class="col-12 my-1">
+            <div class="input-group mb-3">
+               <input type="text" class="form-control" name="release" id="release" placeholder="Release Year (Ex 2020)" value="2020"></td>
+            </div>
+         </div>
+      </div>
+
+
 
        <!--Footer-->
        <div class="modal-footer justify-content-right">
           
-         <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-trash-alt"></i> Cancel</a> 
+         <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-edit"></i> Add</a> 
 
        </div>
 
