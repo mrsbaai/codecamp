@@ -271,7 +271,7 @@
        <!--Footer-->
        <div class="modal-footer justify-content-right">
           
-         <a class="btn btn-outline-dark" href="#" role="button"><i class="fas fa-edit"></i> Add</a> 
+         <button class="btn btn-outline-dark add-certificate"><i class="fas fa-edit"></i> Add</button> 
 
        </div>
 
