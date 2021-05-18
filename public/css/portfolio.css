@@ -10342,6 +10342,11 @@ a.text-dark:focus {
     }
 }
 
+.lead-about {
+    font-size: 1.5rem;
+    font-weight: 800;
+}
+
 .portfolio-modal .close {
     position: absolute;
     z-index: 1;

@@ -239,13 +239,14 @@
                 </div>
                 <!-- About Section Content-->
                 <div class="row">
+
+                    <div class="col-lg-5 mr-auto"><p class="lead-about">I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas.....</p></div>
                     <div class="col-lg-5 ml-auto">
                         <div class="embed-responsive embed-responsive-16by9" style="border-radius: 0.5rem;">
                             <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZA0eyrP15iI" allowfullscreen></iframe>
                         </div>
                         
                     </div>
-                    <div class="col-lg-5 mr-auto"><p class="lead">I love coding, camping and traveling. I'm looking for parteners to work on innovative ideas.....</p></div>
                 </div>
 
             </div>
