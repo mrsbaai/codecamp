@@ -162,22 +162,34 @@
        <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Project Name</span>
+               </div>
                <input type="text" class="form-control" name="project_name" id="project_name" placeholder="Project name (Ex CodeCamp.ma)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <textarea type="text" class="form-control" name="project_description" id="project_description" placeholder="Decription (Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)"></textarea></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Decription</span>
+               </div>
+               <textarea type="text" class="form-control" name="project_description" id="project_description" placeholder="(Ex Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.)"></textarea></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="project_link" id="project_link" placeholder="Link (Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Link</span>
+               </div>
+               <input type="text" class="form-control" name="project_link" id="project_link" placeholder="(Ex https://www.codecamp.ma or FB.com/CodeCamp.ma)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="project_release" id="project_release" placeholder="Release Year (Ex 2020)"></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Release Year</span>
+               </div>
+               <input type="text" class="form-control" name="project_release" id="project_release" placeholder="(Ex 2020)"></td>
             </div>
          </div>
       </div>
@@ -215,24 +227,36 @@
        <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="certificate_degree" id="certificate_degree" placeholder="Degree (Ex Lisence or Certificate)"></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Degree</span>
+               </div>
+               <input type="text" class="form-control" name="certificate_degree" id="certificate_degree" placeholder="(Ex Lisence or Certificate)"></td>
             </div>
          </div>
 
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="certificate_major" id="certificate_major" placeholder="Major (Ex Software Development)"></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Major</span>
+               </div>
+               <input type="text" class="form-control" name="certificate_major" id="certificate_major" placeholder="(Ex Software Development)"></td>
             </div>
          </div>
 
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="certificate_establishment" id="certificate_establishment" placeholder="Establishment (Ex Université Abdelmalek Essaadi)"></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Establishment</span>
+               </div>
+               <input type="text" class="form-control" name="certificate_establishment" id="certificate_establishment" placeholder="(Ex Université Abdelmalek Essaadi)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="certificate_graduation" id="certificate_graduation" placeholder="Graduation Year (Ex 2020)"></td>
+               <div class="input-group-prepend">
+                  <span class="input-group-text">Graduation Year</span>
+               </div>
+               <input type="text" class="form-control" name="certificate_graduation" id="certificate_graduation" placeholder="(Ex 2020)"></td>
             </div>
          </div>
       </div>
