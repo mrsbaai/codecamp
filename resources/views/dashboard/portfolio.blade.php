@@ -57,7 +57,7 @@
                         <div class="input-group-prepend">
                            <span class="input-group-text">youtube.com/watch?v=</span>
                         </div>
-                        <input id="video" type="text" class="form-control" name="video" placeholder="Ex: rF5dtpTLqkY" required>
+                        <input id="video" type="text" class="form-control" name="video" placeholder="Ex: rF5dtpTLqkY">
                      </div>
                      @error('video')
                      <span class="invalid-feedback" role="alert">
@@ -112,14 +112,22 @@
         </div>
      </div>
   </div>
+
   <div class="col-xl-6 pb-5">
    <div class="card">
-     <div class="card-header">Certificates</div>
-      <div class="card-body">
-        
+    <div class="card-header">Certificates</div>
+      <div class="card-body p-0">
+       <div class="amsify-suggestags-input-area certificate-titles" style="border:0px; padding: 7px 13px">
+          <span class="amsify-select-tag col-bg" type="button" data-toggle="modal" data-target="#add_certificate" style="background-color: #0F81C7 !important;"><i class="fa fa-plus"></i> Add</span>
+       </div>
+
+       <div class="certificate-variables">
+       </div>
+
       </div>
    </div>
 </div>
+
 
 
 </div>
@@ -207,24 +215,24 @@
        <div class="modal-body mb-0 p-0">
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="Degree" id="Degree" placeholder="Degree (Ex Lisence or Certificate)"></td>
+               <input type="text" class="form-control" name="certificate_degree" id="certificate_degree" placeholder="Degree (Ex Lisence or Certificate)"></td>
             </div>
          </div>
 
          <div class="col-12 my-1 mt-3">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="Major" id="Major" placeholder="Major (Ex Software Development)"></td>
+               <input type="text" class="form-control" name="certificate_major" id="certificate_major" placeholder="Major (Ex Software Development)"></td>
             </div>
          </div>
 
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="establishment" id="establishment" placeholder="Establishment (Ex Université Abdelmalek Essaadi)"></td>
+               <input type="text" class="form-control" name="certificate_establishment" id="certificate_establishment" placeholder="Establishment (Ex Université Abdelmalek Essaadi)"></td>
             </div>
          </div>
          <div class="col-12 my-1">
             <div class="input-group mb-3">
-               <input type="text" class="form-control" name="graduation" id="graduation" placeholder="Graduation Year (Ex 2020)"></td>
+               <input type="text" class="form-control" name="certificate_graduation" id="certificate_graduation" placeholder="Graduation Year (Ex 2020)"></td>
             </div>
          </div>
       </div>
@@ -358,6 +366,19 @@ $(document).ready(function() {
       $( '<input hidden data-id="' + id + '" name="projects[' + id + '][project_release]" value="'  + $('#project_release').val() +  '">' ).prependTo( '.project-variables' );
 
   })
+
+  $(document).on('click', '.add-certificate', function () {  
+      var id = Math.random().toString(36).substring(7);    
+      $( '<span class="amsify-select-tag col-bg" data-id="' + id + '">' + $('#certificate_major').val() + '&nbsp;<span class="fa fa-times amsify-remove-tag"></span></span>' ).prependTo( '.certificate-titles' );
+      $( '<input hidden data-id="' + id + '" name="certificates[' + id + '][certificate_degree]" value="' + $('#certificate_degree').val()  +  '">' ).prependTo( '.certificate-variables' );
+      $( '<input hidden data-id="' + id + '" name="certificates[' + id + '][certificate_major]" value="' +  $('#certificate_major').val()  + '">' ).prependTo( '.certificate-variables' );
+      $( '<input hidden data-id="' + id + '" name="certificates[' + id + '][certificate_establishment]" value="'  + $('#certificate_establishment').val()  + '">' ).prependTo( '.certificate-variables' );
+      $( '<input hidden data-id="' + id + '" name="certificates[' + id + '][certificate_graduation]" value="'  + $('#certificate_graduation').val() +  '">' ).prependTo( '.certificate-variables' );
+
+  })
+
+
+
 });
 
 </script>
