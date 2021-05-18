@@ -10305,7 +10305,7 @@ a.text-dark:focus {
     }
 }
 
-.portfolio .portfolio-item {
+.portfolio-item {
     cursor: pointer;
     position: relative;
     display: block;

@@ -131,7 +131,7 @@
                     <div class="col-md-6 col-lg-4 mb-5">
                         
                             <div class="portfolio-item mx-auto bg-primary text-light">
-                                <div class="card-body bg-dark text-light">
+                                <div class="card-body bg-primary text-light">
                                     <h3 class="text-uppercase">Master</h3>
                                     <h4 class="text-uppercase">Software Engeneering</h4>
                                     <h5 class="text-uppercase">Université Abdelmalek Essaadi</h5>
