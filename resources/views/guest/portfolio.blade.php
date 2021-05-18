@@ -125,68 +125,10 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Education Section Content-->
-                <!-- Portfolio Grid Items-->
-                <div class="row justify-content-center">
-                    <!-- Portfolio Item 1-->
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <a href="https://codecamp.ma" title="Link to the project website">
-                            <div class="portfolio-item mx-auto bg-dark text-light">
-                                <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                    <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
-                                </div>
-                                <div class="card-body bg-dark text-light">
-                                    <h3 class="text-uppercase">CodeCamp.ma</h3>
-                                    <p class="card-text">Moroccan web experts community. An Initiative to highlight porductivity tools for entroponeurs, moroccan success stories, modern carer paths and informational technologies.
-                                        </p>
-                                    <div class="text-right">
-                                        <p class="card-text">Project Released at 2021</p>
-                                    </div>   
-                                </div>
-                                
-                            </div>
-                        </a>
-                    </div>
-                    <!-- Portfolio Item 2-->
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <a href="https://codecamp.ma" title="Link to the project website">
-                            <div class="portfolio-item mx-auto bg-dark text-light">
-                                <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                    <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
-                                </div>
-                                <div class="card-body bg-dark text-light">
-                                    <h3 class="text-uppercase">Mailing.nija</h3>
-                                    <p class="card-text">Exclusive Offers For Traffic Monetization & E-Mail List Building.
-                                        </p>
-                                    <div class="text-right">
-                                        <p class="card-text">Project Released at 2018</p>
-                                    </div>   
-                                </div>
-                                
-                            </div>
-                        </a>
-                    </div>
-                    
-                    <!-- Portfolio Item 3-->
-
-                    <div class="col-md-6 col-lg-4 mb-5">
-                        <a href="https://receive-sms.com" title="Link to the project website">
-                            <div class="portfolio-item mx-auto bg-dark text-light">
-                                <div class="portfolio-item-caption d-flex align-items-center justify-content-center h-100 w-100">
-                                    <div class="portfolio-item-caption-content text-center text-white"><i class="fas fa-link fa-3x"></i></div>
-                                </div>
-                                <div class="card-body bg-dark text-light">
-                                    <h3 class="text-uppercase">Receive-SMS.com</h3>
-                                    <p class="card-text">This tool can be useful if you want to protect your privacy by keeping your real phone number to yourself. 
-                                        </p>
-                                    <div class="text-right">
-                                        <p class="card-text">Project Released at 2008</p>
-                                    </div>   
-                                </div>
-                                
-                            </div>
-                        </a>
-                    </div>
- 
+                <div class="row">
+                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
+                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                </div>
             </div>
         </section>
 
