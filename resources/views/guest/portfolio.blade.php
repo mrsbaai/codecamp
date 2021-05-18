@@ -125,9 +125,26 @@
                     <div class="divider-custom-line"></div>
                 </div>
                 <!-- Education Section Content-->
-                <div class="row">
-                    <div class="col-lg-4 ml-auto"><p class="lead">Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</p></div>
-                    <div class="col-lg-4 mr-auto"><p class="lead">You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</p></div>
+                <!-- Portfolio Grid Items-->
+                <div class="row justify-content-center">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        
+                            <div class="portfolio-item mx-auto bg-primary text-light">
+                                <div class="card-body bg-dark text-light">
+                                    <h3 class="text-uppercase">Master</h3>
+                                    <h4 class="text-uppercase">Software Engeneering</h4>
+                                    <h5 class="text-uppercase">Université Abdelmalek Essaadi</h5>
+
+                                    <div class="text-right">
+                                        <p class="card-text">Graguated at 2021</p>
+                                    </div>   
+                                </div>
+                            </div>
+                      
+                    </div>
+ 
+
                 </div>
             </div>
         </section>
