@@ -270,7 +270,15 @@
     </div>
 
     <div class="col-12 py-3"></div>
-    <img class="img-fluid" src="{{ asset('img/guest/codecamp_0.PNG') }}">
+    <div class="row">
+        <div class="col-lg-2">
+        </div>
+        <div class="col-lg-8 mb-5">
+            <img class="img-fluid" src="https://codecamp.ma/img/guest/codecamp_0.PNG">
+        </div>
+        <div class="col-lg-2">
+        </div>      
+        </div>
     <div class="col-12 py-2"></div>
    
 </section>
