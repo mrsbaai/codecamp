@@ -273,7 +273,7 @@
     <div class="row">
         <div class="col-lg-2">
         </div>
-        <div class="col-lg-8 mb-5">
+        <div class="col-lg-8 p-0 mb-5">
             <img class="img-fluid" src="https://codecamp.ma/img/guest/codecamp_0.PNG">
         </div>
         <div class="col-lg-2">
