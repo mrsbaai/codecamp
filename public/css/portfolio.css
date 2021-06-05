@@ -10408,9 +10408,17 @@ form .row:first-child .floating-label-form-group {
 }
 
 .footer {
-    padding-top: 5rem;
-    padding-bottom: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
     background-color: #2c3e50;
+    color: #fff;
+}
+
+.footer a {
+    color: #fff;
+}
+
+.footer a:hover {
     color: #fff;
 }
 
