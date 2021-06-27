@@ -58,10 +58,10 @@
                     <!-- Authentication Links -->
                     @guest
                         <li class="nav-item">
-                            <a class="nav-link" href="/job">{{ __('Find a job') }}</a>
+                            <a class="nav-link" href="/main">{{ __('Home') }}</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/events">{{ __('Live Events') }}</a>
+                            <a class="nav-link" href="/events">{{ __('Events') }}</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/coworking">{{ __('Coworking') }}</a>
@@ -186,10 +186,7 @@
       
                 <ul class="list-unstyled mb-0 pt-2">
                   <h6>
-                      <a class="text-white" href="/job">Find a job</a>
-                  </h6>
-                  <h6>
-                      <a class="text-white" href="/events">Live Events</a>
+                      <a class="text-white" href="/events">Events</a>
                   </h6>
                   <h6>
                       <a class="text-white" href="/coworking">Coworking</a>

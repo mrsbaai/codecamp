@@ -33,22 +33,15 @@
         </div>
         <div class="col-12 my-auto">
             <div class="row text-center">
-                <div class="col-lg-4 mb-4">
-                    <div class="card bg-primary text-white h-100">
-                        <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                            <h1 class="display-2"><i class="fas fa-laptop-code"></i></h1>
-                            <h4 class="card-title">Find Partners</h4>
-                            <p class="card-text">Get exposure to job opportunities, and freelance projects. browse profiles and find pratners to work on your new innovative ideas.</p>
-                            <a href="#" class="btn btn-w mt-auto">Make a potfolio</a>
-                        </div>
-                    </div>
-                </div>
+
                 <div class="col-lg-4 mb-4">
                     <div class="card bg-primary text-white h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-hat-wizard"></i></h1>
-                            <h4 class="card-title">To Learn</h4>
-                            <p class="card-text">Watch CodeCamp video episodes, and get notified about new online and offline events.</p>
+                            <h4 class="card-title">Events</h4>
+                            <p class="card-text">Meet experts in your domain. We organize events at all levels, focusing on informational technologies, modern careers, moroccan success stories, productivity, ecommerce and online marketing.
+
+                            </p>
                             <a href="#" class="btn btn-w mt-auto">Next Event</a>
                         </div>
                     </div>
@@ -57,7 +50,7 @@
                     <div class="card bg-primary text-white h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-users"></i></h1>
-                            <h4 class="card-title">For Coworking</h4>
+                            <h4 class="card-title">Coworking</h4>
                             <p class="card-text">Get access to our affordable coworking space, for a professional work environment.</p>
                             <a href="#" class="btn btn-w mt-auto">What is coworking?</a>
                         </div>
@@ -67,7 +60,7 @@
         </div>
     </div>
 
-
+<!--
     <div class="col-12 my-auto text-center py-5">
         <h1>Episodes</h1>
     </div>
@@ -127,10 +120,10 @@
                 <div class="modal fade" id="episode1" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
                     <div class="modal-dialog modal-lg" role="document">
           
-                      <!--Content-->
+                     
                       <div class="modal-content">
           
-                        <!--Body-->
+                        
                         <div class="modal-body mb-0 p-0">
           
                           <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
@@ -139,7 +132,7 @@
           
                         </div>
           
-                        <!--Footer-->
+                        
                         <div class="modal-footer justify-content-center text-center">
                             <h6 class="mt-3 mb-3">
                                 To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a>, and get access to all our exlusive content.
@@ -148,7 +141,7 @@
                         </div>
           
                       </div>
-                      <!--/.Content-->
+                     
           
                     </div>
                 </div>
@@ -156,10 +149,10 @@
                 <div class="modal fade" id="episode2" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
                     <div class="modal-dialog modal-lg" role="document">
           
-                      <!--Content-->
+                     
                       <div class="modal-content">
           
-                        <!--Body-->
+                        
                         <div class="modal-body mb-0 p-0">
           
                           <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
@@ -168,7 +161,7 @@
           
                         </div>
           
-                        <!--Footer-->
+                        
                         <div class="modal-footer justify-content-center text-center">
                             <h6 class="mt-3 mb-3">
                                 To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a>, and get access to all our exlusive content.
@@ -177,7 +170,7 @@
                         </div>
           
                       </div>
-                      <!--/.Content-->
+                      
           
                     </div>
                 </div>
@@ -185,10 +178,9 @@
                 <div class="modal fade" id="episode3" tabindex="-1" role="dialog" aria-labelledby="episode title here" style="display: none;" aria-hidden="true">
                     <div class="modal-dialog modal-lg" role="document">
           
-                      <!--Content-->
+                     
                       <div class="modal-content">
           
-                        <!--Body-->
                         <div class="modal-body mb-0 p-0">
           
                           <div class="embed-responsive embed-responsive-16by9 z-depth-1-half">
@@ -197,7 +189,7 @@
           
                         </div>
           
-                        <!--Footer-->
+       
                         <div class="modal-footer justify-content-center text-center">
                             <h6 class="mt-3 mb-3">
                                 To watch the <u>Full Episode</u> please <a href="{{ route('register') }}">Register</a>, and get access to all our exlusive content.
@@ -206,11 +198,12 @@
                         </div>
           
                       </div>
-                      <!--/.Content-->
+                    
           
                     </div>
                 </div>
     </div>
+    -->
 
 
 
