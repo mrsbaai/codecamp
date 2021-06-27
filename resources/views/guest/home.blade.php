@@ -39,7 +39,7 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-hat-wizard"></i></h1>
                             <h2 class="card-title">Events</h2>
-                            <p class="card-text"><h5>Meet experts in your domain. We organize events at all levels.</h5>
+                            <p class="card-text"><h5>Meet experts in your domain, and learn practical insights about the latest tech & buisness trends.</h5>
 
                             </p>
                             <a href="#" class="btn btn-w mt-auto">Next Event?</a>
@@ -51,7 +51,7 @@
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-users"></i></h1>
                             <h2 class="card-title">Coworking</h2>
-                            <p class="card-text"><h5>Get access to our affordable coworking space, for a professional work environment.</h5></p>
+                            <p class="card-text"><h5>Get access to our affordable coworking space, for a productivity based work environment.</h5></p>
                             <a href="#" class="btn btn-w mt-auto">What is Coworking?</a>
                         </div>
                     </div>
