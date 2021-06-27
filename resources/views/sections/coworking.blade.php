@@ -11,7 +11,7 @@
                   <div class="card-body d-flex flex-column align-items-start">
                     <h4 class="card-title">What is CodeCamp Coworking?</h4>
                      <p class="card-text">Coworking is an arrangement in which workers of different companies share an office space, allowing cost savings and convenience through the use of common infrastructures, such as equipment, utilities, and receptionist and custodial services, and free refreshments.
-                        <br/>CodeCamp Coworking is well adapted for web entrepreneur, looking for a productivity based work environment.
+                        <br/><br/>CodeCamp Coworking is well adapted for web entrepreneur, looking for a productivity based work environment.
                     </p> 
                   </div>
     
