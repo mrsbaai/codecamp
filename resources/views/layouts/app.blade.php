@@ -145,7 +145,7 @@
             </div>
 
             <div class="col-lg-4 col-md-12 col-sm-12 pb-5">
-                <h4>Around The Web</h4>
+                <h4>Connect With Us</h4>
               
 
 
