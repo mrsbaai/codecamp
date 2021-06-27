@@ -34,25 +34,25 @@
         <div class="col-12 my-auto">
             <div class="row text-center">
 
-                <div class="col-lg-4 mb-4">
+                <div class="col-lg-6 mb-4">
                     <div class="card bg-primary text-white h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-hat-wizard"></i></h1>
                             <h4 class="card-title">Events</h4>
-                            <p class="card-text">Meet experts in your domain. We organize events at all levels, focusing on informational technologies, modern careers, moroccan success stories, productivity, ecommerce and online marketing.
+                            <p class="card-text">Meet experts in your domain. We organize events at all levels.
 
                             </p>
-                            <a href="#" class="btn btn-w mt-auto">Next Event</a>
+                            <a href="#" class="btn btn-w mt-auto">Next Event?</a>
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-4 mb-4">
+                <div class="col-lg-6 mb-4">
                     <div class="card bg-primary text-white h-100">
                         <div class="card-body d-flex flex-column justify-content-center align-items-center">
                             <h1 class="display-2"><i class="fas fa-users"></i></h1>
                             <h4 class="card-title">Coworking</h4>
                             <p class="card-text">Get access to our affordable coworking space, for a professional work environment.</p>
-                            <a href="#" class="btn btn-w mt-auto">What is coworking?</a>
+                            <a href="#" class="btn btn-w mt-auto">What is Coworking?</a>
                         </div>
                     </div>
                 </div>
