@@ -93,6 +93,6 @@ Route::get('/admin/show/requests/events', 'AdminController@ShowAdminEventRequest
 Route::get('/{username}', 'PortfolioController@ShowPortfolio')->name('ShowPortfolio');
 
 
-Route::get('/download/facebook_ads_advanced', 'PagesController@advanced');
-Route::get('/download/facebook_ads_basic', 'PagesController@basic');
+Route::get('/pdf/facebook_ads_advanced', 'PagesController@advanced');
+Route::get('/pdf/facebook_ads_basic', 'PagesController@basic');
 

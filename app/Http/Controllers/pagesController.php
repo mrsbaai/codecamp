@@ -53,7 +53,7 @@ class PagesController extends Controller
 
     public function advanced(){
         //PDF file is stored under project/public/download/info.pdf
-        $file= public_path(). "/download/FACEBOOK_ADS_2021_ADVANCED_TRAINING.pdf";
+        $file= public_path(). "/pdf/FACEBOOK_ADS_2021_ADVANCED_TRAINING.pdf";
 
         $headers = array(
                 'Content-Type: application/pdf',
@@ -63,7 +63,7 @@ class PagesController extends Controller
     }
     public function basic(){
         //PDF file is stored under project/public/download/info.pdf
-        $file= public_path(). "/download/FACEBOOK_ADS_2021_BASIC_TRAINING.pdf";
+        $file= public_path(). "/pdf/FACEBOOK_ADS_2021_BASIC_TRAINING.pdf";
 
         $headers = array(
                 'Content-Type: application/pdf',
