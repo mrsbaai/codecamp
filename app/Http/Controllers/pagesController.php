@@ -15,6 +15,7 @@ class PagesController extends Controller
         return view('underConstruction');
     }
 
+    
     public function homeTest(){
         return view('dashboard.home');
     }
@@ -50,6 +51,26 @@ class PagesController extends Controller
     }
 
 
+    public function advanced(){
+        //PDF file is stored under project/public/download/info.pdf
+        $file= public_path(). "/download/FACEBOOK_ADS_2021_ADVANCED_TRAINING.pdf";
+
+        $headers = array(
+                'Content-Type: application/pdf',
+                );
+
+        return Response::download($file, 'FACEBOOK_ADS_2021_ADVANCED_TRAINING.pdf', $headers);
+    }
+    public function basic(){
+        //PDF file is stored under project/public/download/info.pdf
+        $file= public_path(). "/download/FACEBOOK_ADS_2021_BASIC_TRAINING.pdf";
+
+        $headers = array(
+                'Content-Type: application/pdf',
+                );
+
+        return Response::download($file, 'FACEBOOK_ADS_2021_BASIC_TRAINING.pdf', $headers);
+    }
 
     public function saveForm(Request $request){
         $contact = new contact();
