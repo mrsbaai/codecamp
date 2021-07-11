@@ -458,9 +458,20 @@
           <h1>You will learn:</h1><br/>
           <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
             <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-              Sunday, Aug 1st
+              Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
             </h4>
-            
+            <h4 class="mt-0 mb-3 op-8 font-weight-bold">
+              Facebook ad optimization tips & hacks that really help you take your campaign to the next level. These strategies will lower your cost per click and cost per purchase.
+            </h4>
+            <h4 class="mt-0 mb-3 op-8 font-weight-bold">
+              How to analyze and manage your Facebook advertising results so that you can continually improve the performance of your campaigns.
+            </h4>
+            <h4 class="mt-0 mb-3 op-8 font-weight-bold">
+              Proven scaling strategies that you can put into action in order to scale your Facebook ads campaigns.
+            </h4>
+            <h4 class="mt-0 mb-3 op-8 font-weight-bold">
+              As a marketer or business owner running ads on Facebook, you run the risk of losing your Facebook ad account permanently. I will share all the mistakes that will get your Facebook Ad account shut down.
+            </h4>
           </div>
         </p>
       
@@ -468,19 +479,7 @@
             <h1>Schedule:</h1><br/>
             <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
-              </h4>
-              <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
-              </h4>
-              <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
-              </h4>
-              <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
-              </h4>
-              <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
+                Sunday, Aug 1st
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
