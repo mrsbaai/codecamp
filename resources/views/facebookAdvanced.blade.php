@@ -422,10 +422,11 @@
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b>
+            <b>FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</b>
             <br/>Sunday, Aug 1st - <b>Tetouan</b>
             <br/><br/>
-            <b>Want to become a Facebook Ads expert?</b> This training is a required skill for anyone with a business, product, service, brand, or public figure they need to <b>PROMOTE</b> and <b>SCALE</b> the business to 6 figures and more!
+            <b><span class="typed" data-typed-items="WANT TO BECOME A FACEBOOK ADS EXPERT? This training is a required skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!"></span></b>
+            
             
           </p>
 
