@@ -423,7 +423,7 @@
         <blockquote class="blockquote">
           <p class="mb-0">
             <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b>
-            <br/>Wednesday, Dec 30th - <b>Tetouan</b>
+            <br/>Sunday, Aug 1st - <b>Tetouan</b>
             <br/><br/>
             <b>Want to become a Facebook Ads expert?</b> This training is a required skill for anyone with a business, product, service, brand, or public figure they need to <b>PROMOTE</b> and <b>SCALE</b> the business to 6 figures and more!
             
@@ -448,7 +448,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="img-fluid text-white text-center">
-            <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
+            <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
             <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1><br/>
          </div>
 
@@ -458,7 +458,7 @@
             <h1>Schedule:</h1>
             <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Wednesday, Dec 30th
+                Sunday, Aug 1st
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
@@ -491,7 +491,7 @@
           </p>
       
           <div class="img-fluid text-white text-center">
-            <img alt="Codecamp.ma" src="https://codecamp.ma/img/number-en.png" width="500" height="auto">
+            <img class="mw-100" alt="Call Abdelilah" src="https://codecamp.ma/img/number-en.png" width="500" height="auto">
          </div>
 
           <p class="lead">
@@ -499,7 +499,7 @@
             <h1>Submit your application:</h1>
             <br/>
             We would like to inform you that seats are limited and the subscription.            <br/><br/>
-            To apply to the *************, kindly fill this following application:
+            To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application:
           </p>
           <br/><br/>
 
