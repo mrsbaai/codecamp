@@ -421,8 +421,9 @@
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b><br/><br/>
+            <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b>
             <br/>Wednesday, Dec 30th - <b>Tetouan</b>
+            <br/><br/>
             <b>WANT TO BECOME A FACEBOOK ADS EXPERT? </b> This training is a required skill for anyone with a business, product, service, brand, or public figure they need to <b>PROMOTE</b> and <b>SCALE</b> the business to 6 figures and more!
             
           </p>
