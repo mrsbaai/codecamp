@@ -490,8 +490,7 @@
           </p>
       
           <div class="img-fluid text-white text-center">
-            <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
-            <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1><br/>
+            <img alt="Codecamp.ma" src="https://codecamp.ma/img/phone-en.png" width="500" height="auto">
          </div>
 
           <p class="lead">
