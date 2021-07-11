@@ -425,7 +425,7 @@
             <b>FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</b>
             <br/>Sunday, Aug 1st - <b>Tetouan</b>
             <br/><br/>
-            <b><span class="typed" data-typed-items="WANT TO BECOME A FACEBOOK ADS EXPERT? This training is a required skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!"></span></b>
+            <b><span class="typed" data-typed-items="WANT TO BECOME A FACEBOOK ADS EXPERT?, This training is a required skill for anyone with.., A business, A product, A service, A brand, or A public figure, If you want to Promote & Scale your business, to 6 figures and more!"></span></b>
             
             
           </p>
