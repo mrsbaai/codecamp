@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: 2021 New Year Online Business Resolution</title>
-  <meta content="CodeCamp Event About Social Engineering [Ethical Hacking]" name="descriptison">
+  <title>CodeCamp Event: FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</title>
+  <meta content="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING" name="descriptison">
 
 
   <!-- Favicons -->
@@ -407,35 +407,6 @@
 <body>
 
 
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
-  <div class="container">
-    <a class="navbar-brand" href="https://codecamp.ma">
-          <img src="https://codecamp.ma/construction/img/logo-very-small.png" alt="">
-        </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="https://codecamp.ma">Home       
-                  </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://codecamp.ma/coworking">Co-working
-                  </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#footer">Media</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://codecamp.ma/#contact">Contact</a>
-            </li>
-          </ul>
-        </div>
-  </div>
-</nav>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
@@ -443,12 +414,15 @@
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
   
       <p>
-        <b><span class="typed" data-typed-items="2021 New Year Online Business Resolution"></span></b><br/>
+        <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b><br/>
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            We are organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
-           <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
+            <b>Want to become a Facebook Ads expert?</b><br/>
+            Facebook Ads Mastery 2021 Advanced Training is a REQUIRED skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!
+            <br/><br/>
+            Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!
+            <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
           </p>
 
         </blockquote>
@@ -457,7 +431,7 @@
           a:hover {color:white; text-decoration: none; }
    
           </style>
-        <a href="/events/newyear/#application" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
+        <a href="#application" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
       </p>
 
 
@@ -521,9 +495,8 @@
             <br/>
             <h1>Submit your application:</h1>
             <br/>
-            We would like to inform you that seats are limited and the subscription will expire by December the 29th 2020 at Midnight. We will send you an invitation by E-mail.
-            <br/><br/>
-            To apply to the 2021 New Year Online Business Resolution event, kindly fill this following application:
+            We would like to inform you that seats are limited and the subscription.            <br/><br/>
+            To apply to the *************, kindly fill this following application:
           </p>
           <br/><br/>
 
@@ -542,10 +515,7 @@
               <div class="validate"></div>
             </div>
           </div>
-          <div class="form-group">
-            <textarea class="form-control" name="business" rows="5" data-rule="required" data-msg="A short description of your online business:" placeholder="A short description of your online business"></textarea>
-            <div class="validate"></div>
-          </div>
+
           <div class="mb-3">
             <div class="loading">Loading...</div>
             <div class="error-message">An error has occurred :(</div>
@@ -572,7 +542,6 @@
   <div class="container" >
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
-      <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
       <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
       <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
       <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
