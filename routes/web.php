@@ -27,10 +27,16 @@ Route::get('/coworking1', 'pagesController@coworking1');
 Route::get('/home', 'pagesController@homeTest');
 Route::post('/coworking1', 'pagesController@saveForm');
 Route::get('/events/1', 'pagesController@event1');
-Route::get('/events/newyear', 'pagesController@newyear');
-Route::post('/events/newyear', 'pagesController@saveApp');
+
 Route::post('/events/newyear/data', 'pagesController@newyearData');
 Route::get('/timer', 'pagesController@timer');
+
+Route::get('/events/facebook-advanced', 'pagesController@facebook-advanced');
+Route::get('/events/facebook-basic', 'pagesController@facebook-advanced');
+Route::post('/events/newyear', 'pagesController@saveApp');
+
+Route::get('/pdf/facebook_ads_advanced', 'PagesController@advanced');
+Route::get('/pdf/facebook_ads_basic', 'PagesController@basic');
 
 
 
@@ -93,6 +99,4 @@ Route::get('/admin/show/requests/events', 'AdminController@ShowAdminEventRequest
 Route::get('/{username}', 'PortfolioController@ShowPortfolio')->name('ShowPortfolio');
 
 
-Route::get('/pdf/facebook_ads_advanced', 'PagesController@advanced');
-Route::get('/pdf/facebook_ads_basic', 'PagesController@basic');
 
