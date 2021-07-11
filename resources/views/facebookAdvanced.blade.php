@@ -443,7 +443,7 @@
     </div>
   </section><!-- End Hero -->
 
-  <section id="application" class="contact" style="color:white;background-color:#343A40;">
+  <section id="application" class="contact pb-0" style="color:white;background-color:#343A40;">
     <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
@@ -462,14 +462,14 @@
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:30</span> - Registration</p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - Registration</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:00</span> - A word of welcome
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - A word of welcome
                   </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Attendants will have the chance to talk about 3 points for 5 minutes
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Stellar Examples of High-Converting Ads
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;1. Introduce your online business </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;2. Your new year resolution to improve your business </p>
@@ -498,8 +498,7 @@
             <br/>
             <h1>Submit your application:</h1>
             <br/>
-            We would like to inform you that seats are limited and the subscription.            <br/><br/>
-            To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application:
+            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application:
           </p>
           <br/><br/>
 
