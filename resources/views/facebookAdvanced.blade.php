@@ -455,22 +455,22 @@
 
 
          <p class="lead">
-          <h1>You will learn:</h1><br/>
+          <h1>5 Things You Will Learn:</h1><br/>
           <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
             <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-              Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
+              1 - Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
             </h4>
             <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-              Facebook ad optimization tips & hacks that really help you take your campaign to the next level. These strategies will lower your cost per click and cost per purchase.
+              2 - Facebook ad optimization tips & hacks that really help you take your campaign to the next level. These strategies will lower your cost per click and cost per purchase.
             </h4>
             <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-              How to analyze and manage your Facebook advertising results so that you can continually improve the performance of your campaigns.
+              3 - How to analyze and manage your Facebook advertising results so that you can continually improve the performance of your campaigns.
             </h4>
             <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-              Proven scaling strategies that you can put into action in order to scale your Facebook ads campaigns.
+              4 - Proven scaling strategies that you can put into action in order to scale your Facebook ads campaigns.
             </h4>
             <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-              As a marketer or business owner running ads on Facebook, you run the risk of losing your Facebook ad account permanently. I will share all the mistakes that will get your Facebook Ad account shut down.
+              5 - As a marketer or business owner running ads on Facebook, you run the risk of losing your Facebook ad account permanently. I will share all the mistakes that will get your Facebook Ad account shut down.
             </h4>
           </div>
         </p>
