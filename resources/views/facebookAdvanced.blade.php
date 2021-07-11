@@ -403,6 +403,7 @@
 
 .application-form button[type="submit"] {
     background: #ff1616 !important;
+    width: 100%;
 }
 
 </style>
