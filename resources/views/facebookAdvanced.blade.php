@@ -465,26 +465,25 @@
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - Registration</p>
                 </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - A word of welcome
-                  </p>
-                </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Stellar Examples of High-Converting Ads
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - Stellar Examples of High-Converting Ads
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Tips to help you write Facebook ad that convert</p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Choosing the right Facebook ad placement </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+High-converting Facebook ad creative </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ High-converting Facebook ad creative </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Advanced Strategies to Increase Facebook Ads ROI
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - Advanced Strategies to Increase Facebook Ads ROI
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Introduce your online businessRetargeting strategy using customs audiences </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Retargeting strategy using customs audiences </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Split Testing </p>
                 </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:20</span> - COFFEE BREAK</p>
+                </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Facebook Ads Analysis Performance Strategy
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:40</span> - Facebook Ads Analysis Performance Strategy
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understand the Facebook ads key metrics </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ How to Manage Facebook ads performance to combat ads fatigue </p>
@@ -492,25 +491,19 @@
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Facebook ads reporting</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> -  How to Scale Facebook Ads Campaigns to 6 Figures & More.
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:20</span> -  How to Scale Facebook Ads Campaigns to 6 Figures & More.
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding your ROAS (return on Ad spend) targets </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to scale a profitable campaign </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Learn how to leverage lookalike audiences </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> -  How to Avoid Facebook Ads Account Closure
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:00</span> -  How to Avoid Facebook Ads Account Closure
                   </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding FB policies to reduce risk of being shut down </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:30</span> - Coffee break </p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">19:00</span> - Open Forum</p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">19:30</span> -  A closing word 
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:20</span> -  TECHNICAL TRAINING CERTIFICATE 
                   </p>
                 </li>
                 
