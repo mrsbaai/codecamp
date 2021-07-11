@@ -33,10 +33,17 @@ class PagesController extends Controller
         return view('newyear');
     }
 
+    public function facebookBasic(){
+        return view('facebookBasic');
+    }
+
+    public function facebookAdvanced(){
+        return view('facebookAdvanced');
+    }
+    
     public function event1(){
         return view('event1');
     }
-
 
     public function timer(){
         return view('timer');

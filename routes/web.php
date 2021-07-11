@@ -31,8 +31,8 @@ Route::get('/events/1', 'pagesController@event1');
 Route::post('/events/newyear/data', 'pagesController@newyearData');
 Route::get('/timer', 'pagesController@timer');
 
-Route::get('/events/facebook-advanced', 'pagesController@facebook-advanced');
-Route::get('/events/facebook-basic', 'pagesController@facebook-advanced');
+Route::get('/events/facebook-advanced', 'pagesController@facebookAdvanced');
+Route::get('/events/facebook-basic', 'pagesController@facebookBasic');
 Route::post('/events/newyear', 'pagesController@saveApp');
 
 Route::get('/pdf/facebook_ads_advanced', 'PagesController@advanced');
