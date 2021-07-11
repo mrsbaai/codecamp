@@ -412,17 +412,15 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-      <div class="img-fluid text-white py-3">
-        <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
-     </div>
-  
+
       <p>
-        <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b><br/>
+        
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            <b>Want to become a Facebook Ads expert?</b><br/>
+            <b tyle="font-size: 1500%;">Want to become a Facebook Ads expert?</b><br/><br/>
             Facebook Ads Mastery 2021 Advanced Training is a REQUIRED skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!
+            <br/><br/><b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b>
             <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
           </p>
 
@@ -541,6 +539,10 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
+    <div class="img-fluid text-white py-3">
+      <img src="{{ asset('img/logo_transparent.png') }}" width="100" height="auto" alt="Codecamp.ma">
+   </div>
+
     <h4>Follow us on social media for updates:</h4>
     <div class="social-links">
       <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
