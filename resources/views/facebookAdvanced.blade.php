@@ -471,7 +471,7 @@
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Stellar Examples of High-Converting Ads
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;1. Introduce your online business </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;  + Introduce your online business </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;2. Your new year resolution to improve your business </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;3. What advice would you give based on your own experience </p>
                 </li>
