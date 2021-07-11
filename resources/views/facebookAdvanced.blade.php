@@ -424,7 +424,7 @@
             <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b>
             <br/>Wednesday, Dec 30th - <b>Tetouan</b>
             <br/><br/>
-            <b>WANT TO BECOME A FACEBOOK ADS EXPERT? </b> This training is a required skill for anyone with a business, product, service, brand, or public figure they need to <b>PROMOTE</b> and <b>SCALE</b> the business to 6 figures and more!
+            <b>Want to become a Facebook Ads expert?</b> This training is a required skill for anyone with a business, product, service, brand, or public figure they need to <b>PROMOTE</b> and <b>SCALE</b> the business to 6 figures and more!
             
           </p>
 
@@ -447,7 +447,7 @@
       <div class="row">
         <div class="col-md-12">
           <div class="img-fluid text-white text-center">
-            <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-ar.png" width="500" height="auto">
+            <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
             <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1><br/>
          </div>
 
