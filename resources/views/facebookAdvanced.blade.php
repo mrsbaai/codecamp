@@ -418,10 +418,10 @@
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            <b tyle="font-size: 1500%;">Want to become a Facebook Ads expert?</b><br/><br/>
-            Facebook Ads Mastery 2021 Advanced Training is a REQUIRED skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!
+            <b tyle="font-size: 1500%;">WANT TO BECOME A FACEBOOK ADS EXPERT?</b><br/><br/>
+            This training is a required skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!
             <br/><br/><b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b>
-            <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
+            <br/>Wednesday, Dec 30th - <b>Tetouan</b>
           </p>
 
         </blockquote>
@@ -447,9 +447,9 @@
           </div>
 
           <p class="lead">
-            <h1>Event Title: 2021 New Year Online Business Resolution </h1>
+            <h1>Event Title: FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</h1>
             <br/>
-            The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated into efficient actions.<br>
+            Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!<br>
           </p>
       
           <p class="lead">
