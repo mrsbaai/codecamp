@@ -541,10 +541,10 @@
   <section id="followus">
   <div class="container" >
     <div class="img-fluid text-white py-3">
-      <img src="{{ asset('img/logo_transparent.png') }}" width="100" height="auto" alt="Codecamp.ma">
+      <img src="{{ asset('img/logo_transparent.png') }}" width="300" height="auto" alt="Codecamp.ma">
    </div>
 
-    <h4>Follow us on social media for updates:</h4>
+
     <div class="social-links">
       <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
       <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
