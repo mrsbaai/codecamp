@@ -472,9 +472,36 @@
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Stellar Examples of High-Converting Ads
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;  + Introduce your online business </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;2. Your new year resolution to improve your business </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;3. What advice would you give based on your own experience </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Tips to help you write Facebook ad that convert</p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Choosing the right Facebook ad placement </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+High-converting Facebook ad creative </p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Advanced Strategies to Increase Facebook Ads ROI
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Introduce your online businessRetargeting strategy using customs audiences </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Retargeting strategy using customs audiences </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Split Testing </p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Facebook Ads Analysis Performance Strategy
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understand the Facebook ads key metrics </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ How to Manage Facebook ads performance to combat ads fatigue </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to stop the ad </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Facebook ads reporting</p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> -  How to Scale Facebook Ads Campaigns to 6 Figures & More.
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding your ROAS (return on Ad spend) targets </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to scale a profitable campaign </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Learn how to leverage lookalike audiences </p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> -  How to Avoid Facebook Ads Account Closure
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding FB policies to reduce risk of being shut down </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:30</span> - Coffee break </p>
@@ -525,8 +552,8 @@
 
           <div class="mb-3">
             <div class="loading">Loading...</div>
-            <div class="error-message">An error has occurred :(</div>
-            <div class="sent-message">Application Received :)</div>
+            <div class="error-message">An error has occurred!</div>
+            <div class="sent-message">Application Received! We will call you back ASAP!</div>
           </div>
           
           {{ Form::close() }}
