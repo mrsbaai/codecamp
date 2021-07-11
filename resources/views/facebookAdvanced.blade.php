@@ -442,14 +442,12 @@
     <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
-          <div class="page-header">
-
-          </div>
+          <div class="img-fluid text-white text-center">
+            <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-ar.png" width="500" height="auto">
+         </div>
 
           <p class="lead">
-            <h1>Event Title: FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</h1>
-            <br/>
-            Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!<br>
+            <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1>
           </p>
       
           <p class="lead">
