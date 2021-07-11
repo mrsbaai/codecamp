@@ -450,13 +450,13 @@
         <div class="col-md-12">
           <div class="img-fluid text-white text-center">
             <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
-            <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1><br/>
+            <h1>"Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!"</h1><br/>
          </div>
 
 
          <p class="lead text-center">
           <h1>5 Things You Will Learn:</h1><br/>
-          <div class="col-lg-12 mb-12">
+          <div class="col-lg-12 mb-12 text-center">
             <h5 class="mt-0 mb-3 op-8 font-weight-bold">
               1 - Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye- catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
             </h5><br/>
