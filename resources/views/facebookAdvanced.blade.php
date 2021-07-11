@@ -487,10 +487,13 @@
                 
               </ul>
             </div>
-
-            
           </p>
       
+          <div class="img-fluid text-white text-center">
+            <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
+            <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1><br/>
+         </div>
+         
           <p class="lead">
             <br/>
             <h1>Submit your application:</h1>
@@ -503,7 +506,7 @@
           {{ Form::open(array('action' => 'pagesController@saveApp', 'class' => 'php-email-form application-form'))}}
           <div class="form-row">
             <div class="col-md-4 form-group">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validate"></div>
             </div>
             <div class="col-md-4 form-group">
@@ -514,6 +517,10 @@
               <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
               <div class="validate"></div>
             </div>
+            <div class="col-md-4 form-group">
+              <div class="text-center"><button type="submit">Submit Application</button></div>
+            </div>
+
           </div>
 
           <div class="mb-3">
@@ -521,7 +528,7 @@
             <div class="error-message">An error has occurred :(</div>
             <div class="sent-message">Application Received :)</div>
           </div>
-          <div class="text-center"><button type="submit">Submit Application</button></div>
+          
           {{ Form::close() }}
          
 
