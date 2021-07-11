@@ -471,7 +471,7 @@
             </h5><br/>
             <h5 class="mt-0 mb-3 op-8 font-weight-bold">
               5 - As a marketer or business owner running ads on Facebook, you run the risk of losing your Facebook ad account permanently. I will share all the mistakes that will get your Facebook Ad account shut down.
-            </h5>
+            </h5><br/>
           </div>
         </p>
       
