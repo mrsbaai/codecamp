@@ -490,7 +490,7 @@
           </p>
       
           <div class="img-fluid text-white text-center">
-            <img alt="Codecamp.ma" src="https://codecamp.ma/img/phone-en.png" width="500" height="auto">
+            <img alt="Codecamp.ma" src="https://codecamp.ma/img/number-en.png" width="500" height="auto">
          </div>
 
           <p class="lead">
