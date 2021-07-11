@@ -412,6 +412,9 @@
   <section id="hero" class="d-flex flex-column justify-content-center">
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
+      <div class="img-fluid text-white py-3">
+        <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
+     </div>
   
       <p>
         <b><span class="typed" data-typed-items="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING"></span></b><br/>
@@ -420,8 +423,6 @@
           <p class="mb-0">
             <b>Want to become a Facebook Ads expert?</b><br/>
             Facebook Ads Mastery 2021 Advanced Training is a REQUIRED skill for anyone with a business, product, service, brand, or public figure they need to PROMOTE and SCALE the business to 6 figures and more!
-            <br/><br/>
-            Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!
             <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
           </p>
 
