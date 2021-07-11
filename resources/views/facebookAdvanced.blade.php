@@ -401,6 +401,9 @@
   border-color: #ff1616
 }
 
+.application-form button[type="submit"] {
+    background: #ff1616 !important;
+}
 
 </style>
 
@@ -444,11 +447,10 @@
         <div class="col-md-12">
           <div class="img-fluid text-white text-center">
             <img alt="Codecamp.ma" src="https://codecamp.ma/img/wail-ar.png" width="500" height="auto">
+            <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1><br/>
          </div>
 
-          <p class="lead">
-            <h1>Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!</h1>
-          </p>
+
       
           <p class="lead">
             <h1>Schedule:</h1>
