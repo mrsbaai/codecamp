@@ -131,7 +131,7 @@
   width: 1px;
   background: #ccc;
   position: absolute;
-  left: 6px;
+  right: 6px;
   top: 0;
   bottom: 0;
   height: 100%;
@@ -141,7 +141,7 @@
 .list-timeline .list-timeline-item {
   margin: 0;
   padding: 0;
-  padding-left: 24px !important;
+  padding-right: 24px !important;
   position: relative
 }
 
@@ -151,7 +151,7 @@
   background: #fff;
   border: 2px solid #ccc;
   position: absolute;
-  left: 0;
+  right: 0;
   top: 4px;
   content: '';
   border-radius: 100%;
@@ -642,7 +642,7 @@ h1, h2, h3, h4, h5, h6 {
               <div class="validate"></div>
             </div>
             <div class="col-md-3 form-group">
-              <div class="text-center"><button type="submit">Submit Application</button></div>
+              <div class="text-center"><button type="submit">سجل الٱن</button></div>
             </div>
 
           </div>
