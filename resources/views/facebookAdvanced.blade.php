@@ -448,19 +448,19 @@
     <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
-          <br/>
+          <br/> <br/> <br/>
           <div class="img-fluid text-white text-center">
             <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
             <h1>"Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!"</h1><br/>
          </div>
-         <br/>
+         <br/> <br/> <br/>
 
           <div class="img-fluid text-white text-center">
             <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/start.png" width="500" height="auto">
           </div>
 
 
-  
+          <br/> <br/>
             <div class="img-fluid text-white pt-4 text-center">
               <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/goals.png" width="100%" height="auto"></b>
               <br/><br/><h4 class="text-justify">
@@ -477,7 +477,7 @@
               </h4><br/>
             </div>
  
-      
+            <br/> <br/>
           <p class="lead">
             <h1>Training schedule:</h1><br/>
             <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
@@ -535,7 +535,7 @@
           </p>
       
 
-
+<br/>
           <div class="img-fluid text-white text-center">
             <img class="mw-100" alt="Call Abdelilah" src="https://codecamp.ma/img/number-en.png" width="500" height="auto">
          </div>
