@@ -117,7 +117,7 @@
 }
 
 #hero p {
-    font-size: 46px;
+    
     font-family: "Dubai-Bold", sans-serif;
 }
 
@@ -501,14 +501,14 @@ h1, h2, h3, h4, h5, h6 {
         
         <br/>
         <blockquote class="blockquote">
-          <p class="mb-0">
-            <b>(التكوين الأساسي) FACEBOOK ADS 2021</b>
-            <br/>السبت , 31 يوليوز - <b>تطوان</b>
+          <h2 style="color:white">
+            <b>(التكوين الأساسي) FACEBOOK ADS 2021</b><br/>
+            <br/>السبت , 31 يوليوز - <b>تطوان</b><br/>
             <br/><br/>
             <b><span class="typed" data-typed-items="التكوين الأساسي الذي يحتاجه كل شخص يمتلك..., تجارة, منتج, خدمة, عالمة تجارية, ويتطلع إلى ترويجها على الإنترنت, وتطوير نشاطه التجاري"></span></b>
             
             
-          </p>
+          </h2>
 
         </blockquote>
         <style type="text/css">
