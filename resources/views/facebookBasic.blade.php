@@ -542,18 +542,18 @@ h1, h2, h3, h4, h5, h6 {
 
           <br/> <br/>
             <div class="img-fluid text-white pt-4 text-center">
-              <br/><br/><h2 class="text-justify">
+              <br/><br/><h3 class="text-justify">
                 <b>1 - </b> ستتعلم كيفية إنشاء وإعداد مدير أعمال فيسبوك بحيث تستطيع إدارة صفحاتك وحساباتك الإعلانية.
-              </h2><br/><h2 class="text-justify"><b>2 - </b> ستتعلم كيفية إنشاء حسابات إدارة الإعلانات وستفهم هيكلية الحملات الإعلامية بحيث تستطيع تشغيل إعلانات مستهدفة وذكية.
+              </h3><br/><h3 class="text-justify"><b>2 - </b> ستتعلم كيفية إنشاء حسابات إدارة الإعلانات وستفهم هيكلية الحملات الإعلامية بحيث تستطيع تشغيل إعلانات مستهدفة وذكية.
 
-              </h2><br/><h2 class="text-justify"><b>3 - </b> سيصبح لديك فهم دقيق لجمهورك بحيث تستهدفهم بإعلانات جذابة لا تخطئها العين، الشيء الذي سيعود عليك بنتائج ومكاسب سريعة.
-
-
-
-              </h2><br/><h2 class="text-justify"><b>4 - </b> ستتعلم كيفية تحليل نتائج الحملات الإعلانية بشكل ذكي وفعال، بحيث تستطيع الاستمرار في تطوير ورفع مردودية حملتك الإعلانية.
+              </h3><br/><h3 class="text-justify"><b>3 - </b> سيصبح لديك فهم دقيق لجمهورك بحيث تستهدفهم بإعلانات جذابة لا تخطئها العين، الشيء الذي سيعود عليك بنتائج ومكاسب سريعة.
 
 
-              </h2><br/>
+
+              </h3><br/><h3 class="text-justify"><b>4 - </b> ستتعلم كيفية تحليل نتائج الحملات الإعلانية بشكل ذكي وفعال، بحيث تستطيع الاستمرار في تطوير ورفع مردودية حملتك الإعلانية.
+
+
+              </h3><br/>
             </div>
  
             <br/> <br/>
@@ -565,43 +565,43 @@ h1, h2, h3, h4, h5, h6 {
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - تسجيل الدخول</p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - تسجيل الدخول</h5>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - إنشاء وإعداد مدير الأعمال
-                  </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم وظيفيات مدير أعمال فيسبوك</p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ إعداد الصفحات والمجموعات </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ حسابات الإعلان وإعدادات الدفع </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ ساسيات فيس بوك بيكسل </p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - إنشاء وإعداد مدير الأعمال
+                  </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم وظيفيات مدير أعمال فيسبوك</h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ إعداد الصفحات والمجموعات </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ حسابات الإعلان وإعدادات الدفع </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ ساسيات فيس بوك بيكسل </h5>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - إنشاء وإعداد مدير الإعلانات
-                  </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ خطوات إنشاء حسابات إدارة الإعلانات</p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ شرح هيكلية الحملات الإعلانية </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ كيفية اختيار الصيغة الإعلانية المناسبة </p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - إنشاء وإعداد مدير الإعلانات
+                  </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ خطوات إنشاء حسابات إدارة الإعلانات</h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ شرح هيكلية الحملات الإعلانية </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ كيفية اختيار الصيغة الإعلانية المناسبة </h5>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:20</span> - استراحة القهوة</p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:20</span> - استراحة القهوة</h5>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:40</span> - الإعلان باستخدام أفضل استراتيجيات الاستهداف
-                  </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ استيعاب أبرز مكونات المحتوى الإعلاني فيسبوك </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم الجمهور المستهدف </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ تحسين عملية الاستهداف </p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:40</span> - الإعلان باستخدام أفضل استراتيجيات الاستهداف
+                  </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ استيعاب أبرز مكونات المحتوى الإعلاني فيسبوك </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم الجمهور المستهدف </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ تحسين عملية الاستهداف </h5>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:20</span> -  ستراتيجيات تحليل تقارير الإعلانات
-                  </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم الإحصائيات الرئيسية إعلانات فيسبوك </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ كيفية قياس وتتبع تفاعلات الزبائن باستخدام بيكس </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ استصدار وتحليل التقارير </p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:20</span> -  ستراتيجيات تحليل تقارير الإعلانات
+                  </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم الإحصائيات الرئيسية إعلانات فيسبوك </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ كيفية قياس وتتبع تفاعلات الزبائن باستخدام بيكس </h5>
+                  <h5 class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ استصدار وتحليل التقارير </h5>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:20</span> - توزيع شواهد التدريب التقني
-                  </p>
+                  <h5 class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:20</span> - توزيع شواهد التدريب التقني
+                  </h5>
                 </li>
                 
               </ul>
@@ -645,7 +645,7 @@ h1, h2, h3, h4, h5, h6 {
           <div class="mb-3">
             <div class="loading">Loading...</div>
             <div class="error-message">An error has occurred!</div>
-            <div class="sent-message">Application Received! We will call you back ASAP!</div>
+            <div class="sent-message">تم استلام الطلب! سوف نعاود الاتصال بك في أسرع وقت ممكن.</div>
           </div>
           
           {{ Form::close() }}
