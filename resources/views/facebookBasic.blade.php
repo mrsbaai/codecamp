@@ -47,7 +47,9 @@
 </head>
 
 <style>
-
+.main-content {
+  direction: rtl;  /* Right to Left */
+}
 
 .list-timeline {
   margin: 0;
