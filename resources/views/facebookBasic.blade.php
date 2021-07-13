@@ -533,7 +533,7 @@ bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
           <br/> 
           <div class="img-fluid text-white text-center">
             <img alt="wail Amrani" class="mw-100 pb-5" src="https://codecamp.ma/img/wail-ar.png" width="500" height="auto">
-            <h1>"Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!"</h1><br/>
+            <h1>"الإعلان على فيسبوك هو جوهر النجاح في عالم التجارة الإلكترونية، لكنه يحتاج إلى مهارات خاصة تجعل إعلاناتك أسهما مصقولة، تطلقها في الوقت المناسب لتصيب الهدف وتعود عليك بأرباح مضاعفة، وذلك مقابل نفقات إعلانية منخفضة."</h1><br/>
          </div>
          <br/> <br/> <br/>
 
@@ -544,17 +544,16 @@ bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
 
           <br/> <br/>
             <div class="img-fluid text-white pt-4 text-center">
-              <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/goals.png" width="100%" height="auto"></b>
               <br/><br/><h4 class="text-justify">
-                <b>1 - </b> Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye-catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
+                <b>1 - </b> ستتعلم كيفية إنشاء وإعداد مدير أعمال فيسبوك بحيث تستطيع إدارة صفحاتك وحساباتك الإعلانية.
+              </h4><br/><h4 class="text-justify"><b>2 - </b> ستتعلم كيفية إنشاء حسابات إدارة الإعلانات وستفهم هيكلية الحملات الإعلامية بحيث تستطيع تشغيل إعلانات مستهدفة وذكية.
 
-              </h4><br/><h4 class="text-justify"><b>2 - </b> Facebook ad optimization tips & hacks that really help you take your campaign to the next level. These strategies will lower your cost per click and cost per purchase.
+              </h4><br/><h4 class="text-justify"><b>3 - </b> سيصبح لديك فهم دقيق لجمهورك بحيث تستهدفهم بإعلانات جذابة لا تخطئها العين، الشيء الذي سيعود عليك بنتائج ومكاسب سريعة.
 
-              </h4><br/><h4 class="text-justify"><b>3 - </b> How to analyze and manage your Facebook advertising results so that you can continually improve the performance of your campaigns.
 
-              </h4><br/><h4 class="text-justify"><b>4 - </b> Proven scaling strategies that you can put into action in order to scale your Facebook ads campaigns.
 
-              </h4><br/><h4 class="text-justify"><b>5 - </b> As a marketer or business owner running ads on Facebook, you run the risk of losing your Facebook ad account permanently. I will share all the mistakes that will get your Facebook Ad account shut down.
+              </h4><br/><h4 class="text-justify"><b>4 - </b> ستتعلم كيفية تحليل نتائج الحملات الإعلانية بشكل ذكي وفعال، بحيث تستطيع الاستمرار في تطوير ورفع مردودية حملتك الإعلانية.
+
 
               </h4><br/>
             </div>
