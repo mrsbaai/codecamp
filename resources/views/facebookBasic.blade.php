@@ -621,24 +621,24 @@ h1, h2, h3, h4, h5, h6 {
 
           <p class="lead">
             <br/>
-            <h1>Submit your application:</h1>
+            <h1>التسجيل:</h1>
             <br/>
-            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application:
+            نود إبلاغكم أن المقاعد محدودة. للتقدم بطلب للحصول على تذكرة ، يرجى تعبئة الطلب التالي:
           </p>
           <br/><br/>
 
           {{ Form::open(array('action' => 'pagesController@saveApp', 'class' => 'php-email-form application-form'))}}
           <div class="form-row">
             <div class="col-md-3 form-group">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+              <input type="text" name="name" class="form-control" id="name" placeholder="الإسم" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validate"></div>
             </div>
             <div class="col-md-3 form-group">
-              <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone Number" data-rule="minlen:8" data-msg="Please enter your realphone number" />
+              <input type="text" name="phone" class="form-control" id="phone" placeholder="رقم الهاتف المحمول" data-rule="minlen:8" data-msg="Please enter your realphone number" />
               <div class="validate"></div>
             </div>
             <div class="col-md-3 form-group">
-              <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
+              <input type="email" class="form-control" name="email" id="email" placeholder="البريد الإلكتروني" data-rule="email" data-msg="Please enter a valid email" />
               <div class="validate"></div>
             </div>
             <div class="col-md-3 form-group">
