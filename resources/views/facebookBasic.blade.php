@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</title>
+  <title>CodeCamp Event: FACEBOOK ADS 2021 التكوين الأساسي</title>
   <meta content="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING" name="descriptison">
 
 
@@ -424,10 +424,10 @@
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            <b>FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</b>
-            <br/>Sunday, Aug 1st - <b>Tetouan</b>
+            <b>FACEBOOK ADS 2021 التكوين الأساسي</b>
+            <br/>السبت , 31 يوليوز - <b>تطوان</b>
             <br/><br/>
-            <b><span class="typed" data-typed-items="Want To Become A Facebook Ads Expert?, This Training is A Required Skill For Anyone With..., A Business, A Product, A Service, A Brand, Or A Public Figure, If You Want To PROMOTE/SCALE Your Business, To 6 Figures And More!"></span></b>
+            <b><span class="typed" data-typed-items="التكوين الأساسي الذي يحتاجه كل شخص يمتلك..., تجارة, منتج, خدمة, عالمة تجارية, ويتطلع إلى ترويجها على الإنترنت, وتطوير نشاطه التجاري"></span></b>
             
             
           </p>
