@@ -60,7 +60,7 @@
         <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
      </div>
 
-    <h2 class="display-6" style="color: white;">The Moroccan Web Experts Community</h2>
+    <h2 class="display-6" style="color: white; font-size:250%">The Moroccan Web Experts Community</h2>
     <p class="lead-home">An Initiative to highlight <span class="typed" data-typed-items="informational technologies, modern carer paths, moroccan success stories, porductivity tools"></span></p>
 
 	
@@ -244,8 +244,6 @@
     <section id="followus">
     <div class="container" data-aos="fade-up">
 
-      <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
-      <br/>
 
       <div class="social-links">
         <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
