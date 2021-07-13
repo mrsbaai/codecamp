@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: FACEBOOK ADS 2021 (التكوين الأساسي)</title>
+  <title>CodeCamp Event: FACEBOOK ADS (التكوين الأساسي)</title>
   <meta content="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING" name="descriptison">
 
 
@@ -501,14 +501,14 @@ h1, h2, h3, h4, h5, h6 {
         
         <br/>
         <blockquote class="blockquote">
-          <h2 style="color:white">
-            <b>(التكوين الأساسي) FACEBOOK ADS 2021</b><br/>
+          <h1 style="color:white">
+            <b>FACEBOOK ADS (التكوين الأساسي)</b>
             <br/>السبت , 31 يوليوز - <b>تطوان</b><br/>
-            <br/><br/>
+            <br/>
             <b><span class="typed" data-typed-items="التكوين الأساسي الذي يحتاجه كل شخص يمتلك..., تجارة, منتج, خدمة, عالمة تجارية, ويتطلع إلى ترويجها على الإنترنت, وتطوير نشاطه التجاري"></span></b>
             
             
-          </h2>
+          </h1>
 
         </blockquote>
         <style type="text/css">
@@ -531,7 +531,7 @@ h1, h2, h3, h4, h5, h6 {
           <br/> 
           <div class="img-fluid text-white text-center">
             <img alt="wail Amrani" class="mw-100 pb-5" src="https://codecamp.ma/img/wail-ar.png" width="500" height="auto">
-            <h1>"الإعلان على فيسبوك هو جوهر النجاح في عالم التجارة الإلكترونية، لكنه يحتاج إلى مهارات خاصة تجعل إعلاناتك أسهما مصقولة، تطلقها في الوقت المناسب لتصيب الهدف وتعود عليك بأرباح مضاعفة، وذلك مقابل نفقات إعلانية منخفضة."</h1><br/>
+            <h2>"الإعلان على فيسبوك هو جوهر النجاح في عالم التجارة الإلكترونية، لكنه يحتاج إلى مهارات خاصة تجعل إعلاناتك أسهما مصقولة، تطلقها في الوقت المناسب لتصيب الهدف وتعود عليك بأرباح مضاعفة، وذلك مقابل نفقات إعلانية منخفضة."</h2><br/>
          </div>
          <br/> <br/> <br/>
 
