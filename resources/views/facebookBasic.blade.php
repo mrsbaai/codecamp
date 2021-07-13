@@ -502,7 +502,8 @@ h1, h2, h3, h4, h5, h6 {
         <br/>
         <blockquote class="blockquote">
           <h1 style="color:white">
-            <b>FACEBOOK ADS (التكوين الأساسي)</b>
+            <b>FACEBOOK ADS<br/>
+              (التكوين الأساسي)</b><br/>
             <br/>السبت , 31 يوليوز - <b>تطوان</b><br/>
             <br/>
             <b><span class="typed" data-typed-items="التكوين الأساسي الذي يحتاجه كل شخص يمتلك..., تجارة, منتج, خدمة, عالمة تجارية, ويتطلع إلى ترويجها على الإنترنت, وتطوير نشاطه التجاري"></span></b>
