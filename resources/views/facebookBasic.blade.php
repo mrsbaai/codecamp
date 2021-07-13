@@ -556,21 +556,22 @@ h1, h2, h3, h4, h5, h6 {
  
             <br/> <br/>
           <p class="lead">
-            <h1>Training schedule:</h1><br/>
+            <h1>جدول اليوم:</h1><br/>
             <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Sunday, Aug 1st
+                السبت , 31 يوليوز
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - Registration</p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - تسجيل الدخول</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - Stellar Examples of High-Converting Ads
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - إنشاء وإعداد مدير الأعمال
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Tips to help you write Facebook ad that convert</p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Choosing the right Facebook ad placement </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ High-converting Facebook ad creative </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم وظيفيات مدير أعمال فيسبوك</p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ إعداد الصفحات والمجموعات </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ حسابات الإعلان وإعدادات الدفع </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ ساسيات فيس بوك بيكسل </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - Advanced Strategies to Increase Facebook Ads ROI
