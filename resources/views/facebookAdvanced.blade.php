@@ -461,7 +461,7 @@
   
             <div class="img-fluid text-white pt-4 text-center">
               <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/goals.png" width="100%" height="auto"></b>
-              <br/><h4 class="text-justify">
+              <br/><br/><h4 class="text-justify">
                 <b>1 - </b> Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye-catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
 
               </h4><br/><h4 class="text-justify"><b>2 - </b> Facebook ad optimization tips & hacks that really help you take your campaign to the next level. These strategies will lower your cost per click and cost per purchase.
