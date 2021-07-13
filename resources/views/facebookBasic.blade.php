@@ -488,6 +488,14 @@ bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
     width: 100%;
 }
 
+* {
+-moz-transform: scaleX(-1);
+-webkit-transform: scaleX(-1);
+-o-transform: scaleX(-1);
+transform: scaleX(-1);
+-ms-filter: fliph; /*IE*/
+filter: fliph; /*IE*/
+}
 </style>
 
 <body>
