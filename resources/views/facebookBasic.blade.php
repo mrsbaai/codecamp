@@ -47,16 +47,6 @@
 </head>
 
 <style>
-.main-content {
-  direction: rtl;  /* Right to Left */
-}
-*[dir="ltr"] { direction: ltr; unicode-bidi: embed; }
-
-*[dir="rtl"] { direction: rtl; unicode-bidi: embed; }
-
-bdo[dir="ltr"] { direction: ltr; unicode-bidi: bidi-override; }
-
-bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
 
 @font-face {
   font-family: 'Dubai-Bold';
@@ -488,14 +478,17 @@ bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
     width: 100%;
 }
 
-* {
--moz-transform: scaleX(-1);
--webkit-transform: scaleX(-1);
--o-transform: scaleX(-1);
-transform: scaleX(-1);
--ms-filter: fliph; /*IE*/
-filter: fliph; /*IE*/
+.main-content {
+  direction: rtl;  /* Right to Left */
 }
+*[dir="ltr"] { direction: ltr; unicode-bidi: embed; }
+
+*[dir="rtl"] { direction: rtl; unicode-bidi: embed; }
+
+bdo[dir="ltr"] { direction: ltr; unicode-bidi: bidi-override; }
+
+bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
+
 </style>
 
 <body>
