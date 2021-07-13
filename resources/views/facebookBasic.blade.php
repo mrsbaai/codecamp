@@ -477,17 +477,10 @@
     background: #ff1616 !important;
     width: 100%;
 }
-
-.main-content {
-  direction: rtl;  /* Right to Left */
+body {
+  unicode-bidi:bidi-override;
+  direction:rtl;
 }
-*[dir="ltr"] { direction: ltr; unicode-bidi: embed; }
-
-*[dir="rtl"] { direction: rtl; unicode-bidi: embed; }
-
-bdo[dir="ltr"] { direction: ltr; unicode-bidi: bidi-override; }
-
-bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
 
 </style>
 
