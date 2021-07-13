@@ -421,15 +421,15 @@
         
         <br/>
         <blockquote class="blockquote">
-          <h1>
+          <h2 style="color:white">
             <b>FACEBOOK ADS MASTERY<br/>
                (Advanced Training)</b>
-               <br/><br/>Sunday, Aug 1st - <b>TETOUAN</b>
+               <br/><br/>Sun, Aug 1st - <b>TETOUAN</b>
             <br/><br/>
             <b><span class="typed" data-typed-items="Want To Become A Facebook Ads Expert?, This Training is A Required Skill For Anyone With..., A Business, A Product, A Service, A Brand, Or A Public Figure, If You Want To PROMOTE/SCALE Your Business, To 6 Figures And More!"></span></b>
+            <br/>
             
-            
-          </h1>
+          </h2>
 
         </blockquote>
         <style type="text/css">
