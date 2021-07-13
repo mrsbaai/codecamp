@@ -38,7 +38,7 @@
   <link href="/construction/vendor/icofont/icofont.min.css" rel="stylesheet">
   <link href="/construction/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
   <link href="/construction/vendor/venobox/venobox.css" rel="stylesheet">
-  <link href="/construction/vendor/owl.carousel//construction/owl.carousel.min.css" rel="stylesheet">
+  <link href="/construction/vendor/owl.carousel/construction/owl.carousel.min.css" rel="stylesheet">
   <link href="/construction/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
@@ -57,6 +57,74 @@
 bdo[dir="ltr"] { direction: ltr; unicode-bidi: bidi-override; }
 
 bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
+
+@font-face {
+  font-family: 'Dubai-Bold';
+	src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Bold.eot');
+  src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Bold.eot') format('embedded-opentype'),
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Bold.woff2') format('woff2'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Bold.woff') format('woff'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Bold.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dubai-Medium';
+	src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Medium.eot');
+  src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Medium.eot') format('embedded-opentype'),
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Medium.woff2') format('woff2'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Medium.woff') format('woff'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Medium.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dubai-Regular';
+	src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Regular.eot');
+  src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Regular.eot') format('embedded-opentype'),
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Regular.woff2') format('woff2'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Regular.woff') format('woff'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Regular.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Dubai-Light';
+	src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Light');
+  src:  url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Light.eot') format('embedded-opentype'),
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Light.woff2') format('woff2'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Light.woff') format('woff'), 
+        url('https://cdn.rawgit.com/rtaibah/dubai-font-cdn/7aebfc4b/fonts/Dubai-Light.ttf') format('truetype'); 
+  font-weight: normal;
+  font-style: normal;
+}
+
+.font-dubai-bold {
+    font-family: 'Dubai-Bold', Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-dubai-medium {
+    font-family: 'Dubai-Medium', Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-dubai-regular {
+    font-family: 'Dubai-Regular', Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.font-dubai-light {
+    font-family: 'Dubai-Light', Helvetica, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
 
 .list-timeline {
   margin: 0;
