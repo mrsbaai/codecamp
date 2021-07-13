@@ -453,17 +453,14 @@
             <h1>"Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!"</h1><br/>
          </div>
 
-
-         <p class="lead text-center">
-          <h1>5 Things To Learn:</h1><br/>
           <div class="col-md-12">
             <div class="img-fluid text-white text-center">
               <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/goals.png" width="100%" height="auto">
             </div>
-          </p>
+ 
       
           <p class="lead">
-            <h1>Schedule:</h1><br/>
+            <h1>Training schedule:</h1><br/>
             <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
                 Sunday, Aug 1st
