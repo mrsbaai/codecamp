@@ -60,7 +60,7 @@
         <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
      </div>
 
-    <h2 class="display-6">The Moroccan Web Experts Community</h2>
+    <h2 class="display-6" style="color: white;">The Moroccan Web Experts Community</h2>
     <p class="lead-home">An Initiative to highlight <span class="typed" data-typed-items="informational technologies, modern carer paths, moroccan success stories, porductivity tools"></span></p>
 
 	
@@ -70,8 +70,7 @@
         <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
       </div>
-      <br/>
-      <div class="text-center"><a href="/events/newyear">Latest event: 2021 New Year Online Business Resolution</a></div>
+
       <br/>
       <style type="text/css">
   
@@ -98,33 +97,22 @@
 
         <div class="row">
 
-          <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+          <div class="col-lg-6 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h2>A Social Network</h2>
-              <p>Get Connected with other web experts.</p>
+              <h2>Events</h2>
+              <p>Meet experts in your domain, and learn practical insights about the latest tech & buisness trends.</p>
             </div>
           </div>
 		  
-		  <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
+		  <div class="col-lg-6 col-md-6 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
             <div class="icon-box">
-              <h2>A Market Place</h2>
-              <p>Buy & Sell services in our market place.</p>
+              <h2>Coworking</h2>
+              <p>Get access to our affordable coworking space, for a productivity based work environment.</p>
             </div>
           </div>
 
 
 
-          <div class="col-lg-4 col-md-4 align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
-            <div class="icon-box">
-              <h2>A Learning Camp</h2>
-              <p>Exlusive content. Improve your knowlege and skills as a web expert.</p>
-            </div>
-          </div>
-
-
-
-
- 
 
         </div>
 
