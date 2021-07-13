@@ -476,6 +476,7 @@
 .application-form button[type="submit"] {
     background: #ff1616 !important;
     width: 100%;
+    font-family: "dubai-bold", sans-serif;
 }
 body {
   unicode-bidi:bidi-override;
@@ -575,37 +576,31 @@ h1, h2, h3, h4, h5, h6 {
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ ساسيات فيس بوك بيكسل </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - Advanced Strategies to Increase Facebook Ads ROI
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - إنشاء وإعداد مدير الإعلانات
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Introduce your online business Retargeting strategy using customs audiences </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Retargeting strategy using customs audiences </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Split Testing </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ خطوات إنشاء حسابات إدارة الإعلانات</p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ شرح هيكلية الحملات الإعلانية </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ كيفية اختيار الصيغة الإعلانية المناسبة </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:20</span> - COFFEE BREAK</p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:20</span> - استراحة القهوة</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:40</span> - Facebook Ads Analysis Performance Strategy
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:40</span> - الإعلان باستخدام أفضل استراتيجيات الاستهداف
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understand the Facebook ads key metrics </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ How to Manage Facebook ads performance to combat ads fatigue </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to stop the ad </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Facebook ads reporting</p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ استيعاب أبرز مكونات المحتوى الإعلاني فيسبوك </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم الجمهور المستهدف </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ تحسين عملية الاستهداف </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:20</span> -  How to Scale Facebook Ads Campaigns to 6 Figures & More.
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:20</span> -  ستراتيجيات تحليل تقارير الإعلانات
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding your ROAS (return on Ad spend) targets </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to scale a profitable campaign </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Learn how to leverage lookalike audiences </p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:00</span> -  How to Avoid Facebook Ads Account Closure
-                  </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding FB policies to reduce risk of being shut down </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ فهم الإحصائيات الرئيسية إعلانات فيسبوك </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ كيفية قياس وتتبع تفاعلات الزبائن باستخدام بيكس </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ استصدار وتحليل التقارير </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:20</span> -  TECHNICAL TRAINING CERTIFICATE 
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:20</span> - توزيع شواهد التدريب التقني
                   </p>
                 </li>
                 
@@ -623,7 +618,7 @@ h1, h2, h3, h4, h5, h6 {
             <br/>
             <h1>التسجيل:</h1>
             <br/>
-            <h3>نود إبلاغكم أن المقاعد محدودة. للتقدم بطلب للحصول على تذكرة ، يرجى تعبئة الطلب التالي:</h3>
+            <h3>نود إبلاغكم أن المقاعد محدودة. للحصول على تذكرة ،يرجى تعبئة الطلب التالي:</h3>
           </p>
           <br/><br/>
 
