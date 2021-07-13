@@ -448,9 +448,9 @@
     <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
-          <br/> <br/> <br/>
+          <br/> 
           <div class="img-fluid text-white text-center">
-            <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
+            <img alt="wail Amrani" class="mw-100 pb-5" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
             <h1>"Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!"</h1><br/>
          </div>
          <br/> <br/> <br/>
