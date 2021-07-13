@@ -126,6 +126,11 @@ bdo[dir="rtl"] { direction: rtl; unicode-bidi: bidi-override; }
     font-style: normal;
 }
 
+#hero p {
+    font-size: 46px;
+    font-family: "Dubai-Bold", sans-serif;
+}
+
 .list-timeline {
   margin: 0;
   padding: 5px 0;
