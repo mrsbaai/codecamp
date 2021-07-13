@@ -525,7 +525,7 @@ h1, h2, h3, h4, h5, h6 {
 
   <section id="application" class="contact pb-0" style="color:white;background-color:#343A40;">
     <div class="container" data-aos="fade-up">
-      <div class="row">
+      <div class="row text-right">
         <div class="col-md-12">
           <br/> 
           <div class="img-fluid text-white text-center">
