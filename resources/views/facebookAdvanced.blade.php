@@ -544,7 +544,7 @@
             <br/>
             <h1>Submit your application:</h1>
             <br/>
-            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application:
+            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application (Tiket price is 450 Dh):
           </p>
           <br/><br/>
 
