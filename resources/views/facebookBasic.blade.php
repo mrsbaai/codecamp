@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: 2021 New Year Online Business Resolution</title>
-  <meta content="CodeCamp Event About Social Engineering [Ethical Hacking]" name="descriptison">
+  <title>CodeCamp Event: FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</title>
+  <meta content="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING" name="descriptison">
 
 
   <!-- Favicons -->
@@ -401,54 +401,33 @@
   border-color: #ff1616
 }
 
+.application-form button[type="submit"] {
+    background: #ff1616 !important;
+    width: 100%;
+}
 
 </style>
 
 <body>
 
 
-<!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
-  <div class="container">
-    <a class="navbar-brand" href="https://codecamp.ma">
-          <img src="https://codecamp.ma/construction/img/logo-very-small.png" alt="">
-        </a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="https://codecamp.ma">Home       
-                  </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://codecamp.ma/coworking">Co-working
-                  </a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#footer">Media</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="https://codecamp.ma/#contact">Contact</a>
-            </li>
-          </ul>
-        </div>
-  </div>
-</nav>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center">
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
-  
+
       <p>
-        <b><span class="typed" data-typed-items="2021 New Year Online Business Resolution"></span></b><br/>
+        
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            We are organizing a professional gathering to discuss and <b>exchange ideas</b> about how can we <b>make our online businesses more profitable</b> in <b>2021</b>.
-           <br/><br/>Wednesday, Dec 30th - <b>Tetouan</b>
+            <b>FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</b>
+            <br/>Sunday, Aug 1st - <b>Tetouan</b>
+            <br/><br/>
+            <b><span class="typed" data-typed-items="Want To Become A Facebook Ads Expert?, This Training is A Required Skill For Anyone With..., A Business, A Product, A Service, A Brand, Or A Public Figure, If You Want To PROMOTE/SCALE Your Business, To 6 Figures And More!"></span></b>
+            
+            
           </p>
 
         </blockquote>
@@ -457,7 +436,7 @@
           a:hover {color:white; text-decoration: none; }
    
           </style>
-        <a href="/events/newyear/#application" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
+        <a href="#application" style="font-size: 300%;"><i class="bx bx-down-arrow-circle"></i></a>
       </p>
 
 
@@ -465,93 +444,136 @@
     </div>
   </section><!-- End Hero -->
 
-  <section id="application" class="contact" style="color:white;background-color:#343A40;">
+  <section id="application" class="contact pb-0" style="color:white;background-color:#343A40;">
     <div class="container" data-aos="fade-up">
       <div class="row">
         <div class="col-md-12">
-          <div class="page-header">
+          <br/> 
+          <div class="img-fluid text-white text-center">
+            <img alt="wail Amrani" class="mw-100 pb-5" src="https://codecamp.ma/img/wail-en.png" width="500" height="auto">
+            <h1>"Take a step in the right direction with your life and business… Learn how Facebook ads will make your businesses a household name!"</h1><br/>
+         </div>
+         <br/> <br/> <br/>
 
+          <div class="img-fluid text-white text-center">
+            <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/start.png" width="500" height="auto">
           </div>
 
+
+          <br/> <br/>
+            <div class="img-fluid text-white pt-4 text-center">
+              <img alt="wail Amrani" class="mw-100" src="https://codecamp.ma/img/goals.png" width="100%" height="auto"></b>
+              <br/><br/><h4 class="text-justify">
+                <b>1 - </b> Getting traffic is easy with a right ad copy. Improving your conversion rates, however – not so easy! Ensuring your ads are eye-catching in order to improve your click-through rate requires improving ad copy that lasers in on your target audience.
+
+              </h4><br/><h4 class="text-justify"><b>2 - </b> Facebook ad optimization tips & hacks that really help you take your campaign to the next level. These strategies will lower your cost per click and cost per purchase.
+
+              </h4><br/><h4 class="text-justify"><b>3 - </b> How to analyze and manage your Facebook advertising results so that you can continually improve the performance of your campaigns.
+
+              </h4><br/><h4 class="text-justify"><b>4 - </b> Proven scaling strategies that you can put into action in order to scale your Facebook ads campaigns.
+
+              </h4><br/><h4 class="text-justify"><b>5 - </b> As a marketer or business owner running ads on Facebook, you run the risk of losing your Facebook ad account permanently. I will share all the mistakes that will get your Facebook Ad account shut down.
+
+              </h4><br/>
+            </div>
+ 
+            <br/> <br/>
           <p class="lead">
-            <h1>Event Title: 2021 New Year Online Business Resolution </h1>
-            <br/>
-            The end of a year is a good time to evaluate your online business success and to look for better ways to improve its profitability, the year we are about to leave behind was full of unexpected events that shaped in some way our vision toward the online business but still not clear enough to be translated into efficient actions.<br>
-          </p>
-      
-          <p class="lead">
-            <h1>Schedule:</h1>
+            <h1>Training schedule:</h1><br/>
             <div class="col-lg-12 mb-12" id="Saturday, Nov 14th">
               <h4 class="mt-0 mb-3 op-8 font-weight-bold">
-                Wednesday, Dec 30th
+                Sunday, Aug 1st
               </h4>
               <ul class="list-timeline list-timeline-red">
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:30</span> - Registration</p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:00</span> - A word of welcome
-                  </p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">14:45</span> - Registration</p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:15</span> - Attendants will have the chance to talk about 3 points for 5 minutes
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:00</span> - Stellar Examples of High-Converting Ads
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;1. Introduce your online business </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;2. Your new year resolution to improve your business </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;3. What advice would you give based on your own experience </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Tips to help you write Facebook ad that convert</p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Choosing the right Facebook ad placement </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ High-converting Facebook ad creative </p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - Advanced Strategies to Increase Facebook Ads ROI
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Introduce your online business Retargeting strategy using customs audiences </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Retargeting strategy using customs audiences </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Split Testing </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:30</span> - Coffee break </p>
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:20</span> - COFFEE BREAK</p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">16:40</span> - Facebook Ads Analysis Performance Strategy
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understand the Facebook ads key metrics </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ How to Manage Facebook ads performance to combat ads fatigue </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to stop the ad </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Facebook ads reporting</p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">17:20</span> -  How to Scale Facebook Ads Campaigns to 6 Figures & More.
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding your ROAS (return on Ad spend) targets </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ When to scale a profitable campaign </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Learn how to leverage lookalike audiences </p>
+                </li>
+                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:00</span> -  How to Avoid Facebook Ads Account Closure
+                  </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Understanding FB policies to reduce risk of being shut down </p>
                 </li>
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">19:00</span> - Open Forum</p>
-                </li>
-                <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column">
-                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">19:30</span> -  A closing word 
+                  <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">18:20</span> -  TECHNICAL TRAINING CERTIFICATE 
                   </p>
                 </li>
                 
               </ul>
             </div>
-
-            
           </p>
       
+
+<br/>
+          <div class="img-fluid text-white text-center">
+            <img class="mw-100" alt="Call Abdelilah" src="https://codecamp.ma/img/number-en.png" width="500" height="auto">
+         </div>
+
           <p class="lead">
             <br/>
             <h1>Submit your application:</h1>
             <br/>
-            We would like to inform you that seats are limited and the subscription will expire by December the 29th 2020 at Midnight. We will send you an invitation by E-mail.
-            <br/><br/>
-            To apply to the 2021 New Year Online Business Resolution event, kindly fill this following application:
+            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application:
           </p>
           <br/><br/>
 
           {{ Form::open(array('action' => 'pagesController@saveApp', 'class' => 'php-email-form application-form'))}}
           <div class="form-row">
-            <div class="col-md-4 form-group">
-              <input type="text" name="name" class="form-control" id="name" placeholder="Your Full Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
+            <div class="col-md-3 form-group">
+              <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" data-rule="minlen:4" data-msg="Please enter at least 4 chars" />
               <div class="validate"></div>
             </div>
-            <div class="col-md-4 form-group">
+            <div class="col-md-3 form-group">
               <input type="text" name="phone" class="form-control" id="phone" placeholder="Your Phone Number" data-rule="minlen:8" data-msg="Please enter your realphone number" />
               <div class="validate"></div>
             </div>
-            <div class="col-md-4 form-group">
+            <div class="col-md-3 form-group">
               <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" data-rule="email" data-msg="Please enter a valid email" />
               <div class="validate"></div>
             </div>
+            <div class="col-md-3 form-group">
+              <div class="text-center"><button type="submit">Submit Application</button></div>
+            </div>
+
           </div>
-          <div class="form-group">
-            <textarea class="form-control" name="business" rows="5" data-rule="required" data-msg="A short description of your online business:" placeholder="A short description of your online business"></textarea>
-            <div class="validate"></div>
-          </div>
+
           <div class="mb-3">
             <div class="loading">Loading...</div>
-            <div class="error-message">An error has occurred :(</div>
-            <div class="sent-message">Application Received :)</div>
+            <div class="error-message">An error has occurred!</div>
+            <div class="sent-message">Application Received! We will call you back ASAP!</div>
           </div>
-          <div class="text-center"><button type="submit">Submit Application</button></div>
+          
           {{ Form::close() }}
          
 
@@ -570,9 +592,12 @@
 <footer id="footer">
   <section id="followus">
   <div class="container" >
-    <h4>Follow us on social media for updates:</h4>
+    <div class="img-fluid text-white py-3">
+      <img src="{{ asset('img/logo_transparent.png') }}" width="300" height="auto" alt="Codecamp.ma">
+   </div>
+
+
     <div class="social-links">
-      <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
       <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
       <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
       <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
