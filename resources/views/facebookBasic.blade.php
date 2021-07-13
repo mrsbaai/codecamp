@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: FACEBOOK ADS 2021 التكوين الأساسي</title>
+  <title>CodeCamp Event: FACEBOOK ADS 2021 (التكوين الأساسي)</title>
   <meta content="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING" name="descriptison">
 
 
@@ -481,7 +481,9 @@ body {
   unicode-bidi:bidi-override;
   direction:rtl;
 }
-
+h1, h2, h3, h4, h5, h6 {
+    font-family: "dubai-bold", sans-serif;
+}
 </style>
 
 <body>
@@ -498,7 +500,7 @@ body {
         <br/>
         <blockquote class="blockquote">
           <p class="mb-0">
-            <b>FACEBOOK ADS 2021 التكوين الأساسي</b>
+            <b>(التكوين الأساسي) FACEBOOK ADS 2021</b>
             <br/>السبت , 31 يوليوز - <b>تطوان</b>
             <br/><br/>
             <b><span class="typed" data-typed-items="التكوين الأساسي الذي يحتاجه كل شخص يمتلك..., تجارة, منتج, خدمة, عالمة تجارية, ويتطلع إلى ترويجها على الإنترنت, وتطوير نشاطه التجاري"></span></b>
@@ -612,7 +614,7 @@ body {
 
 <br/>
           <div class="img-fluid text-white text-center">
-            <img class="mw-100" alt="Call Abdelilah" src="https://codecamp.ma/img/number-en.png" width="500" height="auto">
+            <img class="mw-100" alt="Call Abdelilah" src="https://codecamp.ma/img/number-ar.png" width="500" height="auto">
          </div>
 
           <p class="lead">
