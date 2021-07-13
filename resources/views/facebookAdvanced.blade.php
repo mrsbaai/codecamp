@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>CodeCamp Event: FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING</title>
+  <title>CodeCamp Event: FACEBOOK ADS MASTERY ADVANCED TRAINING</title>
   <meta content="FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING" name="descriptison">
 
 
@@ -422,9 +422,9 @@
         <br/>
         <blockquote class="blockquote">
           <h1>
-            <b>FACEBOOK ADS MASTERY 2021<br/>
-               ADVANCED TRAINING</b>
-            <br/>Sunday, Aug 1st - <b>Tetouan</b>
+            <b>FACEBOOK ADS MASTERY<br/>
+               (Advanced Training)</b>
+               <br/><br/>Sunday, Aug 1st - <b>TETOUAN</b>
             <br/><br/>
             <b><span class="typed" data-typed-items="Want To Become A Facebook Ads Expert?, This Training is A Required Skill For Anyone With..., A Business, A Product, A Service, A Brand, Or A Public Figure, If You Want To PROMOTE/SCALE Your Business, To 6 Figures And More!"></span></b>
             
@@ -545,7 +545,7 @@
             <br/>
             <h1>Submit your application:</h1>
             <br/>
-            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY 2021 ADVANCED TRAINING", kindly fill this following application (Tiket price is 450 Dh):
+            We would like to inform you that seats are limited. To apply to the "FACEBOOK ADS MASTERY ADVANCED TRAINING", kindly fill this following application (Tiket price is 450 Dh):
           </p>
           <br/><br/>
 
