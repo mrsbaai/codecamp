@@ -56,11 +56,16 @@
 
     <div class="container" data-aos="zoom-in" data-aos-delay="100">
 	
-      <img src="/construction/img/logo-big.png" alt="Code Camp">
-      <p><span class="typed" data-typed-items="A Social Network, A Market Place, A Learning Camp"></span><br/>For Young Web Experts.</p>
+      <div class="img-fluid text-white py-3">
+        <img src="{{ asset('img/logo_transparent.png') }}" width="240" height="auto" alt="Codecamp.ma">
+     </div>
+
+    <h2 class="display-6">The Moroccan Web Experts Community</h2>
+    <p class="lead-home">An Initiative to highlight <span class="typed" data-typed-items="informational technologies, modern carer paths, moroccan success stories, porductivity tools"></span></p>
+
 	
       <div class="social-links">
-        <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
+        
         <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>
@@ -253,10 +258,8 @@
 
       <div class="text-center"><a class="btn btn-danger btn-lg" href="/coworking">Interested In <b>CO-WORKING</b>?</a></div>
       <br/>
-      <br/>
-      <h4>Follow us on social media for updates:</h4>
+
       <div class="social-links">
-        <a href="https://www.youtube.com/channel/UCjWT7ulRfJ4W0MjnGF4lyDg" class="youtube"><i class="bx bxl-youtube"></i></a>
         <a href="https://www.facebook.com/CodeCamp.ma" class="facebook"><i class="bx bxl-facebook"></i></a>
         <a href="https://instagram/codecamp.ma" class="instagram"><i class="bx bxl-instagram"></i></a>
         <a href="https://linkedin.com/company/code-camp-ma" class="linkedin"><i class="bx bxl-linkedin"></i></a>

@@ -496,7 +496,7 @@
                 <li class="list-timeline-item p-0 pb-3 pb-lg-4 d-flex flex-wrap flex-column" data-toggle="collapse" data-target="#day-2-item-2">
                   <p class="my-0 flex-fw text-sm text-uppercase"><span class="text-inverse op-8">15:40</span> - Advanced Strategies to Increase Facebook Ads ROI
                   </p>
-                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Introduce your online businessRetargeting strategy using customs audiences </p>
+                  <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Introduce your online business Retargeting strategy using customs audiences </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Retargeting strategy using customs audiences </p>
                   <p class="my-0 flex-fw text-xs  op-8" id="day-2-item-2">&#9;+ Split Testing </p>
                 </li>
